@@ -12,30 +12,108 @@ tags:
   - encarnacion
 ---
 
-# Dashboard — Archivo público JM Encarnación
+<div class="jme-hero">
 
-> Un archivo ciudadano de actas, minutas, resoluciones y dictámenes de la **Junta Municipal de Encarnación**, organizado para que cualquier vecino, periodista o estudiante pueda responder la pregunta: **«¿qué pasó con esto?»** sin tener que leer 600 PDFs.
+# Archivo público JM Encarnación
 
-**Cobertura actual:** período 2021-12 → 2025-04 (3 años y medio de gestión).
-**Última sesión JM procesada:** [[2025-04-30 - Acta 168-2025]].
-**Última minuta de comisión procesada:** [[2025-11-17 - Minuta 146]].
-**Última actualización del dashboard:** 2026-05-17.
+<p class="jme-hero-sub">Actas, minutas, resoluciones y análisis ciudadano de la <strong>Junta Municipal de Encarnación</strong>, organizado para que cualquier vecino, periodista o estudiante pueda responder la pregunta <strong>«¿qué pasó con esto?»</strong> sin tener que leer 600 PDFs.</p>
 
----
+<div class="jme-cta-row">
+<a class="jme-cta" href="#temas-calientes-ahora-mismo">🔥 Temas calientes</a>
+<a class="jme-cta secondary" href="#cómo-navegar-este-archivo">📚 Cómo navegar</a>
+<a class="jme-cta secondary" href="#📰-para-periodistas--sala-de-redacción">📰 Sala de redacción</a>
+</div>
 
-## 🏛️ Para vecinos — ¿qué está pasando en la JM?
+</div>
+
+<div class="jme-info-strip">
+<span><strong>Cobertura:</strong> 2021-12 → 2025-04</span>
+<span><strong>Última sesión:</strong> [[2025-04-30 - Acta 168-2025|Acta 168-2025]]</span>
+<span><strong>Última minuta:</strong> [[2025-11-17 - Minuta 146|Minuta 146]]</span>
+<span><strong>Actualizado:</strong> 2026-05-17</span>
+</div>
+
+<div class="jme-section">
+
+<span class="jme-section-label">🏛️ Para vecinos</span>
+
+## ¿Qué está pasando en la JM?
 
 ### Temas calientes ahora mismo
 
-| Tema | En una frase | Lee más |
-|---|---|---|
-| **Ordenanza de Edificabilidad** | Lleva 3 años pendiente. En diciembre 2024 el Ejecutivo la devolvió «por haber realizado reunión con representantes de empresas desarrolladoras». | [[MOC - Ordenanza Edificabilidad y captura regulatoria]] |
-| **Estacionamiento tarifado** | Se aprobó pliego en 2022, se adjudicó en 2023, se suspendió 2 años después. | [[MOC - Estacionamiento Tarifado]] |
-| **Residuos sólidos urbanos (RSU)** | Concesión multi-año al Consorcio ROGGIO ATI / Eco-Róga. Cubiertas y vertederos clandestinos como hilos abiertos. | [[MOC - RSU - Residuos Solidos Urbanos]] |
-| **Cambio Mesa Directiva 2024** | 30-oct-2024: Cuevas → Aquino. Cuevas rompió bandera ANR y votó al opositor. Tres meses después, coalición se quiebra 7-5. | [[MOC - Cambio Mesa Directiva 2024 y coaliciones por eje]] |
-| **«Lobbycracia»** | Término acuñado por el concejal Keiji Ishibashi: **6 mecanismos** institucionales documentados por los cuales la JM bloquea o vacía ordenanzas a pedido de sectores regulados. | [[MOC - Lobbycracia y captura regulatoria 2021-2024]] |
-| **Plan Encarnación Más / POUT** | Plan urbano en socialización + nuevo POUT 2024. Aparece nominada una «Vía de la Excepción». | [[MOC - POUT y Plan Encarnacion Mas]] |
-| **Movilidad y red ciclista** | Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 personas): 2 % bici, 86 % aceptaría Bici+Bus. | [[MOC - Movilidad alternativa y agenda ciclista Encarnación]] |
+<div class="jme-topics-grid">
+
+<div class="jme-topic-card">
+
+**Ordenanza de Edificabilidad**
+
+Lleva 3 años pendiente. En diciembre 2024 el Ejecutivo la devolvió «por haber realizado reunión con representantes de empresas desarrolladoras».
+
+[Ver MOC →](_MOCs/MOC---Ordenanza-Edificabilidad-y-captura-regulatoria){.jme-card-link}
+
+</div>
+
+<div class="jme-topic-card">
+
+**Estacionamiento tarifado**
+
+Se aprobó pliego en 2022, se adjudicó en 2023, se suspendió 2 años después.
+
+[Ver MOC →](_MOCs/MOC---Estacionamiento-Tarifado){.jme-card-link}
+
+</div>
+
+<div class="jme-topic-card">
+
+**Residuos sólidos urbanos (RSU)**
+
+Concesión multi-año al Consorcio ROGGIO ATI / Eco-Róga. Cubiertas y vertederos clandestinos como hilos abiertos.
+
+[Ver MOC →](_MOCs/MOC---RSU---Residuos-Solidos-Urbanos){.jme-card-link}
+
+</div>
+
+<div class="jme-topic-card">
+
+**Cambio Mesa Directiva 2024**
+
+30-oct-2024: Cuevas → Aquino. Cuevas rompió bandera ANR y votó al opositor. Tres meses después, coalición se quiebra 7-5.
+
+[Ver MOC →](_MOCs/MOC---Cambio-Mesa-Directiva-2024-y-coaliciones-por-eje){.jme-card-link}
+
+</div>
+
+<div class="jme-topic-card">
+
+**«Lobbycracia»**
+
+Término acuñado por el concejal Keiji Ishibashi: **6 mecanismos** institucionales documentados por los cuales la JM bloquea o vacía ordenanzas a pedido de sectores regulados.
+
+[Ver MOC →](_MOCs/MOC---Lobbycracia-y-captura-regulatoria-2021-2024){.jme-card-link}
+
+</div>
+
+<div class="jme-topic-card">
+
+**Plan Encarnación Más / POUT**
+
+Plan urbano en socialización + nuevo POUT 2024. Aparece nominada una «Vía de la Excepción».
+
+[Ver MOC →](_MOCs/MOC---POUT-y-Plan-Encarnacion-Mas){.jme-card-link}
+
+</div>
+
+<div class="jme-topic-card">
+
+**Movilidad y red ciclista**
+
+Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 personas): 2 % bici, 86 % aceptaría Bici+Bus.
+
+[Ver MOC →](_MOCs/MOC---Movilidad-alternativa-y-agenda-ciclista-Encarnación){.jme-card-link}
+
+</div>
+
+</div>
 
 ### Temas activos por categoría
 
@@ -89,9 +167,13 @@ tags:
 - **Por comisión** → carpeta `minutas/` (72 minutas de comisiones).
 - **Por informe de gestión** → carpeta `informe-gestion/` (4 informes, ~220 páginas).
 
----
+</div>
 
-## 📰 Para periodistas — sala de redacción
+<div class="jme-section">
+
+<span class="jme-section-label">📰 Para periodistas</span>
+
+## Sala de redacción
 
 ### Patrones institucionales detectados
 
@@ -146,9 +228,13 @@ Cada uno con cita textual y al menos un caso con fecha y nota oficial. Detalle e
 
 Cada documento en `actas/`, `minutas/`, `resoluciones/` lleva en su frontmatter el número oficial, la fecha real de sesión y la fuente. **Verificar siempre contra el PDF original** (carpeta `raw/`, no publicada) o solicitarlo directamente a la Junta Municipal de Encarnación.
 
----
+</div>
 
-## 🛠️ Operativo — uso interno (Ale)
+<div class="jme-section">
+
+<span class="jme-section-label">🛠️ Operativo</span>
+
+## Uso interno (Ale)
 
 ### Métricas del vault
 
@@ -235,6 +321,8 @@ Estas carpetas **no se publican** al sitio web. Quedan solo en el vault local:
 - `samples/` — material de testing.
 - `_tmp_compressed/`, `_tmp/` — temporales de procesamiento.
 - `scripts/batches/` — logs internos de extracción.
+
+</div>
 
 ---
 
