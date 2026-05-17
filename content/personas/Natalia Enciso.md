@@ -8,7 +8,7 @@ aliases:
   - "Natalia Verónica Enciso de Oreggioni"
 apariciones: 175
 cargo: "Concejal"
-bancada: "s/d"
+bancada: "PLRA"
 bloque: "construir"
 rasgo: "Voto estable con «construir». Defensora del Art 29+116 reglamento interno JM en disputa de Comisiones 2025."
 votos_clave:

@@ -11,7 +11,7 @@ aliases:
   - "Juan Lichi"
 apariciones: 227
 cargo: "Vicepresidente JM"
-bancada: "s/d"
+bancada: "ANR"
 bloque: "pivote"
 rasgo: "Vicepresidente electo; postuló a Aquino, pero el 22-ene-2025 vota con contralor en conformación de Comisiones — ruptura tácita Mesa Directiva."
 votos_clave:

@@ -11,9 +11,9 @@ aliases:
   - "Zulma Memmel Valdez"
 apariciones: 199
 cargo: "Concejal"
-bancada: "ANR"
+bancada: "Alianza Junta Integrada / PPC"
 bloque: "construir"
-rasgo: "ANR opositora al Intendente Yd. Frase de oct-2024: «No todos los buenos colorados están en la misma posición»."
+rasgo: "PPC en alianza con bloque colorado, opositora al Intendente Yd. Frase de oct-2024: «No todos los buenos colorados están en la misma posición»."
 votos_clave:
   - acta: "146-2024"
     fecha: "2024-10-30"

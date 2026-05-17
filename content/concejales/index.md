@@ -34,253 +34,625 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 <div class="jme-concejal-card full bloque-construir">
 
+<div class="jme-concejal-header">
+<div class="jme-concejal-avatar">DA</div>
+<div class="jme-concejal-id">
+
 ### [[Diego Aquino]]
-*Presidente JM · ANR · Bloque «construir»*
+<div class="jme-concejal-meta">Presidente JM · ANR · Bloque «construir»</div>
+
+</div>
+</div>
 
 > Electo Pte JM el 30-oct-2024 con voto cruzado de Cuevas; preside la coalición «construir» que muta por eje temático.
 
-**Asistencia plenaria** · 96% (163 presente · 7 ausente)  
-**Productividad legislativa** · 0 minutas/resoluciones como autor  
-**Rol de mesa** · 22× pte de mesa · 2× pte de sesión
+<div class="jme-stat-row">
+
+<div class="jme-stat">
+<div class="jme-stat-value">96%</div>
+<div class="jme-stat-label">Asistencia<br><small>163/170</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Propuestas<br><small>0 autor · 3 secunda</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">22</div>
+<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+</div>
+
+<div class="jme-concejal-votos">
 
 **Votos clave**
 
-| Acta | Fecha | Tema | Voto |
-|---|---|---|---|
-| 146-2024 | 2024-10-30 | Mesa Directiva — Pte JM | Aquino (auto, 7 votos) |
-| 155-2025 | 2025-01-22 | Conformación Comisiones 2025 | lista oficialista (7) |
-| 156-2025 | 2025-01-29 | Cubiertas / ambiental | con contralor-3 |
+- **2024-10-30** · Mesa Directiva — Pte JM <small>(Acta 146-2024)</small><br><span class="jme-voto">→ Aquino (auto, 7 votos)</span>
+- **2025-01-22** · Conformación Comisiones 2025 <small>(Acta 155-2025)</small><br><span class="jme-voto">→ lista oficialista (7)</span>
+- **2025-01-29** · Cubiertas / ambiental <small>(Acta 156-2025)</small><br><span class="jme-voto">→ con contralor-3</span>
+
+</div>
+
+<div class="jme-concejal-footer">→ [Ver ficha completa de Diego Aquino](../personas/Diego%20Aquino)</div>
 
 </div>
 
 <div class="jme-concejal-card full bloque-pivote">
 
+<div class="jme-concejal-header">
+<div class="jme-concejal-avatar">JA</div>
+<div class="jme-concejal-id">
+
 ### [[Juan Augusto Lichi]]
-*Vicepresidente JM · Bloque «pivote»*
+<div class="jme-concejal-meta">Vicepresidente JM · ANR · Bloque «pivote»</div>
+
+</div>
+</div>
 
 > Vicepresidente electo; postuló a Aquino, pero el 22-ene-2025 vota con contralor en conformación de Comisiones — ruptura tácita Mesa Directiva.
 
-**Asistencia plenaria** · 83% (146 presente · 30 ausente)  
-**Productividad legislativa** · 1 minutas/resoluciones como autor  
-**Rol de mesa** · 48× pte de mesa
+<div class="jme-stat-row">
+
+<div class="jme-stat">
+<div class="jme-stat-value">83%</div>
+<div class="jme-stat-label">Asistencia<br><small>146/176</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">2</div>
+<div class="jme-stat-label">Propuestas<br><small>1 autor · 1 secunda</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">48</div>
+<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+</div>
+
+<div class="jme-concejal-votos">
 
 **Votos clave**
 
-| Acta | Fecha | Tema | Voto |
-|---|---|---|---|
-| 146-2024 | 2024-10-30 | Mesa Directiva — Pte JM | Aquino |
-| 155-2025 | 2025-01-22 | Conformación Comisiones 2025 | lista contralor (5) — ruptura |
-| 156-2025 | 2025-01-29 | Cubiertas / ambiental | ausente |
+- **2024-10-30** · Mesa Directiva — Pte JM <small>(Acta 146-2024)</small><br><span class="jme-voto">→ Aquino</span>
+- **2025-01-22** · Conformación Comisiones 2025 <small>(Acta 155-2025)</small><br><span class="jme-voto">→ lista contralor (5) — ruptura</span>
+- **2025-01-29** · Cubiertas / ambiental <small>(Acta 156-2025)</small><br><span class="jme-voto">→ ausente</span>
+
+</div>
+
+<div class="jme-concejal-footer">→ [Ver ficha completa de Juan Augusto Lichi](../personas/Juan%20Augusto%20Lichi)</div>
 
 </div>
 
 <div class="jme-concejal-card full bloque-construir">
 
+<div class="jme-concejal-header">
+<div class="jme-concejal-avatar">NC</div>
+<div class="jme-concejal-id">
+
 ### [[Nehemías Cuevas]]
-*Concejal — Pte saliente · ANR · Bloque «construir»*
+<div class="jme-concejal-meta">Concejal — Pte saliente · ANR · Bloque «construir»</div>
+
+</div>
+</div>
 
 > Pte JM saliente. Rompió bandera ANR en oct-2024 y votó a Aquino; luego ausente 3 de 4 plenarias del cierre fiscal 2024.
 
-**Asistencia plenaria** · 90% (152 presente · 17 ausente)  
-**Productividad legislativa** · 0 minutas/resoluciones como autor  
-**Rol de mesa** · 45× pte de mesa · 2× pte de sesión
+<div class="jme-stat-row">
+
+<div class="jme-stat">
+<div class="jme-stat-value">90%</div>
+<div class="jme-stat-label">Asistencia<br><small>152/169</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">1</div>
+<div class="jme-stat-label">Propuestas<br><small>0 autor · 1 secunda</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">45</div>
+<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+</div>
+
+<div class="jme-concejal-votos">
 
 **Votos clave**
 
-| Acta | Fecha | Tema | Voto |
-|---|---|---|---|
-| 146-2024 | 2024-10-30 | Mesa Directiva — Pte JM | Aquino (rompe acuerdo ANR) |
-| 155-2025 | 2025-01-22 | Conformación Comisiones 2025 | lista oficialista (7) |
-| 156-2025 | 2025-01-29 | Cubiertas / ambiental | ausente |
+- **2024-10-30** · Mesa Directiva — Pte JM <small>(Acta 146-2024)</small><br><span class="jme-voto">→ Aquino (rompe acuerdo ANR)</span>
+- **2025-01-22** · Conformación Comisiones 2025 <small>(Acta 155-2025)</small><br><span class="jme-voto">→ lista oficialista (7)</span>
+- **2025-01-29** · Cubiertas / ambiental <small>(Acta 156-2025)</small><br><span class="jme-voto">→ ausente</span>
+
+</div>
+
+<div class="jme-concejal-footer">→ [Ver ficha completa de Nehemías Cuevas](../personas/Nehemías%20Cuevas)</div>
 
 </div>
 
 <div class="jme-concejal-card full bloque-construir">
 
+<div class="jme-concejal-header">
+<div class="jme-concejal-avatar">KI</div>
+<div class="jme-concejal-id">
+
 ### [[Keiji Ishibashi]]
-*Concejal · Bloque «construir»*
+<div class="jme-concejal-meta">Concejal · Movimiento Ciudadanía Activa · Bloque «construir»</div>
+
+</div>
+</div>
 
 > Acuñó el término «lobbycracia». Concejal más prolífico como autor de minutas y proyectos de ordenanza opositor a captura regulatoria.
 
-**Asistencia plenaria** · 90% (157 presente · 17 ausente)  
-**Productividad legislativa** · 55 minutas/resoluciones como autor  
-**Rol de mesa** · —
+<div class="jme-stat-row">
+
+<div class="jme-stat">
+<div class="jme-stat-value">90%</div>
+<div class="jme-stat-label">Asistencia<br><small>157/174</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">71</div>
+<div class="jme-stat-label">Propuestas<br><small>71 autor · 0 secunda</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">0</div>
+<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+</div>
+
+<div class="jme-concejal-votos">
 
 **Votos clave**
 
-| Acta | Fecha | Tema | Voto |
-|---|---|---|---|
-| 146-2024 | 2024-10-30 | Mesa Directiva — Pte JM | Aquino |
-| 155-2025 | 2025-01-22 | Conformación Comisiones 2025 | lista oficialista (7) |
-| 156-2025 | 2025-01-29 | Cubiertas / ambiental | ausente |
+- **2024-10-30** · Mesa Directiva — Pte JM <small>(Acta 146-2024)</small><br><span class="jme-voto">→ Aquino</span>
+- **2025-01-22** · Conformación Comisiones 2025 <small>(Acta 155-2025)</small><br><span class="jme-voto">→ lista oficialista (7)</span>
+- **2025-01-29** · Cubiertas / ambiental <small>(Acta 156-2025)</small><br><span class="jme-voto">→ ausente</span>
+
+</div>
+
+<div class="jme-concejal-footer">→ [Ver ficha completa de Keiji Ishibashi](../personas/Keiji%20Ishibashi)</div>
 
 </div>
 
 <div class="jme-concejal-card full bloque-construir">
 
+<div class="jme-concejal-header">
+<div class="jme-concejal-avatar">CM</div>
+<div class="jme-concejal-id">
+
 ### [[Carlos Marino Fernández]]
-*Concejal · Bloque «construir»*
+<div class="jme-concejal-meta">Concejal · PLRA · Bloque «construir»</div>
+
+</div>
+</div>
 
 > Voto estable con «construir». Cita Art 34 LOM y Reglamento Diputados para impugnar conformación de Comisiones 2025.
 
-**Asistencia plenaria** · 97% (170 presente · 6 ausente)  
-**Productividad legislativa** · 0 minutas/resoluciones como autor  
-**Rol de mesa** · 4× pte de mesa
+<div class="jme-stat-row">
+
+<div class="jme-stat">
+<div class="jme-stat-value">97%</div>
+<div class="jme-stat-label">Asistencia<br><small>170/176</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">14</div>
+<div class="jme-stat-label">Propuestas<br><small>0 autor · 14 secunda</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">4</div>
+<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+</div>
+
+<div class="jme-concejal-votos">
 
 **Votos clave**
 
-| Acta | Fecha | Tema | Voto |
-|---|---|---|---|
-| 146-2024 | 2024-10-30 | Mesa Directiva — Pte JM | Aquino |
-| 155-2025 | 2025-01-22 | Conformación Comisiones 2025 | lista oficialista (7) |
-| 156-2025 | 2025-01-29 | Cubiertas / ambiental | con construir-3 |
+- **2024-10-30** · Mesa Directiva — Pte JM <small>(Acta 146-2024)</small><br><span class="jme-voto">→ Aquino</span>
+- **2025-01-22** · Conformación Comisiones 2025 <small>(Acta 155-2025)</small><br><span class="jme-voto">→ lista oficialista (7)</span>
+- **2025-01-29** · Cubiertas / ambiental <small>(Acta 156-2025)</small><br><span class="jme-voto">→ con construir-3</span>
+
+</div>
+
+<div class="jme-concejal-footer">→ [Ver ficha completa de Carlos Marino Fernández](../personas/Carlos%20Marino%20Fernández)</div>
 
 </div>
 
 <div class="jme-concejal-card full bloque-construir">
+
+<div class="jme-concejal-header">
+<div class="jme-concejal-avatar">ZM</div>
+<div class="jme-concejal-id">
 
 ### [[Zulma Memmel]]
-*Concejal · ANR · Bloque «construir»*
+<div class="jme-concejal-meta">Concejal · Alianza Junta Integrada / PPC · Bloque «construir»</div>
 
-> ANR opositora al Intendente Yd. Frase de oct-2024: «No todos los buenos colorados están en la misma posición».
+</div>
+</div>
 
-**Asistencia plenaria** · 87% (153 presente · 23 ausente)  
-**Productividad legislativa** · 0 minutas/resoluciones como autor  
-**Rol de mesa** · —
+> PPC en alianza con bloque colorado, opositora al Intendente Yd. Frase de oct-2024: «No todos los buenos colorados están en la misma posición».
+
+<div class="jme-stat-row">
+
+<div class="jme-stat">
+<div class="jme-stat-value">87%</div>
+<div class="jme-stat-label">Asistencia<br><small>153/176</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">33</div>
+<div class="jme-stat-label">Propuestas<br><small>0 autor · 33 secunda</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">0</div>
+<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+</div>
+
+<div class="jme-concejal-votos">
 
 **Votos clave**
 
-| Acta | Fecha | Tema | Voto |
-|---|---|---|---|
-| 146-2024 | 2024-10-30 | Mesa Directiva — Pte JM | Aquino |
-| 155-2025 | 2025-01-22 | Conformación Comisiones 2025 | lista oficialista (7) |
-| 156-2025 | 2025-01-29 | Cubiertas / ambiental | s/d |
+- **2024-10-30** · Mesa Directiva — Pte JM <small>(Acta 146-2024)</small><br><span class="jme-voto">→ Aquino</span>
+- **2025-01-22** · Conformación Comisiones 2025 <small>(Acta 155-2025)</small><br><span class="jme-voto">→ lista oficialista (7)</span>
+- **2025-01-29** · Cubiertas / ambiental <small>(Acta 156-2025)</small><br><span class="jme-voto">→ s/d</span>
+
+</div>
+
+<div class="jme-concejal-footer">→ [Ver ficha completa de Zulma Memmel](../personas/Zulma%20Memmel)</div>
 
 </div>
 
 <div class="jme-concejal-card full bloque-construir">
 
+<div class="jme-concejal-header">
+<div class="jme-concejal-avatar">NE</div>
+<div class="jme-concejal-id">
+
 ### [[Natalia Enciso]]
-*Concejal · Bloque «construir»*
+<div class="jme-concejal-meta">Concejal · PLRA · Bloque «construir»</div>
+
+</div>
+</div>
 
 > Voto estable con «construir». Defensora del Art 29+116 reglamento interno JM en disputa de Comisiones 2025.
 
-**Asistencia plenaria** · 95% (164 presente · 9 ausente)  
-**Productividad legislativa** · 0 minutas/resoluciones como autor  
-**Rol de mesa** · —
+<div class="jme-stat-row">
+
+<div class="jme-stat">
+<div class="jme-stat-value">95%</div>
+<div class="jme-stat-label">Asistencia<br><small>164/173</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Propuestas<br><small>0 autor · 3 secunda</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">0</div>
+<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+</div>
+
+<div class="jme-concejal-votos">
 
 **Votos clave**
 
-| Acta | Fecha | Tema | Voto |
-|---|---|---|---|
-| 146-2024 | 2024-10-30 | Mesa Directiva — Pte JM | Aquino |
-| 155-2025 | 2025-01-22 | Conformación Comisiones 2025 | lista oficialista (7) |
-| 156-2025 | 2025-01-29 | Cubiertas / ambiental | con construir-3 |
+- **2024-10-30** · Mesa Directiva — Pte JM <small>(Acta 146-2024)</small><br><span class="jme-voto">→ Aquino</span>
+- **2025-01-22** · Conformación Comisiones 2025 <small>(Acta 155-2025)</small><br><span class="jme-voto">→ lista oficialista (7)</span>
+- **2025-01-29** · Cubiertas / ambiental <small>(Acta 156-2025)</small><br><span class="jme-voto">→ con construir-3</span>
+
+</div>
+
+<div class="jme-concejal-footer">→ [Ver ficha completa de Natalia Enciso](../personas/Natalia%20Enciso)</div>
 
 </div>
 
 <div class="jme-concejal-card full bloque-pivote">
 
+<div class="jme-concejal-header">
+<div class="jme-concejal-avatar">GA</div>
+<div class="jme-concejal-id">
+
 ### [[Gloria Arregui]]
-*Concejal · Bloque «pivote»*
+<div class="jme-concejal-meta">Concejal · PLRA · Bloque «pivote»</div>
+
+</div>
+</div>
 
 > Pivote. Se abstuvo en elección de Pte, votó a Lichi en Vice, y luego apareció en oficialista-7 en Comisiones 2025.
 
-**Asistencia plenaria** · 97% (170 presente · 6 ausente)  
-**Productividad legislativa** · 0 minutas/resoluciones como autor  
-**Rol de mesa** · —
+<div class="jme-stat-row">
+
+<div class="jme-stat">
+<div class="jme-stat-value">97%</div>
+<div class="jme-stat-label">Asistencia<br><small>170/176</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">10</div>
+<div class="jme-stat-label">Propuestas<br><small>0 autor · 10 secunda</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">0</div>
+<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+</div>
+
+<div class="jme-concejal-votos">
 
 **Votos clave**
 
-| Acta | Fecha | Tema | Voto |
-|---|---|---|---|
-| 146-2024 | 2024-10-30 | Mesa Directiva — Pte JM | abstención (Pte) / Lichi (Vice) |
-| 155-2025 | 2025-01-22 | Conformación Comisiones 2025 | lista oficialista (7) |
-| 156-2025 | 2025-01-29 | Cubiertas / ambiental | con construir-3 |
+- **2024-10-30** · Mesa Directiva — Pte JM <small>(Acta 146-2024)</small><br><span class="jme-voto">→ abstención (Pte) / Lichi (Vice)</span>
+- **2025-01-22** · Conformación Comisiones 2025 <small>(Acta 155-2025)</small><br><span class="jme-voto">→ lista oficialista (7)</span>
+- **2025-01-29** · Cubiertas / ambiental <small>(Acta 156-2025)</small><br><span class="jme-voto">→ con construir-3</span>
+
+</div>
+
+<div class="jme-concejal-footer">→ [Ver ficha completa de Gloria Arregui](../personas/Gloria%20Arregui)</div>
 
 </div>
 
 <div class="jme-concejal-card full bloque-contralor">
 
+<div class="jme-concejal-header">
+<div class="jme-concejal-avatar">AM</div>
+<div class="jme-concejal-id">
+
 ### [[Andrés Morel]]
-*Concejal · ANR · Bloque «contralor»*
+<div class="jme-concejal-meta">Concejal · ANR · Bloque «contralor»</div>
+
+</div>
+</div>
 
 > Postulado a Pte JM por «acuerdo de palabra ANR» — perdió 4-7 ante Aquino. Lidera el bloque «contralor» («mirar los papeles»).
 
-**Asistencia plenaria** · 93% (162 presente · 13 ausente)  
-**Productividad legislativa** · 1 minutas/resoluciones como autor  
-**Rol de mesa** · —
+<div class="jme-stat-row">
+
+<div class="jme-stat">
+<div class="jme-stat-value">93%</div>
+<div class="jme-stat-label">Asistencia<br><small>162/175</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">4</div>
+<div class="jme-stat-label">Propuestas<br><small>1 autor · 3 secunda</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">0</div>
+<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+</div>
+
+<div class="jme-concejal-votos">
 
 **Votos clave**
 
-| Acta | Fecha | Tema | Voto |
-|---|---|---|---|
-| 146-2024 | 2024-10-30 | Mesa Directiva — Pte JM | Morel (auto, 4 votos) |
-| 155-2025 | 2025-01-22 | Conformación Comisiones 2025 | lista contralor (5) |
-| 156-2025 | 2025-01-29 | Cubiertas / ambiental | con contralor-3 |
+- **2024-10-30** · Mesa Directiva — Pte JM <small>(Acta 146-2024)</small><br><span class="jme-voto">→ Morel (auto, 4 votos)</span>
+- **2025-01-22** · Conformación Comisiones 2025 <small>(Acta 155-2025)</small><br><span class="jme-voto">→ lista contralor (5)</span>
+- **2025-01-29** · Cubiertas / ambiental <small>(Acta 156-2025)</small><br><span class="jme-voto">→ con contralor-3</span>
+
+</div>
+
+<div class="jme-concejal-footer">→ [Ver ficha completa de Andrés Morel](../personas/Andrés%20Morel)</div>
 
 </div>
 
 <div class="jme-concejal-card full bloque-contralor">
 
+<div class="jme-concejal-header">
+<div class="jme-concejal-avatar">FO</div>
+<div class="jme-concejal-id">
+
 ### [[Fredy Ortega]]
-*Concejal · ANR · Bloque «contralor»*
+<div class="jme-concejal-meta">Concejal · ANR · Bloque «contralor»</div>
+
+</div>
+</div>
 
 > Concejal ANR. Postulante de Morel en oct-2024 invocando «acuerdo de palabra ANR». Voto estable con contralor.
 
-**Asistencia plenaria** · 96% (166 presente · 7 ausente)  
-**Productividad legislativa** · 1 minutas/resoluciones como autor  
-**Rol de mesa** · 52× pte de mesa · 1× pte de sesión
+<div class="jme-stat-row">
+
+<div class="jme-stat">
+<div class="jme-stat-value">96%</div>
+<div class="jme-stat-label">Asistencia<br><small>166/173</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">4</div>
+<div class="jme-stat-label">Propuestas<br><small>1 autor · 3 secunda</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">52</div>
+<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+</div>
+
+<div class="jme-concejal-votos">
 
 **Votos clave**
 
-| Acta | Fecha | Tema | Voto |
-|---|---|---|---|
-| 146-2024 | 2024-10-30 | Mesa Directiva — Pte JM | Morel |
-| 155-2025 | 2025-01-22 | Conformación Comisiones 2025 | lista contralor (5) |
-| 156-2025 | 2025-01-29 | Cubiertas / ambiental | ausente |
+- **2024-10-30** · Mesa Directiva — Pte JM <small>(Acta 146-2024)</small><br><span class="jme-voto">→ Morel</span>
+- **2025-01-22** · Conformación Comisiones 2025 <small>(Acta 155-2025)</small><br><span class="jme-voto">→ lista contralor (5)</span>
+- **2025-01-29** · Cubiertas / ambiental <small>(Acta 156-2025)</small><br><span class="jme-voto">→ ausente</span>
+
+</div>
+
+<div class="jme-concejal-footer">→ [Ver ficha completa de Fredy Ortega](../personas/Fredy%20Ortega)</div>
 
 </div>
 
 <div class="jme-concejal-card full bloque-contralor">
 
+<div class="jme-concejal-header">
+<div class="jme-concejal-avatar">EF</div>
+<div class="jme-concejal-id">
+
 ### [[Eduardo Florentín]]
-*Concejal · Bloque «contralor»*
+<div class="jme-concejal-meta">Concejal · ANR · Bloque «contralor»</div>
+
+</div>
+</div>
 
 > Presidente del Club de Clubes. Voto estable con contralor; alineado con Morel en las 3 votaciones nominales clave.
 
-**Asistencia plenaria** · 90% (159 presente · 17 ausente)  
-**Productividad legislativa** · 3 minutas/resoluciones como autor  
-**Rol de mesa** · 1× pte de mesa
+<div class="jme-stat-row">
+
+<div class="jme-stat">
+<div class="jme-stat-value">90%</div>
+<div class="jme-stat-label">Asistencia<br><small>159/176</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">5</div>
+<div class="jme-stat-label">Propuestas<br><small>3 autor · 2 secunda</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">1</div>
+<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+</div>
+
+<div class="jme-concejal-votos">
 
 **Votos clave**
 
-| Acta | Fecha | Tema | Voto |
-|---|---|---|---|
-| 146-2024 | 2024-10-30 | Mesa Directiva — Pte JM | Morel |
-| 155-2025 | 2025-01-22 | Conformación Comisiones 2025 | lista contralor (5) |
-| 156-2025 | 2025-01-29 | Cubiertas / ambiental | con contralor-3 |
+- **2024-10-30** · Mesa Directiva — Pte JM <small>(Acta 146-2024)</small><br><span class="jme-voto">→ Morel</span>
+- **2025-01-22** · Conformación Comisiones 2025 <small>(Acta 155-2025)</small><br><span class="jme-voto">→ lista contralor (5)</span>
+- **2025-01-29** · Cubiertas / ambiental <small>(Acta 156-2025)</small><br><span class="jme-voto">→ con contralor-3</span>
+
+</div>
+
+<div class="jme-concejal-footer">→ [Ver ficha completa de Eduardo Florentín](../personas/Eduardo%20Florentín)</div>
 
 </div>
 
 <div class="jme-concejal-card full bloque-contralor">
 
+<div class="jme-concejal-header">
+<div class="jme-concejal-avatar">ER</div>
+<div class="jme-concejal-id">
+
 ### [[Eduardo Rebruk]]
-*Concejal · Bloque «contralor»*
+<div class="jme-concejal-meta">Concejal · ANR · Bloque «contralor»</div>
+
+</div>
+</div>
 
 > Voto estable con contralor. Candidato a Vice JM en oct-2024 (4 votos vs Lichi 8).
 
-**Asistencia plenaria** · 93% (159 presente · 12 ausente)  
-**Productividad legislativa** · 0 minutas/resoluciones como autor  
-**Rol de mesa** · 8× pte de mesa
+<div class="jme-stat-row">
+
+<div class="jme-stat">
+<div class="jme-stat-value">93%</div>
+<div class="jme-stat-label">Asistencia<br><small>159/171</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">2</div>
+<div class="jme-stat-label">Propuestas<br><small>0 autor · 2 secunda</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">8</div>
+<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+</div>
+
+<div class="jme-concejal-votos">
 
 **Votos clave**
 
-| Acta | Fecha | Tema | Voto |
-|---|---|---|---|
-| 146-2024 | 2024-10-30 | Mesa Directiva — Pte JM | Morel (Pte) / Rebruk (auto-Vice, 4 votos) |
-| 155-2025 | 2025-01-22 | Conformación Comisiones 2025 | lista contralor (5) |
-| 156-2025 | 2025-01-29 | Cubiertas / ambiental | con contralor-3 |
+- **2024-10-30** · Mesa Directiva — Pte JM <small>(Acta 146-2024)</small><br><span class="jme-voto">→ Morel (Pte) / Rebruk (auto-Vice, 4 votos)</span>
+- **2025-01-22** · Conformación Comisiones 2025 <small>(Acta 155-2025)</small><br><span class="jme-voto">→ lista contralor (5)</span>
+- **2025-01-29** · Cubiertas / ambiental <small>(Acta 156-2025)</small><br><span class="jme-voto">→ con contralor-3</span>
+
+</div>
+
+<div class="jme-concejal-footer">→ [Ver ficha completa de Eduardo Rebruk](../personas/Eduardo%20Rebruk)</div>
 
 </div>
 

@@ -8,7 +8,7 @@ aliases:
   - "Zulma Memmel, Carlos Marino Fernández, Natalia Enciso, Gloria Arregui"
 apariciones: 193
 cargo: "Concejal"
-bancada: "s/d"
+bancada: "PLRA"
 bloque: "construir"
 rasgo: "Voto estable con «construir». Cita Art 34 LOM y Reglamento Diputados para impugnar conformación de Comisiones 2025."
 votos_clave:

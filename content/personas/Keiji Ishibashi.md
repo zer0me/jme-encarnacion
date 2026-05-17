@@ -9,7 +9,7 @@ aliases:
   - "Keiji Guillermo Ishibashi Torres (virtual)"
 apariciones: 230
 cargo: "Concejal"
-bancada: "s/d"
+bancada: "Movimiento Ciudadanía Activa"
 bloque: "construir"
 rasgo: "Acuñó el término «lobbycracia». Concejal más prolífico como autor de minutas y proyectos de ordenanza opositor a captura regulatoria."
 votos_clave:

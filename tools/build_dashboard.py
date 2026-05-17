@@ -145,9 +145,46 @@ def build_ultimas_actas(n: int = 10) -> str:
     return "\n".join(lines)
 
 
-def read_concejal(name: str) -> dict | None:
-    """Lee una ficha de concejal y devuelve frontmatter + métricas calculadas
-    desde las secciones del cuerpo (### Como presente, ### Como ausente, etc.).
+def _authorship_counts() -> dict[str, dict[str, int]]:
+    """Single-pass por minutas + resoluciones. Cuenta autor/secunda desde el
+    frontmatter de cada documento (fuente canónica). Es la métrica honesta:
+    refleja iniciativa formalmente documentada en el archivo.
+    """
+    canon = {name.strip().lower(): name for name in CONCEJAL_ORDER}
+    counts: dict[str, dict[str, int]] = {
+        name: {"autor": 0, "secunda": 0} for name in CONCEJAL_ORDER
+    }
+
+    for folder in ("minutas", "resoluciones"):
+        folder_path = VAULT / folder
+        if not folder_path.is_dir():
+            continue
+        for doc in folder_path.glob("*.md"):
+            fm = split_frontmatter(doc.read_text(encoding="utf-8"))
+            if not fm:
+                continue
+            autor = fm.get("autor")
+            if isinstance(autor, str):
+                slug = canon.get(autor.strip().lower())
+                if slug:
+                    counts[slug]["autor"] += 1
+            secunda = fm.get("secunda")
+            if isinstance(secunda, str):
+                # Puede ser un único nombre o varios separados por coma.
+                for piece in secunda.split(","):
+                    slug = canon.get(piece.strip().lower())
+                    if slug:
+                        counts[slug]["secunda"] += 1
+    return counts
+
+
+def read_concejal(name: str, authorship: dict[str, dict[str, int]]) -> dict | None:
+    """Lee una ficha de concejal y compone el dict de datos para la tarjeta.
+
+    Asistencia y rol de mesa salen de las secciones del cuerpo de la ficha.
+    Productividad legislativa (autor + secunda) viene del scan canónico de
+    minutas + resoluciones — NO de las secciones del cuerpo (que están
+    desactualizadas para varios concejales).
     """
     path = VAULT / "personas" / f"{name}.md"
     if not path.exists():
@@ -167,13 +204,14 @@ def read_concejal(name: str) -> dict | None:
 
     presente = section_count("presente")
     ausente = section_count("ausente")
-    autor = section_count("autor")
     pte_mesa = section_count("presidente de mesa")
     pte_sesion = section_count("presidente de sesión")
 
     asistencia_pct: int | None = None
     if presente + ausente > 0:
         asistencia_pct = round(100 * presente / (presente + ausente))
+
+    ac = authorship.get(name, {"autor": 0, "secunda": 0})
 
     return {
         "nombre": fm.get("nombre", name),
@@ -187,16 +225,19 @@ def read_concejal(name: str) -> dict | None:
         "presente": presente,
         "ausente": ausente,
         "asistencia_pct": asistencia_pct,
-        "autor": autor,
+        "autor": ac["autor"],
+        "secunda": ac["secunda"],
+        "propuestas_total": ac["autor"] + ac["secunda"],
         "presidente_mesa": pte_mesa,
         "presidente_sesion": pte_sesion,
     }
 
 
 def load_concejales() -> list[dict]:
+    authorship = _authorship_counts()
     out: list[dict] = []
     for name in CONCEJAL_ORDER:
-        c = read_concejal(name)
+        c = read_concejal(name, authorship)
         if c is None:
             print(f"  WARN: ficha de concejal '{name}' no encontrada", file=sys.stderr)
             continue
@@ -213,6 +254,16 @@ def _cargo_line(c: dict) -> str:
     return f"{cargo} · {bancada}"
 
 
+def _initials(name: str) -> str:
+    """Iniciales de hasta 2 palabras para el avatar de la tarjeta."""
+    parts = [p for p in name.split() if p and p[0].isalpha()]
+    if not parts:
+        return "?"
+    if len(parts) == 1:
+        return parts[0][0].upper()
+    return (parts[0][0] + parts[1][0]).upper()
+
+
 def build_grilla_concejales() -> str:
     """Grilla compacta de 12 tarjetas mini para el DASHBOARD."""
     concejales = load_concejales()
@@ -221,12 +272,8 @@ def build_grilla_concejales() -> str:
     for c in concejales:
         bloque = c["bloque"]
         ratio_total = c["presente"] + c["ausente"]
-        if ratio_total > 0:
-            asis = f'{c["asistencia_pct"]}%'
-            ratio = f'{c["presente"]}/{ratio_total}'
-        else:
-            asis = "—"
-            ratio = "—"
+        asis = f'{c["asistencia_pct"]}%' if ratio_total > 0 else "—"
+        ratio = f'{c["presente"]}/{ratio_total}' if ratio_total > 0 else "—"
 
         out.append(f'<div class="jme-concejal-card mini bloque-{bloque}">')
         out.append("")
@@ -234,7 +281,10 @@ def build_grilla_concejales() -> str:
         out.append(f'<small>{_cargo_line(c)}</small>')
         out.append("")
         out.append(f'📊 Asistencia {asis} ({ratio})  ')
-        out.append(f'✍ Autorías: {c["autor"]}  ')
+        out.append(
+            f'✍ Propuestas: {c["propuestas_total"]} '
+            f'<small>({c["autor"]} autor · {c["secunda"]} secunda)</small>  '
+        )
         out.append(f'🪑 Pte de mesa: {c["presidente_mesa"]}')
         if c["rasgo"]:
             out.append("")
@@ -248,57 +298,95 @@ def build_grilla_concejales() -> str:
 
 
 def build_tarjetas_concejales() -> str:
-    """Tarjetas completas (con votos clave) para concejales/index.md."""
+    """Tarjetas completas con header, stat tiles y votos clave en lista."""
     concejales = load_concejales()
     out: list[str] = ['<div class="jme-concejales-grid full">', ""]
 
     for c in concejales:
         bloque = c["bloque"]
         ratio_total = c["presente"] + c["ausente"]
-        if ratio_total > 0:
-            asis = f'{c["asistencia_pct"]}%'
-            ratio_str = f'{c["presente"]} presente · {c["ausente"]} ausente'
-        else:
-            asis = "—"
-            ratio_str = "—"
+        asis = f'{c["asistencia_pct"]}%' if ratio_total > 0 else "—"
+        ratio_sub = f'{c["presente"]}/{ratio_total}' if ratio_total > 0 else "—"
 
         bancada_str = "" if c["bancada"] in ("s/d", "—", "", None) else f' · {c["bancada"]}'
         bloque_str = "" if bloque in ("—", "", None) else f' · Bloque «{bloque}»'
+        meta_line = f'{c["cargo"]}{bancada_str}{bloque_str}'
+
+        votos = c["votos_clave"]
+        votos_count = len(votos)
 
         out.append(f'<div class="jme-concejal-card full bloque-{bloque}">')
         out.append("")
-        out.append(f'### [[{c["slug"]}]]')
-        out.append(f'*{c["cargo"]}{bancada_str}{bloque_str}*')
+        # Header con avatar de iniciales + identidad
+        out.append('<div class="jme-concejal-header">')
+        out.append(f'<div class="jme-concejal-avatar">{_initials(c["slug"])}</div>')
+        out.append('<div class="jme-concejal-id">')
         out.append("")
+        out.append(f'### [[{c["slug"]}]]')
+        out.append(f'<div class="jme-concejal-meta">{meta_line}</div>')
+        out.append("")
+        out.append('</div>')
+        out.append('</div>')
+        out.append("")
+
         if c["rasgo"]:
             out.append(f'> {c["rasgo"]}')
             out.append("")
-        out.append(f'**Asistencia plenaria** · {asis} ({ratio_str})  ')
-        out.append(f'**Productividad legislativa** · {c["autor"]} minutas/resoluciones como autor  ')
-        rol_extra = []
-        if c["presidente_mesa"]:
-            rol_extra.append(f'{c["presidente_mesa"]}× pte de mesa')
-        if c["presidente_sesion"]:
-            rol_extra.append(f'{c["presidente_sesion"]}× pte de sesión')
-        rol_line = " · ".join(rol_extra) if rol_extra else "—"
-        out.append(f'**Rol de mesa** · {rol_line}')
+
+        # Stat tiles
+        out.append('<div class="jme-stat-row">')
+        out.append("")
+        out.append('<div class="jme-stat">')
+        out.append(f'<div class="jme-stat-value">{asis}</div>')
+        out.append(f'<div class="jme-stat-label">Asistencia<br><small>{ratio_sub}</small></div>')
+        out.append('</div>')
+        out.append("")
+        out.append('<div class="jme-stat">')
+        out.append(f'<div class="jme-stat-value">{c["propuestas_total"]}</div>')
+        out.append(
+            f'<div class="jme-stat-label">Propuestas<br>'
+            f'<small>{c["autor"]} autor · {c["secunda"]} secunda</small></div>'
+        )
+        out.append('</div>')
+        out.append("")
+        out.append('<div class="jme-stat">')
+        out.append(f'<div class="jme-stat-value">{c["presidente_mesa"]}</div>')
+        out.append('<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>')
+        out.append('</div>')
+        out.append("")
+        out.append('<div class="jme-stat">')
+        out.append(f'<div class="jme-stat-value">{votos_count}</div>')
+        out.append('<div class="jme-stat-label">Votos clave<br><small>documentados</small></div>')
+        out.append('</div>')
+        out.append("")
+        out.append('</div>')
         out.append("")
 
-        votos = c["votos_clave"]
+        # Votos clave como lista vertical (más legible que tabla)
         if votos:
-            out.append("**Votos clave**")
+            out.append('<div class="jme-concejal-votos">')
             out.append("")
-            out.append("| Acta | Fecha | Tema | Voto |")
-            out.append("|---|---|---|---|")
+            out.append('**Votos clave**')
+            out.append("")
             for v in votos:
+                fecha = v.get("fecha", "—")
+                tema = v.get("tema", "—")
+                voto = v.get("voto", "—")
+                acta = v.get("acta", "")
+                acta_ref = f' <small>(Acta {acta})</small>' if acta else ""
                 out.append(
-                    f'| {v.get("acta", "—")} '
-                    f'| {v.get("fecha", "—")} '
-                    f'| {v.get("tema", "—")} '
-                    f'| {v.get("voto", "—")} |'
+                    f'- **{fecha}** · {tema}{acta_ref}<br>'
+                    f'<span class="jme-voto">→ {voto}</span>'
                 )
             out.append("")
+            out.append('</div>')
+            out.append("")
 
+        # Footer link a ficha completa
+        out.append(
+            f'<div class="jme-concejal-footer">→ [Ver ficha completa de {c["slug"]}](../personas/{c["slug"].replace(" ", "%20")})</div>'
+        )
+        out.append("")
         out.append("</div>")
         out.append("")
 

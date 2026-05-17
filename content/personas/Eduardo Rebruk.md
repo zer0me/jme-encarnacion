@@ -10,7 +10,7 @@ aliases:
   - "Nina Rud de Rebruk"
 apariciones: 184
 cargo: "Concejal"
-bancada: "s/d"
+bancada: "ANR"
 bloque: "contralor"
 rasgo: "Voto estable con contralor. Candidato a Vice JM en oct-2024 (4 votos vs Lichi 8)."
 votos_clave:

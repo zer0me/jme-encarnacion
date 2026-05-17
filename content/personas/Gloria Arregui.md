@@ -8,7 +8,7 @@ aliases:
   - "Gloria Beatriz Arregui Martínez"
 apariciones: 185
 cargo: "Concejal"
-bancada: "s/d"
+bancada: "PLRA"
 bloque: "pivote"
 rasgo: "Pivote. Se abstuvo en elección de Pte, votó a Lichi en Vice, y luego apareció en oficialista-7 en Comisiones 2025."
 votos_clave:

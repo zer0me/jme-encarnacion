@@ -248,40 +248,183 @@
 
   // Versión full (página /concejales)
   &.full {
-    padding: 1.25rem 1.4rem;
+    padding: 1.5rem 1.5rem 1.25rem;
     font-size: 0.95rem;
+    border-left-width: 4px;
 
-    h3 {
-      margin: 0 0 0.2rem;
-      font-size: 1.2rem;
-      color: var(--secondary);
+    .jme-concejal-header {
+      display: flex;
+      align-items: center;
+      gap: 0.85rem;
+      margin-bottom: 0.85rem;
     }
 
-    em:first-of-type {
-      display: block;
-      margin-bottom: 0.6rem;
-      color: var(--darkgray);
-      font-style: normal;
-      font-size: 0.85rem;
+    .jme-concejal-avatar {
+      flex: 0 0 auto;
+      width: 48px;
+      height: 48px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--secondary);
+      color: var(--light);
+      font-family: var(--headerFont);
+      font-weight: 700;
+      font-size: 1.15rem;
+      border-radius: 50%;
       letter-spacing: 0.02em;
     }
 
-    blockquote {
-      margin: 0.5rem 0 1rem;
-      padding: 0.4rem 0.85rem;
-      background: var(--lightgray);
-      border-left: 2px solid var(--tertiary);
-      font-size: 0.93rem;
-      color: var(--dark);
-      font-style: italic;
+    .jme-concejal-id {
+      flex: 1;
+      min-width: 0;
+
+      h3 {
+        margin: 0;
+        font-size: 1.2rem;
+        line-height: 1.2;
+        color: var(--secondary);
+        border: none;
+        padding: 0;
+      }
     }
 
-    table {
-      margin-top: 0.5rem;
-      font-size: 0.82rem;
+    .jme-concejal-meta {
+      color: var(--darkgray);
+      font-size: 0.83rem;
+      letter-spacing: 0.02em;
+      margin-top: 0.15rem;
+    }
 
-      th, td {
-        padding: 0.35rem 0.55rem;
+    blockquote {
+      margin: 0 0 1rem;
+      padding: 0.55rem 0.95rem;
+      background: var(--lightgray);
+      border-left: 3px solid var(--tertiary);
+      font-size: 0.92rem;
+      color: var(--dark);
+      font-style: italic;
+      line-height: 1.45;
+    }
+
+    .jme-stat-row {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 0.5rem;
+      margin: 0.85rem 0 1.1rem;
+
+      @media (max-width: 480px) {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    .jme-stat {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 0.65rem 0.4rem;
+      background: var(--lightgray);
+      border-radius: 4px;
+      text-align: center;
+
+      .jme-stat-value {
+        font-family: var(--headerFont);
+        font-size: 1.45rem;
+        font-weight: 700;
+        color: var(--secondary);
+        line-height: 1;
+        margin-bottom: 0.3rem;
+      }
+
+      .jme-stat-label {
+        font-size: 0.72rem;
+        color: var(--darkgray);
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        line-height: 1.25;
+
+        small {
+          display: block;
+          margin-top: 0.15rem;
+          font-size: 0.86em;
+          text-transform: none;
+          letter-spacing: normal;
+          color: var(--gray);
+        }
+      }
+    }
+
+    .jme-concejal-votos {
+      margin-top: 0.6rem;
+
+      strong {
+        display: block;
+        font-size: 0.78rem;
+        color: var(--darkgray);
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        margin-bottom: 0.45rem;
+      }
+
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+
+      li {
+        margin: 0 0 0.55rem;
+        padding: 0.45rem 0.7rem;
+        background: var(--light);
+        border-left: 2px solid var(--gray);
+        font-size: 0.88rem;
+        line-height: 1.4;
+
+        strong {
+          display: inline;
+          text-transform: none;
+          letter-spacing: normal;
+          font-size: inherit;
+          color: var(--secondary);
+          margin: 0;
+        }
+
+        small {
+          color: var(--gray);
+          font-size: 0.8rem;
+        }
+      }
+
+      .jme-voto {
+        display: block;
+        margin-top: 0.2rem;
+        color: var(--dark);
+        font-weight: 600;
+        font-size: 0.86rem;
+      }
+    }
+
+    .jme-concejal-footer {
+      margin-top: 0.9rem;
+      padding-top: 0.7rem;
+      border-top: 1px dashed var(--lightgray);
+      font-size: 0.85rem;
+      text-align: right;
+
+      a {
+        color: var(--secondary);
+        font-weight: 600;
+        text-decoration: none;
+        border-bottom: 1px solid var(--tertiary);
+
+        &:hover {
+          color: var(--tertiary);
+        }
+
+        &::after {
+          content: none;
+        }
       }
     }
   }

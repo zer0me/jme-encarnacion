@@ -9,7 +9,7 @@ aliases:
   - "Eduardo Víctor Florentín Bolf"
 apariciones: 183
 cargo: "Concejal"
-bancada: "s/d"
+bancada: "ANR"
 bloque: "contralor"
 rasgo: "Presidente del Club de Clubes. Voto estable con contralor; alineado con Morel en las 3 votaciones nominales clave."
 votos_clave:
