@@ -5,10 +5,11 @@ rol: concejal
 periodo: 2021-2026
 canonico: true
 aliases:
-  - "Andrés Morel (saliente) / Juan Augusto Lichi (electo)"
   - "Juan Augusto Lichi Benítez"
   - "Juan Augusto Lichi Benítez (virtual)"
   - "Juan Lichi"
+titulo: "Dr."
+apodos: []
 apariciones: 227
 cargo: "Vicepresidente JM"
 bancada: "ANR"

@@ -7,6 +7,9 @@ canonico: true
 aliases:
   - "Keiji Guillermo Ishibashi Torres"
   - "Keiji Guillermo Ishibashi Torres (virtual)"
+titulo: "Arq."
+apodos:
+  - "Keiji"
 apariciones: 230
 cargo: "Concejal"
 bancada: "Movimiento Ciudadanía Activa"

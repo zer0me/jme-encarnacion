@@ -117,6 +117,8 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 ### Temas activos por categoría
 
+> **¿Qué es un MOC?** Map of Content — una página índice que agrupa todos los documentos (actas, minutas, resoluciones, normativa) relacionados con un mismo tema y agrega una lectura analítica encima (cronología, actores, hilos abiertos). Un MOC es la respuesta a «¿qué pasó con esto?» sin tener que leer 50 PDFs.
+
 **Concesiones y servicios públicos**
 - [[MOC - RSU - Residuos Solidos Urbanos]]
 - [[MOC - Estacionamiento Tarifado]]
@@ -223,7 +225,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 ✍ Propuestas: 33 <small>(0 autor · 33 secunda)</small>  
 🪑 Pte de mesa: 0
 
-<small class="jme-concejal-rasgo">PPC en alianza con bloque colorado, opositora al Intendente Yd. Frase de oct-2024: «No todos los buenos colorados están en la misma posición».</small>
+<small class="jme-concejal-rasgo">Concejal del PPC. En la elección de Mesa Directiva 2024 votó a Aquino como aliada situacional del bloque colorado disidente, no como alianza permanente. Vota habitualmente con el Intendente Yd y es la secundante más frecuente de las minutas de Ishibashi. Frase oct-2024: «No todos los buenos colorados están en la misma posición».</small>
 
 </div>
 

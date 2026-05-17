@@ -5,7 +5,9 @@ rol: concejal
 periodo: 2021-2026
 canonico: true
 aliases:
-  - "Zulma Memmel, Carlos Marino Fernández, Natalia Enciso, Gloria Arregui"
+  - "Carlos Marino"
+titulo: "Abog."
+apodos: []
 apariciones: 193
 cargo: "Concejal"
 bancada: "PLRA"

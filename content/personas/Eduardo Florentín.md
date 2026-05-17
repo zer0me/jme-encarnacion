@@ -7,6 +7,8 @@ canonico: true
 aliases:
   - "Eduardo Florentín Bolf"
   - "Eduardo Víctor Florentín Bolf"
+titulo: "Lic."
+apodos: []
 apariciones: 183
 cargo: "Concejal"
 bancada: "ANR"

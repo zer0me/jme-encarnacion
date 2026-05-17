@@ -5,9 +5,10 @@ rol: concejal
 periodo: 2021-2026
 canonico: true
 aliases:
-  - "Diego Alberto Pineda (sucesor Olga Zulma Pineda Aquino)"
   - "Diego Aquino (Presidente Junta Municipal)"
   - "Diego Rafael Aquino Mercado"
+titulo: "Abog."
+apodos: []
 apariciones: 202
 cargo: "Presidente JM"
 bancada: "ANR"

@@ -296,6 +296,18 @@
       margin-top: 0.15rem;
     }
 
+    .jme-concejal-apodos {
+      margin-top: 0.2rem;
+      padding: 0.15rem 0.5rem;
+      display: inline-block;
+      background: var(--tertiary);
+      color: var(--dark);
+      font-size: 0.74rem;
+      border-radius: 3px;
+      letter-spacing: 0.02em;
+      font-weight: 600;
+    }
+
     blockquote {
       margin: 0 0 1rem;
       padding: 0.55rem 0.95rem;

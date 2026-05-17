@@ -145,12 +145,36 @@ def build_ultimas_actas(n: int = 10) -> str:
     return "\n".join(lines)
 
 
+def _build_name_index() -> dict[str, str]:
+    """Mapping `nombre lowercased → slug canónico` que incluye el slug,
+    los aliases y los apodos de cada concejal. Permite detectar autorías
+    aunque el frontmatter de la minuta use una variante del nombre.
+    """
+    idx: dict[str, str] = {}
+    for slug in CONCEJAL_ORDER:
+        path = VAULT / "personas" / f"{slug}.md"
+        if not path.exists():
+            idx[slug.strip().lower()] = slug
+            continue
+        fm = split_frontmatter(path.read_text(encoding="utf-8")) or {}
+        names: list[str] = [slug]
+        for variants_key in ("aliases", "apodos"):
+            for v in fm.get(variants_key) or []:
+                if isinstance(v, str) and v.strip():
+                    names.append(v.strip())
+        for n in names:
+            idx[n.lower()] = slug
+    return idx
+
+
 def _authorship_counts() -> dict[str, dict[str, int]]:
     """Single-pass por minutas + resoluciones. Cuenta autor/secunda desde el
     frontmatter de cada documento (fuente canónica). Es la métrica honesta:
     refleja iniciativa formalmente documentada en el archivo.
+
+    Resuelve nombres por slug, aliases o apodos.
     """
-    canon = {name.strip().lower(): name for name in CONCEJAL_ORDER}
+    canon = _build_name_index()
     counts: dict[str, dict[str, int]] = {
         name: {"autor": 0, "secunda": 0} for name in CONCEJAL_ORDER
     }
@@ -216,6 +240,8 @@ def read_concejal(name: str, authorship: dict[str, dict[str, int]]) -> dict | No
     return {
         "nombre": fm.get("nombre", name),
         "slug": name,
+        "titulo": fm.get("titulo", ""),
+        "apodos": [a for a in (fm.get("apodos") or []) if isinstance(a, str) and a.strip()],
         "cargo": fm.get("cargo", "—"),
         "bancada": fm.get("bancada", "s/d"),
         "bloque": fm.get("bloque", "—"),
@@ -252,6 +278,22 @@ def _cargo_line(c: dict) -> str:
     if bancada in ("s/d", "—", "", None):
         return cargo
     return f"{cargo} · {bancada}"
+
+
+def _nombre_completo(c: dict) -> str:
+    """Compone «Título Nombre» si hay título, sino solo nombre."""
+    titulo = c.get("titulo", "").strip()
+    if titulo:
+        return f"{titulo} {c['slug']}"
+    return c["slug"]
+
+
+def _apodos_line(c: dict) -> str:
+    """«Apodos: X, Y» o cadena vacía si no hay."""
+    apodos = c.get("apodos") or []
+    if not apodos:
+        return ""
+    return "Apodo" + ("s" if len(apodos) > 1 else "") + ": " + ", ".join(apodos)
 
 
 def _initials(name: str) -> str:
@@ -310,7 +352,9 @@ def build_tarjetas_concejales() -> str:
 
         bancada_str = "" if c["bancada"] in ("s/d", "—", "", None) else f' · {c["bancada"]}'
         bloque_str = "" if bloque in ("—", "", None) else f' · Bloque «{bloque}»'
-        meta_line = f'{c["cargo"]}{bancada_str}{bloque_str}'
+        titulo_prefix = (c.get("titulo", "").strip() + " ") if c.get("titulo") else ""
+        meta_line = f'{titulo_prefix}{c["cargo"]}{bancada_str}{bloque_str}'.strip()
+        apodos_line = _apodos_line(c)
 
         votos = c["votos_clave"]
         votos_count = len(votos)
@@ -324,6 +368,8 @@ def build_tarjetas_concejales() -> str:
         out.append("")
         out.append(f'### [[{c["slug"]}]]')
         out.append(f'<div class="jme-concejal-meta">{meta_line}</div>')
+        if apodos_line:
+            out.append(f'<div class="jme-concejal-apodos">{apodos_line}</div>')
         out.append("")
         out.append('</div>')
         out.append('</div>')

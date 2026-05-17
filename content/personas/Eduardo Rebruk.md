@@ -7,7 +7,8 @@ canonico: true
 aliases:
   - "Eduardo David Rebruk Stolaruk"
   - "Eduardo Rebruk Stolaruk"
-  - "Nina Rud de Rebruk"
+titulo: "Ing."
+apodos: []
 apariciones: 184
 cargo: "Concejal"
 bancada: "ANR"

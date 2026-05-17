@@ -6,6 +6,8 @@ periodo: 2021-2026
 canonico: true
 aliases:
   - "Gloria Beatriz Arregui Martínez"
+titulo: "Dra."
+apodos: []
 apariciones: 185
 cargo: "Concejal"
 bancada: "PLRA"

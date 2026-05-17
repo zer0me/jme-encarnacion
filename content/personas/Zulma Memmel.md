@@ -5,15 +5,15 @@ rol: concejal
 periodo: 2021-2026
 canonico: true
 aliases:
-  - "Fundación Civil Jorge Memmel"
   - "Miriam Zulma Memmel"
-  - "Perla Memmel"
   - "Zulma Memmel Valdez"
+titulo: "Abog."
+apodos: []
 apariciones: 199
 cargo: "Concejal"
 bancada: "Alianza Junta Integrada / PPC"
 bloque: "construir"
-rasgo: "PPC en alianza con bloque colorado, opositora al Intendente Yd. Frase de oct-2024: «No todos los buenos colorados están en la misma posición»."
+rasgo: "Concejal del PPC. En la elección de Mesa Directiva 2024 votó a Aquino como aliada situacional del bloque colorado disidente, no como alianza permanente. Vota habitualmente con el Intendente Yd y es la secundante más frecuente de las minutas de Ishibashi. Frase oct-2024: «No todos los buenos colorados están en la misma posición»."
 votos_clave:
   - acta: "146-2024"
     fecha: "2024-10-30"

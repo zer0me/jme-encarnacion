@@ -6,6 +6,8 @@ periodo: 2021-2026
 canonico: true
 aliases:
   - "Nehemías Cuevas Trinidad"
+titulo: "Lic."
+apodos: []
 apariciones: 219
 cargo: "Concejal — Pte saliente"
 bancada: "ANR"

@@ -6,6 +6,9 @@ periodo: 2021-2026
 canonico: true
 aliases:
   - "Andrés Morel Fretes"
+titulo: "Arq."
+apodos:
+  - "Andy"
 apariciones: 179
 cargo: "Concejal"
 bancada: "ANR"

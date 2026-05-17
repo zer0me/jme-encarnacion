@@ -39,7 +39,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 <div class="jme-concejal-id">
 
 ### [[Diego Aquino]]
-<div class="jme-concejal-meta">Presidente JM · ANR · Bloque «construir»</div>
+<div class="jme-concejal-meta">Abog. Presidente JM · ANR · Bloque «construir»</div>
 
 </div>
 </div>
@@ -91,7 +91,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 <div class="jme-concejal-id">
 
 ### [[Juan Augusto Lichi]]
-<div class="jme-concejal-meta">Vicepresidente JM · ANR · Bloque «pivote»</div>
+<div class="jme-concejal-meta">Dr. Vicepresidente JM · ANR · Bloque «pivote»</div>
 
 </div>
 </div>
@@ -143,7 +143,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 <div class="jme-concejal-id">
 
 ### [[Nehemías Cuevas]]
-<div class="jme-concejal-meta">Concejal — Pte saliente · ANR · Bloque «construir»</div>
+<div class="jme-concejal-meta">Lic. Concejal — Pte saliente · ANR · Bloque «construir»</div>
 
 </div>
 </div>
@@ -195,7 +195,8 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 <div class="jme-concejal-id">
 
 ### [[Keiji Ishibashi]]
-<div class="jme-concejal-meta">Concejal · Movimiento Ciudadanía Activa · Bloque «construir»</div>
+<div class="jme-concejal-meta">Arq. Concejal · Movimiento Ciudadanía Activa · Bloque «construir»</div>
+<div class="jme-concejal-apodos">Apodo: Keiji</div>
 
 </div>
 </div>
@@ -247,7 +248,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 <div class="jme-concejal-id">
 
 ### [[Carlos Marino Fernández]]
-<div class="jme-concejal-meta">Concejal · PLRA · Bloque «construir»</div>
+<div class="jme-concejal-meta">Abog. Concejal · PLRA · Bloque «construir»</div>
 
 </div>
 </div>
@@ -299,12 +300,12 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 <div class="jme-concejal-id">
 
 ### [[Zulma Memmel]]
-<div class="jme-concejal-meta">Concejal · Alianza Junta Integrada / PPC · Bloque «construir»</div>
+<div class="jme-concejal-meta">Abog. Concejal · Alianza Junta Integrada / PPC · Bloque «construir»</div>
 
 </div>
 </div>
 
-> PPC en alianza con bloque colorado, opositora al Intendente Yd. Frase de oct-2024: «No todos los buenos colorados están en la misma posición».
+> Concejal del PPC. En la elección de Mesa Directiva 2024 votó a Aquino como aliada situacional del bloque colorado disidente, no como alianza permanente. Vota habitualmente con el Intendente Yd y es la secundante más frecuente de las minutas de Ishibashi. Frase oct-2024: «No todos los buenos colorados están en la misma posición».
 
 <div class="jme-stat-row">
 
@@ -351,7 +352,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 <div class="jme-concejal-id">
 
 ### [[Natalia Enciso]]
-<div class="jme-concejal-meta">Concejal · PLRA · Bloque «construir»</div>
+<div class="jme-concejal-meta">Lic. Concejal · PLRA · Bloque «construir»</div>
 
 </div>
 </div>
@@ -403,7 +404,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 <div class="jme-concejal-id">
 
 ### [[Gloria Arregui]]
-<div class="jme-concejal-meta">Concejal · PLRA · Bloque «pivote»</div>
+<div class="jme-concejal-meta">Dra. Concejal · PLRA · Bloque «pivote»</div>
 
 </div>
 </div>
@@ -455,7 +456,8 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 <div class="jme-concejal-id">
 
 ### [[Andrés Morel]]
-<div class="jme-concejal-meta">Concejal · ANR · Bloque «contralor»</div>
+<div class="jme-concejal-meta">Arq. Concejal · ANR · Bloque «contralor»</div>
+<div class="jme-concejal-apodos">Apodo: Andy</div>
 
 </div>
 </div>
@@ -507,7 +509,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 <div class="jme-concejal-id">
 
 ### [[Fredy Ortega]]
-<div class="jme-concejal-meta">Concejal · ANR · Bloque «contralor»</div>
+<div class="jme-concejal-meta">Abog. Concejal · ANR · Bloque «contralor»</div>
 
 </div>
 </div>
@@ -559,7 +561,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 <div class="jme-concejal-id">
 
 ### [[Eduardo Florentín]]
-<div class="jme-concejal-meta">Concejal · ANR · Bloque «contralor»</div>
+<div class="jme-concejal-meta">Lic. Concejal · ANR · Bloque «contralor»</div>
 
 </div>
 </div>
@@ -611,7 +613,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 <div class="jme-concejal-id">
 
 ### [[Eduardo Rebruk]]
-<div class="jme-concejal-meta">Concejal · ANR · Bloque «contralor»</div>
+<div class="jme-concejal-meta">Ing. Concejal · ANR · Bloque «contralor»</div>
 
 </div>
 </div>

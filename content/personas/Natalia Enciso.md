@@ -6,6 +6,8 @@ periodo: 2021-2026
 canonico: true
 aliases:
   - "Natalia Verónica Enciso de Oreggioni"
+titulo: "Lic."
+apodos: []
 apariciones: 175
 cargo: "Concejal"
 bancada: "PLRA"

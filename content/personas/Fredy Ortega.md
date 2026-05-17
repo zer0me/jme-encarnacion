@@ -6,6 +6,8 @@ periodo: 2021-2026
 canonico: true
 aliases:
   - "Fredy Fermín Ortega Ullón"
+titulo: "Abog."
+apodos: []
 apariciones: 230
 cargo: "Concejal"
 bancada: "ANR"
