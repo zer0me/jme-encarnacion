@@ -152,16 +152,19 @@
     line-height: 1.45;
   }
 
-  .jme-card-link {
-    align-self: flex-start;
+  & > p:last-of-type > a {
     color: var(--secondary);
-    font-size: 0.85rem;
+    font-size: 0.9rem;
     font-weight: 600;
     text-decoration: none;
     border-bottom: 1px solid var(--tertiary);
 
     &:hover {
       color: var(--tertiary);
+    }
+
+    &::after {
+      content: none;
     }
   }
 }

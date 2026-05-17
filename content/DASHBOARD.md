@@ -49,7 +49,7 @@ tags:
 
 Lleva 3 años pendiente. En diciembre 2024 el Ejecutivo la devolvió «por haber realizado reunión con representantes de empresas desarrolladoras».
 
-[Ver MOC →](_MOCs/MOC---Ordenanza-Edificabilidad-y-captura-regulatoria){.jme-card-link}
+[Ver MOC →](_MOCs/MOC---Ordenanza-Edificabilidad-y-captura-regulatoria)
 
 </div>
 
@@ -59,7 +59,7 @@ Lleva 3 años pendiente. En diciembre 2024 el Ejecutivo la devolvió «por haber
 
 Se aprobó pliego en 2022, se adjudicó en 2023, se suspendió 2 años después.
 
-[Ver MOC →](_MOCs/MOC---Estacionamiento-Tarifado){.jme-card-link}
+[Ver MOC →](_MOCs/MOC---Estacionamiento-Tarifado)
 
 </div>
 
@@ -69,7 +69,7 @@ Se aprobó pliego en 2022, se adjudicó en 2023, se suspendió 2 años después.
 
 Concesión multi-año al Consorcio ROGGIO ATI / Eco-Róga. Cubiertas y vertederos clandestinos como hilos abiertos.
 
-[Ver MOC →](_MOCs/MOC---RSU---Residuos-Solidos-Urbanos){.jme-card-link}
+[Ver MOC →](_MOCs/MOC---RSU---Residuos-Solidos-Urbanos)
 
 </div>
 
@@ -79,7 +79,7 @@ Concesión multi-año al Consorcio ROGGIO ATI / Eco-Róga. Cubiertas y vertedero
 
 30-oct-2024: Cuevas → Aquino. Cuevas rompió bandera ANR y votó al opositor. Tres meses después, coalición se quiebra 7-5.
 
-[Ver MOC →](_MOCs/MOC---Cambio-Mesa-Directiva-2024-y-coaliciones-por-eje){.jme-card-link}
+[Ver MOC →](_MOCs/MOC---Cambio-Mesa-Directiva-2024-y-coaliciones-por-eje)
 
 </div>
 
@@ -89,7 +89,7 @@ Concesión multi-año al Consorcio ROGGIO ATI / Eco-Róga. Cubiertas y vertedero
 
 Término acuñado por el concejal Keiji Ishibashi: **6 mecanismos** institucionales documentados por los cuales la JM bloquea o vacía ordenanzas a pedido de sectores regulados.
 
-[Ver MOC →](_MOCs/MOC---Lobbycracia-y-captura-regulatoria-2021-2024){.jme-card-link}
+[Ver MOC →](_MOCs/MOC---Lobbycracia-y-captura-regulatoria-2021-2024)
 
 </div>
 
@@ -99,7 +99,7 @@ Término acuñado por el concejal Keiji Ishibashi: **6 mecanismos** instituciona
 
 Plan urbano en socialización + nuevo POUT 2024. Aparece nominada una «Vía de la Excepción».
 
-[Ver MOC →](_MOCs/MOC---POUT-y-Plan-Encarnacion-Mas){.jme-card-link}
+[Ver MOC →](_MOCs/MOC---POUT-y-Plan-Encarnacion-Mas)
 
 </div>
 
@@ -109,7 +109,7 @@ Plan urbano en socialización + nuevo POUT 2024. Aparece nominada una «Vía de 
 
 Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 personas): 2 % bici, 86 % aceptaría Bici+Bus.
 
-[Ver MOC →](_MOCs/MOC---Movilidad-alternativa-y-agenda-ciclista-Encarnación){.jme-card-link}
+[Ver MOC →](_MOCs/MOC---Movilidad-alternativa-y-agenda-ciclista-Encarnación)
 
 </div>
 
