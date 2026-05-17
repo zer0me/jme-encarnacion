@@ -46,9 +46,12 @@ if ($LASTEXITCODE -ne 0) {
 Write-Host ""
 Write-Host "[1/6] Sincronizando vault -> content/..." -ForegroundColor Cyan
 $rcExit = 0
+# /XF con ruta completa para excluir SOLO el index.md del root del vault
+# (no los index.md de subcarpetas como concejales/index.md).
+$rootIndex = Join-Path $VAULT "index.md"
 robocopy $VAULT $DST /MIR `
     /XD raw markdown samples _tmp _tmp_compressed scripts .obsidian `
-    /XF log.md index.md `
+    /XF log.md $rootIndex `
     /NFL /NDL /NJH /NS /NC /NP
 $rcExit = $LASTEXITCODE
 # Robocopy exit codes: 0-3 son éxito, 4+ son problemas
