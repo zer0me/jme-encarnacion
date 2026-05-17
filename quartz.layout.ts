@@ -6,10 +6,11 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
+  footer: Component.JmeFooter({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Repo público (GitHub)": "https://github.com/zer0me/jme-encarnacion",
+      "Reportar un error": "https://github.com/zer0me/jme-encarnacion/issues/new",
+      "Licencia CC BY 4.0": "https://creativecommons.org/licenses/by/4.0/deed.es",
     },
   }),
 }

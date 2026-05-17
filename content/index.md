@@ -1,4 +1,5 @@
 ---
+title: "Dashboard — Archivo público JM Encarnación"
 titulo: "Dashboard — Archivo público Junta Municipal de Encarnación"
 tipo: dashboard
 fecha_creacion: 2026-05-17
