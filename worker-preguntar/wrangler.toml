@@ -1,0 +1,14 @@
+name = "jme-preguntar"
+main = "src/index.js"
+compatibility_date = "2025-05-01"
+account_id = "e6f5998c75b3bc8bf31fba0b28666822"
+
+[ai]
+binding = "AI"
+
+[assets]
+directory = "./data"
+binding = "ASSETS"
+
+[observability]
+enabled = true
