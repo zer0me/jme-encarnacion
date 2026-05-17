@@ -18,7 +18,8 @@ const jmeExplorer = Component.Explorer({
       "Mujeres Programando",
     ]
     if (node.slugSegment === "tags") return false
-    if (node.isFolder && node.children.length === 0) return false
+    // Ocultar carpetas vacías o con un solo archivo (ej: presupuesto/).
+    if (node.isFolder && node.children.length < 2) return false
     const isRootFile =
       !node.isFolder && node.slug.split("/").filter(Boolean).length === 1
     if (isRootFile && HIDDEN_ROOT_FILES.includes(node.displayName)) return false
