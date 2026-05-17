@@ -7,6 +7,23 @@ canonico: true
 aliases:
   - "Gloria Beatriz Arregui Martínez"
 apariciones: 185
+cargo: "Concejal"
+bancada: "s/d"
+bloque: "pivote"
+rasgo: "Pivote. Se abstuvo en elección de Pte, votó a Lichi en Vice, y luego apareció en oficialista-7 en Comisiones 2025."
+votos_clave:
+  - acta: "146-2024"
+    fecha: "2024-10-30"
+    tema: "Mesa Directiva — Pte JM"
+    voto: "abstención (Pte) / Lichi (Vice)"
+  - acta: "155-2025"
+    fecha: "2025-01-22"
+    tema: "Conformación Comisiones 2025"
+    voto: "lista oficialista (7)"
+  - acta: "156-2025"
+    fecha: "2025-01-29"
+    tema: "Cubiertas / ambiental"
+    voto: "con construir-3"
 ---
 
 # Gloria Arregui

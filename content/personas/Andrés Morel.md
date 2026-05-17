@@ -7,6 +7,23 @@ canonico: true
 aliases:
   - "Andrés Morel Fretes"
 apariciones: 179
+cargo: "Concejal"
+bancada: "ANR"
+bloque: "contralor"
+rasgo: "Postulado a Pte JM por «acuerdo de palabra ANR» — perdió 4-7 ante Aquino. Lidera el bloque «contralor» («mirar los papeles»)."
+votos_clave:
+  - acta: "146-2024"
+    fecha: "2024-10-30"
+    tema: "Mesa Directiva — Pte JM"
+    voto: "Morel (auto, 4 votos)"
+  - acta: "155-2025"
+    fecha: "2025-01-22"
+    tema: "Conformación Comisiones 2025"
+    voto: "lista contralor (5)"
+  - acta: "156-2025"
+    fecha: "2025-01-29"
+    tema: "Cubiertas / ambiental"
+    voto: "con contralor-3"
 ---
 
 # Andrés Morel

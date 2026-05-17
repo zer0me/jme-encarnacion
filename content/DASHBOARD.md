@@ -143,18 +143,177 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 ### Conocer a los actores
 
-**Concejales** (más mencionados en el archivo)
-- [[Diego Aquino]] — Presidente JM desde 30-oct-2024.
-- [[Juan Augusto Lichi]] — Vicepresidente JM.
-- [[Nehemías Cuevas]] — Presidente saliente; rompió bandera ANR en 2024.
-- [[Keiji Ishibashi]] — Acuñador del término «lobbycracia», concejal opositor más prolífico en informes de gestión.
-- [[Andrés Morel]] — Concejal, candidato perdedor a Pte JM 2024.
-- [[Fredy Ortega]] — Concejal ANR, postulante de Morel.
-- [[Eduardo Florentín]] — Concejal, Pte Club de Clubes.
-- [[Juan Luis Regis González]] — Secretario General (continuidad desde antes de 2024).
+**Concejales 2021-2026** — 12 tarjetas de desempeño con asistencia, autorías, rol de mesa y votos clave. [Ver tarjetas completas →](concejales/)
+
+<!-- DASHBOARD:BEGIN grilla-concejales -->
+
+<div class="jme-concejales-grid">
+
+<div class="jme-concejal-card mini bloque-construir">
+
+**[[Diego Aquino]]**
+<small>Presidente JM · ANR</small>
+
+📊 Asistencia 96% (163/170)  
+✍ Autorías: 0  
+🪑 Pte de mesa: 22
+
+<small class="jme-concejal-rasgo">Electo Pte JM el 30-oct-2024 con voto cruzado de Cuevas; preside la coalición «construir» que muta por eje temático.</small>
+
+</div>
+
+<div class="jme-concejal-card mini bloque-pivote">
+
+**[[Juan Augusto Lichi]]**
+<small>Vicepresidente JM</small>
+
+📊 Asistencia 83% (146/176)  
+✍ Autorías: 1  
+🪑 Pte de mesa: 48
+
+<small class="jme-concejal-rasgo">Vicepresidente electo; postuló a Aquino, pero el 22-ene-2025 vota con contralor en conformación de Comisiones — ruptura tácita Mesa Directiva.</small>
+
+</div>
+
+<div class="jme-concejal-card mini bloque-construir">
+
+**[[Nehemías Cuevas]]**
+<small>Concejal — Pte saliente · ANR</small>
+
+📊 Asistencia 90% (152/169)  
+✍ Autorías: 0  
+🪑 Pte de mesa: 45
+
+<small class="jme-concejal-rasgo">Pte JM saliente. Rompió bandera ANR en oct-2024 y votó a Aquino; luego ausente 3 de 4 plenarias del cierre fiscal 2024.</small>
+
+</div>
+
+<div class="jme-concejal-card mini bloque-construir">
+
+**[[Keiji Ishibashi]]**
+<small>Concejal</small>
+
+📊 Asistencia 90% (157/174)  
+✍ Autorías: 55  
+🪑 Pte de mesa: 0
+
+<small class="jme-concejal-rasgo">Acuñó el término «lobbycracia». Concejal más prolífico como autor de minutas y proyectos de ordenanza opositor a captura regulatoria.</small>
+
+</div>
+
+<div class="jme-concejal-card mini bloque-construir">
+
+**[[Carlos Marino Fernández]]**
+<small>Concejal</small>
+
+📊 Asistencia 97% (170/176)  
+✍ Autorías: 0  
+🪑 Pte de mesa: 4
+
+<small class="jme-concejal-rasgo">Voto estable con «construir». Cita Art 34 LOM y Reglamento Diputados para impugnar conformación de Comisiones 2025.</small>
+
+</div>
+
+<div class="jme-concejal-card mini bloque-construir">
+
+**[[Zulma Memmel]]**
+<small>Concejal · ANR</small>
+
+📊 Asistencia 87% (153/176)  
+✍ Autorías: 0  
+🪑 Pte de mesa: 0
+
+<small class="jme-concejal-rasgo">ANR opositora al Intendente Yd. Frase de oct-2024: «No todos los buenos colorados están en la misma posición».</small>
+
+</div>
+
+<div class="jme-concejal-card mini bloque-construir">
+
+**[[Natalia Enciso]]**
+<small>Concejal</small>
+
+📊 Asistencia 95% (164/173)  
+✍ Autorías: 0  
+🪑 Pte de mesa: 0
+
+<small class="jme-concejal-rasgo">Voto estable con «construir». Defensora del Art 29+116 reglamento interno JM en disputa de Comisiones 2025.</small>
+
+</div>
+
+<div class="jme-concejal-card mini bloque-pivote">
+
+**[[Gloria Arregui]]**
+<small>Concejal</small>
+
+📊 Asistencia 97% (170/176)  
+✍ Autorías: 0  
+🪑 Pte de mesa: 0
+
+<small class="jme-concejal-rasgo">Pivote. Se abstuvo en elección de Pte, votó a Lichi en Vice, y luego apareció en oficialista-7 en Comisiones 2025.</small>
+
+</div>
+
+<div class="jme-concejal-card mini bloque-contralor">
+
+**[[Andrés Morel]]**
+<small>Concejal · ANR</small>
+
+📊 Asistencia 93% (162/175)  
+✍ Autorías: 1  
+🪑 Pte de mesa: 0
+
+<small class="jme-concejal-rasgo">Postulado a Pte JM por «acuerdo de palabra ANR» — perdió 4-7 ante Aquino. Lidera el bloque «contralor» («mirar los papeles»).</small>
+
+</div>
+
+<div class="jme-concejal-card mini bloque-contralor">
+
+**[[Fredy Ortega]]**
+<small>Concejal · ANR</small>
+
+📊 Asistencia 96% (166/173)  
+✍ Autorías: 1  
+🪑 Pte de mesa: 52
+
+<small class="jme-concejal-rasgo">Concejal ANR. Postulante de Morel en oct-2024 invocando «acuerdo de palabra ANR». Voto estable con contralor.</small>
+
+</div>
+
+<div class="jme-concejal-card mini bloque-contralor">
+
+**[[Eduardo Florentín]]**
+<small>Concejal</small>
+
+📊 Asistencia 90% (159/176)  
+✍ Autorías: 3  
+🪑 Pte de mesa: 1
+
+<small class="jme-concejal-rasgo">Presidente del Club de Clubes. Voto estable con contralor; alineado con Morel en las 3 votaciones nominales clave.</small>
+
+</div>
+
+<div class="jme-concejal-card mini bloque-contralor">
+
+**[[Eduardo Rebruk]]**
+<small>Concejal</small>
+
+📊 Asistencia 93% (159/171)  
+✍ Autorías: 0  
+🪑 Pte de mesa: 8
+
+<small class="jme-concejal-rasgo">Voto estable con contralor. Candidato a Vice JM en oct-2024 (4 votos vs Lichi 8).</small>
+
+</div>
+
+</div>
+
+<!-- DASHBOARD:END grilla-concejales -->
 
 **Ejecutivo**
 - [[Alfredo Luis Yd (Intendente Municipal)]] — Intendente.
+
+**Secretaría**
+- [[Juan Luis Regis González]] — Secretario General (continuidad desde antes de 2024).
 
 ### Cómo navegar este archivo
 

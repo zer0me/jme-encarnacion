@@ -9,6 +9,23 @@ aliases:
   - "Eduardo Rebruk Stolaruk"
   - "Nina Rud de Rebruk"
 apariciones: 184
+cargo: "Concejal"
+bancada: "s/d"
+bloque: "contralor"
+rasgo: "Voto estable con contralor. Candidato a Vice JM en oct-2024 (4 votos vs Lichi 8)."
+votos_clave:
+  - acta: "146-2024"
+    fecha: "2024-10-30"
+    tema: "Mesa Directiva — Pte JM"
+    voto: "Morel (Pte) / Rebruk (auto-Vice, 4 votos)"
+  - acta: "155-2025"
+    fecha: "2025-01-22"
+    tema: "Conformación Comisiones 2025"
+    voto: "lista contralor (5)"
+  - acta: "156-2025"
+    fecha: "2025-01-29"
+    tema: "Cubiertas / ambiental"
+    voto: "con contralor-3"
 ---
 
 # Eduardo Rebruk

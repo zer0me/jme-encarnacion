@@ -7,6 +7,23 @@ canonico: true
 aliases:
   - "Fredy Fermín Ortega Ullón"
 apariciones: 230
+cargo: "Concejal"
+bancada: "ANR"
+bloque: "contralor"
+rasgo: "Concejal ANR. Postulante de Morel en oct-2024 invocando «acuerdo de palabra ANR». Voto estable con contralor."
+votos_clave:
+  - acta: "146-2024"
+    fecha: "2024-10-30"
+    tema: "Mesa Directiva — Pte JM"
+    voto: "Morel"
+  - acta: "155-2025"
+    fecha: "2025-01-22"
+    tema: "Conformación Comisiones 2025"
+    voto: "lista contralor (5)"
+  - acta: "156-2025"
+    fecha: "2025-01-29"
+    tema: "Cubiertas / ambiental"
+    voto: "ausente"
 ---
 
 # Fredy Ortega

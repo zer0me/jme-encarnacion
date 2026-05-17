@@ -7,6 +7,23 @@ canonico: true
 aliases:
   - "Zulma Memmel, Carlos Marino Fernández, Natalia Enciso, Gloria Arregui"
 apariciones: 193
+cargo: "Concejal"
+bancada: "s/d"
+bloque: "construir"
+rasgo: "Voto estable con «construir». Cita Art 34 LOM y Reglamento Diputados para impugnar conformación de Comisiones 2025."
+votos_clave:
+  - acta: "146-2024"
+    fecha: "2024-10-30"
+    tema: "Mesa Directiva — Pte JM"
+    voto: "Aquino"
+  - acta: "155-2025"
+    fecha: "2025-01-22"
+    tema: "Conformación Comisiones 2025"
+    voto: "lista oficialista (7)"
+  - acta: "156-2025"
+    fecha: "2025-01-29"
+    tema: "Cubiertas / ambiental"
+    voto: "con construir-3"
 ---
 
 # Carlos Marino Fernández

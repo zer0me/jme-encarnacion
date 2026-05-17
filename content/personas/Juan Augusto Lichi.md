@@ -10,6 +10,23 @@ aliases:
   - "Juan Augusto Lichi Benítez (virtual)"
   - "Juan Lichi"
 apariciones: 227
+cargo: "Vicepresidente JM"
+bancada: "s/d"
+bloque: "pivote"
+rasgo: "Vicepresidente electo; postuló a Aquino, pero el 22-ene-2025 vota con contralor en conformación de Comisiones — ruptura tácita Mesa Directiva."
+votos_clave:
+  - acta: "146-2024"
+    fecha: "2024-10-30"
+    tema: "Mesa Directiva — Pte JM"
+    voto: "Aquino"
+  - acta: "155-2025"
+    fecha: "2025-01-22"
+    tema: "Conformación Comisiones 2025"
+    voto: "lista contralor (5) — ruptura"
+  - acta: "156-2025"
+    fecha: "2025-01-29"
+    tema: "Cubiertas / ambiental"
+    voto: "ausente"
 ---
 
 # Juan Augusto Lichi

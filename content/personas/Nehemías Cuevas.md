@@ -7,6 +7,23 @@ canonico: true
 aliases:
   - "Nehemías Cuevas Trinidad"
 apariciones: 219
+cargo: "Concejal — Pte saliente"
+bancada: "ANR"
+bloque: "construir"
+rasgo: "Pte JM saliente. Rompió bandera ANR en oct-2024 y votó a Aquino; luego ausente 3 de 4 plenarias del cierre fiscal 2024."
+votos_clave:
+  - acta: "146-2024"
+    fecha: "2024-10-30"
+    tema: "Mesa Directiva — Pte JM"
+    voto: "Aquino (rompe acuerdo ANR)"
+  - acta: "155-2025"
+    fecha: "2025-01-22"
+    tema: "Conformación Comisiones 2025"
+    voto: "lista oficialista (7)"
+  - acta: "156-2025"
+    fecha: "2025-01-29"
+    tema: "Cubiertas / ambiental"
+    voto: "ausente"
 ---
 
 # Nehemías Cuevas

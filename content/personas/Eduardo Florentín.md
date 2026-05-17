@@ -8,6 +8,23 @@ aliases:
   - "Eduardo Florentín Bolf"
   - "Eduardo Víctor Florentín Bolf"
 apariciones: 183
+cargo: "Concejal"
+bancada: "s/d"
+bloque: "contralor"
+rasgo: "Presidente del Club de Clubes. Voto estable con contralor; alineado con Morel en las 3 votaciones nominales clave."
+votos_clave:
+  - acta: "146-2024"
+    fecha: "2024-10-30"
+    tema: "Mesa Directiva — Pte JM"
+    voto: "Morel"
+  - acta: "155-2025"
+    fecha: "2025-01-22"
+    tema: "Conformación Comisiones 2025"
+    voto: "lista contralor (5)"
+  - acta: "156-2025"
+    fecha: "2025-01-29"
+    tema: "Cubiertas / ambiental"
+    voto: "con contralor-3"
 ---
 
 # Eduardo Florentín
