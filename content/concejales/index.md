@@ -80,7 +80,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-footer">→ [Ver ficha completa de Diego Aquino](../personas/Diego%20Aquino)</div>
+<div class="jme-concejal-footer"><a href="../personas/Diego-Aquino">→ Ver ficha completa de Diego Aquino</a></div>
 
 </div>
 
@@ -132,7 +132,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-footer">→ [Ver ficha completa de Juan Augusto Lichi](../personas/Juan%20Augusto%20Lichi)</div>
+<div class="jme-concejal-footer"><a href="../personas/Juan-Augusto-Lichi">→ Ver ficha completa de Juan Augusto Lichi</a></div>
 
 </div>
 
@@ -184,7 +184,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-footer">→ [Ver ficha completa de Nehemías Cuevas](../personas/Nehemías%20Cuevas)</div>
+<div class="jme-concejal-footer"><a href="../personas/Nehemías-Cuevas">→ Ver ficha completa de Nehemías Cuevas</a></div>
 
 </div>
 
@@ -236,7 +236,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-footer">→ [Ver ficha completa de Keiji Ishibashi](../personas/Keiji%20Ishibashi)</div>
+<div class="jme-concejal-footer"><a href="../personas/Keiji-Ishibashi">→ Ver ficha completa de Keiji Ishibashi</a></div>
 
 </div>
 
@@ -288,7 +288,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-footer">→ [Ver ficha completa de Carlos Marino Fernández](../personas/Carlos%20Marino%20Fernández)</div>
+<div class="jme-concejal-footer"><a href="../personas/Carlos-Marino-Fernández">→ Ver ficha completa de Carlos Marino Fernández</a></div>
 
 </div>
 
@@ -340,7 +340,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-footer">→ [Ver ficha completa de Zulma Memmel](../personas/Zulma%20Memmel)</div>
+<div class="jme-concejal-footer"><a href="../personas/Zulma-Memmel">→ Ver ficha completa de Zulma Memmel</a></div>
 
 </div>
 
@@ -392,7 +392,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-footer">→ [Ver ficha completa de Natalia Enciso](../personas/Natalia%20Enciso)</div>
+<div class="jme-concejal-footer"><a href="../personas/Natalia-Enciso">→ Ver ficha completa de Natalia Enciso</a></div>
 
 </div>
 
@@ -444,7 +444,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-footer">→ [Ver ficha completa de Gloria Arregui](../personas/Gloria%20Arregui)</div>
+<div class="jme-concejal-footer"><a href="../personas/Gloria-Arregui">→ Ver ficha completa de Gloria Arregui</a></div>
 
 </div>
 
@@ -496,7 +496,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-footer">→ [Ver ficha completa de Andrés Morel](../personas/Andrés%20Morel)</div>
+<div class="jme-concejal-footer"><a href="../personas/Andrés-Morel">→ Ver ficha completa de Andrés Morel</a></div>
 
 </div>
 
@@ -548,7 +548,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-footer">→ [Ver ficha completa de Fredy Ortega](../personas/Fredy%20Ortega)</div>
+<div class="jme-concejal-footer"><a href="../personas/Fredy-Ortega">→ Ver ficha completa de Fredy Ortega</a></div>
 
 </div>
 
@@ -600,7 +600,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-footer">→ [Ver ficha completa de Eduardo Florentín](../personas/Eduardo%20Florentín)</div>
+<div class="jme-concejal-footer"><a href="../personas/Eduardo-Florentín">→ Ver ficha completa de Eduardo Florentín</a></div>
 
 </div>
 
@@ -652,7 +652,7 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-footer">→ [Ver ficha completa de Eduardo Rebruk](../personas/Eduardo%20Rebruk)</div>
+<div class="jme-concejal-footer"><a href="../personas/Eduardo-Rebruk">→ Ver ficha completa de Eduardo Rebruk</a></div>
 
 </div>
 
