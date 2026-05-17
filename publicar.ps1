@@ -33,9 +33,18 @@ if (-not (Test-Path $VAULT)) {
 
 Set-Location $REPO
 
+# 0. Regenerar bloques dinámicos del DASHBOARD.md desde estado actual del vault
+Write-Host ""
+Write-Host "[0/6] Regenerando tablas dinámicas en DASHBOARD.md..." -ForegroundColor Cyan
+python (Join-Path $REPO "tools\build_dashboard.py")
+if ($LASTEXITCODE -ne 0) {
+    Write-Error "build_dashboard.py falló."
+    exit 1
+}
+
 # 1. Sync vault → content/
 Write-Host ""
-Write-Host "[1/5] Sincronizando vault -> content/..." -ForegroundColor Cyan
+Write-Host "[1/6] Sincronizando vault -> content/..." -ForegroundColor Cyan
 $rcExit = 0
 robocopy $VAULT $DST /MIR `
     /XD raw markdown samples _tmp _tmp_compressed scripts .obsidian `
@@ -50,13 +59,13 @@ if ($rcExit -ge 4) {
 Write-Host "      OK (robocopy exit $rcExit = éxito)" -ForegroundColor Green
 
 # 2. DASHBOARD.md → index.md (homepage)
-Write-Host "[2/5] DASHBOARD.md -> content/index.md (homepage del sitio)..." -ForegroundColor Cyan
+Write-Host "[2/6] DASHBOARD.md -> content/index.md (homepage del sitio)..." -ForegroundColor Cyan
 Copy-Item (Join-Path $DST "DASHBOARD.md") (Join-Path $DST "index.md") -Force
 Write-Host "      OK" -ForegroundColor Green
 
 # 3. Validar frontmatter YAML
 if (-not $SkipValidation) {
-    Write-Host "[3/5] Validando frontmatter YAML de todas las notas..." -ForegroundColor Cyan
+    Write-Host "[3/6] Validando frontmatter YAML de todas las notas..." -ForegroundColor Cyan
     $valOut = python (Join-Path $REPO "tools\validate_frontmatter.py")
     $valExit = $LASTEXITCODE
     Write-Host $valOut
@@ -68,11 +77,11 @@ if (-not $SkipValidation) {
         Write-Host "      OK — todo el frontmatter es válido" -ForegroundColor Green
     }
 } else {
-    Write-Host "[3/5] Validación de frontmatter SALTEADA" -ForegroundColor Yellow
+    Write-Host "[3/6] Validación de frontmatter SALTEADA" -ForegroundColor Yellow
 }
 
 # 4. git status + commit + push
-Write-Host "[4/5] Detectando cambios git..." -ForegroundColor Cyan
+Write-Host "[4/6] Detectando cambios git..." -ForegroundColor Cyan
 $changes = git status --short
 if (-not $changes) {
     Write-Host "      No hay cambios para publicar. Salgo." -ForegroundColor Yellow
@@ -94,7 +103,7 @@ if ($LASTEXITCODE -ne 0) {
 }
 
 # 5. Push
-Write-Host "[5/5] Push a GitHub..." -ForegroundColor Cyan
+Write-Host "[5/6] Push a GitHub..." -ForegroundColor Cyan
 git push origin main
 if ($LASTEXITCODE -ne 0) {
     Write-Error "git push falló."

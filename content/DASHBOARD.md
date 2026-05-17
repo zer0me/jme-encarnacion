@@ -266,18 +266,18 @@ Cada documento en `actas/`, `minutas/`, `resoluciones/` lleva en su frontmatter 
 
 | MOC | Estado | Período |
 |---|---|---|
-| [[MOC - Lobbycracia y captura regulatoria 2021-2024]] | activo | 2021-12 → 2024-12 |
 | [[MOC - Cambio Mesa Directiva 2024 y coaliciones por eje]] | activo | 2024-10 → 2025-01 |
-| [[MOC - Ordenanza Edificabilidad y captura regulatoria]] | activo | 2021 → 2024 |
-| [[MOC - Ordenanzas urbanísticas en bloqueo 2022-2024]] | activo | 2022 → 2024 |
-| [[MOC - POUT y Plan Encarnacion Mas]] | activo | 2022 → 2024 |
-| [[MOC - Movilidad alternativa y agenda ciclista Encarnación]] | activo | 2022 → 2025 |
-| [[MOC - RSU - Residuos Solidos Urbanos]] | activo | multi-año |
-| [[MOC - Estacionamiento Tarifado]] | watch | 2022 → 2025 |
-| [[MOC - DINAC y Aeropuerto Encarnacion]] | activo | multi-año |
-| [[MOC - Carnavales Encarnacenos]] | activo | 2024 → 2025 |
-| [[MOC - Turismo Deportivo - Rally Mundial + IRONMAN + Carnavales]] | activo | 2025 |
-| [[MOC - Vendedores Ambulantes Circuito Comercial]] | activo | multi-año |
+| [[MOC - Carnavales Encarnacenos]] | activo | 2022 → 2025-actual |
+| [[MOC - DINAC y Aeropuerto Encarnacion]] | activo | 2024 → 2025-actual |
+| [[MOC - Lobbycracia y captura regulatoria 2021-2024]] | activo | 2021-12 → 2024-12 (3 años cubiertos por el archivo) |
+| [[MOC - Movilidad alternativa y agenda ciclista Encarnación]] | activo | 2015 → 2024-12 (10 años cubiertos) |
+| [[MOC - Ordenanzas urbanísticas en bloqueo 2022-2024]] | activo | 2021-12 → 2024-12 |
+| [[MOC - POUT y Plan Encarnacion Mas]] | activo | 2022 → 2025-actual |
+| [[MOC - RSU - Residuos Solidos Urbanos]] | activo | 2022 → 2025-actual |
+| [[MOC - Turismo Deportivo - Rally Mundial + IRONMAN + Carnavales]] | activo | 2024 → 2025-actual |
+| [[MOC - Vendedores Ambulantes Circuito Comercial]] | activo | 2025-actual |
+| [[MOC - Ordenanza Edificabilidad y captura regulatoria]] | watch | 2022 → 2025-actual |
+| [[MOC - Estacionamiento Tarifado]] | suspendido | 2022 → 2025-actual |
 
 <!-- DASHBOARD:END mocs-estado -->
 
