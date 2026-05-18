@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-05-18
 
 **Abog. Zulma Memmel · Concejal · Alianza Junta Integrada / PPC · Período 2021-2026**
 
-<img src="fotos/Zulma-Memmel.jpg" alt="Foto de Zulma Memmel" class="concejal-foto" loading="lazy" />
+<img src="/jme-encarnacion/concejales/fotos/Zulma-Memmel.jpg" alt="Foto de Zulma Memmel" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
 - Asistencia: presente en **153 sesiones plenarias** (87%); ausente en **23**. Rango: 2021-11-09 a 2025-04-30.

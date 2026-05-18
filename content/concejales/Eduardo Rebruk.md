@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-05-18
 
 **Ing. Eduardo Rebruk · Concejal · ANR · Período 2021-2026**
 
-<img src="fotos/Eduardo-Rebruk.jpg" alt="Foto de Eduardo Rebruk" class="concejal-foto" loading="lazy" />
+<img src="/jme-encarnacion/concejales/fotos/Eduardo-Rebruk.jpg" alt="Foto de Eduardo Rebruk" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
 - Asistencia: presente en **159 sesiones plenarias** (93%); ausente en **12**. Rango: 2021-11-09 a 2025-04-30.

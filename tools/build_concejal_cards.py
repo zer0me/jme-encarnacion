@@ -353,15 +353,16 @@ def build_card(slug: str, persona: dict, docs: dict) -> str:
 
     photo = find_photo(slug)
     if photo:
-        # Quartz slugifies asset filenames (spaces -> hyphens). Emit raw HTML
-        # img with a path that doesn't start with ./ or ../ so Quartz's
-        # normalizeRelativeURLs leaves it alone; the browser resolves it
-        # against the card's URL dir (which IS /concejales/, no trailing
-        # slash on GH Pages -> the wikilink form would mis-resolve to root).
+        # Quartz rewrites relative img srcs ("./", "../", or path/relative)
+        # based on an assumed trailing-slash URL, which GH Pages doesn't
+        # serve — so any relative form mis-resolves. Absolute URL with the
+        # site basePath bypasses Quartz's rewriter (isRelativeURL requires
+        # a leading "." or ".."). Quartz slugifies asset filenames at copy
+        # time: spaces -> "-", accents preserved.
         photo_slug = photo.replace(" ", "-")
         parts += [
-            f'<img src="fotos/{photo_slug}" alt="Foto de {slug}" '
-            f'class="concejal-foto" loading="lazy" />',
+            f'<img src="/jme-encarnacion/concejales/fotos/{photo_slug}" '
+            f'alt="Foto de {slug}" class="concejal-foto" loading="lazy" />',
             "",
         ]
 
