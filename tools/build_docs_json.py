@@ -142,8 +142,11 @@ def summarize_frontmatter(fm: dict) -> str:
 
 
 def strip_md_noise(body: str) -> str:
-    # Collapse multiple blank lines + remove HTML comments + strip wikilink decorations
+    # Collapse multiple blank lines + remove HTML comments + strip image embeds
+    # (markdown ![alt](src) and Obsidian ![[file]]) so embeddings see prose only.
     body = re.sub(r"<!--.*?-->", "", body, flags=re.DOTALL)
+    body = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", body)
+    body = re.sub(r"!\[\[[^\]]+\]\]", "", body)
     body = re.sub(r"\n{3,}", "\n\n", body)
     return body.strip()
 

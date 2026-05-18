@@ -11,6 +11,8 @@ fecha_actualizacion: 2026-05-18
 
 **Abog. Diego Aquino · Presidente JM · ANR · Período 2021-2026**
 
+![Foto de Diego Aquino](fotos/Diego%20Aquino.jpg)
+
 ## Resumen cuantitativo
 - Asistencia: presente en **163 sesiones plenarias** (96%); ausente en **7**. Rango: 2021-11-09 a 2025-04-30.
 - Productividad legislativa: **0 minutas como autor · 3 minutas como secunda · 0 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **3**.

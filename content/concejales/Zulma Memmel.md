@@ -11,6 +11,8 @@ fecha_actualizacion: 2026-05-18
 
 **Abog. Zulma Memmel · Concejal · Alianza Junta Integrada / PPC · Período 2021-2026**
 
+![Foto de Zulma Memmel](fotos/Zulma%20Memmel.jpg)
+
 ## Resumen cuantitativo
 - Asistencia: presente en **153 sesiones plenarias** (87%); ausente en **23**. Rango: 2021-11-09 a 2025-04-30.
 - Productividad legislativa: **0 minutas como autor · 33 minutas como secunda · 0 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **33**.

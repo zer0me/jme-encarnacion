@@ -21,7 +21,7 @@ tags:
 <div class="jme-cta-row">
 <a class="jme-cta" href="#temas-calientes-ahora-mismo">🔥 Temas calientes</a>
 <a class="jme-cta secondary" href="#cómo-navegar-este-archivo">📚 Cómo navegar</a>
-<a class="jme-cta secondary" href="#📰-para-periodistas--sala-de-redacción">📰 Sala de redacción</a>
+<a class="jme-cta secondary" href="#sala-de-redacción">📰 Sala de redacción</a>
 </div>
 
 </div>

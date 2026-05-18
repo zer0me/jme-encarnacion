@@ -19,14 +19,45 @@ from __future__ import annotations
 
 import re
 import sys
+import unicodedata
 from collections import defaultdict
 from datetime import date
 from pathlib import Path
+from urllib.parse import quote
 
 import yaml
 
 VAULT = Path("G:/Mi unidad/JME")
 OUT_DIR = VAULT / "concejales"
+PHOTO_DIR = OUT_DIR / "fotos"
+PHOTO_EXTS = (".jpg", ".jpeg", ".png", ".webp")
+
+
+def _strip_accents(s: str) -> str:
+    return "".join(
+        c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn"
+    )
+
+
+def find_photo(slug: str) -> str | None:
+    """Return the photo filename (relative to PHOTO_DIR) for `slug`, or None.
+
+    Tries exact match first, then accent-insensitive match (e.g. "Andres Morel.jpg"
+    matches slug "Andrés Morel"). Supports common image extensions.
+    """
+    if not PHOTO_DIR.exists():
+        return None
+    for ext in PHOTO_EXTS:
+        candidate = PHOTO_DIR / f"{slug}{ext}"
+        if candidate.exists():
+            return candidate.name
+    slug_ascii = _strip_accents(slug).lower()
+    for f in PHOTO_DIR.iterdir():
+        if f.suffix.lower() not in PHOTO_EXTS:
+            continue
+        if _strip_accents(f.stem).lower() == slug_ascii:
+            return f.name
+    return None
 
 CONCEJAL_ORDER = [
     "Diego Aquino",
@@ -318,6 +349,13 @@ def build_card(slug: str, persona: dict, docs: dict) -> str:
         "",
         subtitulo,
         "",
+    ]
+
+    photo = find_photo(slug)
+    if photo:
+        parts += [f"![Foto de {slug}](fotos/{quote(photo)})", ""]
+
+    parts += [
         "## Resumen cuantitativo",
         f"- Asistencia: presente en **{presente} sesiones plenarias** "
         f"({asistencia_pct_str}); ausente en **{ausente}**. Rango: {rango_str}.",
