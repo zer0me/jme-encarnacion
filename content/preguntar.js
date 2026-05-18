@@ -13,7 +13,6 @@
     const respDiv = document.getElementById("preguntar-respuesta");
     const respText = document.getElementById("preguntar-respuesta-text");
     const citasList = document.getElementById("preguntar-citas");
-    const reformulada = document.getElementById("preguntar-reformulada");
 
     function showStatus(msg, isError) {
       status.textContent = msg;
@@ -26,12 +25,6 @@
     }
     function updateCounter() {
       counter.textContent = input.value.length + " / 500";
-    }
-    function hideReformulada() {
-      if (reformulada) {
-        reformulada.hidden = true;
-        reformulada.textContent = "";
-      }
     }
 
     input.addEventListener("input", updateCounter);
@@ -48,7 +41,6 @@
       submit.disabled = true;
       submit.textContent = "Buscando…";
       respDiv.hidden = true;
-      hideReformulada();
       showStatus(
         "Buscando entre 696 documentos y procesando con IA. Puede tardar 5-15 segundos.",
         false,
@@ -70,14 +62,6 @@
         hideStatus();
         respText.textContent = data.respuesta || "(respuesta vacía)";
 
-        if (reformulada && data.query_reformulada) {
-          reformulada.textContent =
-            "Interpretamos tu pregunta como: «" + data.query_reformulada + "»";
-          reformulada.hidden = false;
-        } else {
-          hideReformulada();
-        }
-
         citasList.innerHTML = "";
         (data.citas || []).forEach(function (c) {
           const li = document.createElement("li");
@@ -91,12 +75,6 @@
           meta.textContent =
             " · " + c.tipo + " · relevancia " + Math.round(c.score * 100) + "%";
           li.appendChild(meta);
-          if (c.snippet) {
-            const sn = document.createElement("div");
-            sn.className = "preguntar-cita-snippet";
-            sn.textContent = c.snippet;
-            li.appendChild(sn);
-          }
           citasList.appendChild(li);
         });
         respDiv.hidden = false;
