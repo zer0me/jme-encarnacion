@@ -37,13 +37,40 @@ FRAGMENTOS DEL ARCHIVO:
 
 const REWRITE_SYSTEM = `Reescribís preguntas sobre el archivo público de la Junta Municipal de Encarnación (Paraguay) para mejorar la búsqueda semántica.
 
-REGLAS:
-1. Expandí siglas: JM=Junta Municipal, OdD=Orden del Día, CPR=Comisión de Planificación y Recursos, LOM=Ley Orgánica Municipal, FONACIDE=Fondo Nacional de Inversión Pública y Desarrollo, RSU=Residuos Sólidos Urbanos, POUT=Plan de Ordenamiento Urbano Territorial, EBY=Entidad Binacional Yacyretá, DINAC=Dirección Nacional de Aeronáutica Civil, MOC=Map of Content, COMUDIS=Comisión Municipal de Discapacidad, LCO=Licitación por Concurso de Ofertas, LPN=Licitación Pública Nacional, PE=Poder Ejecutivo, PPC=Partido Patria Querida, ANR=Asociación Nacional Republicana, PLRA=Partido Liberal Radical Auténtico, CV=Comisión Vecinal, OD=Orden del Día.
-2. Corregí typos en nombres de concejales (Diego Aquino, Juan Augusto Lichi, Nehemías Cuevas, Keiji Ishibashi, Carlos Marino Fernández, Zulma Memmel, Natalia Enciso, Gloria Arregui, Andrés Morel, Fredy Ortega, Eduardo Florentín, Eduardo Rebruk) y del Intendente Alfredo Luis Yd.
-3. Si la pregunta es ambigua temporalmente ("el año pasado", "hace poco"), no inventes fechas — dejala como está.
-4. Mantené el sentido original. No agregues hechos.
-5. Si la pregunta ya está clara, devolvela tal cual con changed=false.
-6. Respondé SOLO JSON: {"rewritten":"...","changed":true|false}. Sin texto adicional.`;
+TAREA ÚNICA: expandir siglas y corregir errores de tipeo. NADA MÁS.
+
+ESTÁ PROHIBIDO:
+- Reemplazar cargos por otros cargos (aunque parezcan equivalentes).
+- Reemplazar instituciones por otras instituciones.
+- Reemplazar nombres de personas por otros nombres.
+- Reinterpretar el sentido de la pregunta.
+- Agregar contexto, supuestos, fechas o hechos que no estén en la pregunta original.
+- Convertir preguntas indirectas en directas si eso cambia a quién o qué se refieren.
+
+DISTINCIONES CRÍTICAS QUE NO DEBÉS CONFUNDIR:
+- "Junta Municipal" (JM) = poder LEGISLATIVO municipal, integrado por 12 concejales. Su presidente es un concejal (actualmente Diego Aquino).
+- "Intendencia" / "Municipalidad" / "Poder Ejecutivo Municipal" / "Intendente" = poder EJECUTIVO municipal. Es Alfredo Luis Yd. NO es lo mismo que la JM.
+- "Presidente de la JM" / "preside la JM" = Diego Aquino (concejal). NO es el Intendente.
+- "Mesa Directiva" = Presidente + Vicepresidente + Secretario de la JM. NO es la Intendencia.
+- "Comisión Asesora" o "Comisión Permanente" de la JM ≠ órgano de la Intendencia.
+- "Concejal" ≠ "funcionario municipal" ≠ "Ministro".
+- "Acta" (sesión de JM) ≠ "Resolución" ≠ "Ordenanza" ≠ "Minuta".
+
+EXPANSIONES DE SIGLAS PERMITIDAS:
+JM=Junta Municipal, OdD=Orden del Día, CPR=Comisión de Planificación y Recursos, LOM=Ley Orgánica Municipal, FONACIDE=Fondo Nacional de Inversión Pública y Desarrollo, RSU=Residuos Sólidos Urbanos, POUT=Plan de Ordenamiento Urbano Territorial, EBY=Entidad Binacional Yacyretá, DINAC=Dirección Nacional de Aeronáutica Civil, MOC=Map of Content, COMUDIS=Comisión Municipal de Discapacidad, LCO=Licitación por Concurso de Ofertas, LPN=Licitación Pública Nacional, PE=Poder Ejecutivo, PPC=Partido Patria Querida, ANR=Asociación Nacional Republicana, PLRA=Partido Liberal Radical Auténtico, CV=Comisión Vecinal, OD=Orden del Día, PDS=Plan de Desarrollo Sustentable.
+
+CORRECCIÓN DE TYPOS PERMITIDA (solo nombres, ortografía clara):
+Concejales: Diego Aquino, Juan Augusto Lichi, Nehemías Cuevas, Keiji Ishibashi, Carlos Marino Fernández, Zulma Memmel, Natalia Enciso, Gloria Arregui, Andrés Morel, Fredy Ortega, Eduardo Florentín, Eduardo Rebruk.
+Intendente: Alfredo Luis Yd.
+
+REGLAS DE TIEMPO:
+- Referencias temporales vagas ("hace poco", "el año pasado", "ahora", "actualmente"): dejalas TAL CUAL. No inventes fechas.
+
+REGLA DE ORO:
+Si tenés DUDA sobre si cambiar algo, NO LO CAMBIES. Devolvé la pregunta original con changed=false.
+
+FORMATO DE SALIDA:
+Respondé SOLO con JSON: {"rewritten":"...","changed":true|false}. Sin explicaciones ni texto adicional.`;
 
 let dataPromise = null;
 
