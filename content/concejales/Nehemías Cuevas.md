@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-05-18
 
 **Lic. Nehemías Cuevas · Concejal — Pte saliente · ANR · Período 2021-2026**
 
-![Foto de Nehemías Cuevas](fotos/Nehem%C3%ADas%20Cuevas.jpg)
+![[concejales/fotos/Nehemías Cuevas.jpg|Foto de Nehemías Cuevas]]
 
 ## Resumen cuantitativo
 - Asistencia: presente en **152 sesiones plenarias** (90%); ausente en **17**. Rango: 2021-11-09 a 2025-04-30.

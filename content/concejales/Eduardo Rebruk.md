@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-05-18
 
 **Ing. Eduardo Rebruk · Concejal · ANR · Período 2021-2026**
 
-![Foto de Eduardo Rebruk](fotos/Eduardo%20Rebruk.jpg)
+![[concejales/fotos/Eduardo Rebruk.jpg|Foto de Eduardo Rebruk]]
 
 ## Resumen cuantitativo
 - Asistencia: presente en **159 sesiones plenarias** (93%); ausente en **12**. Rango: 2021-11-09 a 2025-04-30.

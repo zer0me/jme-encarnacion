@@ -353,7 +353,7 @@ def build_card(slug: str, persona: dict, docs: dict) -> str:
 
     photo = find_photo(slug)
     if photo:
-        parts += [f"![Foto de {slug}](fotos/{quote(photo)})", ""]
+        parts += [f"![[concejales/fotos/{photo}|Foto de {slug}]]", ""]
 
     parts += [
         "## Resumen cuantitativo",

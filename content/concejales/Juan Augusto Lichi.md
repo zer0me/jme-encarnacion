@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-05-18
 
 **Dr. Juan Augusto Lichi · Vicepresidente JM · ANR · Período 2021-2026**
 
-![Foto de Juan Augusto Lichi](fotos/Juan%20Augusto%20Lichi.jpg)
+![[concejales/fotos/Juan Augusto Lichi.jpg|Foto de Juan Augusto Lichi]]
 
 ## Resumen cuantitativo
 - Asistencia: presente en **146 sesiones plenarias** (83%); ausente en **30**. Rango: 2021-11-09 a 2025-04-30.

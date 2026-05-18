@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-05-18
 
 **Arq. Andrés Morel · Concejal · ANR · Período 2021-2026**
 
-![Foto de Andrés Morel](fotos/Andres%20Morel.jpg)
+![[concejales/fotos/Andres Morel.jpg|Foto de Andrés Morel]]
 
 ## Resumen cuantitativo
 - Asistencia: presente en **162 sesiones plenarias** (93%); ausente en **13**. Rango: 2021-11-09 a 2025-04-30.

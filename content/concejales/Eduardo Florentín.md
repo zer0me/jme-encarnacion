@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-05-18
 
 **Lic. Eduardo Florentín · Concejal · ANR · Período 2021-2026**
 
-![Foto de Eduardo Florentín](fotos/Eduardo%20Florent%C3%ADn.jpg)
+![[concejales/fotos/Eduardo Florentín.jpg|Foto de Eduardo Florentín]]
 
 ## Resumen cuantitativo
 - Asistencia: presente en **159 sesiones plenarias** (90%); ausente en **17**. Rango: 2021-11-09 a 2025-04-30.
