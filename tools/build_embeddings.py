@@ -26,7 +26,7 @@ OUT = DATA / "embeddings.json"
 ENV = REPO / "worker-preguntar" / ".env"
 
 MODEL = "@cf/baai/bge-m3"
-BATCH_SIZE = 25  # bge-m3 supports batched input
+BATCH_SIZE = 12  # bge-m3 context = 60K tokens; con MAX_TEXT_CHARS=6500 (~2K tok/doc) bajamos a 12 para tener headroom
 
 
 def load_env(path: Path) -> dict[str, str]:

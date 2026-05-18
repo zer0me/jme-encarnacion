@@ -44,9 +44,10 @@ INCLUDE_FOLDERS = [
     "normativa",
     "temas",
     "lugares",
+    "concejales",
 ]
 
-MAX_TEXT_CHARS = 4000
+MAX_TEXT_CHARS = 6500
 
 
 def split_frontmatter(text: str) -> tuple[dict | None, str]:
