@@ -19,6 +19,7 @@ description: Hacé preguntas en lenguaje natural al archivo de la Junta Municipa
 <div id="preguntar-status" class="preguntar-status" hidden></div>
 
 <div id="preguntar-respuesta" class="preguntar-respuesta" hidden>
+  <div id="preguntar-reformulada" class="preguntar-reformulada" hidden></div>
   <h2>Respuesta</h2>
   <div id="preguntar-respuesta-text" class="preguntar-respuesta-text"></div>
   <h3>Fuentes consultadas</h3>
@@ -26,7 +27,7 @@ description: Hacé preguntas en lenguaje natural al archivo de la Junta Municipa
 </div>
 
 <div class="preguntar-meta">
-  Motor: <code>Llama 3.3 70B</code> · Recuperación: embeddings <code>bge-m3</code> multilingual · Backend: Cloudflare Workers AI · Modo: extractivo (no sintetiza fuera del archivo).
+  Motor: <code>Llama 3.3 70B</code> · Recuperación híbrida: embeddings <code>bge-m3</code> + BM25 + RRF · Reranker: <code>bge-reranker-base</code> · Backend: Cloudflare Workers AI + Groq · Modo: extractivo (no sintetiza fuera del archivo).
 </div>
 
 <style>
@@ -149,6 +150,26 @@ description: Hacé preguntas en lenguaje natural al archivo de la Junta Municipa
   color: var(--gray);
   font-size: 0.88em;
   margin-left: 0.4em;
+}
+.preguntar-cita-snippet {
+  margin-top: 0.35em;
+  padding: 0.5em 0.7em;
+  background: var(--lightgray);
+  border-left: 3px solid var(--tertiary);
+  font-size: 0.9em;
+  line-height: 1.5;
+  color: var(--darkgray);
+  border-radius: 0 3px 3px 0;
+}
+.preguntar-reformulada {
+  margin-bottom: 1em;
+  padding: 0.6em 0.9em;
+  background: rgba(180, 180, 60, 0.08);
+  border-left: 3px solid var(--tertiary);
+  font-size: 0.9em;
+  color: var(--darkgray);
+  border-radius: 0 3px 3px 0;
+  font-style: italic;
 }
 .preguntar-meta {
   margin-top: 3em;
