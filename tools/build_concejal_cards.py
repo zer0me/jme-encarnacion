@@ -353,7 +353,17 @@ def build_card(slug: str, persona: dict, docs: dict) -> str:
 
     photo = find_photo(slug)
     if photo:
-        parts += [f"![[concejales/fotos/{photo}|Foto de {slug}]]", ""]
+        # Quartz slugifies asset filenames (spaces -> hyphens). Emit raw HTML
+        # img with a path that doesn't start with ./ or ../ so Quartz's
+        # normalizeRelativeURLs leaves it alone; the browser resolves it
+        # against the card's URL dir (which IS /concejales/, no trailing
+        # slash on GH Pages -> the wikilink form would mis-resolve to root).
+        photo_slug = photo.replace(" ", "-")
+        parts += [
+            f'<img src="fotos/{photo_slug}" alt="Foto de {slug}" '
+            f'class="concejal-foto" loading="lazy" />',
+            "",
+        ]
 
     parts += [
         "## Resumen cuantitativo",

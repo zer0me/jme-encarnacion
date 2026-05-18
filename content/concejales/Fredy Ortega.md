@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-05-18
 
 **Abog. Fredy Ortega · Concejal · ANR · Período 2021-2026**
 
-![[concejales/fotos/Fredy Ortega.jpg|Foto de Fredy Ortega]]
+<img src="fotos/Fredy-Ortega.jpg" alt="Foto de Fredy Ortega" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
 - Asistencia: presente en **166 sesiones plenarias** (96%); ausente en **7**. Rango: 2021-11-09 a 2025-04-23.

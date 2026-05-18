@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-05-18
 
 **Arq. Keiji Ishibashi · Concejal · Movimiento Ciudadanía Activa · Período 2021-2026**
 
-![[concejales/fotos/Keiji Ishibashi.jpg|Foto de Keiji Ishibashi]]
+<img src="fotos/Keiji-Ishibashi.jpg" alt="Foto de Keiji Ishibashi" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
 - Asistencia: presente en **157 sesiones plenarias** (90%); ausente en **17**. Rango: 2021-11-09 a 2025-04-30.

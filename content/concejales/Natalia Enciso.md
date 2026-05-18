@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-05-18
 
 **Lic. Natalia Enciso · Concejal · PLRA · Período 2021-2026**
 
-![[concejales/fotos/Natalia Enciso.jpg|Foto de Natalia Enciso]]
+<img src="fotos/Natalia-Enciso.jpg" alt="Foto de Natalia Enciso" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
 - Asistencia: presente en **164 sesiones plenarias** (95%); ausente en **9**. Rango: 2021-11-09 a 2025-04-23.

@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-05-18
 
 **Abog. Carlos Marino Fernández · Concejal · PLRA · Período 2021-2026**
 
-![[concejales/fotos/Carlos Marino Fernández.jpg|Foto de Carlos Marino Fernández]]
+<img src="fotos/Carlos-Marino-Fernández.jpg" alt="Foto de Carlos Marino Fernández" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
 - Asistencia: presente en **170 sesiones plenarias** (97%); ausente en **6**. Rango: 2021-11-09 a 2025-04-30.

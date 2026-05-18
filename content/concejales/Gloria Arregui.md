@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-05-18
 
 **Dra. Gloria Arregui · Concejal · PLRA · Período 2021-2026**
 
-![[concejales/fotos/Gloria Arregui.jpg|Foto de Gloria Arregui]]
+<img src="fotos/Gloria-Arregui.jpg" alt="Foto de Gloria Arregui" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
 - Asistencia: presente en **170 sesiones plenarias** (97%); ausente en **6**. Rango: 2021-11-09 a 2025-04-30.
