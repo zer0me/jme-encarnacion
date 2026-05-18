@@ -7,7 +7,8 @@ const ALLOWED_ORIGINS = [
 const TOP_K_VECTOR = 20;
 const TOP_K_BM25 = 20;
 const TOP_K_FUSED = 20;
-const TOP_K_FINAL = 8;
+const TOP_K_FINAL = 6;
+const CONTEXT_DOC_MAX_CHARS = 2000;
 const RRF_K = 60;
 const RATE_LIMIT_PER_HOUR = 10;
 const CACHE_TTL_SECONDS = 7 * 24 * 3600;
@@ -339,7 +340,9 @@ function buildContext(topResults, docs) {
   return topResults
     .map(({ idx }) => {
       const d = docs[idx];
-      return `=== ${d.titulo} ===\nTipo: ${d.tipo}${d.fecha ? ` | Fecha: ${d.fecha}` : ""}\n\n${d.text}`;
+      const text = (d.text || "").slice(0, CONTEXT_DOC_MAX_CHARS);
+      const truncated = (d.text || "").length > CONTEXT_DOC_MAX_CHARS ? "…" : "";
+      return `=== ${d.titulo} ===\nTipo: ${d.tipo}${d.fecha ? ` | Fecha: ${d.fecha}` : ""}\n\n${text}${truncated}`;
     })
     .join("\n\n---\n\n");
 }
@@ -549,7 +552,7 @@ export default {
             { role: "system", content: systemMsg },
             { role: "user", content: query },
           ],
-          max_tokens: 800,
+          max_tokens: 600,
           temperature: 0.1,
         }),
       });
