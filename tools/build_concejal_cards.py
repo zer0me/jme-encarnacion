@@ -353,15 +353,14 @@ def build_card(slug: str, persona: dict, docs: dict) -> str:
 
     photo = find_photo(slug)
     if photo:
-        # Quartz rewrites relative img srcs ("./", "../", or path/relative)
-        # based on an assumed trailing-slash URL, which GH Pages doesn't
-        # serve — so any relative form mis-resolves. Absolute URL with the
-        # site basePath bypasses Quartz's rewriter (isRelativeURL requires
-        # a leading "." or ".."). Quartz slugifies asset filenames at copy
-        # time: spaces -> "-", accents preserved.
+        # Quartz's CrawlLinks rewrites any img src that isn't `isAbsoluteUrl`
+        # (i.e. lacking protocol), even root-relative `/...` paths. To avoid
+        # that mangling we use a full https URL — `isAbsoluteUrl` returns
+        # true and Quartz leaves the src alone. Asset filename slugified
+        # (spaces -> "-") to match what Quartz writes on disk.
         photo_slug = photo.replace(" ", "-")
         parts += [
-            f'<img src="/jme-encarnacion/concejales/fotos/{photo_slug}" '
+            f'<img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/{photo_slug}" '
             f'alt="Foto de {slug}" class="concejal-foto" loading="lazy" />',
             "",
         ]

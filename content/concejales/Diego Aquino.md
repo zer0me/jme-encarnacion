@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-05-18
 
 **Abog. Diego Aquino · Presidente JM · ANR · Período 2021-2026**
 
-<img src="/jme-encarnacion/concejales/fotos/Diego-Aquino.jpg" alt="Foto de Diego Aquino" class="concejal-foto" loading="lazy" />
+<img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Diego-Aquino.jpg" alt="Foto de Diego Aquino" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
 - Asistencia: presente en **163 sesiones plenarias** (96%); ausente en **7**. Rango: 2021-11-09 a 2025-04-30.
