@@ -8,7 +8,7 @@ const TOP_K_VECTOR = 20;
 const TOP_K_BM25 = 20;
 const TOP_K_FUSED = 20;
 const TOP_K_FINAL = 6;
-const CONTEXT_DOC_MAX_CHARS = 2000;
+const CONTEXT_DOC_MAX_CHARS = 4000;
 const RRF_K = 60;
 const RATE_LIMIT_PER_HOUR = 10;
 const CACHE_TTL_SECONDS = 7 * 24 * 3600;
@@ -462,7 +462,7 @@ export default {
       const tRewrite = Date.now() - t0;
 
       // 2. Cache lookup (sobre rewritten + lowercased)
-      const cacheKeyRaw = `v4|${normalize(searchQuery)}`;
+      const cacheKeyRaw = `v6|${normalize(searchQuery)}`;
       const cacheKey = `https://internal-cache/preguntar/${await sha256Hex(cacheKeyRaw)}`;
       const cacheReq = new Request(cacheKey);
 
