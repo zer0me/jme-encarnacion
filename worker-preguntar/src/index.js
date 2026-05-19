@@ -22,6 +22,25 @@ const MODEL_RERANK = "@cf/baai/bge-reranker-base";
 const GROQ_URL = "https://api.groq.com/openai/v1/chat/completions";
 const SITE_BASE_URL = "https://zer0me.github.io/jme-encarnacion";
 
+// Replica de Quartz `sluggify` (quartz/util/path.ts) — convierte un d.url de la
+// forma "actas/2025-04-23 - Acta 167-2025#anchor" a la slug real del sitio
+// generado por Quartz. Sin esto, cualquier URL con espacios o `&` da 404.
+function quartzSlugify(rawPath) {
+  const [pathPart, fragment] = rawPath.split("#", 2);
+  const slugged = pathPart
+    .split("/")
+    .map((segment) =>
+      segment
+        .replace(/\s/g, "-")
+        .replace(/&/g, "-and-")
+        .replace(/%/g, "-percent")
+        .replace(/\?/g, "")
+        .replace(/#/g, ""),
+    )
+    .join("/");
+  return fragment ? `${slugged}#${fragment}` : slugged;
+}
+
 const SYSTEM_PROMPT = `Sos un asistente del Archivo público de la Junta Municipal de Encarnación.
 
 REGLAS:
@@ -462,7 +481,7 @@ export default {
       const tRewrite = Date.now() - t0;
 
       // 2. Cache lookup (sobre rewritten + lowercased)
-      const cacheKeyRaw = `v6|${normalize(searchQuery)}`;
+      const cacheKeyRaw = `v7|${normalize(searchQuery)}`;
       const cacheKey = `https://internal-cache/preguntar/${await sha256Hex(cacheKeyRaw)}`;
       const cacheReq = new Request(cacheKey);
 
@@ -576,7 +595,7 @@ export default {
           titulo: d.titulo,
           tipo: d.tipo,
           fecha: d.fecha,
-          url: `${SITE_BASE_URL}/${encodeURI(d.url)}`,
+          url: `${SITE_BASE_URL}/${encodeURI(quartzSlugify(d.url))}`,
           score: Math.round(score * 1000) / 1000,
           snippet: extractSnippet(d.text, queryTerms, 220),
         };
