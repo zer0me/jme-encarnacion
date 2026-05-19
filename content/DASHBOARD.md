@@ -403,13 +403,13 @@ Cada documento en `actas/`, `minutas/`, `resoluciones/` lleva en su frontmatter 
 
 | Carpeta | Items |
 |---|---:|
-| `actas/` | 176 |
+| `actas/` | 177 |
 | `minutas/` | 72 |
 | `resoluciones/` | 9 |
-| `informe-gestion/` | 4 |
-| `informe-2024/` | 3 |
-| `presupuesto/` | 1 |
-| **Total documentos curados** | **265** |
+| `informe-gestion/` | 5 |
+| `informe-2024/` | 4 |
+| `presupuesto/` | 2 |
+| **Total documentos curados** | **269** |
 | `personas/` | 88 |
 | `instituciones/` | 96 |
 | `empresas/` | 54 |
