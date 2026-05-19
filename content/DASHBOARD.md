@@ -151,7 +151,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 <div class="jme-concejales-grid">
 
-<div class="jme-concejal-card mini bloque-construir">
+<div class="jme-concejal-card mini">
 
 **[[Diego Aquino]]**
 <small>Presidente JM · ANR</small>
@@ -164,7 +164,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 </div>
 
-<div class="jme-concejal-card mini bloque-pivote">
+<div class="jme-concejal-card mini">
 
 **[[Juan Augusto Lichi]]**
 <small>Vicepresidente JM · ANR</small>
@@ -177,7 +177,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 </div>
 
-<div class="jme-concejal-card mini bloque-construir">
+<div class="jme-concejal-card mini">
 
 **[[Nehemías Cuevas]]**
 <small>Concejal — Pte saliente · ANR</small>
@@ -190,7 +190,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 </div>
 
-<div class="jme-concejal-card mini bloque-construir">
+<div class="jme-concejal-card mini">
 
 **[[Keiji Ishibashi]]**
 <small>Concejal · Movimiento Ciudadanía Activa</small>
@@ -203,7 +203,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 </div>
 
-<div class="jme-concejal-card mini bloque-construir">
+<div class="jme-concejal-card mini">
 
 **[[Carlos Marino Fernández]]**
 <small>Concejal · PLRA</small>
@@ -216,7 +216,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 </div>
 
-<div class="jme-concejal-card mini bloque-construir">
+<div class="jme-concejal-card mini">
 
 **[[Zulma Memmel]]**
 <small>Concejal · Alianza Junta Integrada / PPC</small>
@@ -229,7 +229,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 </div>
 
-<div class="jme-concejal-card mini bloque-construir">
+<div class="jme-concejal-card mini">
 
 **[[Natalia Enciso]]**
 <small>Concejal · PLRA</small>
@@ -242,7 +242,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 </div>
 
-<div class="jme-concejal-card mini bloque-pivote">
+<div class="jme-concejal-card mini">
 
 **[[Gloria Arregui]]**
 <small>Concejal · PLRA</small>
@@ -255,7 +255,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 </div>
 
-<div class="jme-concejal-card mini bloque-contralor">
+<div class="jme-concejal-card mini">
 
 **[[Andrés Morel]]**
 <small>Concejal · ANR</small>
@@ -268,7 +268,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 </div>
 
-<div class="jme-concejal-card mini bloque-contralor">
+<div class="jme-concejal-card mini">
 
 **[[Fredy Ortega]]**
 <small>Concejal · ANR</small>
@@ -281,7 +281,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 </div>
 
-<div class="jme-concejal-card mini bloque-contralor">
+<div class="jme-concejal-card mini">
 
 **[[Eduardo Florentín]]**
 <small>Concejal · ANR</small>
@@ -294,7 +294,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 </div>
 
-<div class="jme-concejal-card mini bloque-contralor">
+<div class="jme-concejal-card mini">
 
 **[[Eduardo Rebruk]]**
 <small>Concejal · ANR</small>

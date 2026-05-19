@@ -20,26 +20,20 @@ Una tarjeta por cada uno de los **12 concejales** del período 2021-2026. Cada t
 - **Un rasgo cualitativo** que sintetiza el patrón político observado en el archivo (no es opinión: es la línea más distintiva extraída de actas, minutas o frases textuales).
 - **Tres votos clave nominales** documentados en actas: elección de Mesa Directiva (Acta 146-2024), conformación de Comisiones Asesoras 2025 (Acta 155-2025) y votación ambiental sobre cubiertas (Acta 156-2025).
 
-**Cómo leer los bloques de coalición:**
-
-- `bloque-construir` (color cálido) — coalición que llevó a Aquino a la presidencia el 30-oct-2024.
-- `bloque-pivote` (color neutro) — concejales con patrón de voto no alineado a un bloque fijo.
-- `bloque-contralor` (color frío) — bloque «mirar los papeles» liderado por Morel.
-
-La coalición «construir» **muta por eje temático** — hay 4 configuraciones documentadas. Ver [[MOC - Cambio Mesa Directiva 2024 y coaliciones por eje]] para el detalle.
+Para el detalle de coaliciones por eje temático y la mutación de la mayoría, ver [[MOC - Cambio Mesa Directiva 2024 y coaliciones por eje]].
 
 <!-- DASHBOARD:BEGIN tarjetas-concejales -->
 
 <div class="jme-concejales-grid full">
 
-<div class="jme-concejal-card full bloque-construir">
+<div class="jme-concejal-card full">
 
 <div class="jme-concejal-header">
-<div class="jme-concejal-avatar">DA</div>
+<img class="jme-concejal-avatar" src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Diego-Aquino.jpg" alt="Foto de Diego Aquino" loading="lazy" />
 <div class="jme-concejal-id">
 
 ### [[Diego Aquino]]
-<div class="jme-concejal-meta">Abog. Presidente JM · ANR · Bloque «construir»</div>
+<div class="jme-concejal-meta">Abog. Presidente JM · ANR</div>
 
 </div>
 </div>
@@ -84,14 +78,14 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-card full bloque-pivote">
+<div class="jme-concejal-card full">
 
 <div class="jme-concejal-header">
-<div class="jme-concejal-avatar">JA</div>
+<img class="jme-concejal-avatar" src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Juan-Augusto-Lichi.jpg" alt="Foto de Juan Augusto Lichi" loading="lazy" />
 <div class="jme-concejal-id">
 
 ### [[Juan Augusto Lichi]]
-<div class="jme-concejal-meta">Dr. Vicepresidente JM · ANR · Bloque «pivote»</div>
+<div class="jme-concejal-meta">Dr. Vicepresidente JM · ANR</div>
 
 </div>
 </div>
@@ -136,14 +130,14 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-card full bloque-construir">
+<div class="jme-concejal-card full">
 
 <div class="jme-concejal-header">
-<div class="jme-concejal-avatar">NC</div>
+<img class="jme-concejal-avatar" src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Nehemías-Cuevas.jpg" alt="Foto de Nehemías Cuevas" loading="lazy" />
 <div class="jme-concejal-id">
 
 ### [[Nehemías Cuevas]]
-<div class="jme-concejal-meta">Lic. Concejal — Pte saliente · ANR · Bloque «construir»</div>
+<div class="jme-concejal-meta">Lic. Concejal — Pte saliente · ANR</div>
 
 </div>
 </div>
@@ -188,14 +182,14 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-card full bloque-construir">
+<div class="jme-concejal-card full">
 
 <div class="jme-concejal-header">
-<div class="jme-concejal-avatar">KI</div>
+<img class="jme-concejal-avatar" src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Keiji-Ishibashi.jpg" alt="Foto de Keiji Ishibashi" loading="lazy" />
 <div class="jme-concejal-id">
 
 ### [[Keiji Ishibashi]]
-<div class="jme-concejal-meta">Arq. Concejal · Movimiento Ciudadanía Activa · Bloque «construir»</div>
+<div class="jme-concejal-meta">Arq. Concejal · Movimiento Ciudadanía Activa</div>
 <div class="jme-concejal-apodos">Apodo: Keiji</div>
 
 </div>
@@ -241,14 +235,14 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-card full bloque-construir">
+<div class="jme-concejal-card full">
 
 <div class="jme-concejal-header">
-<div class="jme-concejal-avatar">CM</div>
+<img class="jme-concejal-avatar" src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Carlos-Marino-Fernández.jpg" alt="Foto de Carlos Marino Fernández" loading="lazy" />
 <div class="jme-concejal-id">
 
 ### [[Carlos Marino Fernández]]
-<div class="jme-concejal-meta">Abog. Concejal · PLRA · Bloque «construir»</div>
+<div class="jme-concejal-meta">Abog. Concejal · PLRA</div>
 
 </div>
 </div>
@@ -293,14 +287,14 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-card full bloque-construir">
+<div class="jme-concejal-card full">
 
 <div class="jme-concejal-header">
-<div class="jme-concejal-avatar">ZM</div>
+<img class="jme-concejal-avatar" src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Zulma-Memmel.jpg" alt="Foto de Zulma Memmel" loading="lazy" />
 <div class="jme-concejal-id">
 
 ### [[Zulma Memmel]]
-<div class="jme-concejal-meta">Abog. Concejal · Alianza Junta Integrada / PPC · Bloque «construir»</div>
+<div class="jme-concejal-meta">Abog. Concejal · Alianza Junta Integrada / PPC</div>
 
 </div>
 </div>
@@ -345,14 +339,14 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-card full bloque-construir">
+<div class="jme-concejal-card full">
 
 <div class="jme-concejal-header">
-<div class="jme-concejal-avatar">NE</div>
+<img class="jme-concejal-avatar" src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Natalia-Enciso.jpg" alt="Foto de Natalia Enciso" loading="lazy" />
 <div class="jme-concejal-id">
 
 ### [[Natalia Enciso]]
-<div class="jme-concejal-meta">Lic. Concejal · PLRA · Bloque «construir»</div>
+<div class="jme-concejal-meta">Lic. Concejal · PLRA</div>
 
 </div>
 </div>
@@ -397,14 +391,14 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-card full bloque-pivote">
+<div class="jme-concejal-card full">
 
 <div class="jme-concejal-header">
-<div class="jme-concejal-avatar">GA</div>
+<img class="jme-concejal-avatar" src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Gloria-Arregui.jpg" alt="Foto de Gloria Arregui" loading="lazy" />
 <div class="jme-concejal-id">
 
 ### [[Gloria Arregui]]
-<div class="jme-concejal-meta">Dra. Concejal · PLRA · Bloque «pivote»</div>
+<div class="jme-concejal-meta">Dra. Concejal · PLRA</div>
 
 </div>
 </div>
@@ -449,14 +443,14 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-card full bloque-contralor">
+<div class="jme-concejal-card full">
 
 <div class="jme-concejal-header">
-<div class="jme-concejal-avatar">AM</div>
+<img class="jme-concejal-avatar" src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Andres-Morel.jpg" alt="Foto de Andrés Morel" loading="lazy" />
 <div class="jme-concejal-id">
 
 ### [[Andrés Morel]]
-<div class="jme-concejal-meta">Arq. Concejal · ANR · Bloque «contralor»</div>
+<div class="jme-concejal-meta">Arq. Concejal · ANR</div>
 <div class="jme-concejal-apodos">Apodo: Andy</div>
 
 </div>
@@ -502,14 +496,14 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-card full bloque-contralor">
+<div class="jme-concejal-card full">
 
 <div class="jme-concejal-header">
-<div class="jme-concejal-avatar">FO</div>
+<img class="jme-concejal-avatar" src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Fredy-Ortega.jpg" alt="Foto de Fredy Ortega" loading="lazy" />
 <div class="jme-concejal-id">
 
 ### [[Fredy Ortega]]
-<div class="jme-concejal-meta">Abog. Concejal · ANR · Bloque «contralor»</div>
+<div class="jme-concejal-meta">Abog. Concejal · ANR</div>
 
 </div>
 </div>
@@ -554,14 +548,14 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-card full bloque-contralor">
+<div class="jme-concejal-card full">
 
 <div class="jme-concejal-header">
-<div class="jme-concejal-avatar">EF</div>
+<img class="jme-concejal-avatar" src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Eduardo-Florentín.jpg" alt="Foto de Eduardo Florentín" loading="lazy" />
 <div class="jme-concejal-id">
 
 ### [[Eduardo Florentín]]
-<div class="jme-concejal-meta">Lic. Concejal · ANR · Bloque «contralor»</div>
+<div class="jme-concejal-meta">Lic. Concejal · ANR</div>
 
 </div>
 </div>
@@ -606,14 +600,14 @@ La coalición «construir» **muta por eje temático** — hay 4 configuraciones
 
 </div>
 
-<div class="jme-concejal-card full bloque-contralor">
+<div class="jme-concejal-card full">
 
 <div class="jme-concejal-header">
-<div class="jme-concejal-avatar">ER</div>
+<img class="jme-concejal-avatar" src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Eduardo-Rebruk.jpg" alt="Foto de Eduardo Rebruk" loading="lazy" />
 <div class="jme-concejal-id">
 
 ### [[Eduardo Rebruk]]
-<div class="jme-concejal-meta">Ing. Concejal · ANR · Bloque «contralor»</div>
+<div class="jme-concejal-meta">Ing. Concejal · ANR</div>
 
 </div>
 </div>

@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 import yaml
@@ -26,6 +27,36 @@ import yaml
 VAULT = Path("G:/Mi unidad/JME")
 DASHBOARD = VAULT / "DASHBOARD.md"
 CONCEJALES_PAGE = VAULT / "concejales" / "index.md"
+PHOTO_DIR = VAULT / "concejales" / "fotos"
+PHOTO_EXTS = (".jpg", ".jpeg", ".png", ".webp")
+SITE_BASE = "https://zer0me.github.io/jme-encarnacion"
+
+
+def _strip_accents(s: str) -> str:
+    return "".join(
+        c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn"
+    )
+
+
+def _find_photo_url(slug: str) -> str | None:
+    """Return the Quartz-served URL for the concejal's photo, or None."""
+    if not PHOTO_DIR.exists():
+        return None
+    target = None
+    for ext in PHOTO_EXTS:
+        candidate = PHOTO_DIR / f"{slug}{ext}"
+        if candidate.exists():
+            target = candidate.name
+            break
+    if target is None:
+        slug_ascii = _strip_accents(slug).lower()
+        for f in PHOTO_DIR.iterdir():
+            if f.suffix.lower() in PHOTO_EXTS and _strip_accents(f.stem).lower() == slug_ascii:
+                target = f.name
+                break
+    if target is None:
+        return None
+    return f"{SITE_BASE}/concejales/fotos/{target.replace(' ', '-')}"
 
 DOC_FOLDERS = [
     "actas",
@@ -244,7 +275,6 @@ def read_concejal(name: str, authorship: dict[str, dict[str, int]]) -> dict | No
         "apodos": [a for a in (fm.get("apodos") or []) if isinstance(a, str) and a.strip()],
         "cargo": fm.get("cargo", "—"),
         "bancada": fm.get("bancada", "s/d"),
-        "bloque": fm.get("bloque", "—"),
         "rasgo": fm.get("rasgo", ""),
         "votos_clave": fm.get("votos_clave") or [],
         "apariciones": fm.get("apariciones", 0),
@@ -312,12 +342,11 @@ def build_grilla_concejales() -> str:
     out: list[str] = ['<div class="jme-concejales-grid">', ""]
 
     for c in concejales:
-        bloque = c["bloque"]
         ratio_total = c["presente"] + c["ausente"]
         asis = f'{c["asistencia_pct"]}%' if ratio_total > 0 else "—"
         ratio = f'{c["presente"]}/{ratio_total}' if ratio_total > 0 else "—"
 
-        out.append(f'<div class="jme-concejal-card mini bloque-{bloque}">')
+        out.append('<div class="jme-concejal-card mini">')
         out.append("")
         out.append(f'**[[{c["slug"]}]]**')
         out.append(f'<small>{_cargo_line(c)}</small>')
@@ -345,25 +374,30 @@ def build_tarjetas_concejales() -> str:
     out: list[str] = ['<div class="jme-concejales-grid full">', ""]
 
     for c in concejales:
-        bloque = c["bloque"]
         ratio_total = c["presente"] + c["ausente"]
         asis = f'{c["asistencia_pct"]}%' if ratio_total > 0 else "—"
         ratio_sub = f'{c["presente"]}/{ratio_total}' if ratio_total > 0 else "—"
 
         bancada_str = "" if c["bancada"] in ("s/d", "—", "", None) else f' · {c["bancada"]}'
-        bloque_str = "" if bloque in ("—", "", None) else f' · Bloque «{bloque}»'
         titulo_prefix = (c.get("titulo", "").strip() + " ") if c.get("titulo") else ""
-        meta_line = f'{titulo_prefix}{c["cargo"]}{bancada_str}{bloque_str}'.strip()
+        meta_line = f'{titulo_prefix}{c["cargo"]}{bancada_str}'.strip()
         apodos_line = _apodos_line(c)
 
         votos = c["votos_clave"]
         votos_count = len(votos)
 
-        out.append(f'<div class="jme-concejal-card full bloque-{bloque}">')
+        out.append('<div class="jme-concejal-card full">')
         out.append("")
-        # Header con avatar de iniciales + identidad
+        # Header con foto (o iniciales como fallback) + identidad
         out.append('<div class="jme-concejal-header">')
-        out.append(f'<div class="jme-concejal-avatar">{_initials(c["slug"])}</div>')
+        photo_url = _find_photo_url(c["slug"])
+        if photo_url:
+            out.append(
+                f'<img class="jme-concejal-avatar" src="{photo_url}" '
+                f'alt="Foto de {c["slug"]}" loading="lazy" />'
+            )
+        else:
+            out.append(f'<div class="jme-concejal-avatar">{_initials(c["slug"])}</div>')
         out.append('<div class="jme-concejal-id">')
         out.append("")
         out.append(f'### [[{c["slug"]}]]')

@@ -235,17 +235,6 @@
     line-height: 1.4;
   }
 
-  // Bloques de coalición — color del border-left
-  &.bloque-construir {
-    border-left-color: var(--tertiary); // mostaza
-  }
-  &.bloque-pivote {
-    border-left-color: var(--gray);
-  }
-  &.bloque-contralor {
-    border-left-color: var(--secondary); // navy
-  }
-
   // Versión full (página /concejales)
   &.full {
     padding: 1.5rem 1.5rem 1.25rem;
@@ -261,8 +250,8 @@
 
     .jme-concejal-avatar {
       flex: 0 0 auto;
-      width: 48px;
-      height: 48px;
+      width: 64px;
+      height: 64px;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -270,9 +259,10 @@
       color: var(--light);
       font-family: var(--headerFont);
       font-weight: 700;
-      font-size: 1.15rem;
+      font-size: 1.3rem;
       border-radius: 50%;
       letter-spacing: 0.02em;
+      object-fit: cover; // recorta foto al circulo manteniendo proporción
     }
 
     .jme-concejal-id {
