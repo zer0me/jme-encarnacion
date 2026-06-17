@@ -481,7 +481,7 @@ export default {
       const tRewrite = Date.now() - t0;
 
       // 2. Cache lookup (sobre rewritten + lowercased)
-      const cacheKeyRaw = `v7|${normalize(searchQuery)}`;
+      const cacheKeyRaw = `v8|${normalize(searchQuery)}`;
       const cacheKey = `https://internal-cache/preguntar/${await sha256Hex(cacheKeyRaw)}`;
       const cacheReq = new Request(cacheKey);
 

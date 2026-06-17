@@ -46,6 +46,7 @@ INCLUDE_FOLDERS = [
     "lugares",
     "concejales",
     "dictamenes",
+    "orden-del-dia",
 ]
 
 MAX_TEXT_CHARS = 6500

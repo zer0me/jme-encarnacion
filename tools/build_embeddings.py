@@ -93,6 +93,10 @@ def main() -> int:
     print(f"Embedando {len(docs)} docs en batches de {BATCH_SIZE}...")
 
     resume = "--resume" in sys.argv
+    limit = None  # tope de docs nuevos a embedar en esta corrida (fraccionar quota)
+    for a in sys.argv:
+        if a.startswith("--limit="):
+            limit = int(a.split("=", 1)[1])
     existing = []
     if resume and OUT.exists():
         existing = json.loads(OUT.read_text(encoding="utf-8"))
@@ -138,6 +142,18 @@ def main() -> int:
                 json.dumps(embeddings, separators=(",", ":")),
                 encoding="utf-8",
             )
+
+        if limit is not None and (len(embeddings) - start) >= limit:
+            OUT.write_text(
+                json.dumps(embeddings, separators=(",", ":")),
+                encoding="utf-8",
+            )
+            print(
+                f"Tanda completada: +{len(embeddings) - start} nuevos "
+                f"({len(embeddings)}/{len(docs)} total). "
+                f"Continuar con: python tools/build_embeddings.py --resume --limit={limit}"
+            )
+            return 0
 
     OUT.write_text(
         json.dumps(embeddings, separators=(",", ":")),

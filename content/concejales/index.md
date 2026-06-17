@@ -48,8 +48,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">3</div>
-<div class="jme-stat-label">Propuestas<br><small>0 autor · 3 secunda</small></div>
+<div class="jme-stat-value">11</div>
+<div class="jme-stat-label">Propuestas<br><small>6 autor · 5 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -100,8 +100,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">2</div>
-<div class="jme-stat-label">Propuestas<br><small>1 autor · 1 secunda</small></div>
+<div class="jme-stat-value">11</div>
+<div class="jme-stat-label">Propuestas<br><small>10 autor · 1 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -205,8 +205,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">71</div>
-<div class="jme-stat-label">Propuestas<br><small>71 autor · 0 secunda</small></div>
+<div class="jme-stat-value">76</div>
+<div class="jme-stat-label">Propuestas<br><small>76 autor · 0 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -257,8 +257,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">14</div>
-<div class="jme-stat-label">Propuestas<br><small>0 autor · 14 secunda</small></div>
+<div class="jme-stat-value">16</div>
+<div class="jme-stat-label">Propuestas<br><small>2 autor · 14 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -309,8 +309,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">33</div>
-<div class="jme-stat-label">Propuestas<br><small>0 autor · 33 secunda</small></div>
+<div class="jme-stat-value">35</div>
+<div class="jme-stat-label">Propuestas<br><small>1 autor · 34 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -361,8 +361,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">3</div>
-<div class="jme-stat-label">Propuestas<br><small>0 autor · 3 secunda</small></div>
+<div class="jme-stat-value">11</div>
+<div class="jme-stat-label">Propuestas<br><small>8 autor · 3 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -413,8 +413,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">10</div>
-<div class="jme-stat-label">Propuestas<br><small>0 autor · 10 secunda</small></div>
+<div class="jme-stat-value">22</div>
+<div class="jme-stat-label">Propuestas<br><small>12 autor · 10 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -466,8 +466,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">4</div>
-<div class="jme-stat-label">Propuestas<br><small>1 autor · 3 secunda</small></div>
+<div class="jme-stat-value">9</div>
+<div class="jme-stat-label">Propuestas<br><small>6 autor · 3 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -518,8 +518,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">4</div>
-<div class="jme-stat-label">Propuestas<br><small>1 autor · 3 secunda</small></div>
+<div class="jme-stat-value">10</div>
+<div class="jme-stat-label">Propuestas<br><small>7 autor · 3 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -570,8 +570,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">5</div>
-<div class="jme-stat-label">Propuestas<br><small>3 autor · 2 secunda</small></div>
+<div class="jme-stat-value">15</div>
+<div class="jme-stat-label">Propuestas<br><small>12 autor · 3 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -622,8 +622,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">2</div>
-<div class="jme-stat-label">Propuestas<br><small>0 autor · 2 secunda</small></div>
+<div class="jme-stat-value">8</div>
+<div class="jme-stat-label">Propuestas<br><small>6 autor · 2 secunda</small></div>
 </div>
 
 <div class="jme-stat">

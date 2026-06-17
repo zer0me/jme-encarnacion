@@ -10,3 +10,10 @@ private/
 .replit
 replit.nix
 .gstack/
+
+# Staging de descargas para revisión (no versionar)
+.staging/
+.drive_inventory.txt
+.compare_drive.py
+.analyze_heavy.py
+.jpg2pdf_poc.py
