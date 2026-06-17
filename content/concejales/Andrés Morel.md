@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Andrés Morel"
 bancada: ANR
 period: 2021-2026
-fecha_actualizacion: 2026-05-18
+fecha_actualizacion: 2026-06-17
 ---
 
 # Andrés Morel — Tarjeta de desempeño
@@ -15,30 +15,35 @@ fecha_actualizacion: 2026-05-18
 
 ## Resumen cuantitativo
 - Asistencia: presente en **162 sesiones plenarias** (93%); ausente en **13**. Rango: 2021-11-09 a 2025-04-30.
-- Productividad legislativa: **0 minutas como autor · 3 minutas como secunda · 1 resolución como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **4**.
+- Productividad legislativa: **0 minutas como autor · 3 minutas como secunda · 6 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **9**.
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
+- **reconocimiento** (4): [[2022-10-05 - Resolución 277-2022]], [[2022-05-18 - Resolución 134-2022]], [[2022-01-31 - Resolución 47-2022]], [[2021-11-17 - Resolución 05-2021]]
+- **cultura** (3): [[2022-05-18 - Resolución 134-2022]], [[2022-01-31 - Resolución 47-2022]], [[2021-11-24 - Resolución 11-2021]]
+- **declaracion-interes-municipal** (2): [[2022-10-05 - Resolución 280-2022]], [[2021-11-24 - Resolución 11-2021]]
+- **interes-municipal** (2): [[2022-05-18 - Resolución 134-2022]], [[2021-11-17 - Minuta 4]]
+- **juventud** (2): [[2022-10-05 - Resolución 277-2022]], [[2021-11-17 - Resolución 05-2021]]
 - **medio-ambiente** (2): [[2022-06-15 - Minuta 41]], [[2021-11-17 - Minuta 4]]
 - **agua** (1): [[2021-11-17 - Minuta 4]]
 - **areas-silvestres-protegidas** (1): [[2022-06-15 - Minuta 41]]
+- **comunidad-armenia** (1): [[2022-01-31 - Resolución 47-2022]]
 - **costanera** (1): [[2022-05-25 - Minuta 34]]
-- **cultura** (1): [[2021-11-24 - Resolución 11-2021]]
-- **declaracion-interes-municipal** (1): [[2021-11-24 - Resolución 11-2021]]
+- **deporte** (1): [[2022-10-05 - Resolución 277-2022]]
 - **diseno-urbano** (1): [[2022-05-25 - Minuta 34]]
 - **distrito-ecologico** (1): [[2022-06-15 - Minuta 41]]
-- **guyra-paraguay** (1): [[2022-06-15 - Minuta 41]]
-- **infraestructura-vial** (1): [[2022-05-25 - Minuta 34]]
-- **interes-municipal** (1): [[2021-11-17 - Minuta 4]]
-- **investigacion-cientifica** (1): [[2021-11-17 - Minuta 4]]
-- **plan-encarnacion-mas** (1): [[2022-06-15 - Minuta 41]]
-- **planes-de-manejo** (1): [[2022-06-15 - Minuta 41]]
-- **recursos-hidricos** (1): [[2021-11-17 - Minuta 4]]
-- _(+ 5 temas adicionales con menor frecuencia)_
+- **educacion** (1): [[2021-11-17 - Resolución 05-2021]]
+- **evento-solidario** (1): [[2022-10-05 - Resolución 280-2022]]
+- _(+ 21 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
-### Como autor (1)
+### Como autor (6)
+- 2022-10-05 · [[2022-10-05 - Resolución 277-2022]] · reconocimiento, deporte, mencion-especial, natacion, juventud
+- 2022-10-05 · [[2022-10-05 - Resolución 280-2022]] · declaracion-interes-municipal, evento-solidario, rotary-club, salud
+- 2022-05-18 · [[2022-05-18 - Resolución 134-2022]] · interes-municipal, cultura, musica, folclore, reconocimiento
+- 2022-01-31 · [[2022-01-31 - Resolución 47-2022]] · reconocimiento, cultura, ykua-san-blas, sitio-historico, comunidad-armenia, hermoseamiento
 - 2021-11-24 · [[2021-11-24 - Resolución 11-2021]] · cultura, declaracion-interes-municipal, violencia-mujer, teatro
+- 2021-11-17 · [[2021-11-17 - Resolución 05-2021]] · reconocimiento, educacion, matematica, juventud
 
 ### Como secunda (0)
 Andrés Morel no figura como secunda de ninguna resolución entre 2021 y 2025.

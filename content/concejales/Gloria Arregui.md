@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Gloria Arregui"
 bancada: PLRA
 period: 2021-2026
-fecha_actualizacion: 2026-05-18
+fecha_actualizacion: 2026-06-17
 ---
 
 # Gloria Arregui — Tarjeta de desempeño
@@ -15,30 +15,41 @@ fecha_actualizacion: 2026-05-18
 
 ## Resumen cuantitativo
 - Asistencia: presente en **170 sesiones plenarias** (97%); ausente en **6**. Rango: 2021-11-09 a 2025-04-30.
-- Productividad legislativa: **0 minutas como autor · 10 minutas como secunda · 0 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **10**.
+- Productividad legislativa: **0 minutas como autor · 10 minutas como secunda · 12 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **22**.
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
+- **reconocimiento** (9): [[2022-11-01 - Minuta 68]], [[2022-09-07 - Resolución 251-2022]], [[2022-07-13 - Resolución 186-2022]], [[2022-05-18 - Resolución 136-2022]] (+ 5 más)
+- **cultura** (6): [[2022-09-07 - Resolución 250-2022]], [[2022-05-18 - Resolución 136-2022]], [[2022-05-04 - Resolución 120-2022]], [[2022-02-09 - Resolución 60-2022]] (+ 2 más)
+- **juventud** (5): [[2022-11-01 - Minuta 68]], [[2022-07-13 - Resolución 186-2022]], [[2022-05-18 - Resolución 136-2022]], [[2021-12-01 - Resolución 23-2021]] (+ 1 más)
+- **mencion-especial** (4): [[2022-09-07 - Resolución 251-2022]], [[2022-05-04 - Resolución 120-2022]], [[2021-11-24 - Resolución 09-2021]], [[2021-11-24 - Resolución 10-2021]]
+- **educacion** (3): [[2022-07-13 - Resolución 186-2022]], [[2021-12-01 - Resolución 23-2021]], [[2021-11-24 - Resolución 09-2021]]
+- **deporte** (2): [[2022-11-01 - Minuta 68]], [[2022-06-01 - Resolución 148-2022]]
+- **interes-municipal** (2): [[2021-12-15 - Resolución 36-2021]], [[2021-12-09 - Resolución 31-2021]]
+- **matematica** (2): [[2022-07-13 - Resolución 186-2022]], [[2021-12-01 - Resolución 23-2021]]
+- **mencion-reconocimiento** (2): [[2022-09-07 - Resolución 250-2022]], [[2022-06-01 - Resolución 148-2022]]
 - **plan-encarnacion-mas** (2): [[2023-09-19 - Minuta 107]], [[2023-08-16 - Minuta - Proyecto Ordenanza Espacio Encarnación Más]]
+- **turismo** (2): [[2023-11-13 - Minuta 113]], [[2021-12-09 - Resolución 31-2021]]
 - **area-verde-barrio-la-paz** (1): [[2025-07-19 - Minuta 142]]
 - **areas-verdes** (1): [[2022-11-01 - Minuta 66]]
-- **basquet-sub-13** (1): [[2025-07-15 - Minuta 137]]
-- **calendarizacion-proyectos** (1): [[2023-10-03 - Minuta 109]]
-- **centro-de-convenciones** (1): [[2023-09-19 - Minuta 107]]
-- **club-pettirossi** (1): [[2025-07-15 - Minuta 137]]
-- **cmdu** (1): [[2023-08-16 - Minuta - Proyecto Ordenanza Espacio Encarnación Más]]
-- **comerciantes** (1): [[2023-06-20 - Minuta 91]]
-- **concurso-nacional-anteproyecto** (1): [[2023-09-19 - Minuta 107]]
-- **consejo-municipal-desarrollo-urbano** (1): [[2023-08-16 - Minuta - Proyecto Ordenanza Espacio Encarnación Más]]
-- **costanera** (1): [[2022-11-01 - Minuta 66]]
-- **deporte** (1): [[2022-11-01 - Minuta 68]]
-- **edificabilidad** (1): [[2023-10-03 - Minuta 109]]
-- **educacion-cultural** (1): [[2023-06-20 - Minuta 90 - Convenio SNC Audiovisual]]
-- _(+ 44 temas adicionales con menor frecuencia)_
+- **arte** (1): [[2022-09-07 - Resolución 250-2022]]
+- **asociacion-femenina** (1): [[2022-09-07 - Resolución 251-2022]]
+- _(+ 73 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
-### Como autor (0)
-Gloria Arregui no figura como autor de ninguna resolución entre 2021 y 2025.
+### Como autor (12)
+- 2022-09-07 · [[2022-09-07 - Resolución 250-2022]] · mencion-reconocimiento, cultura, arte, educacion-artistica
+- 2022-09-07 · [[2022-09-07 - Resolución 251-2022]] · reconocimiento, deportes, padel, asociacion-femenina, mencion-especial
+- 2022-07-13 · [[2022-07-13 - Resolución 186-2022]] · reconocimiento, educacion, matematica, juventud, olimpiada-internacional
+- 2022-06-01 · [[2022-06-01 - Resolución 148-2022]] · mencion-reconocimiento, deporte, futbol-playa, atleta-encarnaceno
+- 2022-05-18 · [[2022-05-18 - Resolución 136-2022]] · reconocimiento, cultura, danza, internacional, juventud
+- 2022-05-04 · [[2022-05-04 - Resolución 120-2022]] · reconocimiento, cultura, festival-de-teatro, mencion-especial
+- 2022-02-09 · [[2022-02-09 - Resolución 60-2022]] · reconocimiento, cultura, evento-artistico, fuego-sobre-agua, pro-teatro
+- 2021-12-15 · [[2021-12-15 - Resolución 36-2021]] · interes-municipal, medio-ambiente, salud, minga-ambiental, dengue
+- 2021-12-09 · [[2021-12-09 - Resolución 31-2021]] · interes-municipal, cultura, emprendedores, turismo, gastronomia
+- 2021-12-01 · [[2021-12-01 - Resolución 23-2021]] · reconocimiento, educacion, matematica, juventud
+- 2021-11-24 · [[2021-11-24 - Resolución 09-2021]] · reconocimiento, ciencia, investigacion, mencion-especial, educacion
+- 2021-11-24 · [[2021-11-24 - Resolución 10-2021]] · reconocimiento, cultura, cine, juventud, mencion-especial
 
 ### Como secunda (0)
 Gloria Arregui no figura como secunda de ninguna resolución entre 2021 y 2025.

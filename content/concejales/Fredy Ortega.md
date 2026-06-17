@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Fredy Ortega"
 bancada: ANR
 period: 2021-2026
-fecha_actualizacion: 2026-05-18
+fecha_actualizacion: 2026-06-17
 ---
 
 # Fredy Ortega — Tarjeta de desempeño
@@ -15,28 +15,35 @@ fecha_actualizacion: 2026-05-18
 
 ## Resumen cuantitativo
 - Asistencia: presente en **166 sesiones plenarias** (96%); ausente en **7**. Rango: 2021-11-09 a 2025-04-23.
-- Productividad legislativa: **0 minutas como autor · 3 minutas como secunda · 1 resolución como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **4**.
+- Productividad legislativa: **0 minutas como autor · 3 minutas como secunda · 7 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **10**.
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
+- **deporte** (5): [[2022-10-05 - Resolución 276-2022]], [[2022-10-05 - Resolución 279-2022]], [[2022-08-31 - Resolución 236-2022]], [[2022-08-17 - Resolución 225-2022]] (+ 1 más)
+- **reconocimiento** (5): [[2022-10-05 - Resolución 276-2022]], [[2022-10-05 - Resolución 279-2022]], [[2022-08-31 - Resolución 236-2022]], [[2022-08-03 - Resolución 216-2022]] (+ 1 más)
+- **juventud** (4): [[2022-10-05 - Resolución 276-2022]], [[2022-10-05 - Resolución 279-2022]], [[2022-08-17 - Resolución 225-2022]], [[2021-11-24 - Resolución 12-2021]]
+- **mencion-especial** (4): [[2022-10-05 - Resolución 276-2022]], [[2022-10-05 - Resolución 279-2022]], [[2022-08-31 - Resolución 236-2022]], [[2022-08-03 - Resolución 216-2022]]
 - **site** (3): [[2022-06-21 - Minuta 42]], [[2022-06-21 - Minuta 43]], [[2022-05-25 - Minuta 37]]
 - **transporte-publico** (3): [[2022-06-21 - Minuta 42]], [[2022-06-21 - Minuta 43]], [[2022-05-25 - Minuta 37]]
 - **aia** (2): [[2022-06-21 - Minuta 43]], [[2022-05-25 - Minuta 37]]
 - **concurso-publico** (2): [[2022-06-21 - Minuta 43]], [[2022-05-25 - Minuta 37]]
-- **deporte** (1): [[2021-11-24 - Resolución 12-2021]]
+- **arte** (1): [[2022-08-03 - Resolución 216-2022]]
+- **basquetbol** (1): [[2022-10-05 - Resolución 279-2022]]
+- **cooperacion-interinstitucional** (1): [[2022-08-10 - Resolución 220-2022]]
+- **cultura** (1): [[2022-08-03 - Resolución 216-2022]]
+- **danza** (1): [[2022-08-03 - Resolución 216-2022]]
 - **diseno-urbano** (1): [[2022-05-25 - Minuta 37]]
-- **itinerarios** (1): [[2022-06-21 - Minuta 42]]
-- **juventud** (1): [[2021-11-24 - Resolución 12-2021]]
-- **movilidad-urbana** (1): [[2022-06-21 - Minuta 42]]
-- **ordenanza-municipal** (1): [[2022-06-21 - Minuta 42]]
-- **paradas-buses** (1): [[2022-06-21 - Minuta 43]]
-- **reconocimiento** (1): [[2021-11-24 - Resolución 12-2021]]
-- **rugby** (1): [[2021-11-24 - Resolución 12-2021]]
-- **sustentabilidad** (1): [[2022-05-25 - Minuta 37]]
-- **uci** (1): [[2022-06-21 - Minuta 42]]
+- **eby** (1): [[2022-08-10 - Resolución 220-2022]]
+- _(+ 14 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
-### Como autor (1)
+### Como autor (7)
+- 2022-10-05 · [[2022-10-05 - Resolución 276-2022]] · reconocimiento, deporte, mencion-especial, futbol-de-salon, juventud
+- 2022-10-05 · [[2022-10-05 - Resolución 279-2022]] · deporte, basquetbol, reconocimiento, mencion-especial, juventud
+- 2022-08-31 · [[2022-08-31 - Resolución 236-2022]] · mencion-especial, deporte, futbol, reconocimiento
+- 2022-08-17 · [[2022-08-17 - Resolución 225-2022]] · mencion-reconocimiento, deporte, tenis, juventud
+- 2022-08-10 · [[2022-08-10 - Resolución 220-2022]] · interes-municipal, eby, relocalizados, titulos-propiedad, cooperacion-interinstitucional
+- 2022-08-03 · [[2022-08-03 - Resolución 216-2022]] · cultura, danza, reconocimiento, mencion-especial, arte
 - 2021-11-24 · [[2021-11-24 - Resolución 12-2021]] · deporte, rugby, reconocimiento, juventud
 
 ### Como secunda (0)

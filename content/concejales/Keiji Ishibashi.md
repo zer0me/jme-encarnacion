@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Keiji Ishibashi"
 bancada: Movimiento Ciudadanía Activa
 period: 2021-2026
-fecha_actualizacion: 2026-05-18
+fecha_actualizacion: 2026-06-17
 ---
 
 # Keiji Ishibashi — Tarjeta de desempeño
@@ -15,30 +15,35 @@ fecha_actualizacion: 2026-05-18
 
 ## Resumen cuantitativo
 - Asistencia: presente en **157 sesiones plenarias** (90%); ausente en **17**. Rango: 2021-11-09 a 2025-04-30.
-- Productividad legislativa: **70 minutas como autor · 0 minutas como secunda · 1 resolución como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **71**.
+- Productividad legislativa: **70 minutas como autor · 0 minutas como secunda · 6 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **76**.
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
 - **plan-encarnacion-mas** (13): [[2023-09-19 - Minuta 107]], [[2023-08-16 - Minuta - Proyecto Ordenanza Espacio Encarnación Más]], [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]] (+ 9 más)
+- **educacion** (6): [[2023-06-06 - Minuta 87]], [[2022-09-28 - Resolución 269-2022]], [[2022-09-28 - Resolución 270-2022]], [[2022-09-07 - Resolución 256-2022]] (+ 2 más)
+- **medio-ambiente** (6): [[2022-07-13 - Minuta 48]], [[2022-06-15 - Minuta 41]], [[2021-11-17 - Minuta 2]], [[2021-11-17 - Minuta 4]] (+ 2 más)
 - **ordenamiento-territorial** (6): [[2023-10-03 - Minuta 109]], [[2023-10-03 - Minuta 112]], [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]] (+ 2 más)
 - **socializacion-ciudadana** (6): [[2023-06-20 - Minuta 91]], [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]], [[2022-05-25 - Minuta 36]] (+ 2 más)
 - **urbanismo** (6): [[2022-09-07 - Minuta 54]], [[2022-07-05 - Minuta 44]], [[2022-07-05 - Minuta 45]], [[2022-05-25 - Minuta 36]] (+ 2 más)
+- **cultura** (5): [[2023-02-07 - Minuta 72]], [[2022-09-28 - Resolución 270-2022]], [[2022-05-25 - Minuta 35]], [[2022-04-12 - Resolución 104-2022]] (+ 1 más)
 - **eby** (5): [[2023-10-03 - Minuta 108]], [[2022-11-23 - Minuta 71]], [[2022-07-13 - Minuta 47]], [[2022-07-05 - Minuta 44]] (+ 1 más)
-- **medio-ambiente** (5): [[2022-07-13 - Minuta 48]], [[2022-06-15 - Minuta 41]], [[2021-11-17 - Minuta 2]], [[2021-11-17 - Minuta 4]] (+ 1 más)
+- **reconocimiento** (5): [[2023-11-13 - Minuta 110]], [[2022-11-01 - Minuta 68]], [[2022-09-07 - Resolución 256-2022]], [[2021-11-24 - Minuta 6]] (+ 1 más)
 - **transporte-publico** (5): [[2023-10-03 - Minuta 109]], [[2022-10-18 - Minuta 62]], [[2022-06-21 - Minuta 42]], [[2022-06-21 - Minuta 43]] (+ 1 más)
 - **espacio-publico** (4): [[2022-11-23 - Minuta 70]], [[2022-11-01 - Minuta 66]], [[2022-07-27 - Minuta 52]], [[2022-07-13 - Minuta 46]]
 - **infraestructura** (4): [[2023-06-20 - Minuta 88]], [[2022-09-07 - Minuta 53]], [[2022-07-27 - Minuta 52]], [[2022-07-05 - Minuta 44]]
+- **juventud** (4): [[2023-11-13 - Minuta 110]], [[2022-11-01 - Minuta 68]], [[2021-11-24 - Minuta 6]], [[2021-11-24 - Resolución 13-2021]]
 - **ordenanza-municipal** (4): [[2023-10-03 - Minuta 112]], [[2022-09-07 - Minuta 54]], [[2022-06-21 - Minuta 42]], [[2021-11-30 - Minuta 7]]
-- **reconocimiento** (4): [[2023-11-13 - Minuta 110]], [[2022-11-01 - Minuta 68]], [[2022-09-07 - Resolución 256-2022]], [[2021-11-24 - Minuta 6]]
 - **site** (4): [[2022-10-18 - Minuta 62]], [[2022-06-21 - Minuta 42]], [[2022-06-21 - Minuta 43]], [[2022-05-25 - Minuta 37]]
-- **sustentabilidad** (4): [[2023-08-16 - Minuta - Proyecto Ordenanza Espacio Encarnación Más]], [[2023-06-06 - Minuta 87]], [[2022-11-23 - Minuta 70]], [[2022-05-25 - Minuta 37]]
-- **transparencia** (4): [[2023-11-13 - Minuta 113]], [[2022-05-25 - Minuta 36]], [[2022-05-25 - Minuta 38]], [[2021-11-17 - Minuta 5]]
-- **uci** (4): [[2022-10-18 - Minuta 61]], [[2022-09-27 - Minuta 55]], [[2022-06-21 - Minuta 42]], [[2022-05-25 - Minuta 40]]
-- _(+ 263 temas adicionales con menor frecuencia)_
+- _(+ 272 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
-### Como autor (1)
+### Como autor (6)
+- 2022-09-28 · [[2022-09-28 - Resolución 269-2022]] · declaracion-interes-municipal, educacion, ciencia-tecnologia, diseno, ciudades-inteligentes
+- 2022-09-28 · [[2022-09-28 - Resolución 270-2022]] · declaracion-interes-municipal, educacion, ciencia-tecnologia, cultura, desarrollo-sostenible
 - 2022-09-07 · [[2022-09-07 - Resolución 256-2022]] · educacion, becas, mujeres-profesionales, reconocimiento, internacional
+- 2022-04-12 · [[2022-04-12 - Resolución 104-2022]] · turismo, cultura, declaracion-de-interes, asociacion-japonesa, identidad-nikkei
+- 2021-11-24 · [[2021-11-24 - Resolución 13-2021]] · reconocimiento, juventud, educacion, ciencia, innovacion
+- 2021-11-17 · [[2021-11-17 - Resolución 06-2021]] · interes-municipal, recursos-hidricos, medio-ambiente, investigacion, agua
 
 ### Como secunda (0)
 Keiji Ishibashi no figura como secunda de ninguna resolución entre 2021 y 2025.

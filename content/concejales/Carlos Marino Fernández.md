@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Carlos Marino Fernández"
 bancada: PLRA
 period: 2021-2026
-fecha_actualizacion: 2026-05-18
+fecha_actualizacion: 2026-06-17
 ---
 
 # Carlos Marino Fernández — Tarjeta de desempeño
@@ -15,14 +15,16 @@ fecha_actualizacion: 2026-05-18
 
 ## Resumen cuantitativo
 - Asistencia: presente en **170 sesiones plenarias** (97%); ausente en **6**. Rango: 2021-11-09 a 2025-04-30.
-- Productividad legislativa: **0 minutas como autor · 14 minutas como secunda · 0 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **14**.
+- Productividad legislativa: **0 minutas como autor · 14 minutas como secunda · 2 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **16**.
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
 - **plan-encarnacion-mas** (3): [[2023-09-19 - Minuta 107]], [[2022-07-05 - Minuta 45]], [[2021-11-17 - Minuta 2]]
 - **agua-potable** (2): [[2023-06-20 - Minuta 88]], [[2023-06-20 - Minuta 89]]
 - **eby** (2): [[2023-10-03 - Minuta 108]], [[2022-07-05 - Minuta 45]]
 - **expansion-ejido** (2): [[2023-06-20 - Minuta 88]], [[2023-06-20 - Minuta 89]]
+- **movilidad-urbana** (2): [[2022-09-27 - Minuta 55]], [[2022-06-01 - Resolución 147-2022]]
 - **planificacion-urbana** (2): [[2023-06-20 - Minuta 88]], [[2023-06-20 - Minuta 89]]
+- **transporte** (2): [[2022-08-09 - Minuta 51]], [[2022-06-01 - Resolución 147-2022]]
 - **uci** (2): [[2022-10-18 - Minuta 61]], [[2022-09-27 - Minuta 55]]
 - **urbanismo** (2): [[2022-09-07 - Minuta 54]], [[2022-07-05 - Minuta 45]]
 - **aguateras** (1): [[2023-06-20 - Minuta 89]]
@@ -31,14 +33,13 @@ fecha_actualizacion: 2026-05-18
 - **avenida-circunvalacion** (1): [[2022-07-05 - Minuta 45]]
 - **biodiversidad** (1): [[2023-10-03 - Minuta 108]]
 - **cableado-aereo** (1): [[2022-07-13 - Minuta 46]]
-- **calidad-de-proyectos** (1): [[2022-09-07 - Minuta 54]]
-- **campana-comunicacional** (1): [[2025-04-14 - Minuta 135]]
-- _(+ 54 temas adicionales con menor frecuencia)_
+- _(+ 61 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
-### Como autor (0)
-Carlos Marino Fernández no figura como autor de ninguna resolución entre 2021 y 2025.
+### Como autor (2)
+- 2022-08-24 · [[2022-08-24 - Resolución 230-2022]] · reconocimiento, juventud, cultura, certamen-internacional
+- 2022-06-01 · [[2022-06-01 - Resolución 147-2022]] · mencion-reconocimiento, transporte, movilidad-urbana, universidad, plan-site
 
 ### Como secunda (0)
 Carlos Marino Fernández no figura como secunda de ninguna resolución entre 2021 y 2025.

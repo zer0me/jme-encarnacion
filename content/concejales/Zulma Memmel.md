@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Zulma Memmel"
 bancada: Alianza Junta Integrada / PPC
 period: 2021-2026
-fecha_actualizacion: 2026-05-18
+fecha_actualizacion: 2026-06-17
 ---
 
 # Zulma Memmel — Tarjeta de desempeño
@@ -15,7 +15,7 @@ fecha_actualizacion: 2026-05-18
 
 ## Resumen cuantitativo
 - Asistencia: presente en **153 sesiones plenarias** (87%); ausente en **23**. Rango: 2021-11-09 a 2025-04-30.
-- Productividad legislativa: **0 minutas como autor · 33 minutas como secunda · 0 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **33**.
+- Productividad legislativa: **0 minutas como autor · 33 minutas como secunda · 1 resolución como autor · 1 resolución como secunda**. Total propuestas con su firma: **35**.
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
 - **plan-encarnacion-mas** (5): [[2023-09-19 - Minuta 107]], [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]], [[2022-05-25 - Minuta 35]] (+ 1 más)
@@ -26,22 +26,22 @@ fecha_actualizacion: 2026-05-18
 - **eby** (2): [[2022-11-23 - Minuta 71]], [[2022-07-13 - Minuta 47]]
 - **espacio-publico** (2): [[2022-11-23 - Minuta 70]], [[2022-07-27 - Minuta 52]]
 - **feria-municipal** (2): [[2025-02-17 - Minuta 129]], [[2022-07-27 - Minuta 52]]
+- **genero** (2): [[2022-07-27 - Minuta 50]], [[2022-07-20 - Resolución 198-2022]]
 - **infraestructura** (2): [[2022-09-07 - Minuta 53]], [[2022-07-27 - Minuta 52]]
 - **innovacion** (2): [[2023-11-13 - Minuta 110]], [[2021-11-24 - Minuta 6]]
 - **juventud** (2): [[2023-11-13 - Minuta 110]], [[2021-11-24 - Minuta 6]]
 - **mantenimiento** (2): [[2022-09-07 - Minuta 53]], [[2022-07-27 - Minuta 52]]
 - **mantenimiento-extractores-eolicos** (2): [[2025-02-25 - Minuta 130]], [[2025-02-17 - Minuta 129]]
 - **mercado-municipal** (2): [[2025-02-25 - Minuta 130]], [[2025-02-17 - Minuta 129]]
-- **mesa-interinstitucional** (2): [[2022-11-23 - Minuta 71]], [[2022-11-01 - Minuta 67 - Av Japón El Pocito]]
-- _(+ 138 temas adicionales con menor frecuencia)_
+- _(+ 147 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
-### Como autor (0)
-Zulma Memmel no figura como autor de ninguna resolución entre 2021 y 2025.
+### Como autor (1)
+- 2022-09-07 · [[2022-09-07 - Resolución 254-2022]] · interes-municipal, derecho-procesal-constitucional, congreso, universidad-catolica, evento-academico
 
-### Como secunda (0)
-Zulma Memmel no figura como secunda de ninguna resolución entre 2021 y 2025.
+### Como secunda (1)
+- 2022-07-20 · [[2022-07-20 - Resolución 198-2022]] · declaracion-interes-municipal, mujeres, politica, genero, evento
 
 ## Votos clave documentados
 

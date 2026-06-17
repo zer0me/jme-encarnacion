@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Nehemías Cuevas"
 bancada: ANR
 period: 2021-2026
-fecha_actualizacion: 2026-05-18
+fecha_actualizacion: 2026-06-17
 ---
 
 # Nehemías Cuevas — Tarjeta de desempeño

@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Juan Augusto Lichi"
 bancada: ANR
 period: 2021-2026
-fecha_actualizacion: 2026-05-18
+fecha_actualizacion: 2026-06-17
 ---
 
 # Juan Augusto Lichi — Tarjeta de desempeño
@@ -15,24 +15,39 @@ fecha_actualizacion: 2026-05-18
 
 ## Resumen cuantitativo
 - Asistencia: presente en **146 sesiones plenarias** (83%); ausente en **30**. Rango: 2021-11-09 a 2025-04-30.
-- Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 1 resolución como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **2**.
+- Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 10 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **11**.
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
+- **deporte** (6): [[2022-10-05 - Resolución 275-2022]], [[2022-05-04 - Resolución 121-2022]], [[2022-02-09 - Resolución 59-2022]], [[2021-12-09 - Resolución 30-2021]] (+ 2 más)
+- **interes-municipal** (5): [[2022-06-29 - Resolución 174-2022]], [[2021-12-09 - Resolución 30-2021]], [[2021-12-09 - Resolución 32-2021]], [[2021-11-17 - Resolución 07-2021]] (+ 1 más)
+- **juventud** (5): [[2022-10-05 - Resolución 275-2022]], [[2022-02-09 - Resolución 57-2022]], [[2021-12-09 - Resolución 30-2021]], [[2021-12-09 - Resolución 32-2021]] (+ 1 más)
+- **reconocimiento** (4): [[2022-10-05 - Resolución 275-2022]], [[2022-05-04 - Resolución 121-2022]], [[2022-02-09 - Resolución 59-2022]], [[2021-11-17 - Resolución 07-2021]]
+- **turismo** (3): [[2021-12-09 - Resolución 30-2021]], [[2021-12-09 - Resolución 32-2021]], [[2021-11-10 - Resolución 04-2021]]
+- **basquetbol** (2): [[2022-10-05 - Resolución 275-2022]], [[2021-11-17 - Resolución 07-2021]]
+- **mencion-especial** (2): [[2022-10-05 - Resolución 275-2022]], [[2022-05-04 - Resolución 121-2022]]
+- **apohub** (1): [[2022-02-09 - Resolución 57-2022]]
+- **automovilismo** (1): [[2021-11-10 - Resolución 04-2021]]
 - **barrio-la-paz** (1): [[2022-07-13 - Minuta 48]]
+- **bomberos-voluntarios** (1): [[2022-08-17 - Resolución 224-2022]]
+- **ciclismo** (1): [[2022-05-04 - Resolución 121-2022]]
 - **contaminacion-agua** (1): [[2022-07-13 - Minuta 48]]
-- **deporte** (1): [[2022-02-09 - Resolución 59-2022]]
-- **estacion-bombeo** (1): [[2022-07-13 - Minuta 48]]
-- **fiscalizacion** (1): [[2022-07-13 - Minuta 48]]
-- **medio-ambiente** (1): [[2022-07-13 - Minuta 48]]
-- **reconocimiento** (1): [[2022-02-09 - Resolución 59-2022]]
-- **red-cloacal** (1): [[2022-07-13 - Minuta 48]]
-- **sudamericano-2022** (1): [[2022-02-09 - Resolución 59-2022]]
-- **voley-playa** (1): [[2022-02-09 - Resolución 59-2022]]
+- **convenio** (1): [[2022-02-09 - Resolución 57-2022]]
+- **cooperacion-interinstitucional** (1): [[2022-02-09 - Resolución 57-2022]]
+- _(+ 19 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
-### Como autor (1)
+### Como autor (10)
+- 2022-10-05 · [[2022-10-05 - Resolución 275-2022]] · reconocimiento, deporte, mencion-especial, basquetbol, juventud
+- 2022-08-17 · [[2022-08-17 - Resolución 224-2022]] · bomberos-voluntarios, mencion-reconocimiento, rescate-vehicular, trauma, deporte-competencia
+- 2022-06-29 · [[2022-06-29 - Resolución 174-2022]] · interes-municipal, salud, oncologia, hospital, infraestructura
+- 2022-05-04 · [[2022-05-04 - Resolución 121-2022]] · reconocimiento, deporte, ciclismo, mencion-especial
+- 2022-02-09 · [[2022-02-09 - Resolución 57-2022]] · convenio, juventud, sol-naciente, equipamiento-informatico, cooperacion-interinstitucional, apohub
 - 2022-02-09 · [[2022-02-09 - Resolución 59-2022]] · deporte, voley-playa, reconocimiento, sudamericano-2022
+- 2021-12-09 · [[2021-12-09 - Resolución 30-2021]] · interes-municipal, deporte, handball, juventud, turismo
+- 2021-12-09 · [[2021-12-09 - Resolución 32-2021]] · interes-municipal, deporte, running, turismo, juventud
+- 2021-11-17 · [[2021-11-17 - Resolución 07-2021]] · deporte, basquetbol, interes-municipal, juventud, reconocimiento
+- 2021-11-10 · [[2021-11-10 - Resolución 04-2021]] · interes-municipal, automovilismo, turismo, evento-deportivo
 
 ### Como secunda (0)
 Juan Augusto Lichi no figura como secunda de ninguna resolución entre 2021 y 2025.

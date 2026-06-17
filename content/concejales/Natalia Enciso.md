@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Natalia Enciso"
 bancada: PLRA
 period: 2021-2026
-fecha_actualizacion: 2026-05-18
+fecha_actualizacion: 2026-06-17
 ---
 
 # Natalia Enciso — Tarjeta de desempeño
@@ -15,27 +15,37 @@ fecha_actualizacion: 2026-05-18
 
 ## Resumen cuantitativo
 - Asistencia: presente en **164 sesiones plenarias** (95%); ausente en **9**. Rango: 2021-11-09 a 2025-04-23.
-- Productividad legislativa: **0 minutas como autor · 3 minutas como secunda · 0 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **3**.
+- Productividad legislativa: **0 minutas como autor · 3 minutas como secunda · 8 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **11**.
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
+- **reconocimiento** (4): [[2022-10-05 - Resolución 274-2022]], [[2022-08-24 - Resolución 229-2022]], [[2022-07-20 - Resolución 197-2022]], [[2022-04-27 - Resolución 111-2022]]
+- **cultura** (2): [[2022-07-20 - Resolución 197-2022]], [[2021-12-09 - Resolución 34-2021]]
+- **educacion** (2): [[2022-10-05 - Resolución 274-2022]], [[2022-04-27 - Resolución 111-2022]]
+- **estudiantes** (2): [[2022-10-05 - Resolución 274-2022]], [[2022-04-27 - Resolución 111-2022]]
+- **evento** (2): [[2022-07-20 - Resolución 198-2022]], [[2021-12-09 - Resolución 34-2021]]
+- **juventud** (2): [[2022-08-24 - Resolución 229-2022]], [[2022-06-01 - Resolución 149-2022]]
+- **mencion-especial** (2): [[2022-10-05 - Resolución 274-2022]], [[2022-07-20 - Resolución 197-2022]]
+- **artes-marciales** (1): [[2022-08-24 - Resolución 229-2022]]
+- **atleta-encarnacena** (1): [[2022-06-01 - Resolución 149-2022]]
+- **ballet-folclorico** (1): [[2022-07-20 - Resolución 197-2022]]
 - **centro-de-convenciones** (1): [[2023-09-19 - Minuta 107]]
+- **concurso-nacional** (1): [[2022-10-05 - Resolución 274-2022]]
 - **concurso-nacional-anteproyecto** (1): [[2023-09-19 - Minuta 107]]
-- **ejido-urbano** (1): [[2023-10-03 - Minuta 112]]
-- **ley-4727** (1): [[2023-09-19 - Minuta 107]]
-- **limite-urbano** (1): [[2023-10-03 - Minuta 112]]
-- **mantenimiento-caminos-turisticos** (1): [[2025-07-19 - Minuta 141]]
-- **ordenamiento-territorial** (1): [[2023-10-03 - Minuta 112]]
-- **ordenanza-municipal** (1): [[2023-10-03 - Minuta 112]]
-- **plan-encarnacion-mas** (1): [[2023-09-19 - Minuta 107]]
-- **planificacion-urbana** (1): [[2023-10-03 - Minuta 112]]
-- **ruta-senatur** (1): [[2025-07-19 - Minuta 141]]
-- **senaletica-vial** (1): [[2025-07-19 - Minuta 141]]
-- **turismo-encarnacion** (1): [[2025-07-19 - Minuta 141]]
+- **copa-ciudad-encarnacion** (1): [[2022-01-26 - Resolución 43-2022]]
+- **danza** (1): [[2022-07-20 - Resolución 197-2022]]
+- _(+ 28 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
-### Como autor (0)
-Natalia Enciso no figura como autor de ninguna resolución entre 2021 y 2025.
+### Como autor (8)
+- 2022-10-05 · [[2022-10-05 - Resolución 274-2022]] · reconocimiento, educacion, mencion-especial, concurso-nacional, estudiantes
+- 2022-08-24 · [[2022-08-24 - Resolución 229-2022]] · reconocimiento, deportes, artes-marciales, juventud
+- 2022-07-20 · [[2022-07-20 - Resolución 197-2022]] · cultura, danza, reconocimiento, mencion-especial, ballet-folclorico
+- 2022-07-20 · [[2022-07-20 - Resolución 198-2022]] · declaracion-interes-municipal, mujeres, politica, genero, evento
+- 2022-06-01 · [[2022-06-01 - Resolución 149-2022]] · mencion-reconocimiento, deporte, patinaje-artistico, atleta-encarnacena, juventud
+- 2022-04-27 · [[2022-04-27 - Resolución 111-2022]] · reconocimiento, educacion, matematicas, olimpiadas, estudiantes
+- 2022-01-26 · [[2022-01-26 - Resolución 43-2022]] · interes-deportivo, futbol, evento-deportivo, declaracion-municipal, copa-ciudad-encarnacion
+- 2021-12-09 · [[2021-12-09 - Resolución 34-2021]] · interes-municipal, cultura, musica, evento, homenaje
 
 ### Como secunda (0)
 Natalia Enciso no figura como secunda de ninguna resolución entre 2021 y 2025.
