@@ -16,7 +16,7 @@ tags:
 
 # Archivo público JM Encarnación
 
-<p class="jme-hero-sub">Actas, minutas, resoluciones y análisis ciudadano de la <strong>Junta Municipal de Encarnación</strong>, organizado para que cualquier vecino, periodista o estudiante pueda responder la pregunta <strong>«¿qué pasó con esto?»</strong> sin tener que leer 600 PDFs.</p>
+<p class="jme-hero-sub">Actas, minutas, resoluciones y análisis ciudadano de la <strong>Junta Municipal de Encarnación</strong>, organizado para que cualquier vecino, periodista o estudiante pueda responder la pregunta <strong>«¿qué pasó con esto?»</strong> sin tener que leer más de 700 documentos.</p>
 
 <div class="jme-cta-row">
 <a class="jme-cta" href="#temas-calientes-ahora-mismo">🔥 Temas calientes</a>
@@ -406,10 +406,12 @@ Cada documento en `actas/`, `minutas/`, `resoluciones/` lleva en su frontmatter 
 | `actas/` | 177 |
 | `minutas/` | 72 |
 | `resoluciones/` | 276 |
+| `dictamenes/` | 127 |
+| `orden-del-dia/` | 69 |
 | `informe-gestion/` | 5 |
 | `informe-2024/` | 4 |
 | `presupuesto/` | 2 |
-| **Total documentos curados** | **536** |
+| **Total documentos curados** | **732** |
 | `personas/` | 88 |
 | `instituciones/` | 96 |
 | `empresas/` | 54 |
