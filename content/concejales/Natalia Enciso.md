@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **214 sesiones plenarias** (93%); ausente en **15**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **0 minutas como autor · 3 minutas como secunda · 8 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **11** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **32 minutas presentadas en sesión** (autor/co-autor) · 25 secundadas · 8 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **65** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **419 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -103,12 +103,30 @@ Temas sobre los que más intervino:
 ### Como secunda (0)
 Natalia Enciso no figura como secunda de ninguna resolución entre 2021 y 2025.
 
-## Minutas
+## Minutas presentadas en sesión (según actas)
 
-### Como autor principal (0)
-Natalia Enciso no figura como autor principal de ninguna minuta entre 2021 y 2025.
+### Como autor / co-autor (32)
+- 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — enviar nota al Intendente solicitando a la jefatura de Comisiones Vecinales que haga efectivo el cumplimiento de los artículos de la Ordenanza sobre rendición de cuentas
+- 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — solicitar al Intendente el mantenimiento y puesta en condiciones de la capa asfáltica de la Avda
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Ejecutivo para el reacondicionamiento de las instalaciones de la plaza y cancha del B° Santo Domingo Centro, punto de encuentro comunitario que requiere intervencion
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Ejecutivo para el reacondicionamiento de la antigua salita de salud (puesto de salud) del B° Santo Domingo, a fin de que pueda ser utilizada nuevamente por profesion
+- 2026-02-11 · [[2026-02-11 - Acta 207-2026]] — solicitar al Intendente trabajos de mantenimiento y limpieza de la USF del barrio Fátima, y el relleno y nivelación del área verde municipal contigua para destinarla a estacionamie
+- 2026-02-11 · [[2026-02-11 - Acta 207-2026]] — solicitar al Intendente evaluar la asignación de un profesor del área de Informática para el Colegio N° 1541 Nueva Esperanza, que dispone de 14 computadoras
+- 2025-10-15 · [[2025-10-15 - Acta 192-2025]] — entregar un reconocimiento al equipo femenino U15 de básquetbol, vice campeón nacional
+- 2025-09-24 · [[2025-09-24 - Acta 189-2025]] — solicitar al Intendente la reiluminación de una cancha en la Costanera (donde estaba la Policía Municipal de Tránsito, antes del Club de Pesca), muy utilizada para vóley en tempora
+- 2025-09-03 · [[2025-09-03 - Acta 186-2025]] — la remisión de una nota al Intendente elevando un proyecto para la construcción de una cancha multifuncional para deportes (patín, futsal, handball, otros), con medidas oficiales y
+- 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — elevar a la Plenaria un Proyecto de Ordenanza que reglamente las condiciones de arrendamiento para locales gastronómicos y similares en la Manzana 65 «Parque Lineal», en respuesta
+- _(+ 22 más; lista completa en las actas de cada sesión)_
 
-### Como secunda / co-firmante (3)
-- 2025-07-19 · [[2025-07-19 - Minuta 141]] · turismo-encarnacion, mantenimiento-caminos-turisticos, senaletica-vial, ruta-senatur
-- 2023-10-03 · [[2023-10-03 - Minuta 112]] · ordenamiento-territorial, limite-urbano, ejido-urbano, planificacion-urbana, ordenanza-municipal
-- 2023-09-19 · [[2023-09-19 - Minuta 107]] · centro-de-convenciones, concurso-nacional-anteproyecto, plan-encarnacion-mas, ley-4727
+### Como secundante (25)
+- 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — elevar nota al Ejecutivo para analizar la modificación o ampliación de las canchas de básquetbol del sector San José y costanera Padre Bolik
+- 2025-12-17 · [[2025-12-17 - Acta 201-2025]] — elevar un proyecto de Ordenanza «por la cual se reglamenta la recolección y disposición final de cubiertas en desuso en el distrito de Encarnación»
+- 2025-12-17 · [[2025-12-17 - Acta 201-2025]] — remitir nota al Intendente Municipal para la intervención, limpieza y ordenamiento del espacio verde detrás de los locales gastronómicos lineales del Parque Lineal sobre la calle A
+- 2025-12-03 · [[2025-12-03 - Acta 199-2025]] — solicitar al Intendente que se analice la factibilidad de un proyecto conjunto con el Consorcio Eco Roga para la pavimentación asfáltica del camino al Relleno Sanitario Municipal (
+- 2025-11-19 · [[2025-11-19 - Acta 197-2025]] — autorizar la entrega de una Mención Especial de Reconocimiento a la [[Fundación Jesús Responde al Mundo de Hoy]] por su labor social en Encarnación (donación de sillas de ruedas y
+- 2025-11-12 · [[2025-11-12 - Acta 196-2025]] — la entrega de Menciones Especiales de Reconocimiento a los Pioneros del Barrio [[Club Deportivo Villa Cristina|Bernardino Caballero]], conforme a solicitud de los Directivos del Cl
+- 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — solicitar al Intendente que, por intermedio de las Direcciones Municipales, intime a la empresa [[MUV]] al retiro de la parada de la plataforma digital de transporte ubicada en la
+- 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — entregar una Mención Especial de Reconocimiento a la atleta [[Nadia Niven]] por sus logros en la disciplina del Fitness y Fisiculturismo y por representar al Paraguay en el Torneo
+- 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — solicitar al Intendente la señalización de sentido único de la calle Ángel Ramón Samudio (desde Ruta Nacional N° 1 hasta calle Gral
+- 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — solicitar al Intendente la señalización de sentido único de la calle Bomberos Voluntarios de Encarnación (B° Pacu Cuá), con carteles de «Contramano»
+- _(+ 15 más; lista completa en las actas de cada sesión)_

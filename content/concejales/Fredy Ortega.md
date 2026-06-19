@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **216 sesiones plenarias** (95%); ausente en **12**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **0 minutas como autor · 4 minutas como secunda · 7 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **11** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **40 minutas presentadas en sesión** (autor/co-autor) · 10 secundadas · 7 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **57** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **419 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -102,13 +102,29 @@ Temas sobre los que más intervino:
 ### Como secunda (0)
 Fredy Ortega no figura como secunda de ninguna resolución entre 2021 y 2025.
 
-## Minutas
+## Minutas presentadas en sesión (según actas)
 
-### Como autor principal (0)
-Fredy Ortega no figura como autor principal de ninguna minuta entre 2021 y 2025.
+### Como autor / co-autor (40)
+- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — notificar a las empresas de transporte público del Distrito que deben reconocer el carnet universitario y el carnet de la tercera edad
+- 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — la entrega de una Mención Especial de Reconocimiento a la niña [[Ximena García Vargas]], Campeona Nacional de Ajedrez Infanto Juvenil categoría Sub 6 femenino (torneo del 6 al 8 de
+- 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — elevar a las Comisiones de Educación y de Cultura una Mención Especial de Reconocimiento al deportista encarnaceno [[Diego Flores]], campeón del Nacional de mayores de Fútbol de Sa
+- 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — solicitar al Intendente un análisis jurídico sobre la posibilidad de resolver la interrupción del Servicio de Estacionamiento Medido (SEM), considerando que el contrato con la empr
+- 2025-11-26 · [[2025-11-26 - Acta 198-2025]] — autorizar Menciones Especiales a los atletas del [[Club de Pesca y Deportes Náuticos Pacú Cuá]], campeones nacionales de Canotaje de velocidad 2025 (23 de noviembre, Club Mbigua de
+- 2025-10-15 · [[2025-10-15 - Acta 192-2025]] — la entrega de Menciones Especiales de Reconocimiento a los jugadores, cuerpo técnico y directivos de la Selección Encarnacena de Básquetbol Categoría U15, campeones del Campeonato
+- 2025-10-08 · [[2025-10-08 - Acta 191-2025]] — elevar para estudio y consideración un proyecto de Ordenanza que regule el uso del Centro Cívico Municipal «Betty y Mario Pérez», espacio público construido por la [[EBY|Entidad Bi
+- 2025-09-10 · [[2025-09-10 - Acta 187-2025]] — una mención especial de reconocimiento a [[Julio Müller]], miembro de la organización del WRC Ueno Rally del Paraguay (agosto 2025), por su aporte fundamental a la logística, segur
+- 2025-09-10 · [[2025-09-10 - Acta 187-2025]] — menciones especiales a [[Benjamín Torres]], [[David Aquino]], [[Santiago Bogado]] y [[Lucas Ayala]], de la Selección Paraguaya de Fútbol de Salón C13, vicecampeones del Mundial de
+- 2025-09-10 · [[2025-09-10 - Acta 187-2025]] — menciones a los jugadores, cuerpo técnico y directivos del [[Encarnación F.C.]], campeones de la Copa Oro Sub 15
+- _(+ 30 más; lista completa en las actas de cada sesión)_
 
-### Como secunda / co-firmante (4)
-- 2022-06-21 · [[2022-06-21 - Minuta 42]] · transporte-publico, site, ordenanza-municipal, itinerarios, movilidad-urbana, uci
-- 2022-06-21 · [[2022-06-21 - Minuta 43]] · transporte-publico, site, concurso-publico, paradas-buses, aia
-- 2022-05-25 · [[2022-05-25 - Minuta 37]] · transporte-publico, site, concurso-publico, diseno-urbano, aia, sustentabilidad
-- 2022-05-04 · [[2022-05-04 - Minuta 30]] · transporte-publico, site, concurso-de-anteproyecto, movilidad-urbana, arquitectura
+### Como secundante (10)
+- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — declarar de Interés Educativo Municipal el funcionamiento de la Granja modelo «Abuelo Adolfo» (barrio Itaguá'i), que concretó con la [[UNAE]] un convenio de cooperación interinstit
+- 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente un informe detallado sobre la cantidad de funcionarios de la Policía Municipal de Tránsito (PMT) contratados desde la implementación del SEM y cuántos ofici
+- 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — analizar la factibilidad de colocar mallas o tejido de seguridad en los parques infantiles de las costaneras [[Padre Bolik]] y [[República del Paraguay]]
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — la entrega de Menciones Especiales de Reconocimiento a los integrantes de la academia [[Kung Fu Dragones Dorados de Encarnación]], que obtuvieron medallas en el 8vo
+- 2025-07-02 · [[2025-07-02 - Acta 177-2025]] — elevar para estudio de la Comisión de Planificación una propuesta de nominación de calle en nombre de [[Emilio Closs|Don Emilio Closs]], conforme al currículum adjunto
+- 2025-06-25 · [[2025-06-25 - Acta 176-2025]] — nota al [[MOPC]] para gestionar un reductor de velocidad (lomada o semáforo) sobre la Ruta PY N° 1, en la entrada de los Barrios Itá Paso y 8 de Diciembre, por accidentes fatales r
+- 2023-05-17 · [[2023-05-17 - Acta 73-2023]] — Parque Mboi Ca'e — Minuta de [[Diego Aquino]] secundada por [[Fredy Ortega]] para reacondicionar el parque infantil de la Playa Mboi Ca'e (juegos en mal estado) antes del verano
+- 2022-11-23 · [[2022-11-23 - Acta 51-2022]] — Minuta de [[Diego Aquino]], secundada por [[Fredy Ortega]]: acompañar la 18° Colecta Nacional de Alimentos (sábado 03-12-2022) del [[Banco Alimentos]]; autorizar conferencia de pre
+- 2022-11-23 · [[2022-11-23 - Acta 51-2022]] — Minuta de [[Eduardo Rebruk]], secundada por [[Fredy Ortega]]: declaración de interés municipal de la 43° Edición de la Media Maratón del Asfalto (26-11-2022), única media maratón n
+- 2022-04-20 · [[2022-04-20 - Acta 20-2022]] — Minuta de [[Nehemías Cuevas]] secundada por [[Fredy Ortega]]: iluminación del parque infantil cercano al monumento Yo Amo Encarnación y Ludoteca

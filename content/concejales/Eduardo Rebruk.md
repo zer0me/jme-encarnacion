@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **213 sesiones plenarias** (94%); ausente en **14**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **0 minutas como autor · 2 minutas como secunda · 6 resoluciones como autor · 1 resolución como secunda**. Total de iniciativas firmadas: **9** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **93 minutas presentadas en sesión** (autor/co-autor) · 107 secundadas · 6 resoluciones (autor) · 1 (secunda). Total de iniciativas firmadas: **207** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **210 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -101,11 +101,30 @@ Temas sobre los que más intervino:
 ### Como secunda (1)
 - 2021-11-24 · [[2021-11-24 - Resolución 12-2021]] · deporte, rugby, reconocimiento, juventud
 
-## Minutas
+## Minutas presentadas en sesión (según actas)
 
-### Como autor principal (0)
-Eduardo Rebruk no figura como autor principal de ninguna minuta entre 2021 y 2025.
+### Como autor / co-autor (93)
+- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — declarar de Interés Educativo Municipal el funcionamiento de la Granja modelo «Abuelo Adolfo» (barrio Itaguá'i), que concretó con la [[UNAE]] un convenio de cooperación interinstit
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar la remisión de una nota al Viceministerio de Transporte para cursar invitación a una reunión de trabajo sobre la reforma del transporte público y su aplicación en el área
+- 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — remitir nota a la Ministra del [[MOPC]] peticionando la limpieza de malezas de la franja de dominio de las Rutas Nacionales N° I y VI dentro del distrito de Encarnación, para preve
+- 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente la colocación de elementos de señalización del espacio reservado para el descenso y ascenso de alumnos del transporte escolar en la [[Escuela Higinio Moríni
+- 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente y a la Comandancia de la Policía Nacional la denuncia formal por el hurto reiterado de caños de barandas de protección en sectores costeros (Costanera Padre
+- 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente un informe detallado sobre la cantidad de funcionarios de la Policía Municipal de Tránsito (PMT) contratados desde la implementación del SEM y cuántos ofici
+- 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente la actualización de la transferencia de las sumas recaudadas en concepto de la Tasa de Prevención contra incendios a favor del [[Cuerpo de Bomberos Voluntar
+- 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — la Declaración de Interés Municipal del «1° Curso Internacional de Incendio en Edificios de Altura» (5, 6 y 7 de junio, Cuerpo de Bomberos Voluntarios CVBE)
+- 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — la reparación de la intersección de la Avda
+- 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — analizar la factibilidad de colocar mallas o tejido de seguridad en los parques infantiles de las costaneras [[Padre Bolik]] y [[República del Paraguay]]
+- _(+ 83 más; lista completa en las actas de cada sesión)_
 
-### Como secunda / co-firmante (2)
-- 2021-12-15 · [[2021-12-15 - Minuta 10]] · desague-pluvial, barrio-san-roque, obras-publicas, reclamos-vecinales, infraestructura
-- 2021-11-17 · [[2021-11-17 - Minuta 1 - Plan Encarnación Más UCI]] · plan-encarnacion-mas, universidad-catolica-itapua, ordenamiento-territorial, socializacion-ciudadana, dictamen-100-2021
+### Como secundante (107)
+- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente las gestiones para la colocación de una réplica del Monolito de la Unión y Hermandad en Encarnación, en homenaje a la hermandad Posadas-Encarnación
+- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente, por medio de la Dirección de Catastro Municipal, conformar una mesa de trabajo interinstitucional con la Dirección de Catastro de la [[Municipalidad de Cam
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — elevar a la Comisión de Legislación un proyecto de ordenanza «por la cual se regula, prohíbe y establece el control y erradicación progresiva del tulipán africano (Spathodea campan
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — la Declaración de Interés Municipal de la segunda edición del Campeonato Mundial de Rally (FIA WRC) a realizarse en agosto de 2026 en la Región Sur del país
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — la Mención Especial de Reconocimiento a la [[Familia Yanagida]] por la plantación de árboles de cerezos en la Avenida Japón
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Intendente que, a través de las dependencias correspondientes, se evalúe, determine y autorice el espacio público adecuado para el emplazamiento de un monumento a las
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Director de la [[EBY]] que disponga la pronta conclusión del proceso de transferencia del inmueble de la Escuela Básica N° 3770 «San Miguel» (barrio San Pedro Etapa IV
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Director de la [[EBY]] la reparación, reposición y puesta en funcionamiento de las estaciones de bombeo del sistema cloacal de Encarnación, así como la reparación inme
+- 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — elevar a la Comisión de Legislación el Proyecto de Ordenanza «Gestión Integral de Aceites y Grasas para la Protección del Sistema Cloacal de Encarnación», para evitar obstrucciones
+- 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — remitir nota al Intendente para autorizar a la familia [[Yanagida Sam]] el apadrinamiento de los cerezos de la Avenida Japón y la instalación de cercos perimetrales de protección
+- _(+ 97 más; lista completa en las actas de cada sesión)_

@@ -149,7 +149,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 <!-- DASHBOARD:BEGIN grilla-concejales -->
 
-<small class="jme-concejal-legend"><strong>Cómo leer estas métricas:</strong> <em>Asistencia</em> = sesiones plenarias en las que estuvo presente sobre el total. <em>Intervenciones</em> = cantidad de veces que tomó la palabra en los debates (según las actas). <em>Iniciativas firmadas</em> = minutas y resoluciones que presentó como autor o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo. <em>Presidió la sesión</em> = veces que ocupó la silla de la mesa directiva durante la plenaria (rol que rota cuando el presidente titular está ausente; <strong>no</strong> es presidir una comisión ni ser el presidente electo de la Junta).</small>
+<small class="jme-concejal-legend"><strong>Cómo leer estas métricas:</strong> <em>Asistencia</em> = sesiones plenarias en las que estuvo presente sobre el total. <em>Intervenciones</em> = cantidad de veces que tomó la palabra en los debates (según las actas). <em>Iniciativas firmadas</em> = minutas presentadas en sesión (contadas desde las actas) más resoluciones, como autor/co-autor o secundante — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo. <em>Presidió la sesión</em> = veces que ocupó la silla de la mesa directiva durante la plenaria (rol que rota cuando el presidente titular está ausente; <strong>no</strong> es presidir una comisión ni ser el presidente electo de la Junta).</small>
 
 <div class="jme-concejales-grid">
 
@@ -160,7 +160,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 95% (213/225)  
 🗣 Intervenciones: 824  
-✍ Iniciativas firmadas: 12 <small>(6 autor · 6 secunda)</small>  
+✍ Iniciativas firmadas: 129 <small>(106 autor · 23 secunda)</small>  
 🪑 Presidió la sesión: 22 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Electo Pte JM el 30-oct-2024 con voto cruzado de Cuevas; preside la coalición «construir» que muta por eje temático.</small>
@@ -174,7 +174,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 82% (188/230)  
 🗣 Intervenciones: 379  
-✍ Iniciativas firmadas: 11 <small>(10 autor · 1 secunda)</small>  
+✍ Iniciativas firmadas: 116 <small>(70 autor · 46 secunda)</small>  
 🪑 Presidió la sesión: 48 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Vicepresidente electo; postuló a Aquino, pero el 22-ene-2025 vota con contralor en conformación de Comisiones — ruptura tácita Mesa Directiva.</small>
@@ -188,7 +188,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 90% (203/225)  
 🗣 Intervenciones: 190  
-✍ Iniciativas firmadas: 1 <small>(0 autor · 1 secunda)</small>  
+✍ Iniciativas firmadas: 71 <small>(36 autor · 35 secunda)</small>  
 🪑 Presidió la sesión: 45 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Pte JM saliente. Rompió bandera ANR en oct-2024 y votó a Aquino; luego ausente 3 de 4 plenarias del cierre fiscal 2024.</small>
@@ -202,7 +202,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 89% (204/230)  
 🗣 Intervenciones: 729  
-✍ Iniciativas firmadas: 102 <small>(102 autor · 0 secunda)</small>  
+✍ Iniciativas firmadas: 85 <small>(75 autor · 10 secunda)</small>  
 🪑 Presidió la sesión: 0 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Acuñó el término «lobbycracia». Concejal más prolífico como autor de minutas y proyectos de ordenanza opositor a captura regulatoria.</small>
@@ -216,7 +216,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 97% (225/232)  
 🗣 Intervenciones: 773  
-✍ Iniciativas firmadas: 16 <small>(2 autor · 14 secunda)</small>  
+✍ Iniciativas firmadas: 97 <small>(72 autor · 25 secunda)</small>  
 🪑 Presidió la sesión: 4 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Voto estable con «construir». Cita Art 34 LOM y Reglamento Diputados para impugnar conformación de Comisiones 2025.</small>
@@ -230,7 +230,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 85% (197/232)  
 🗣 Intervenciones: 460  
-✍ Iniciativas firmadas: 55 <small>(1 autor · 54 secunda)</small>  
+✍ Iniciativas firmadas: 57 <small>(28 autor · 29 secunda)</small>  
 🪑 Presidió la sesión: 0 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Concejal del PPC. En la elección de Mesa Directiva 2024 votó a Aquino como aliada situacional del bloque colorado disidente, no como alianza permanente. Vota habitualmente con el Intendente Yd y es la secundante más frecuente de las minutas de Ishibashi. Frase oct-2024: «No todos los buenos colorados están en la misma posición».</small>
@@ -244,7 +244,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 93% (214/229)  
 🗣 Intervenciones: 419  
-✍ Iniciativas firmadas: 11 <small>(8 autor · 3 secunda)</small>  
+✍ Iniciativas firmadas: 65 <small>(40 autor · 25 secunda)</small>  
 🪑 Presidió la sesión: 0 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Voto estable con «construir». Defensora del Art 29+116 reglamento interno JM en disputa de Comisiones 2025.</small>
@@ -258,7 +258,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 97% (226/232)  
 🗣 Intervenciones: 365  
-✍ Iniciativas firmadas: 22 <small>(12 autor · 10 secunda)</small>  
+✍ Iniciativas firmadas: 110 <small>(62 autor · 48 secunda)</small>  
 🪑 Presidió la sesión: 0 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Pivote. Se abstuvo en elección de Pte, votó a Lichi en Vice, y luego apareció en oficialista-7 en Comisiones 2025.</small>
@@ -272,7 +272,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 94% (217/231)  
 🗣 Intervenciones: 1122  
-✍ Iniciativas firmadas: 10 <small>(6 autor · 4 secunda)</small>  
+✍ Iniciativas firmadas: 216 <small>(167 autor · 49 secunda)</small>  
 🪑 Presidió la sesión: 0 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Postulado a Pte JM por «acuerdo de palabra ANR» — perdió 4-7 ante Aquino. Lidera el bloque «contralor» («mirar los papeles»).</small>
@@ -286,7 +286,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 95% (216/228)  
 🗣 Intervenciones: 419  
-✍ Iniciativas firmadas: 11 <small>(7 autor · 4 secunda)</small>  
+✍ Iniciativas firmadas: 57 <small>(47 autor · 10 secunda)</small>  
 🪑 Presidió la sesión: 52 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Concejal ANR. Postulante de Morel en oct-2024 invocando «acuerdo de palabra ANR». Voto estable con contralor.</small>
@@ -300,7 +300,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 89% (207/232)  
 🗣 Intervenciones: 643  
-✍ Iniciativas firmadas: 16 <small>(12 autor · 4 secunda)</small>  
+✍ Iniciativas firmadas: 118 <small>(88 autor · 30 secunda)</small>  
 🪑 Presidió la sesión: 1 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Presidente del Club de Clubes. Voto estable con contralor; alineado con Morel en las 3 votaciones nominales clave.</small>
@@ -314,7 +314,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 94% (213/227)  
 🗣 Intervenciones: 210  
-✍ Iniciativas firmadas: 9 <small>(6 autor · 3 secunda)</small>  
+✍ Iniciativas firmadas: 207 <small>(99 autor · 108 secunda)</small>  
 🪑 Presidió la sesión: 8 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Voto estable con contralor. Candidato a Vice JM en oct-2024 (4 votos vs Lichi 8).</small>

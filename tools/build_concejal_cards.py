@@ -325,6 +325,21 @@ def render_intervenciones(actas: dict) -> str | None:
     return "\n".join(lines)
 
 
+def render_minutas_actas(entries: list[tuple], empty_msg: str) -> str:
+    """Render minutas extracted from actas: (fecha, acta_stem, desc), newest-first."""
+    if not entries:
+        return empty_msg
+    shown = entries[:DOC_LIST_LIMIT]
+    rest = len(entries) - len(shown)
+    lines = []
+    for fecha, acta_stem, desc in shown:
+        desc_part = f" — {desc}" if desc else ""
+        lines.append(f"- {fecha} · [[{acta_stem}]]{desc_part}")
+    if rest > 0:
+        lines.append(f"- _(+ {rest} más; lista completa en las actas de cada sesión)_")
+    return "\n".join(lines)
+
+
 def render_dissent(actas: dict) -> str | None:
     """Render documented dissent (votes against / abstentions naming the concejal)."""
     enc = actas.get("votos_en_contra") or []
@@ -392,8 +407,13 @@ def build_card(slug: str, persona: dict, docs: dict, actas: dict | None = None) 
     rango_str = f"{rango_min} a {rango_max}" if rango_min and rango_max else "s/d"
     n_interv = actas.get("n_intervenciones", 0)
 
-    n_minuta_autor = len(docs["minuta_autor"])
-    n_minuta_secunda = len(docs["minuta_secunda"])
+    # Minutas: contadas desde el cuerpo de las ACTAS (fuente autoritativa, comprehensiva).
+    # El folder minutas/ está radicalmente incompleto, así que NO se usa para el conteo.
+    minutas_autor = actas.get("minuta_autor", [])
+    minutas_secunda = actas.get("minuta_secunda", [])
+    n_minuta_autor = len(minutas_autor)
+    n_minuta_secunda = len(minutas_secunda)
+    # Resoluciones: el folder resoluciones/ sí está completo (276 curadas).
     n_resol_autor = len(docs["resol_autor"])
     n_resol_secunda = len(docs["resol_secunda"])
     total = n_minuta_autor + n_minuta_secunda + n_resol_autor + n_resol_secunda
@@ -451,12 +471,12 @@ def build_card(slug: str, persona: dict, docs: dict, actas: dict | None = None) 
         f"- Asistencia: presente en **{presente} sesiones plenarias** "
         f"({asistencia_pct_str}); ausente en **{ausente}**. Rango: {rango_str}.",
         f"- Productividad legislativa: "
-        f"**{n_minuta_autor} {pluralize(n_minuta_autor, 'minuta', 'minutas')} como autor · "
-        f"{n_minuta_secunda} {pluralize(n_minuta_secunda, 'minuta', 'minutas')} como secunda · "
-        f"{n_resol_autor} {pluralize(n_resol_autor, 'resolución', 'resoluciones')} como autor · "
-        f"{n_resol_secunda} {pluralize(n_resol_secunda, 'resolución', 'resoluciones')} como secunda**. "
+        f"**{n_minuta_autor} {pluralize(n_minuta_autor, 'minuta presentada', 'minutas presentadas')} en sesión** (autor/co-autor) · "
+        f"{n_minuta_secunda} {pluralize(n_minuta_secunda, 'secundada', 'secundadas')} · "
+        f"{n_resol_autor} {pluralize(n_resol_autor, 'resolución', 'resoluciones')} (autor) · "
+        f"{n_resol_secunda} (secunda). "
         f"Total de iniciativas firmadas: **{total}** "
-        f"(minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza "
+        f"(minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza "
         f"hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).",
         f"- Participación en debate: **{n_interv} {pluralize(n_interv, 'intervención', 'intervenciones')}** "
         f"registradas en actas." if n_interv else "",
@@ -497,18 +517,18 @@ def build_card(slug: str, persona: dict, docs: dict, actas: dict | None = None) 
             f"{slug} no figura como secunda de ninguna resolución entre 2021 y 2025.",
         ),
         "",
-        "## Minutas",
+        "## Minutas presentadas en sesión (según actas)",
         "",
-        f"### Como autor principal ({n_minuta_autor})",
-        render_doc_list(
-            docs["minuta_autor"],
-            f"{slug} no figura como autor principal de ninguna minuta entre 2021 y 2025.",
+        f"### Como autor / co-autor ({n_minuta_autor})",
+        render_minutas_actas(
+            minutas_autor,
+            f"{slug} no figura presentando minutas en las actas 2021-2026.",
         ),
         "",
-        f"### Como secunda / co-firmante ({n_minuta_secunda})",
-        render_doc_list(
-            docs["minuta_secunda"],
-            f"{slug} no figura como co-firmante de ninguna minuta entre 2021 y 2025.",
+        f"### Como secundante ({n_minuta_secunda})",
+        render_minutas_actas(
+            minutas_secunda,
+            f"{slug} no figura secundando minutas en las actas 2021-2026.",
         ),
         "",
     ]

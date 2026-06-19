@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **226 sesiones plenarias** (97%); ausente en **6**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **0 minutas como autor · 10 minutas como secunda · 12 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **22** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **50 minutas presentadas en sesión** (autor/co-autor) · 48 secundadas · 12 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **110** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **365 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -106,19 +106,30 @@ Temas sobre los que más intervino:
 ### Como secunda (0)
 Gloria Arregui no figura como secunda de ninguna resolución entre 2021 y 2025.
 
-## Minutas
+## Minutas presentadas en sesión (según actas)
 
-### Como autor principal (0)
-Gloria Arregui no figura como autor principal de ninguna minuta entre 2021 y 2025.
+### Como autor / co-autor (50)
+- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente que se notifique al propietario del ómnibus estacionado en inmediaciones del [[Colegio San Roque González]] de Santa Cruz, que obstaculiza la visibilidad de
+- 2026-04-29 · [[2026-04-29 - Acta 217-2026]] — autorizar la entrega de una Mención Especial de Reconocimiento a los alumnos de la carrera de Ingeniería Informática de la [[Universidad Católica|UCA «Nuestra Señora de la Asunción
+- 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — autorizar la entrega de una Mención Especial de Reconocimiento al joven deportista [[Juan José Villalba Fernández]], quien con 12 años obtuvo la única medalla para Paraguay en la C
+- 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — elevar a las Comisiones de Educación y de Cultura una Mención Especial de Reconocimiento a Mariano San Martín Candia, Santino Gómez, David Zorrilla, Zoe Gómez, Thiago Bruchman y Fr
+- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — solicitar al Intendente la posibilidad de disponer, al menos una vez por semana, de un profesional odontólogo del Hospital Pediátrico para prestar servicios en la Unidad de Salud d
+- 2025-12-17 · [[2025-12-17 - Acta 201-2025]] — la instalación de reductores de velocidad en la calle Los Obreros y la adecuada señalización de tránsito, atendiendo al reiterado pedido de vecinos y al flujo de visitantes de fin
+- 2025-12-17 · [[2025-12-17 - Acta 201-2025]] — un proyecto de Ordenanza «por la cual se prohíbe el ingreso de envases de vidrio en el Centro Cívico "Betty y Mario Pérez" de la ciudad de Encarnación»
+- 2025-12-10 · [[2025-12-10 - Acta 200-2025]] — solicitar al Ejecutivo controles y fiscalizaciones continuas e intensificadas sobre los vendedores ambulantes del Circuito Comercial (zona conocida como Alaska, inmediaciones de la
+- 2025-12-10 · [[2025-12-10 - Acta 200-2025]] — solicitar la declaración como área protegida de interés ambiental y social de la naciente hídrica y cauce natural de agua del Barrio Sagrada Familia, conforme a la [[Ley 3239/2007|
+- 2025-12-10 · [[2025-12-10 - Acta 200-2025]] — solicitar al Intendente analizar posibles soluciones para evitar la tala del árbol ubicado en la calle 25 de Mayo casi Carlos Antonio López (margen derecho), en sentido de circulac
+- _(+ 40 más; lista completa en las actas de cada sesión)_
 
-### Como secunda / co-firmante (10)
-- 2025-07-19 · [[2025-07-19 - Minuta 142]] · area-verde-barrio-la-paz, finca-municipal-15297, espacios-publicos-recreativos, fiscalia-obras-sede
-- 2025-07-15 · [[2025-07-15 - Minuta 137]] · reconocimiento-deportivo, basquet-sub-13, club-pettirossi, torneo-metropolitano-asuncion
-- 2023-11-13 · [[2023-11-13 - Minuta 113]] · patrimonio-arquitectonico, mapa-interactivo, turismo, transparencia, gobierno-digital
-- 2023-10-03 · [[2023-10-03 - Minuta 109]] · reglamento-interno, calendarizacion-proyectos, ordenanzas-pendientes, edificabilidad, ordenamiento-territorial, transporte-publico, humedales, patrimonio
-- 2023-09-19 · [[2023-09-19 - Minuta 107]] · centro-de-convenciones, concurso-nacional-anteproyecto, plan-encarnacion-mas, ley-4727
-- 2023-08-16 · [[2023-08-16 - Minuta - Proyecto Ordenanza Espacio Encarnación Más]] · espacio-encarnacion-mas, laboratorio-urbano, plan-encarnacion-mas, plan-desarrollo-sustentable, ordenanza-315-2021, consejo-municipal-desarrollo-urbano, cmdu, fortalecimiento-institucional, sustentabilidad, reglamentacion-equipo-tecnico
-- 2023-06-20 · [[2023-06-20 - Minuta 90 - Convenio SNC Audiovisual]] · fomento-audiovisual, ley-6106-2018, secretaria-nacional-cultura, instituto-audiovisual-paraguayo, salas-de-cine, educacion-cultural, plan-encarnacion-mas-capitulo-11
-- 2023-06-20 · [[2023-06-20 - Minuta 91]] · estacionamiento-tarifado, socializacion-ciudadana, comerciantes, frentistas, pliego-bases, participacion
-- 2022-11-01 · [[2022-11-01 - Minuta 66]] · areas-verdes, costanera, santa-maria, espacio-publico, paisajismo, mantenimiento, universidades
-- 2022-11-01 · [[2022-11-01 - Minuta 68]] · reconocimiento, deporte, juventud, taekwondo, itapua
+### Como secundante (48)
+- 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — remitir nota al Intendente para analizar la factibilidad de construir una rotonda en la intersección de Avda
+- 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — remitir nota al Intendente para analizar la factibilidad de colocar un semáforo en la intersección de Independencia Nacional y Avda
+- 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — solicitar Menciones Especiales de Reconocimiento a alumnos de los Colegios Privados [[Colegio Privado Girasoles|Girasoles]] y [[Colegio Privado Divina Esperanza|Divina Esperanza]]
+- 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — la declaración de Interés Municipal del libro «El emprendimiento hidroeléctrico Yacyretá y sus incidencias sobre los derechos humanos: Visión Ambiental» ([[Pablo Villalba]])
+- 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — crear un Fondo Especial destinado a apoyar a instituciones educativas en casos de desastres naturales o incendios
+- 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — relevamiento, intervención y posterior reparación del Parque Infantil sobre Avda
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Intendente con la inquietud de vecinos del B° San Pedro, Sector Mirador, por el estado de varias calles sin empedrado y con dificultades de transitabilidad, especial
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar al Ejecutivo una propuesta de homenaje a las Paseras de la frontera Encarnación-Posadas mediante la realización de un festival anual
+- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — gestionar ante la [[ESSAP]] la verificación técnica y reparación del vertido permanente de agua aparentemente tratada detectado en el barrio Pacú Cuá, que constituye un desperdicio
+- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — la remisión de una nota directa a la [[ESSAP]] para la verificación técnica y reparación a la brevedad del mismo vertido del barrio Pacú Cuá, con material audiovisual que lo docume
+- _(+ 38 más; lista completa en las actas de cada sesión)_

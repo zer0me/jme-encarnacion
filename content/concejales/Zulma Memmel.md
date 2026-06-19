@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **197 sesiones plenarias** (85%); ausente en **35**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **0 minutas como autor · 53 minutas como secunda · 1 resolución como autor · 1 resolución como secunda**. Total de iniciativas firmadas: **55** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **27 minutas presentadas en sesión** (autor/co-autor) · 28 secundadas · 1 resolución (autor) · 1 (secunda). Total de iniciativas firmadas: **57** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **460 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -96,20 +96,30 @@ Temas sobre los que más intervino:
 ### Como secunda (1)
 - 2022-07-20 · [[2022-07-20 - Resolución 198-2022]] · declaracion-interes-municipal, mujeres, politica, genero, evento
 
-## Minutas
+## Minutas presentadas en sesión (según actas)
 
-### Como autor principal (0)
-Zulma Memmel no figura como autor principal de ninguna minuta entre 2021 y 2025.
+### Como autor / co-autor (27)
+- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — autorizar una remisión al Ejecutivo para que, por las áreas competentes, se exija a la empresa de transporte público que aún usufructúa los espacios públicos el cumplimiento de los
+- 2025-12-22 · [[2025-12-22 - Acta 203-2025]] — solicitar al Intendente analizar la factibilidad de implementar juegos de mesa de entretenimiento (ajedrez, dama y otros) en espacios techados de dominio municipal, como opción tur
+- 2025-12-17 · [[2025-12-17 - Acta 201-2025]] — elevar un proyecto de Ordenanza «por la cual se reglamenta la recolección y disposición final de cubiertas en desuso en el distrito de Encarnación»
+- 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — solicitar al Intendente que, por intermedio de las Direcciones Municipales, intime a la empresa [[MUV]] al retiro de la parada de la plataforma digital de transporte ubicada en la
+- 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — entregar una Mención Especial de Reconocimiento a la atleta [[Nadia Niven]] por sus logros en la disciplina del Fitness y Fisiculturismo y por representar al Paraguay en el Torneo
+- 2025-09-17 · [[2025-09-17 - Acta 188-2025]] — solicitar al Intendente analizar la factibilidad de habilitar un espacio al aire libre con una profesora de gimnasia, de acceso libre y gratuito, para estimular hábitos saludables
+- 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — solicitar al Intendente la señalización de sentido único de la calle Ángel Ramón Samudio (desde Ruta Nacional N° 1 hasta calle Gral
+- 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — solicitar al Intendente la señalización de sentido único de la calle Bomberos Voluntarios de Encarnación (B° Pacu Cuá), con carteles de «Contramano»
+- 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — elevar a la Plenaria un Proyecto de Ordenanza que reglamente las condiciones de arrendamiento para locales gastronómicos y similares en la Manzana 65 «Parque Lineal», en respuesta
+- 2025-07-23 · [[2025-07-23 - Acta 180-2025]] — Mención Especial al reconocido Prof. Superior [[Javier Goligorsky]], Director del Coro de la Universidad Católica (CORUCI), por su trayectoria musical
+- _(+ 17 más; lista completa en las actas de cada sesión)_
 
-### Como secunda / co-firmante (53)
-- 2025-11-17 · [[2025-11-17 - Minuta 146]] · codigo-edificacion-encarnacion, revision-especializada, tecnologias-construccion, criterios-bioclimaticos, fiscalizacion-control-obra
-- 2025-08-25 · [[2025-08-25 - Minuta 143]] · transporte-publico, ley-nacional, audiencia-publica, transporte-metropolitano, participacion-ciudadana
-- 2025-08-25 · [[2025-08-25 - Minuta 145]] · ley-transporte-publico-metropolitano, modificaciones-ley-1590-2000, congreso-nacional, audiencia-publica-transporte, rectoria-transporte-terrestre
-- 2025-07-19 · [[2025-07-19 - Minuta 140]] · turismo-casas-rodantes, aguas-negras-disposicion, wrc-rally-mundial, estaciones-bombeo-essap, coordinacion-eby-essap
-- 2025-07-15 · [[2025-07-15 - Minuta 138]] · ordenanza-56-construccion-loteamiento, parametros-habitabilidad, fonavis-reglamento, vivienda-social, tipologias-estudiantes, residencias-multifamiliares, direccion-desarrollo-urbano-territorial, iai-ingenieros-asociados-itapua
-- 2025-07-15 · [[2025-07-15 - Minuta 139]] · control-obras-fraccionamientos, apertura-calles-loteamientos, proteccion-arbolado-urbano, remocion-arboles-ciudad
-- 2025-06-23 · [[2025-06-23 - Minuta 136]] · sistema-integrado-transporte-encarnacion, licitacion-publica-transporte, billetaje-electronico, flota-buses-aire-acondicionado, transbordos-validacion-temporal, app-movil-usuarios-prediccion, central-monitoreo-gps
-- 2025-04-04 · [[2025-04-04 - Minuta 134]] · ordenanza-edificabilidad, codigo-edificacion, tesis-uci-uni-actualizacion-ordenanza-56, tratamiento-prioritario
-- 2025-03-26 · [[2025-03-26 - Minuta 133]] · ordenanzas-pendientes-tratamiento, procedimientos-proyectos-arquitectonicos, proteccion-humedales, espacio-encarnacion-mas, limite-urbano, inventario-bienes-patrimoniales, reglamento-interno-junta
-- 2025-02-26 · [[2025-02-26 - Minuta 132]] · calidad-agua-arroyo-poti-y, cianobacterias-sub-embalse, deportes-nauticos, laboratorio-uni
-- _(+ 43 más anteriores; lista completa en la ficha de persona)_
+### Como secundante (28)
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Ejecutivo la reposición del parque infantil frente a la playa San José, en proximidades del Mirador
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Ejecutivo la prohibición de circulación de motos eléctricas en la vereda de la costanera República del Paraguay
+- 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente la realización de un conteo del volumen de pasajeros en el transporte público de Encarnación, conforme al protocolo e instrumental anexados
+- 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente un estudio de Movilidad Thee para usuarios del transporte público en itinerarios principales, conforme al protocolo e instrumental anexados
+- 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — solicitar al Intendente el mantenimiento y puesta en condiciones de la capa asfáltica de la Avda
+- 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — solicitar al Viceministerio de Transporte y al [[MOPC]] que al menos 5 de los nuevos buses eléctricos sean destinados al Área Metropolitana de Encarnación
+- 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — elevar a Comisión de Transporte una propuesta de ordenanza que regula la ubicación de paradas estratégicas del servicio diferencial de transporte en el itinerario Circuito Comercia
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Ejecutivo para el reacondicionamiento de las instalaciones de la plaza y cancha del B° Santo Domingo Centro, punto de encuentro comunitario que requiere intervencion
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Ejecutivo para el reacondicionamiento de la antigua salita de salud (puesto de salud) del B° Santo Domingo, a fin de que pueda ser utilizada nuevamente por profesion
+- 2026-02-25 · [[2026-02-25 - Acta 209-2026]] — solicitar al Ejecutivo y a [[FEPASA]] la remisión de una alternativa de accesos al barrio Chaipé y el usufructo de la franja de dominio de la vía férrea como espacio público para e
+- _(+ 18 más; lista completa en las actas de cada sesión)_

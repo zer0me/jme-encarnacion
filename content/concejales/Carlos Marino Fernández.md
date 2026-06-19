@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **225 sesiones plenarias** (97%); ausente en **7**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **0 minutas como autor · 14 minutas como secunda · 2 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **16** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **70 minutas presentadas en sesión** (autor/co-autor) · 25 secundadas · 2 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **97** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **773 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -97,20 +97,30 @@ Temas sobre los que más intervino:
 ### Como secunda (0)
 Carlos Marino Fernández no figura como secunda de ninguna resolución entre 2021 y 2025.
 
-## Minutas
+## Minutas presentadas en sesión (según actas)
 
-### Como autor principal (0)
-Carlos Marino Fernández no figura como autor principal de ninguna minuta entre 2021 y 2025.
+### Como autor / co-autor (70)
+- 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — la declaración de Interés Municipal del libro «El emprendimiento hidroeléctrico Yacyretá y sus incidencias sobre los derechos humanos: Visión Ambiental» ([[Pablo Villalba]])
+- 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — crear un Fondo Especial destinado a apoyar a instituciones educativas en casos de desastres naturales o incendios
+- 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — relevamiento, intervención y posterior reparación del Parque Infantil sobre Avda
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Intendente con la inquietud de vecinos del B° San Pedro, Sector Mirador, por el estado de varias calles sin empedrado y con dificultades de transitabilidad, especial
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar al Ejecutivo una propuesta de homenaje a las Paseras de la frontera Encarnación-Posadas mediante la realización de un festival anual
+- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — gestionar ante la [[ESSAP]] la verificación técnica y reparación del vertido permanente de agua aparentemente tratada detectado en el barrio Pacú Cuá, que constituye un desperdicio
+- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — la remisión de una nota directa a la [[ESSAP]] para la verificación técnica y reparación a la brevedad del mismo vertido del barrio Pacú Cuá, con material audiovisual que lo docume
+- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — elevar un Proyecto de Ordenanza «que prohíbe el uso de dispositivos roncadores o similares en motocicletas dentro del ejido urbano del Municipio de Encarnación», para proteger la s
+- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — elevar un Proyecto de Ordenanza «De Protección y Bienestar Animal y Tenencia Responsable del Municipio de Encarnación, en concordancia con la Ley Nacional N° 7513/25», para integra
+- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — un relevamiento y posterior mantenimiento del entorno y del Monumento a las Paseras o Revendedoras de Frontera, que reconoce a las mujeres trabajadoras sostén de familias encarnace
+- _(+ 60 más; lista completa en las actas de cada sesión)_
 
-### Como secunda / co-firmante (14)
-- 2025-04-14 · [[2025-04-14 - Minuta 135]] · estacionamiento-medido-sem, campana-comunicacional, direccion-comunicacion-municipalidad
-- 2023-10-03 · [[2023-10-03 - Minuta 108]] · fauna-silvestre, senaletica-vial, biodiversidad, turismo-natural, eby, ejecutivo-municipal
-- 2023-09-19 · [[2023-09-19 - Minuta 107]] · centro-de-convenciones, concurso-nacional-anteproyecto, plan-encarnacion-mas, ley-4727
-- 2023-06-20 · [[2023-06-20 - Minuta 88]] · agua-potable, essap, infraestructura, planificacion-urbana, expansion-ejido
-- 2023-06-20 · [[2023-06-20 - Minuta 89]] · agua-potable, aguateras, ersan, planificacion-urbana, pozos, expansion-ejido
-- 2023-06-06 · [[2023-06-06 - Minuta 87]] · educacion, chaipe, fonacide, arbolado-urbano, infraestructura-escolar, microclima, sustentabilidad
-- 2022-10-18 · [[2022-10-18 - Minuta 61]] · zona-baja, patrimonio-historico, maqueta-digital, realidad-virtual, uci, transformacion-urbana
-- 2022-10-11 · [[2022-10-11 - Minuta 56]] · discapacidad, comudis, inclusion, presupuesto-municipal, politicas-publicas, ley-6808
-- 2022-09-27 · [[2022-09-27 - Minuta 55]] · estacionamiento-tarifado, movilidad-urbana, uci, transito, concesion-publica, pliego-bases
-- 2022-09-07 · [[2022-09-07 - Minuta 54]] · proyectos-municipales, arquitectura, urbanismo, construccion-sostenible, ordenanza-municipal, calidad-de-proyectos
-- _(+ 4 más anteriores; lista completa en la ficha de persona)_
+### Como secundante (25)
+- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente que se notifique al propietario del ómnibus estacionado en inmediaciones del [[Colegio San Roque González]] de Santa Cruz, que obstaculiza la visibilidad de
+- 2026-04-29 · [[2026-04-29 - Acta 217-2026]] — autorizar la entrega de una Mención Especial de Reconocimiento a los alumnos de la carrera de Ingeniería Informática de la [[Universidad Católica|UCA «Nuestra Señora de la Asunción
+- 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — autorizar la entrega de una Mención Especial de Reconocimiento al joven deportista [[Juan José Villalba Fernández]], quien con 12 años obtuvo la única medalla para Paraguay en la C
+- 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — elevar a las Comisiones de Educación y de Cultura una Mención Especial de Reconocimiento a Mariano San Martín Candia, Santino Gómez, David Zorrilla, Zoe Gómez, Thiago Bruchman y Fr
+- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — solicitar al Ejecutivo, a la [[EBY]] y a la [[ESSAP]] organizar una mesa de trabajo que garantice acciones efectivas para el mantenimiento de la infraestructura de desagüe cloacal
+- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — solicitar al Intendente la posibilidad de disponer, al menos una vez por semana, de un profesional odontólogo del Hospital Pediátrico para prestar servicios en la Unidad de Salud d
+- 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — volver a presentar un cronograma para el estudio de ordenanzas pendientes de tratamiento en la Comisión de Legislación, a fin de regular temas del POUT
+- 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — solicitar a la [[EBY]] un informe sobre la implementación del Plan de Gestión Ambiental para los sub-embalses del arroyo Potí'y y sobre la cantidad y funcionamiento de las estacion
+- 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — reiterar la solicitud al Ejecutivo sobre la posibilidad de implementar la [[Ordenanza 410/98]] que regula el canon por utilización del espacio público municipal (cableado aéreo), p
+- 2025-12-17 · [[2025-12-17 - Acta 201-2025]] — la instalación de reductores de velocidad en la calle Los Obreros y la adecuada señalización de tránsito, atendiendo al reiterado pedido de vecinos y al flujo de visitantes de fin
+- _(+ 15 más; lista completa en las actas de cada sesión)_

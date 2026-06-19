@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **204 sesiones plenarias** (89%); ausente en **26**. Rango: 2021-11-09 a 2026-05-06.
-- Productividad legislativa: **96 minutas como autor · 0 minutas como secunda · 6 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **102** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **69 minutas presentadas en sesión** (autor/co-autor) · 10 secundadas · 6 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **85** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **729 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -101,20 +101,29 @@ Temas sobre los que más intervino:
 ### Como secunda (0)
 Keiji Ishibashi no figura como secunda de ninguna resolución entre 2021 y 2025.
 
-## Minutas
+## Minutas presentadas en sesión (según actas)
 
-### Como autor principal (96)
-- 2025-11-17 · [[2025-11-17 - Minuta 146]] · codigo-edificacion-encarnacion, revision-especializada, tecnologias-construccion, criterios-bioclimaticos, fiscalizacion-control-obra
-- 2025-08-25 · [[2025-08-25 - Minuta 143]] · transporte-publico, ley-nacional, audiencia-publica, transporte-metropolitano, participacion-ciudadana
-- 2025-08-25 · [[2025-08-25 - Minuta 145]] · ley-transporte-publico-metropolitano, modificaciones-ley-1590-2000, congreso-nacional, audiencia-publica-transporte, rectoria-transporte-terrestre
-- 2025-07-19 · [[2025-07-19 - Minuta 140]] · turismo-casas-rodantes, aguas-negras-disposicion, wrc-rally-mundial, estaciones-bombeo-essap, coordinacion-eby-essap
-- 2025-07-19 · [[2025-07-19 - Minuta 141]] · turismo-encarnacion, mantenimiento-caminos-turisticos, senaletica-vial, ruta-senatur
-- 2025-07-19 · [[2025-07-19 - Minuta 142]] · area-verde-barrio-la-paz, finca-municipal-15297, espacios-publicos-recreativos, fiscalia-obras-sede
-- 2025-07-15 · [[2025-07-15 - Minuta 137]] · reconocimiento-deportivo, basquet-sub-13, club-pettirossi, torneo-metropolitano-asuncion
-- 2025-07-15 · [[2025-07-15 - Minuta 138]] · ordenanza-56-construccion-loteamiento, parametros-habitabilidad, fonavis-reglamento, vivienda-social, tipologias-estudiantes, residencias-multifamiliares, direccion-desarrollo-urbano-territorial, iai-ingenieros-asociados-itapua
-- 2025-07-15 · [[2025-07-15 - Minuta 139]] · control-obras-fraccionamientos, apertura-calles-loteamientos, proteccion-arbolado-urbano, remocion-arboles-ciudad
-- 2025-06-23 · [[2025-06-23 - Minuta 136]] · sistema-integrado-transporte-encarnacion, licitacion-publica-transporte, billetaje-electronico, flota-buses-aire-acondicionado, transbordos-validacion-temporal, app-movil-usuarios-prediccion, central-monitoreo-gps
-- _(+ 86 más anteriores; lista completa en la ficha de persona)_
+### Como autor / co-autor (69)
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Ejecutivo la reposición del parque infantil frente a la playa San José, en proximidades del Mirador
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Ejecutivo la prohibición de circulación de motos eléctricas en la vereda de la costanera República del Paraguay
+- 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente la realización de un conteo del volumen de pasajeros en el transporte público de Encarnación, conforme al protocolo e instrumental anexados
+- 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente un estudio de Movilidad Thee para usuarios del transporte público en itinerarios principales, conforme al protocolo e instrumental anexados
+- 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — solicitar al Viceministerio de Transporte y al [[MOPC]] que al menos 5 de los nuevos buses eléctricos sean destinados al Área Metropolitana de Encarnación
+- 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — elevar a Comisión de Transporte una propuesta de ordenanza que regula la ubicación de paradas estratégicas del servicio diferencial de transporte en el itinerario Circuito Comercia
+- 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — elevar a las Comisiones de Planificación, Inquietudes Vecinales y Legislación una propuesta de rectificación del nombre del Barrio Bernardino Caballero a su antiguo nombre, Villa C
+- 2026-02-25 · [[2026-02-25 - Acta 209-2026]] — solicitar al Ejecutivo y a [[FEPASA]] la remisión de una alternativa de accesos al barrio Chaipé y el usufructo de la franja de dominio de la vía férrea como espacio público para e
+- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — solicitar al Ejecutivo, vía Direcciones de Infraestructura Pública y de Gestión Ambiental, una inspección de las instalaciones de desagüe cloacal y pluvial de las propiedades que l
+- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — solicitar al Ejecutivo, a la [[EBY]] y a la [[ESSAP]] organizar una mesa de trabajo que garantice acciones efectivas para el mantenimiento de la infraestructura de desagüe cloacal
+- _(+ 59 más; lista completa en las actas de cada sesión)_
 
-### Como secunda / co-firmante (0)
-Keiji Ishibashi no figura como co-firmante de ninguna minuta entre 2021 y 2025.
+### Como secundante (10)
+- 2025-12-22 · [[2025-12-22 - Acta 203-2025]] — solicitar al Intendente analizar la factibilidad de implementar juegos de mesa de entretenimiento (ajedrez, dama y otros) en espacios techados de dominio municipal, como opción tur
+- 2025-12-10 · [[2025-12-10 - Acta 200-2025]] — solicitar la declaración como área protegida de interés ambiental y social de la naciente hídrica y cauce natural de agua del Barrio Sagrada Familia, conforme a la [[Ley 3239/2007|
+- 2025-09-03 · [[2025-09-03 - Acta 186-2025]] — la remisión de una nota al Intendente elevando un proyecto para la construcción de una cancha multifuncional para deportes (patín, futsal, handball, otros), con medidas oficiales y
+- 2025-07-23 · [[2025-07-23 - Acta 180-2025]] — impulsar la elaboración de una huerta comunitaria en el B° Ita Paso
+- 2025-07-23 · [[2025-07-23 - Acta 180-2025]] — solicitar al Gobernador de Itapúa analizar la reparación faltante en la UFS de Ita Paso
+- 2025-07-23 · [[2025-07-23 - Acta 180-2025]] — gestionar ante los propietarios de los cines de la ciudad la entrega de entradas de cortesía para los niños del Centro Carita Feliz y otros centros municipales, en el marco del Día
+- 2025-07-17 · [[2025-07-17 - Acta 179-2025]] — menciones especiales a jugadores encarnacenos y cuerpo técnico de la [[Federación Paraguaya de Básquetbol]], campeones del Torneo Metropolitano Categoría U13 (11 de julio)
+- 2025-07-09 · [[2025-07-09 - Acta 178-2025]] — remitir nota al Intendente para que gestione ante el Consorcio del SEM la eliminación inmediata de la marcación de estacionamiento medido sobre la Ruta Internacional San Roque Gonz
+- 2025-07-09 · [[2025-07-09 - Acta 178-2025]] — remitir nota a la Policía Nacional de Itapúa para poner en funcionamiento las cámaras del sistema 911 e instalar más cámaras en zonas estratégicas (rotonda de Curupayty) ante el Ca
+- 2025-05-07 · [[2025-05-07 - Acta 169-2025]] — la marcación y habilitación de 2 lugares de estacionamiento reservado de carácter temporal frente al local de la Junta, para ascenso y descenso de personas de la tercera edad o con

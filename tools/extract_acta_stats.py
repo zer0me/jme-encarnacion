@@ -164,6 +164,80 @@ def names_in_vote_field(value, dissent_tokens: dict[str, str]) -> set[str]:
     return found
 
 
+_MINUTA_HEADING = re.compile(r"^##[^\n]*[Mm]inutas[^\n]*$", re.MULTILINE)
+_MINUTA_ITEM = re.compile(r"(?=^\*\*\d+\))", re.MULTILINE)
+_PROPOSE_VERB = re.compile(r"\b(propus\w*|present[oó]\w*|presentaron|mocion\w*)\b", re.IGNORECASE)
+_SECUNDADO = re.compile(r"secundad[oa]s?\s+por\s+([^).]*)", re.IGNORECASE)
+_WIKILINK = re.compile(r"\[\[([^\]|]+)")
+
+
+def _wikilink_slugs(text: str, canon: dict[str, str], tokens: dict[str, str]) -> list[str]:
+    """Canonical concejal slugs for every [[wikilink]] found in `text` (deduped, in order)."""
+    seen: list[str] = []
+    for raw in _WIKILINK.findall(text):
+        slug = _canonize_name(raw, canon, tokens)
+        if slug and slug not in seen:
+            seen.append(slug)
+    return seen
+
+
+def _minuta_desc(item: str) -> str:
+    """Compact one-line description of a minuta item: just the petición.
+
+    Strips the leading "Proposer(s) propuso (secundado por X)" so the snippet is
+    the substance (the card already says whose minuta it is by its section).
+    """
+    s = re.sub(r"^\*\*\d+\)\s*", "", item.strip())
+    s = s.replace("**", "")
+    s = re.sub(r"\s+", " ", s).strip()
+    m = _PROPOSE_VERB.search(s)
+    if m:
+        rest = s[m.end():].lstrip()
+        rest = re.sub(r"^\(secundad[oa]s?\s+por[^)]*\)\s*", "", rest, flags=re.IGNORECASE).lstrip()
+        if len(rest) > 15:
+            s = rest
+    cut = s.find(". ", 40)
+    if cut == -1 or cut > 180:
+        cut = 180
+    return s[:cut].rstrip(" .,;:")
+
+
+def parse_acta_minutas(
+    body: str,
+    fecha: str,
+    acta_stem: str,
+    canon: dict[str, str],
+    tokens: dict[str, str],
+    out: dict[str, dict],
+) -> None:
+    """Attribute each minuta item in an acta body to its proposer(s) and seconder(s).
+
+    Minutas live in the acta body under a `## ... Minutas` heading as numbered items
+    `**N) [[Proposer]] propuso** (secundado por [[X]]) ...`. The standalone `minutas/`
+    folder is radically incomplete, so the actas are the authoritative source for who
+    presented what. Appends (fecha, acta_stem, desc) to out[slug]["minuta_autor"/"_secunda"].
+    """
+    for hm in _MINUTA_HEADING.finditer(body):
+        start = hm.end()
+        nxt = re.search(r"^## ", body[start:], re.MULTILINE)
+        section = body[start : start + nxt.start()] if nxt else body[start:]
+        for item in _MINUTA_ITEM.split(section):
+            if not re.match(r"^\*\*\d+\)", item.strip()):
+                continue
+            vm = _PROPOSE_VERB.search(item)
+            head = item[: vm.start()] if vm else item[:110]
+            sm = _SECUNDADO.search(item)
+            secunda_slugs = set(_wikilink_slugs(sm.group(1), canon, tokens)) if sm else set()
+            autor_slugs = [s for s in _wikilink_slugs(head, canon, tokens) if s not in secunda_slugs]
+            desc = _minuta_desc(item)
+            for s in autor_slugs:
+                if s in out:
+                    out[s]["minuta_autor"].append((fecha, acta_stem, desc))
+            for s in secunda_slugs:
+                if s in out:
+                    out[s]["minuta_secunda"].append((fecha, acta_stem, desc))
+
+
 def scan_actas(canon: dict[str, str], slugs: list[str]) -> dict[str, dict]:
     """Return per-slug aggregates from every acta in the vault.
 
@@ -191,6 +265,8 @@ def scan_actas(canon: dict[str, str], slugs: list[str]) -> dict[str, dict]:
             "votos_en_contra": [],
             "abstenciones": [],
             "ausente_con_aviso": 0,
+            "minuta_autor": [],
+            "minuta_secunda": [],
         }
         for slug in slugs
     }
@@ -201,12 +277,15 @@ def scan_actas(canon: dict[str, str], slugs: list[str]) -> dict[str, dict]:
     unmatched_interv: Counter = Counter()
 
     for doc in sorted(ACTAS_DIR.glob("*.md")):
-        fm, _ = split_frontmatter(doc.read_text(encoding="utf-8"))
+        fm, body = split_frontmatter(doc.read_text(encoding="utf-8"))
         if not fm:
             continue
         n_actas += 1
         fecha = str(fm.get("fecha") or fm.get("fecha_sesion") or "").strip()
         acta_num = str(fm.get("numero") or doc.stem).strip()
+
+        # --- Minutas presentadas en sesión (parseadas del cuerpo del acta) ---
+        parse_acta_minutas(body, fecha, doc.stem, canon, dissent_tokens, out)
 
         # --- Asistencia ---
         for raw in fm.get("concejales_presentes") or []:
@@ -267,6 +346,10 @@ def scan_actas(canon: dict[str, str], slugs: list[str]) -> dict[str, dict]:
         agg["intervenciones"].sort(key=lambda x: x[0], reverse=True)
         agg["votos_en_contra"].sort(key=lambda x: x[0], reverse=True)
         agg["abstenciones"].sort(key=lambda x: x[0], reverse=True)
+        agg["minuta_autor"].sort(key=lambda x: x[0], reverse=True)
+        agg["minuta_secunda"].sort(key=lambda x: x[0], reverse=True)
+        agg["n_minuta_autor"] = len(agg["minuta_autor"])
+        agg["n_minuta_secunda"] = len(agg["minuta_secunda"])
 
     out["_meta"] = {
         "n_actas": n_actas,
@@ -289,15 +372,15 @@ def main() -> int:
     meta = data.pop("_meta")
 
     print(f"\n=== Estadísticas por concejal — {meta['n_actas']} actas procesadas ===\n")
-    header = f"{'Concejal':28s} {'Pres':>5s} {'Aus':>4s} {'%':>4s} {'Interv':>7s} {'EnContra':>9s} {'Abst':>5s}"
+    header = f"{'Concejal':28s} {'Pres':>5s} {'%':>4s} {'Interv':>7s} {'MinAut':>7s} {'MinSec':>7s} {'Abst':>5s}"
     print(header)
     print("-" * len(header))
     for slug in CONCEJAL_ORDER:
         a = data[slug]
         pct = f"{a['asistencia_pct']}%" if a["asistencia_pct"] is not None else "s/d"
         print(
-            f"{slug:28s} {a['presente']:>5d} {a['ausente']:>4d} {pct:>4s} "
-            f"{a['n_intervenciones']:>7d} {len(a['votos_en_contra']):>9d} {len(a['abstenciones']):>5d}"
+            f"{slug:28s} {a['presente']:>5d} {pct:>4s} "
+            f"{a['n_intervenciones']:>7d} {a['n_minuta_autor']:>7d} {a['n_minuta_secunda']:>7d} {len(a['abstenciones']):>5d}"
         )
 
     print("\n=== Top 5 temas de intervención por concejal ===")

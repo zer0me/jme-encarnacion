@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **203 sesiones plenarias** (90%); ausente en **22**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 0 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **1** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **36 minutas presentadas en sesión** (autor/co-autor) · 35 secundadas · 0 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **71** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **190 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -88,10 +88,30 @@ Nehemías Cuevas no figura como autor de ninguna resolución entre 2021 y 2025.
 ### Como secunda (0)
 Nehemías Cuevas no figura como secunda de ninguna resolución entre 2021 y 2025.
 
-## Minutas
+## Minutas presentadas en sesión (según actas)
 
-### Como autor principal (0)
-Nehemías Cuevas no figura como autor principal de ninguna minuta entre 2021 y 2025.
+### Como autor / co-autor (36)
+- 2025-12-03 · [[2025-12-03 - Acta 199-2025]] — solicitar al Intendente que se analice la factibilidad de un proyecto conjunto con el Consorcio Eco Roga para la pavimentación asfáltica del camino al Relleno Sanitario Municipal (
+- 2025-11-19 · [[2025-11-19 - Acta 197-2025]] — autorizar la entrega de una Mención Especial de Reconocimiento a la [[Fundación Jesús Responde al Mundo de Hoy]] por su labor social en Encarnación (donación de sillas de ruedas y
+- 2025-11-12 · [[2025-11-12 - Acta 196-2025]] — la entrega de Menciones Especiales de Reconocimiento a los Pioneros del Barrio [[Club Deportivo Villa Cristina|Bernardino Caballero]], conforme a solicitud de los Directivos del Cl
+- 2025-10-22 · [[2025-10-22 - Acta 193-2025]] — la remisión de una nota al Intendente para analizar la pavimentación empedrada de varias calles de tierra del B° San Pedro fracción San José, del B° Chaipé sector Santa Isabel y de
+- 2025-10-22 · [[2025-10-22 - Acta 193-2025]] — la remisión de una nota al Intendente para analizar la reparación del camino de acceso al B° Cuatro Potrero desde la Avda
+- 2025-09-24 · [[2025-09-24 - Acta 189-2025]] — elevar nota al Intendente para analizar una solución para los vecinos del barrio Sarita, ubicados sobre el camino principal que conduce al [[Hospital General de Itapúa]], cuyo acce
+- 2025-07-23 · [[2025-07-23 - Acta 180-2025]] — solicitar al Intendente analizar la factibilidad de obras de pavimento tipo empedrado en tres cuadras del B° San Pedro Curupayty (coords
+- 2025-07-23 · [[2025-07-23 - Acta 180-2025]] — solicitar al Intendente, por la Dirección de Infraestructura, las maquinarias municipales para la colocación de pavimento tipo ripio en el B° Chaipé-Sector Santa Isabel, donde los
+- 2025-07-02 · [[2025-07-02 - Acta 177-2025]] — un reconocimiento a dos personas —una de ellas de la zona rural y otra residente en Estados Unidos— por su labor social: colaboran con víveres, sillas de ruedas (el señor Amín enví
+- 2025-06-11 · [[2025-06-11 - Acta 174-2025]] — la declaración de interés municipal del «26 SIMPOSIO REGIONAL DE EMERGENTOLOGÍA 4.0» (25 y 26 de julio, [[Universidad Politécnica y Artística del Paraguay]], sede Encarnación)
+- _(+ 26 más; lista completa en las actas de cada sesión)_
 
-### Como secunda / co-firmante (1)
-- 2022-05-25 · [[2022-05-25 - Minuta 39]] · transito, seguridad-vial, villa-candida, participacion-vecinal, prueba-piloto
+### Como secundante (35)
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — la entrega de Menciones Especiales de Reconocimiento a los niños de la categoría Sub 8 de la Selección Encarnacena, ganadores del Campeonato Interdistrital organizado por la Gobern
+- 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — autorizar la entrega de una Mención Especial de Reconocimiento a la estudiante [[Tania Elizabeth Cardozo Gómez]] (Colegio Divina Esperanza) por su participación en la XXV Feria Int
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — la entrega de una mención especial de reconocimiento póstumo a [[Paulino Jara Vera]], oriundo de Artigas y culminado en el [[Centro Regional de Educación Gral
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Intendente para construir aulas de Educación Media en la Escuela Reverendo Lucas Bruder (B° San Antonio Ypecurú), proponiendo financiamiento por la vía de excepción
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Director de la Séptima Región Sanitaria para gestionar ante el Ministerio de Salud la transferencia del título de propiedad del Puesto de Salud del B° Mboi Cae
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Ejecutivo para considerar el pago de la antigüedad correspondiente al año 2025 de los funcionarios municipales, beneficio pendiente de cumplimiento
+- 2026-02-25 · [[2026-02-25 - Acta 209-2026]] — solicitar al Intendente la marcación de las sendas peatonales en inmediaciones de las instituciones educativas de la zona céntrica, para garantizar mayor seguridad vial a los niños
+- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — entregar menciones especiales de reconocimiento a estudiantes y docentes investigadores del Centro Regional de Educación «Gral
+- 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — un proyecto de Ordenanza que modifique la ordenanza que reglamenta el funcionamiento de la Policía Municipal Ambiental, para fortalecer su institucionalidad e integrarla a la Direc
+- 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — solicitar al Ejecutivo analizar la posibilidad de pedir a la empresa concesionaria [[ECO ROGA]] la ampliación de sus servicios al Barrio Los Pinos, acompañando la solicitud de la C
+- _(+ 25 más; lista completa en las actas de cada sesión)_

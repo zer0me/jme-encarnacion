@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **217 sesiones plenarias** (94%); ausente en **14**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **0 minutas como autor · 4 minutas como secunda · 6 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **10** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **161 minutas presentadas en sesión** (autor/co-autor) · 49 secundadas · 6 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **216** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **1122 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -101,13 +101,30 @@ Temas sobre los que más intervino:
 ### Como secunda (0)
 Andrés Morel no figura como secunda de ninguna resolución entre 2021 y 2025.
 
-## Minutas
+## Minutas presentadas en sesión (según actas)
 
-### Como autor principal (0)
-Andrés Morel no figura como autor principal de ninguna minuta entre 2021 y 2025.
+### Como autor / co-autor (161)
+- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente las gestiones para la colocación de una réplica del Monolito de la Unión y Hermandad en Encarnación, en homenaje a la hermandad Posadas-Encarnación
+- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente, por medio de la Dirección de Catastro Municipal, conformar una mesa de trabajo interinstitucional con la Dirección de Catastro de la [[Municipalidad de Cam
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — elevar a la Comisión de Legislación un proyecto de ordenanza «por la cual se regula, prohíbe y establece el control y erradicación progresiva del tulipán africano (Spathodea campan
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — la Declaración de Interés Municipal de la segunda edición del Campeonato Mundial de Rally (FIA WRC) a realizarse en agosto de 2026 en la Región Sur del país
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — la Mención Especial de Reconocimiento a la [[Familia Yanagida]] por la plantación de árboles de cerezos en la Avenida Japón
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar la remisión de una nota al Viceministerio de Transporte para cursar invitación a una reunión de trabajo sobre la reforma del transporte público y su aplicación en el área
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Intendente que, a través de las dependencias correspondientes, se evalúe, determine y autorice el espacio público adecuado para el emplazamiento de un monumento a las
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Director de la [[EBY]] que disponga la pronta conclusión del proceso de transferencia del inmueble de la Escuela Básica N° 3770 «San Miguel» (barrio San Pedro Etapa IV
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Director de la [[EBY]] la reparación, reposición y puesta en funcionamiento de las estaciones de bombeo del sistema cloacal de Encarnación, así como la reparación inme
+- 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — elevar a la Comisión de Legislación el Proyecto de Ordenanza «Gestión Integral de Aceites y Grasas para la Protección del Sistema Cloacal de Encarnación», para evitar obstrucciones
+- _(+ 151 más; lista completa en las actas de cada sesión)_
 
-### Como secunda / co-firmante (4)
-- 2022-06-15 · [[2022-06-15 - Minuta 41]] · medio-ambiente, areas-silvestres-protegidas, guyra-paraguay, distrito-ecologico, planes-de-manejo, plan-encarnacion-mas
-- 2022-05-25 · [[2022-05-25 - Minuta 34]] · transito, infraestructura-vial, diseno-urbano, costanera, seguridad-vial
-- 2022-01-26 · [[2022-01-26 - Minuta 17]] · ambiente, recursos-hidricos, plan-desarrollo-sustentable, areas-protegidas, cambyreta, arroyo-poti-y
-- 2021-11-17 · [[2021-11-17 - Minuta 4]] · recursos-hidricos, agua, investigacion-cientifica, medio-ambiente, interes-municipal, turismo
+### Como secundante (49)
+- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente analizar la factibilidad del pavimento tipo empedrado o asfalto en el estacionamiento de tierra de la Feria Municipal La Placita, sobre la calle Don Gil Río
+- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente intervenir y regularizar la presencia de vendedores informales en las inmediaciones de los locales comerciales de la Feria Municipal La Placita (calle Don G
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — autorizar la Declaración de Interés Municipal del II Congreso Internacional Contabilidad – ITAPÚA 2026, el I Congreso Nacional de Educadores del Área Contable y el I Congreso Nacio
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — la entrega de Menciones Especiales de Reconocimiento a los jugadores, técnicos y directivos de la Selección Masculina de Mayores de la [[Federación Encarnacena de Handball]], por c
+- 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — remitir nota a la Ministra del [[MOPC]] peticionando la limpieza de malezas de la franja de dominio de las Rutas Nacionales N° I y VI dentro del distrito de Encarnación, para preve
+- 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente la colocación de elementos de señalización del espacio reservado para el descenso y ascenso de alumnos del transporte escolar en la [[Escuela Higinio Moríni
+- 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente y a la Comandancia de la Policía Nacional la denuncia formal por el hurto reiterado de caños de barandas de protección en sectores costeros (Costanera Padre
+- 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — la Declaración de Interés Municipal del «1° Curso Internacional de Incendio en Edificios de Altura» (5, 6 y 7 de junio, Cuerpo de Bomberos Voluntarios CVBE)
+- 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — la reparación de la intersección de la Avda
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — solicitar al Intendente un informe detallado y justificación de la adquisición de banderas por un total de Gs
+- _(+ 39 más; lista completa en las actas de cada sesión)_

@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **207 sesiones plenarias** (89%); ausente en **25**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **0 minutas como autor · 2 minutas como secunda · 12 resoluciones como autor · 2 resoluciones como secunda**. Total de iniciativas firmadas: **16** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **76 minutas presentadas en sesión** (autor/co-autor) · 28 secundadas · 12 resoluciones (autor) · 2 (secunda). Total de iniciativas firmadas: **118** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **643 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -107,11 +107,30 @@ Temas sobre los que más intervino:
 - 2022-08-17 · [[2022-08-17 - Resolución 224-2022]] · bomberos-voluntarios, mencion-reconocimiento, rescate-vehicular, trauma, deporte-competencia
 - 2022-02-09 · [[2022-02-09 - Resolución 59-2022]] · deporte, voley-playa, reconocimiento, sudamericano-2022
 
-## Minutas
+## Minutas presentadas en sesión (según actas)
 
-### Como autor principal (0)
-Eduardo Florentín no figura como autor principal de ninguna minuta entre 2021 y 2025.
+### Como autor / co-autor (76)
+- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente analizar la factibilidad del pavimento tipo empedrado o asfalto en el estacionamiento de tierra de la Feria Municipal La Placita, sobre la calle Don Gil Río
+- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente intervenir y regularizar la presencia de vendedores informales en las inmediaciones de los locales comerciales de la Feria Municipal La Placita (calle Don G
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — autorizar la Declaración de Interés Municipal del II Congreso Internacional Contabilidad – ITAPÚA 2026, el I Congreso Nacional de Educadores del Área Contable y el I Congreso Nacio
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — la entrega de Menciones Especiales de Reconocimiento a los jugadores, técnicos y directivos de la Selección Masculina de Mayores de la [[Federación Encarnacena de Handball]], por c
+- 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar la remisión de una nota al Viceministerio de Transporte para cursar invitación a una reunión de trabajo sobre la reforma del transporte público y su aplicación en el área
+- 2026-04-29 · [[2026-04-29 - Acta 217-2026]] — una minuta verbal para que la Junta dicte una resolución obligando o emplazando al Ejecutivo a transferir los aportes a la [[Casa de la Victoria]] dentro de un plazo definido «48 h
+- 2026-04-29 · [[2026-04-29 - Acta 217-2026]] — una minuta verbal para adecuar el acceso al [[Club de Remo y Canotaje]]: «es muy costoso enviar una nota al ejecutivo para que pueda realizarlo a la brevedad posible por el hecho d
+- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — solicitar al Intendente, vía Dirección Municipal correspondiente, un informe con el listado detallado de cheques emitidos por Tesorería y no entregados al 31 de diciembre de 2025
+- 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — solicitar al Intendente un análisis jurídico sobre la posibilidad de resolver la interrupción del Servicio de Estacionamiento Medido (SEM), considerando que el contrato con la empr
+- 2025-11-19 · [[2025-11-19 - Acta 197-2025]] — solicitar al Intendente un informe detallado sobre el servicio de recolección de residuos: montos percibidos por la tercerización, cobros por tributos atrasados y del año en curso
+- _(+ 66 más; lista completa en las actas de cada sesión)_
 
-### Como secunda / co-firmante (2)
-- 2022-05-25 · [[2022-05-25 - Minuta 38]] · transparencia, comunicacion-publica, pautas-publicitarias, control-politico, participacion-ciudadana
-- 2021-12-22 · [[2021-12-22 - Minuta 14]] · loteamientos, ordenamiento-territorial, saneamiento, recursos-hidricos, ordenanza-municipal
+### Como secundante (28)
+- 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente la actualización de la transferencia de las sumas recaudadas en concepto de la Tasa de Prevención contra incendios a favor del [[Cuerpo de Bomberos Voluntar
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — solicitar al Intendente la realización de trabajos de mantenimiento de caminos vecinales en el sector Santa Rita y San Luis del Paraná, vías fundamentales para la movilidad rural y
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — un proyecto de Ordenanza «POR LA CUAL SE ACTUALIZA EL RÉGIMEN DE PROTECCIÓN, RESCATE Y CONSERVACIÓN DEL PATRIMONIO CULTURAL DE LA CIUDAD DE ENCARNACIÓN», estableciendo protocolos d
+- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — reiterar el pedido realizado por Nota N° 09/2026 (29 de enero de 2026) de remisión de comprobantes de ingresos del Sistema de Estacionamiento Medido, Sistema de Recolección de Basu
+- 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — solicitar a la presidencia de la [[EBY]] conformar una mesa técnica de trabajo interinstitucional (con [[MADES]], academia y municipios) para evaluar el sub-embalse Potí'y, ante la
+- 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — solicitar a la presidencia de la [[ESSAP]] el préstamo y asignación temporal de un camión atmosférico por aproximadamente una semana, para desobstrucción y limpieza del sistema clo
+- 2025-11-26 · [[2025-11-26 - Acta 198-2025]] — solicitar al Intendente la notificación y limpieza del patio baldío ubicado sobre la calle Nicolás Schmid (B° San Pedro), en estado de abandono con acumulación de malezas y residuo
+- 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — solicitar al Intendente el mantenimiento y recambio de las luminarias de la Costanera en todo su trayecto
+- 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — solicitar al Intendente analizar la posibilidad de disponer un estudio técnico, económico y jurídico para establecer un sistema de alianza público-privada para la construcción, adm
+- 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — solicitar al Intendente que se realice un estudio y evaluación técnica, jurídica y ambiental respecto a la utilización de terrenos de la [[EBY]] para destinar a la implantación de
+- _(+ 18 más; lista completa en las actas de cada sesión)_

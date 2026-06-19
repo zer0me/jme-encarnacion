@@ -201,9 +201,9 @@ def _build_name_index() -> dict[str, str]:
 
 
 def _authorship_counts() -> dict[str, dict[str, int]]:
-    """Single-pass por minutas + resoluciones. Cuenta autor/secunda desde el
-    frontmatter de cada documento (fuente canónica). Es la métrica honesta:
-    refleja iniciativa formalmente documentada en el archivo.
+    """Cuenta autor/secunda de RESOLUCIONES desde el frontmatter (folder completo,
+    276 curadas). Las MINUTAS NO se cuentan acá: el folder minutas/ está incompleto,
+    así que las minutas se cuentan desde el cuerpo de las actas (scan_actas).
 
     Resuelve nombres por slug, aliases o apodos.
     """
@@ -212,7 +212,7 @@ def _authorship_counts() -> dict[str, dict[str, int]]:
         name: {"autor": 0, "secunda": 0} for name in CONCEJAL_ORDER
     }
 
-    for folder in ("minutas", "resoluciones"):
+    for folder in ("resoluciones",):
         folder_path = VAULT / folder
         if not folder_path.is_dir():
             continue
@@ -282,7 +282,12 @@ def read_concejal(
     n_intervenciones = acta.get("n_intervenciones", 0)
     disidencias = len(acta.get("votos_en_contra") or []) + len(acta.get("abstenciones") or [])
 
-    ac = authorship.get(name, {"autor": 0, "secunda": 0})
+    # Iniciativas = minutas (desde actas, comprehensivo) + resoluciones (desde archivos).
+    res = authorship.get(name, {"autor": 0, "secunda": 0})  # solo resoluciones
+    m_aut = acta.get("n_minuta_autor", 0)
+    m_sec = acta.get("n_minuta_secunda", 0)
+    ini_autor = m_aut + res["autor"]
+    ini_secunda = m_sec + res["secunda"]
 
     return {
         "nombre": fm.get("nombre", name),
@@ -299,9 +304,9 @@ def read_concejal(
         "asistencia_pct": asistencia_pct,
         "intervenciones": n_intervenciones,
         "disidencias": disidencias,
-        "autor": ac["autor"],
-        "secunda": ac["secunda"],
-        "propuestas_total": ac["autor"] + ac["secunda"],
+        "autor": ini_autor,
+        "secunda": ini_secunda,
+        "propuestas_total": ini_autor + ini_secunda,
         "presidente_mesa": pte_mesa,
         "presidente_sesion": pte_sesion,
     }
@@ -362,9 +367,9 @@ def _concejal_legend() -> str:
         '<small class="jme-concejal-legend"><strong>Cómo leer estas métricas:</strong> '
         '<em>Asistencia</em> = sesiones plenarias en las que estuvo presente sobre el total. '
         '<em>Intervenciones</em> = cantidad de veces que tomó la palabra en los debates (según las actas). '
-        '<em>Iniciativas firmadas</em> = minutas y resoluciones que presentó como autor o secundó — '
-        'abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, '
-        'sin distinguir su impacto normativo. '
+        '<em>Iniciativas firmadas</em> = minutas presentadas en sesión (contadas desde las actas) '
+        'más resoluciones, como autor/co-autor o secundante — abarca desde proyectos de ordenanza '
+        'hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo. '
         '<em>Presidió la sesión</em> = veces que ocupó la silla de la mesa directiva durante la plenaria '
         '(rol que rota cuando el presidente titular está ausente; <strong>no</strong> es presidir una comisión '
         'ni ser el presidente electo de la Junta).</small>'
