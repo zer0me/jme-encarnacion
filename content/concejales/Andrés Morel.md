@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-06-19
 
 **Arq. Andrés Morel · Concejal · ANR · Período 2021-2026**
 
-<p class="jme-crosslink">📋 <a href="../personas/Andrés-Morel">Ver ficha / perfil completo de Andrés Morel →</a></p>
+<p class="jme-crosslink">📋 <a href="../personas/Andrés-Morel">Ver ficha completa (perfil) de Andrés Morel →</a></p>
 
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Andres-Morel.jpg" alt="Foto de Andrés Morel" class="concejal-foto" loading="lazy" />
 

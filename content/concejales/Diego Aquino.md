@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-06-19
 
 **Abog. Diego Aquino · Presidente JM · ANR · Período 2021-2026**
 
-<p class="jme-crosslink">📋 <a href="../personas/Diego-Aquino">Ver ficha / perfil completo de Diego Aquino →</a></p>
+<p class="jme-crosslink">📋 <a href="../personas/Diego-Aquino">Ver ficha completa (perfil) de Diego Aquino →</a></p>
 
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Diego-Aquino.jpg" alt="Foto de Diego Aquino" class="concejal-foto" loading="lazy" />
 

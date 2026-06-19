@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-06-19
 
 **Dra. Gloria Arregui · Concejal · PLRA · Período 2021-2026**
 
-<p class="jme-crosslink">📋 <a href="../personas/Gloria-Arregui">Ver ficha / perfil completo de Gloria Arregui →</a></p>
+<p class="jme-crosslink">📋 <a href="../personas/Gloria-Arregui">Ver ficha completa (perfil) de Gloria Arregui →</a></p>
 
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Gloria-Arregui.jpg" alt="Foto de Gloria Arregui" class="concejal-foto" loading="lazy" />
 

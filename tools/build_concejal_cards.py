@@ -420,7 +420,7 @@ def build_card(slug: str, persona: dict, docs: dict, actas: dict | None = None) 
         # Cross-link a la ficha de persona (perfil), que tiene info distinta
         # (biografía, variantes, apariciones). Ambas páginas se complementan.
         f'<p class="jme-crosslink">📋 <a href="../personas/{slug.replace(" ", "-")}">'
-        f'Ver ficha / perfil completo de {slug} →</a></p>',
+        f'Ver ficha completa (perfil) de {slug} →</a></p>',
         "",
     ]
 

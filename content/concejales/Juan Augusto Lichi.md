@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-06-19
 
 **Dr. Juan Augusto Lichi · Vicepresidente JM · ANR · Período 2021-2026**
 
-<p class="jme-crosslink">📋 <a href="../personas/Juan-Augusto-Lichi">Ver ficha / perfil completo de Juan Augusto Lichi →</a></p>
+<p class="jme-crosslink">📋 <a href="../personas/Juan-Augusto-Lichi">Ver ficha completa (perfil) de Juan Augusto Lichi →</a></p>
 
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Juan-Augusto-Lichi.jpg" alt="Foto de Juan Augusto Lichi" class="concejal-foto" loading="lazy" />
 

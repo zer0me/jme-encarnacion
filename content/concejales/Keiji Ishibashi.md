@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-06-19
 
 **Arq. Keiji Ishibashi · Concejal · Movimiento Ciudadanía Activa · Período 2021-2026**
 
-<p class="jme-crosslink">📋 <a href="../personas/Keiji-Ishibashi">Ver ficha / perfil completo de Keiji Ishibashi →</a></p>
+<p class="jme-crosslink">📋 <a href="../personas/Keiji-Ishibashi">Ver ficha completa (perfil) de Keiji Ishibashi →</a></p>
 
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Keiji-Ishibashi.jpg" alt="Foto de Keiji Ishibashi" class="concejal-foto" loading="lazy" />
 

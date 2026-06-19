@@ -518,7 +518,7 @@ def build_tarjetas_concejales() -> str:
         out.append(
             f'<div class="jme-concejal-footer">'
             f'<a href="{slug_url}">📊 Tarjeta detallada</a> · '
-            f'<a href="../personas/{slug_url}">📋 Ficha / perfil</a>'
+            f'<a href="../personas/{slug_url}">📋 Ficha (perfil)</a>'
             f'</div>'
         )
         out.append("")

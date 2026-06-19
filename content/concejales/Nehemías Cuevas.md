@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-06-19
 
 **Lic. Nehemías Cuevas · Concejal — Pte saliente · ANR · Período 2021-2026**
 
-<p class="jme-crosslink">📋 <a href="../personas/Nehemías-Cuevas">Ver ficha / perfil completo de Nehemías Cuevas →</a></p>
+<p class="jme-crosslink">📋 <a href="../personas/Nehemías-Cuevas">Ver ficha completa (perfil) de Nehemías Cuevas →</a></p>
 
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Nehemías-Cuevas.jpg" alt="Foto de Nehemías Cuevas" class="concejal-foto" loading="lazy" />
 

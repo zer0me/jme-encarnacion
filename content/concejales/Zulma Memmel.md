@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-06-19
 
 **Abog. Zulma Memmel · Concejal · Alianza Junta Integrada / PPC · Período 2021-2026**
 
-<p class="jme-crosslink">📋 <a href="../personas/Zulma-Memmel">Ver ficha / perfil completo de Zulma Memmel →</a></p>
+<p class="jme-crosslink">📋 <a href="../personas/Zulma-Memmel">Ver ficha completa (perfil) de Zulma Memmel →</a></p>
 
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Zulma-Memmel.jpg" alt="Foto de Zulma Memmel" class="concejal-foto" loading="lazy" />
 

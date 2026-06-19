@@ -11,7 +11,7 @@ fecha_actualizacion: 2026-06-19
 
 **Abog. Carlos Marino Fernández · Concejal · PLRA · Período 2021-2026**
 
-<p class="jme-crosslink">📋 <a href="../personas/Carlos-Marino-Fernández">Ver ficha / perfil completo de Carlos Marino Fernández →</a></p>
+<p class="jme-crosslink">📋 <a href="../personas/Carlos-Marino-Fernández">Ver ficha completa (perfil) de Carlos Marino Fernández →</a></p>
 
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Carlos-Marino-Fernández.jpg" alt="Foto de Carlos Marino Fernández" class="concejal-foto" loading="lazy" />
 
