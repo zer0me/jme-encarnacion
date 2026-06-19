@@ -156,7 +156,8 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Diego Aquino]]**
 <small>Presidente JM · ANR</small>
 
-📊 Asistencia 96% (163/170)  
+📊 Asistencia 96% (164/171)  
+🗣 Intervenciones: 665  
 ✍ Propuestas: 11 <small>(6 autor · 5 secunda)</small>  
 🪑 Pte de mesa: 22
 
@@ -169,7 +170,8 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Juan Augusto Lichi]]**
 <small>Vicepresidente JM · ANR</small>
 
-📊 Asistencia 83% (146/176)  
+📊 Asistencia 83% (147/177)  
+🗣 Intervenciones: 308  
 ✍ Propuestas: 11 <small>(10 autor · 1 secunda)</small>  
 🪑 Pte de mesa: 48
 
@@ -182,7 +184,8 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Nehemías Cuevas]]**
 <small>Concejal — Pte saliente · ANR</small>
 
-📊 Asistencia 90% (152/169)  
+📊 Asistencia 90% (153/170)  
+🗣 Intervenciones: 153  
 ✍ Propuestas: 1 <small>(0 autor · 1 secunda)</small>  
 🪑 Pte de mesa: 45
 
@@ -195,7 +198,8 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Keiji Ishibashi]]**
 <small>Concejal · Movimiento Ciudadanía Activa</small>
 
-📊 Asistencia 90% (157/174)  
+📊 Asistencia 90% (158/175)  
+🗣 Intervenciones: 513  
 ✍ Propuestas: 76 <small>(76 autor · 0 secunda)</small>  
 🪑 Pte de mesa: 0
 
@@ -208,7 +212,8 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Carlos Marino Fernández]]**
 <small>Concejal · PLRA</small>
 
-📊 Asistencia 97% (170/176)  
+📊 Asistencia 97% (171/177)  
+🗣 Intervenciones: 542  
 ✍ Propuestas: 16 <small>(2 autor · 14 secunda)</small>  
 🪑 Pte de mesa: 4
 
@@ -221,7 +226,8 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Zulma Memmel]]**
 <small>Concejal · Alianza Junta Integrada / PPC</small>
 
-📊 Asistencia 87% (153/176)  
+📊 Asistencia 87% (154/177)  
+🗣 Intervenciones: 361  
 ✍ Propuestas: 35 <small>(1 autor · 34 secunda)</small>  
 🪑 Pte de mesa: 0
 
@@ -234,7 +240,8 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Natalia Enciso]]**
 <small>Concejal · PLRA</small>
 
-📊 Asistencia 95% (164/173)  
+📊 Asistencia 95% (165/174)  
+🗣 Intervenciones: 317  
 ✍ Propuestas: 11 <small>(8 autor · 3 secunda)</small>  
 🪑 Pte de mesa: 0
 
@@ -247,7 +254,8 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Gloria Arregui]]**
 <small>Concejal · PLRA</small>
 
-📊 Asistencia 97% (170/176)  
+📊 Asistencia 97% (171/177)  
+🗣 Intervenciones: 275  
 ✍ Propuestas: 22 <small>(12 autor · 10 secunda)</small>  
 🪑 Pte de mesa: 0
 
@@ -260,7 +268,8 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Andrés Morel]]**
 <small>Concejal · ANR</small>
 
-📊 Asistencia 93% (162/175)  
+📊 Asistencia 93% (163/176)  
+🗣 Intervenciones: 855  
 ✍ Propuestas: 9 <small>(6 autor · 3 secunda)</small>  
 🪑 Pte de mesa: 0
 
@@ -273,7 +282,8 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Fredy Ortega]]**
 <small>Concejal · ANR</small>
 
-📊 Asistencia 96% (166/173)  
+📊 Asistencia 96% (167/174)  
+🗣 Intervenciones: 299  
 ✍ Propuestas: 10 <small>(7 autor · 3 secunda)</small>  
 🪑 Pte de mesa: 52
 
@@ -286,7 +296,8 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Eduardo Florentín]]**
 <small>Concejal · ANR</small>
 
-📊 Asistencia 90% (159/176)  
+📊 Asistencia 90% (159/177)  
+🗣 Intervenciones: 516  
 ✍ Propuestas: 15 <small>(12 autor · 3 secunda)</small>  
 🪑 Pte de mesa: 1
 
@@ -299,7 +310,8 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Eduardo Rebruk]]**
 <small>Concejal · ANR</small>
 
-📊 Asistencia 93% (159/171)  
+📊 Asistencia 93% (160/172)  
+🗣 Intervenciones: 150  
 ✍ Propuestas: 8 <small>(6 autor · 2 secunda)</small>  
 🪑 Pte de mesa: 8
 

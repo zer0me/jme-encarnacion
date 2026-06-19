@@ -318,6 +318,16 @@
       @media (max-width: 480px) {
         grid-template-columns: repeat(2, 1fr);
       }
+
+      // 6-tile variant (2×3): asistencia, intervenciones, propuestas,
+      // pte de mesa, votos clave, disidencias.
+      &.six {
+        grid-template-columns: repeat(3, 1fr);
+
+        @media (max-width: 480px) {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
     }
 
     .jme-stat {

@@ -40,11 +40,16 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 > Electo Pte JM el 30-oct-2024 con voto cruzado de Cuevas; preside la coalición «construir» que muta por eje temático.
 
-<div class="jme-stat-row">
+<div class="jme-stat-row six">
 
 <div class="jme-stat">
 <div class="jme-stat-value">96%</div>
-<div class="jme-stat-label">Asistencia<br><small>163/170</small></div>
+<div class="jme-stat-label">Asistencia<br><small>164/171</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">665</div>
+<div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
@@ -60,6 +65,11 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat">
 <div class="jme-stat-value">3</div>
 <div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">6</div>
+<div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
 </div>
@@ -92,11 +102,16 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 > Vicepresidente electo; postuló a Aquino, pero el 22-ene-2025 vota con contralor en conformación de Comisiones — ruptura tácita Mesa Directiva.
 
-<div class="jme-stat-row">
+<div class="jme-stat-row six">
 
 <div class="jme-stat">
 <div class="jme-stat-value">83%</div>
-<div class="jme-stat-label">Asistencia<br><small>146/176</small></div>
+<div class="jme-stat-label">Asistencia<br><small>147/177</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">308</div>
+<div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
@@ -112,6 +127,11 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat">
 <div class="jme-stat-value">3</div>
 <div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
 </div>
@@ -144,11 +164,16 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 > Pte JM saliente. Rompió bandera ANR en oct-2024 y votó a Aquino; luego ausente 3 de 4 plenarias del cierre fiscal 2024.
 
-<div class="jme-stat-row">
+<div class="jme-stat-row six">
 
 <div class="jme-stat">
 <div class="jme-stat-value">90%</div>
-<div class="jme-stat-label">Asistencia<br><small>152/169</small></div>
+<div class="jme-stat-label">Asistencia<br><small>153/170</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">153</div>
+<div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
@@ -164,6 +189,11 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat">
 <div class="jme-stat-value">3</div>
 <div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">2</div>
+<div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
 </div>
@@ -197,11 +227,16 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 > Acuñó el término «lobbycracia». Concejal más prolífico como autor de minutas y proyectos de ordenanza opositor a captura regulatoria.
 
-<div class="jme-stat-row">
+<div class="jme-stat-row six">
 
 <div class="jme-stat">
 <div class="jme-stat-value">90%</div>
-<div class="jme-stat-label">Asistencia<br><small>157/174</small></div>
+<div class="jme-stat-label">Asistencia<br><small>158/175</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">513</div>
+<div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
@@ -217,6 +252,11 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat">
 <div class="jme-stat-value">3</div>
 <div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">10</div>
+<div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
 </div>
@@ -249,11 +289,16 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 > Voto estable con «construir». Cita Art 34 LOM y Reglamento Diputados para impugnar conformación de Comisiones 2025.
 
-<div class="jme-stat-row">
+<div class="jme-stat-row six">
 
 <div class="jme-stat">
 <div class="jme-stat-value">97%</div>
-<div class="jme-stat-label">Asistencia<br><small>170/176</small></div>
+<div class="jme-stat-label">Asistencia<br><small>171/177</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">542</div>
+<div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
@@ -269,6 +314,11 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat">
 <div class="jme-stat-value">3</div>
 <div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">9</div>
+<div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
 </div>
@@ -301,11 +351,16 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 > Concejal del PPC. En la elección de Mesa Directiva 2024 votó a Aquino como aliada situacional del bloque colorado disidente, no como alianza permanente. Vota habitualmente con el Intendente Yd y es la secundante más frecuente de las minutas de Ishibashi. Frase oct-2024: «No todos los buenos colorados están en la misma posición».
 
-<div class="jme-stat-row">
+<div class="jme-stat-row six">
 
 <div class="jme-stat">
 <div class="jme-stat-value">87%</div>
-<div class="jme-stat-label">Asistencia<br><small>153/176</small></div>
+<div class="jme-stat-label">Asistencia<br><small>154/177</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">361</div>
+<div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
@@ -321,6 +376,11 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat">
 <div class="jme-stat-value">3</div>
 <div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">11</div>
+<div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
 </div>
@@ -353,11 +413,16 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 > Voto estable con «construir». Defensora del Art 29+116 reglamento interno JM en disputa de Comisiones 2025.
 
-<div class="jme-stat-row">
+<div class="jme-stat-row six">
 
 <div class="jme-stat">
 <div class="jme-stat-value">95%</div>
-<div class="jme-stat-label">Asistencia<br><small>164/173</small></div>
+<div class="jme-stat-label">Asistencia<br><small>165/174</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">317</div>
+<div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
@@ -373,6 +438,11 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat">
 <div class="jme-stat-value">3</div>
 <div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">7</div>
+<div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
 </div>
@@ -405,11 +475,16 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 > Pivote. Se abstuvo en elección de Pte, votó a Lichi en Vice, y luego apareció en oficialista-7 en Comisiones 2025.
 
-<div class="jme-stat-row">
+<div class="jme-stat-row six">
 
 <div class="jme-stat">
 <div class="jme-stat-value">97%</div>
-<div class="jme-stat-label">Asistencia<br><small>170/176</small></div>
+<div class="jme-stat-label">Asistencia<br><small>171/177</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">275</div>
+<div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
@@ -425,6 +500,11 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat">
 <div class="jme-stat-value">3</div>
 <div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">8</div>
+<div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
 </div>
@@ -458,11 +538,16 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 > Postulado a Pte JM por «acuerdo de palabra ANR» — perdió 4-7 ante Aquino. Lidera el bloque «contralor» («mirar los papeles»).
 
-<div class="jme-stat-row">
+<div class="jme-stat-row six">
 
 <div class="jme-stat">
 <div class="jme-stat-value">93%</div>
-<div class="jme-stat-label">Asistencia<br><small>162/175</small></div>
+<div class="jme-stat-label">Asistencia<br><small>163/176</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">855</div>
+<div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
@@ -478,6 +563,11 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat">
 <div class="jme-stat-value">3</div>
 <div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">4</div>
+<div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
 </div>
@@ -510,11 +600,16 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 > Concejal ANR. Postulante de Morel en oct-2024 invocando «acuerdo de palabra ANR». Voto estable con contralor.
 
-<div class="jme-stat-row">
+<div class="jme-stat-row six">
 
 <div class="jme-stat">
 <div class="jme-stat-value">96%</div>
-<div class="jme-stat-label">Asistencia<br><small>166/173</small></div>
+<div class="jme-stat-label">Asistencia<br><small>167/174</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">299</div>
+<div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
@@ -530,6 +625,11 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat">
 <div class="jme-stat-value">3</div>
 <div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
 </div>
@@ -562,11 +662,16 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 > Presidente del Club de Clubes. Voto estable con contralor; alineado con Morel en las 3 votaciones nominales clave.
 
-<div class="jme-stat-row">
+<div class="jme-stat-row six">
 
 <div class="jme-stat">
 <div class="jme-stat-value">90%</div>
-<div class="jme-stat-label">Asistencia<br><small>159/176</small></div>
+<div class="jme-stat-label">Asistencia<br><small>159/177</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">516</div>
+<div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
@@ -582,6 +687,11 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat">
 <div class="jme-stat-value">3</div>
 <div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">7</div>
+<div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
 </div>
@@ -614,11 +724,16 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 > Voto estable con contralor. Candidato a Vice JM en oct-2024 (4 votos vs Lichi 8).
 
-<div class="jme-stat-row">
+<div class="jme-stat-row six">
 
 <div class="jme-stat">
 <div class="jme-stat-value">93%</div>
-<div class="jme-stat-label">Asistencia<br><small>159/171</small></div>
+<div class="jme-stat-label">Asistencia<br><small>160/172</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">150</div>
+<div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
@@ -634,6 +749,11 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat">
 <div class="jme-stat-value">3</div>
 <div class="jme-stat-label">Votos clave<br><small>documentados</small></div>
+</div>
+
+<div class="jme-stat">
+<div class="jme-stat-value">3</div>
+<div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
 </div>

@@ -24,6 +24,8 @@ from pathlib import Path
 
 import yaml
 
+from extract_acta_stats import scan_actas
+
 VAULT = Path("G:/Mi unidad/JME")
 DASHBOARD = VAULT / "DASHBOARD.md"
 CONCEJALES_PAGE = VAULT / "concejales" / "index.md"
@@ -233,13 +235,18 @@ def _authorship_counts() -> dict[str, dict[str, int]]:
     return counts
 
 
-def read_concejal(name: str, authorship: dict[str, dict[str, int]]) -> dict | None:
+def read_concejal(
+    name: str,
+    authorship: dict[str, dict[str, int]],
+    acta: dict | None = None,
+) -> dict | None:
     """Lee una ficha de concejal y compone el dict de datos para la tarjeta.
 
-    Asistencia y rol de mesa salen de las secciones del cuerpo de la ficha.
+    Asistencia e intervenciones salen del scan de las 177 actas
+    (`extract_acta_stats.scan_actas`) — fuente autoritativa. Fallback a las
+    secciones del cuerpo de la ficha solo si no hay datos de actas.
     Productividad legislativa (autor + secunda) viene del scan canónico de
-    minutas + resoluciones — NO de las secciones del cuerpo (que están
-    desactualizadas para varios concejales).
+    minutas + resoluciones — NO de las secciones del cuerpo.
     """
     path = VAULT / "personas" / f"{name}.md"
     if not path.exists():
@@ -257,14 +264,23 @@ def read_concejal(name: str, authorship: dict[str, dict[str, int]]) -> dict | No
         )
         return int(m.group(1)) if m else 0
 
-    presente = section_count("presente")
-    ausente = section_count("ausente")
     pte_mesa = section_count("presidente de mesa")
     pte_sesion = section_count("presidente de sesión")
 
-    asistencia_pct: int | None = None
-    if presente + ausente > 0:
-        asistencia_pct = round(100 * presente / (presente + ausente))
+    acta = acta or {}
+    if acta.get("sesiones_conocidas"):
+        presente = acta["presente"]
+        ausente = acta["ausente"]
+        asistencia_pct = acta["asistencia_pct"]
+    else:
+        presente = section_count("presente")
+        ausente = section_count("ausente")
+        asistencia_pct = (
+            round(100 * presente / (presente + ausente)) if presente + ausente > 0 else None
+        )
+
+    n_intervenciones = acta.get("n_intervenciones", 0)
+    disidencias = len(acta.get("votos_en_contra") or []) + len(acta.get("abstenciones") or [])
 
     ac = authorship.get(name, {"autor": 0, "secunda": 0})
 
@@ -281,6 +297,8 @@ def read_concejal(name: str, authorship: dict[str, dict[str, int]]) -> dict | No
         "presente": presente,
         "ausente": ausente,
         "asistencia_pct": asistencia_pct,
+        "intervenciones": n_intervenciones,
+        "disidencias": disidencias,
         "autor": ac["autor"],
         "secunda": ac["secunda"],
         "propuestas_total": ac["autor"] + ac["secunda"],
@@ -291,9 +309,11 @@ def read_concejal(name: str, authorship: dict[str, dict[str, int]]) -> dict | No
 
 def load_concejales() -> list[dict]:
     authorship = _authorship_counts()
+    actas = scan_actas(_build_name_index(), CONCEJAL_ORDER)
+    actas.pop("_meta", None)
     out: list[dict] = []
     for name in CONCEJAL_ORDER:
-        c = read_concejal(name, authorship)
+        c = read_concejal(name, authorship, actas.get(name))
         if c is None:
             print(f"  WARN: ficha de concejal '{name}' no encontrada", file=sys.stderr)
             continue
@@ -352,6 +372,7 @@ def build_grilla_concejales() -> str:
         out.append(f'<small>{_cargo_line(c)}</small>')
         out.append("")
         out.append(f'📊 Asistencia {asis} ({ratio})  ')
+        out.append(f'🗣 Intervenciones: {c["intervenciones"]}  ')
         out.append(
             f'✍ Propuestas: {c["propuestas_total"]} '
             f'<small>({c["autor"]} autor · {c["secunda"]} secunda)</small>  '
@@ -413,12 +434,18 @@ def build_tarjetas_concejales() -> str:
             out.append(f'> {c["rasgo"]}')
             out.append("")
 
-        # Stat tiles
-        out.append('<div class="jme-stat-row">')
+        # Stat tiles (2×3): Asistencia · Intervenciones · Propuestas /
+        #                    Pte de mesa · Votos clave · Disidencias
+        out.append('<div class="jme-stat-row six">')
         out.append("")
         out.append('<div class="jme-stat">')
         out.append(f'<div class="jme-stat-value">{asis}</div>')
         out.append(f'<div class="jme-stat-label">Asistencia<br><small>{ratio_sub}</small></div>')
+        out.append('</div>')
+        out.append("")
+        out.append('<div class="jme-stat">')
+        out.append(f'<div class="jme-stat-value">{c["intervenciones"]}</div>')
+        out.append('<div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>')
         out.append('</div>')
         out.append("")
         out.append('<div class="jme-stat">')
@@ -437,6 +464,11 @@ def build_tarjetas_concejales() -> str:
         out.append('<div class="jme-stat">')
         out.append(f'<div class="jme-stat-value">{votos_count}</div>')
         out.append('<div class="jme-stat-label">Votos clave<br><small>documentados</small></div>')
+        out.append('</div>')
+        out.append("")
+        out.append('<div class="jme-stat">')
+        out.append(f'<div class="jme-stat-value">{c["disidencias"]}</div>')
+        out.append('<div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>')
         out.append('</div>')
         out.append("")
         out.append('</div>')
