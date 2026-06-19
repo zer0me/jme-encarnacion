@@ -18,20 +18,22 @@ fecha_actualizacion: 2026-06-19
 - Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 10 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **11**.
 - Participación en debate: **308 intervenciones** registradas en actas.
 
-## Documentos por tema (autor + secunda, minutas + resoluciones)
-- **deporte** (6): [[2022-10-05 - Resolución 275-2022]], [[2022-05-04 - Resolución 121-2022]], [[2022-02-09 - Resolución 59-2022]] (+ 3 más)
-- **interes-municipal** (5): [[2022-06-29 - Resolución 174-2022]], [[2021-12-09 - Resolución 30-2021]], [[2021-12-09 - Resolución 32-2021]] (+ 2 más)
-- **juventud** (5): [[2022-10-05 - Resolución 275-2022]], [[2022-02-09 - Resolución 57-2022]], [[2021-12-09 - Resolución 30-2021]] (+ 2 más)
-- **reconocimiento** (4): [[2022-10-05 - Resolución 275-2022]], [[2022-05-04 - Resolución 121-2022]], [[2022-02-09 - Resolución 59-2022]] (+ 1 más)
-- **turismo** (3): [[2021-12-09 - Resolución 30-2021]], [[2021-12-09 - Resolución 32-2021]], [[2021-11-10 - Resolución 04-2021]]
-- **basquetbol** (2): [[2022-10-05 - Resolución 275-2022]], [[2021-11-17 - Resolución 07-2021]]
-- **mencion-especial** (2): [[2022-10-05 - Resolución 275-2022]], [[2022-05-04 - Resolución 121-2022]]
-- **apohub** (1): [[2022-02-09 - Resolución 57-2022]]
-- **automovilismo** (1): [[2021-11-10 - Resolución 04-2021]]
-- **barrio-la-paz** (1): [[2022-07-13 - Minuta 48]]
-- **bomberos-voluntarios** (1): [[2022-08-17 - Resolución 224-2022]]
-- **ciclismo** (1): [[2022-05-04 - Resolución 121-2022]]
-- _(+ 22 temas adicionales con menor frecuencia)_
+## Rasgo político (observado en el archivo)
+Vicepresidente electo; postuló a Aquino, pero el 22-ene-2025 vota con contralor en conformación de Comisiones — ruptura tácita Mesa Directiva.
+
+## Votos clave documentados
+
+- 2024-10-30 · Mesa Directiva — Pte JM (Acta 146-2024) · voto: Aquino
+- 2025-01-22 · Conformación Comisiones 2025 (Acta 155-2025) · voto: lista contralor (5) — ruptura
+- 2025-01-29 · Cubiertas / ambiental (Acta 156-2025) · voto: ausente
+
+## Votos disidentes documentados en actas
+
+Casos donde figura nominalmente apartándose de la mayoría (**1 en contra · 2 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
+
+- 2024-06-12 · Acta 126/2024 · Designación de representantes de la Junta en la Mesa Metropolitana — **votó en contra** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Reestructuración deuda Gs. 15.480.000.000 (primera cuota diferida a enero 2025) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta transferencias jubilatorias (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
 
 ## Participación en debate (intervenciones en actas)
 
@@ -52,6 +54,21 @@ Temas sobre los que más intervino:
 - **tren-pasajeros-fepasa** (2)
 - _(+ 266 temas adicionales con menor frecuencia)_
 
+## Documentos por tema (autor + secunda, minutas + resoluciones)
+- **deporte** (6): [[2022-10-05 - Resolución 275-2022]], [[2022-05-04 - Resolución 121-2022]], [[2022-02-09 - Resolución 59-2022]] (+ 3 más)
+- **interes-municipal** (5): [[2022-06-29 - Resolución 174-2022]], [[2021-12-09 - Resolución 30-2021]], [[2021-12-09 - Resolución 32-2021]] (+ 2 más)
+- **juventud** (5): [[2022-10-05 - Resolución 275-2022]], [[2022-02-09 - Resolución 57-2022]], [[2021-12-09 - Resolución 30-2021]] (+ 2 más)
+- **reconocimiento** (4): [[2022-10-05 - Resolución 275-2022]], [[2022-05-04 - Resolución 121-2022]], [[2022-02-09 - Resolución 59-2022]] (+ 1 más)
+- **turismo** (3): [[2021-12-09 - Resolución 30-2021]], [[2021-12-09 - Resolución 32-2021]], [[2021-11-10 - Resolución 04-2021]]
+- **basquetbol** (2): [[2022-10-05 - Resolución 275-2022]], [[2021-11-17 - Resolución 07-2021]]
+- **mencion-especial** (2): [[2022-10-05 - Resolución 275-2022]], [[2022-05-04 - Resolución 121-2022]]
+- **apohub** (1): [[2022-02-09 - Resolución 57-2022]]
+- **automovilismo** (1): [[2021-11-10 - Resolución 04-2021]]
+- **barrio-la-paz** (1): [[2022-07-13 - Minuta 48]]
+- **bomberos-voluntarios** (1): [[2022-08-17 - Resolución 224-2022]]
+- **ciclismo** (1): [[2022-05-04 - Resolución 121-2022]]
+- _(+ 22 temas adicionales con menor frecuencia)_
+
 ## Resoluciones
 
 ### Como autor (10)
@@ -68,23 +85,6 @@ Temas sobre los que más intervino:
 
 ### Como secunda (0)
 Juan Augusto Lichi no figura como secunda de ninguna resolución entre 2021 y 2025.
-
-## Votos clave documentados
-
-- 2024-10-30 · Mesa Directiva — Pte JM (Acta 146-2024) · voto: Aquino
-- 2025-01-22 · Conformación Comisiones 2025 (Acta 155-2025) · voto: lista contralor (5) — ruptura
-- 2025-01-29 · Cubiertas / ambiental (Acta 156-2025) · voto: ausente
-
-## Votos disidentes documentados en actas
-
-Casos donde figura nominalmente apartándose de la mayoría (**1 en contra · 2 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
-
-- 2024-06-12 · Acta 126/2024 · Designación de representantes de la Junta en la Mesa Metropolitana — **votó en contra** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Reestructuración deuda Gs. 15.480.000.000 (primera cuota diferida a enero 2025) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta transferencias jubilatorias (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
-
-## Rasgo político (observado en el archivo)
-Vicepresidente electo; postuló a Aquino, pero el 22-ene-2025 vota con contralor en conformación de Comisiones — ruptura tácita Mesa Directiva.
 
 ## Minutas
 

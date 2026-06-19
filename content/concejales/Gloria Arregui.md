@@ -18,57 +18,8 @@ fecha_actualizacion: 2026-06-19
 - Productividad legislativa: **0 minutas como autor · 10 minutas como secunda · 12 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **22**.
 - Participación en debate: **275 intervenciones** registradas en actas.
 
-## Documentos por tema (autor + secunda, minutas + resoluciones)
-- **reconocimiento** (9): [[2022-11-01 - Minuta 68]], [[2022-09-07 - Resolución 251-2022]], [[2022-07-13 - Resolución 186-2022]] (+ 6 más)
-- **cultura** (6): [[2022-09-07 - Resolución 250-2022]], [[2022-05-18 - Resolución 136-2022]], [[2022-05-04 - Resolución 120-2022]] (+ 3 más)
-- **juventud** (5): [[2022-11-01 - Minuta 68]], [[2022-07-13 - Resolución 186-2022]], [[2022-05-18 - Resolución 136-2022]] (+ 2 más)
-- **mencion-especial** (4): [[2022-09-07 - Resolución 251-2022]], [[2022-05-04 - Resolución 120-2022]], [[2021-11-24 - Resolución 09-2021]] (+ 1 más)
-- **educacion** (3): [[2022-07-13 - Resolución 186-2022]], [[2021-12-01 - Resolución 23-2021]], [[2021-11-24 - Resolución 09-2021]]
-- **deporte** (2): [[2022-11-01 - Minuta 68]], [[2022-06-01 - Resolución 148-2022]]
-- **interes-municipal** (2): [[2021-12-15 - Resolución 36-2021]], [[2021-12-09 - Resolución 31-2021]]
-- **matematica** (2): [[2022-07-13 - Resolución 186-2022]], [[2021-12-01 - Resolución 23-2021]]
-- **mencion-reconocimiento** (2): [[2022-09-07 - Resolución 250-2022]], [[2022-06-01 - Resolución 148-2022]]
-- **plan-encarnacion-mas** (2): [[2023-09-19 - Minuta 107]], [[2023-08-16 - Minuta - Proyecto Ordenanza Espacio Encarnación Más]]
-- **turismo** (2): [[2023-11-13 - Minuta 113]], [[2021-12-09 - Resolución 31-2021]]
-- **area-verde-barrio-la-paz** (1): [[2025-07-19 - Minuta 142]]
-- _(+ 76 temas adicionales con menor frecuencia)_
-
-## Participación en debate (intervenciones en actas)
-
-Intervino **275 veces** en los debates plenarios registrados en actas (período 2021-2026).
-
-Temas sobre los que más intervino:
-- **reconocimientos** (4)
-- **hospital-pediatrico** (4)
-- **infraestructura-barrial** (4)
-- **consejo-local-salud** (3)
-- **reconocimientos-deportivos** (3)
-- **planta-asfaltica** (3)
-- **espacios-publicos** (2)
-- **salud-publica** (2)
-- **homenajes** (2)
-- **homenaje-jorge-hrisuk** (2)
-- **presupuesto-2023** (2)
-- **eleccion-vicepresidente** (2)
-- _(+ 237 temas adicionales con menor frecuencia)_
-
-## Resoluciones
-
-### Como autor (12)
-- 2022-09-07 · [[2022-09-07 - Resolución 250-2022]] · mencion-reconocimiento, cultura, arte, educacion-artistica
-- 2022-09-07 · [[2022-09-07 - Resolución 251-2022]] · reconocimiento, deportes, padel, asociacion-femenina, mencion-especial
-- 2022-07-13 · [[2022-07-13 - Resolución 186-2022]] · reconocimiento, educacion, matematica, juventud, olimpiada-internacional
-- 2022-06-01 · [[2022-06-01 - Resolución 148-2022]] · mencion-reconocimiento, deporte, futbol-playa, atleta-encarnaceno
-- 2022-05-18 · [[2022-05-18 - Resolución 136-2022]] · reconocimiento, cultura, danza, internacional, juventud
-- 2022-05-04 · [[2022-05-04 - Resolución 120-2022]] · reconocimiento, cultura, festival-de-teatro, mencion-especial
-- 2022-02-09 · [[2022-02-09 - Resolución 60-2022]] · reconocimiento, cultura, evento-artistico, fuego-sobre-agua, pro-teatro
-- 2021-12-15 · [[2021-12-15 - Resolución 36-2021]] · interes-municipal, medio-ambiente, salud, minga-ambiental, dengue
-- 2021-12-09 · [[2021-12-09 - Resolución 31-2021]] · interes-municipal, cultura, emprendedores, turismo, gastronomia
-- 2021-12-01 · [[2021-12-01 - Resolución 23-2021]] · reconocimiento, educacion, matematica, juventud
-- _(+ 2 más anteriores; lista completa en la ficha de persona)_
-
-### Como secunda (0)
-Gloria Arregui no figura como secunda de ninguna resolución entre 2021 y 2025.
+## Rasgo político (observado en el archivo)
+Pivote. Se abstuvo en elección de Pte, votó a Lichi en Vice, y luego apareció en oficialista-7 en Comisiones 2025.
 
 ## Votos clave documentados
 
@@ -89,8 +40,57 @@ Casos donde figura nominalmente apartándose de la mayoría (**0 en contra · 8 
 - 2024-04-17 · Acta 118/2024 · edificio-paseo-del-sol — **se abstuvo** · aprobado_mayoria
 - 2022-09-28 · Acta 43/2022 · minuta-reajuste-salarial-funcionarios — **se abstuvo** · aprobado
 
-## Rasgo político (observado en el archivo)
-Pivote. Se abstuvo en elección de Pte, votó a Lichi en Vice, y luego apareció en oficialista-7 en Comisiones 2025.
+## Participación en debate (intervenciones en actas)
+
+Intervino **275 veces** en los debates plenarios registrados en actas (período 2021-2026).
+
+Temas sobre los que más intervino:
+- **reconocimientos** (4)
+- **hospital-pediatrico** (4)
+- **infraestructura-barrial** (4)
+- **consejo-local-salud** (3)
+- **reconocimientos-deportivos** (3)
+- **planta-asfaltica** (3)
+- **espacios-publicos** (2)
+- **salud-publica** (2)
+- **homenajes** (2)
+- **homenaje-jorge-hrisuk** (2)
+- **presupuesto-2023** (2)
+- **eleccion-vicepresidente** (2)
+- _(+ 237 temas adicionales con menor frecuencia)_
+
+## Documentos por tema (autor + secunda, minutas + resoluciones)
+- **reconocimiento** (9): [[2022-11-01 - Minuta 68]], [[2022-09-07 - Resolución 251-2022]], [[2022-07-13 - Resolución 186-2022]] (+ 6 más)
+- **cultura** (6): [[2022-09-07 - Resolución 250-2022]], [[2022-05-18 - Resolución 136-2022]], [[2022-05-04 - Resolución 120-2022]] (+ 3 más)
+- **juventud** (5): [[2022-11-01 - Minuta 68]], [[2022-07-13 - Resolución 186-2022]], [[2022-05-18 - Resolución 136-2022]] (+ 2 más)
+- **mencion-especial** (4): [[2022-09-07 - Resolución 251-2022]], [[2022-05-04 - Resolución 120-2022]], [[2021-11-24 - Resolución 09-2021]] (+ 1 más)
+- **educacion** (3): [[2022-07-13 - Resolución 186-2022]], [[2021-12-01 - Resolución 23-2021]], [[2021-11-24 - Resolución 09-2021]]
+- **deporte** (2): [[2022-11-01 - Minuta 68]], [[2022-06-01 - Resolución 148-2022]]
+- **interes-municipal** (2): [[2021-12-15 - Resolución 36-2021]], [[2021-12-09 - Resolución 31-2021]]
+- **matematica** (2): [[2022-07-13 - Resolución 186-2022]], [[2021-12-01 - Resolución 23-2021]]
+- **mencion-reconocimiento** (2): [[2022-09-07 - Resolución 250-2022]], [[2022-06-01 - Resolución 148-2022]]
+- **plan-encarnacion-mas** (2): [[2023-09-19 - Minuta 107]], [[2023-08-16 - Minuta - Proyecto Ordenanza Espacio Encarnación Más]]
+- **turismo** (2): [[2023-11-13 - Minuta 113]], [[2021-12-09 - Resolución 31-2021]]
+- **area-verde-barrio-la-paz** (1): [[2025-07-19 - Minuta 142]]
+- _(+ 76 temas adicionales con menor frecuencia)_
+
+## Resoluciones
+
+### Como autor (12)
+- 2022-09-07 · [[2022-09-07 - Resolución 250-2022]] · mencion-reconocimiento, cultura, arte, educacion-artistica
+- 2022-09-07 · [[2022-09-07 - Resolución 251-2022]] · reconocimiento, deportes, padel, asociacion-femenina, mencion-especial
+- 2022-07-13 · [[2022-07-13 - Resolución 186-2022]] · reconocimiento, educacion, matematica, juventud, olimpiada-internacional
+- 2022-06-01 · [[2022-06-01 - Resolución 148-2022]] · mencion-reconocimiento, deporte, futbol-playa, atleta-encarnaceno
+- 2022-05-18 · [[2022-05-18 - Resolución 136-2022]] · reconocimiento, cultura, danza, internacional, juventud
+- 2022-05-04 · [[2022-05-04 - Resolución 120-2022]] · reconocimiento, cultura, festival-de-teatro, mencion-especial
+- 2022-02-09 · [[2022-02-09 - Resolución 60-2022]] · reconocimiento, cultura, evento-artistico, fuego-sobre-agua, pro-teatro
+- 2021-12-15 · [[2021-12-15 - Resolución 36-2021]] · interes-municipal, medio-ambiente, salud, minga-ambiental, dengue
+- 2021-12-09 · [[2021-12-09 - Resolución 31-2021]] · interes-municipal, cultura, emprendedores, turismo, gastronomia
+- 2021-12-01 · [[2021-12-01 - Resolución 23-2021]] · reconocimiento, educacion, matematica, juventud
+- _(+ 2 más anteriores; lista completa en la ficha de persona)_
+
+### Como secunda (0)
+Gloria Arregui no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 ## Minutas
 

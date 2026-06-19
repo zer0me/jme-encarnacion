@@ -18,20 +18,26 @@ fecha_actualizacion: 2026-06-19
 - Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 12 resoluciones como autor · 2 resoluciones como secunda**. Total propuestas con su firma: **15**.
 - Participación en debate: **516 intervenciones** registradas en actas.
 
-## Documentos por tema (autor + secunda, minutas + resoluciones)
-- **reconocimiento** (8): [[2022-08-03 - Resolución 215-2022]], [[2022-07-20 - Resolución 196-2022]], [[2022-05-25 - Resolución 142-2022]] (+ 5 más)
-- **cultura** (5): [[2022-09-07 - Resolución 247-2022]], [[2022-09-07 - Resolución 248-2022]], [[2022-09-07 - Resolución 249-2022]] (+ 2 más)
-- **educacion** (4): [[2022-08-03 - Resolución 215-2022]], [[2022-07-20 - Resolución 196-2022]], [[2022-05-18 - Resolución 135-2022]] (+ 1 más)
-- **mencion-reconocimiento** (4): [[2022-09-07 - Resolución 247-2022]], [[2022-09-07 - Resolución 248-2022]], [[2022-09-07 - Resolución 249-2022]] (+ 1 más)
-- **escritores** (3): [[2022-09-07 - Resolución 247-2022]], [[2022-09-07 - Resolución 248-2022]], [[2022-09-07 - Resolución 249-2022]]
-- **mencion-especial** (3): [[2022-08-03 - Resolución 215-2022]], [[2022-07-20 - Resolución 196-2022]], [[2022-04-20 - Resolución 107-2022]]
-- **juventud** (2): [[2022-05-18 - Resolución 135-2022]], [[2022-03-02 - Resolución 81-2022]]
-- **literatura** (2): [[2022-09-07 - Resolución 249-2022]], [[2022-05-11 - Resolución 127-2022]]
-- **mercosur** (2): [[2022-09-07 - Resolución 247-2022]], [[2022-09-07 - Resolución 248-2022]]
-- **automovilismo** (1): [[2022-10-05 - Resolución 281-2022]]
-- **becas** (1): [[2022-08-03 - Resolución 215-2022]]
-- **bomberos-voluntarios** (1): [[2022-08-17 - Resolución 224-2022]]
-- _(+ 33 temas adicionales con menor frecuencia)_
+## Rasgo político (observado en el archivo)
+Presidente del Club de Clubes. Voto estable con contralor; alineado con Morel en las 3 votaciones nominales clave.
+
+## Votos clave documentados
+
+- 2024-10-30 · Mesa Directiva — Pte JM (Acta 146-2024) · voto: Morel
+- 2025-01-22 · Conformación Comisiones 2025 (Acta 155-2025) · voto: lista contralor (5)
+- 2025-01-29 · Cubiertas / ambiental (Acta 156-2025) · voto: con contralor-3
+
+## Votos disidentes documentados en actas
+
+Casos donde figura nominalmente apartándose de la mayoría (**3 en contra · 4 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
+
+- 2024-04-10 · Acta 117/2024 · pliego-licitacion-combustibles-plurianual — **votó en contra** · aprobado_mayoria
+- 2023-10-04 · Acta 93/2023 · pliego_terminal_omnibus_con_vallado_dictamen_60A — **votó en contra** · aprobado_mayoria
+- 2022-09-28 · Acta 43/2022 · dictamen-53-bancos-costanera — **votó en contra** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Reestructuración deuda Gs. 15.480.000.000 (primera cuota diferida a enero 2025) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Dictamen 26 — Pliego Licitación Pública 04/2024 minibuses — **se abstuvo** · aprobado_mayoria
+- 2024-04-03 · Acta 116/2024 · ampliacion-combustibles-petroleos-sur — **se abstuvo** · aprobado_mayoria
+- 2022-09-28 · Acta 43/2022 · acta-sesion-42 — **se abstuvo** · aprobado
 
 ## Participación en debate (intervenciones en actas)
 
@@ -52,6 +58,21 @@ Temas sobre los que más intervino:
 - **bus-turistico-panoramico** (3)
 - _(+ 448 temas adicionales con menor frecuencia)_
 
+## Documentos por tema (autor + secunda, minutas + resoluciones)
+- **reconocimiento** (8): [[2022-08-03 - Resolución 215-2022]], [[2022-07-20 - Resolución 196-2022]], [[2022-05-25 - Resolución 142-2022]] (+ 5 más)
+- **cultura** (5): [[2022-09-07 - Resolución 247-2022]], [[2022-09-07 - Resolución 248-2022]], [[2022-09-07 - Resolución 249-2022]] (+ 2 más)
+- **educacion** (4): [[2022-08-03 - Resolución 215-2022]], [[2022-07-20 - Resolución 196-2022]], [[2022-05-18 - Resolución 135-2022]] (+ 1 más)
+- **mencion-reconocimiento** (4): [[2022-09-07 - Resolución 247-2022]], [[2022-09-07 - Resolución 248-2022]], [[2022-09-07 - Resolución 249-2022]] (+ 1 más)
+- **escritores** (3): [[2022-09-07 - Resolución 247-2022]], [[2022-09-07 - Resolución 248-2022]], [[2022-09-07 - Resolución 249-2022]]
+- **mencion-especial** (3): [[2022-08-03 - Resolución 215-2022]], [[2022-07-20 - Resolución 196-2022]], [[2022-04-20 - Resolución 107-2022]]
+- **juventud** (2): [[2022-05-18 - Resolución 135-2022]], [[2022-03-02 - Resolución 81-2022]]
+- **literatura** (2): [[2022-09-07 - Resolución 249-2022]], [[2022-05-11 - Resolución 127-2022]]
+- **mercosur** (2): [[2022-09-07 - Resolución 247-2022]], [[2022-09-07 - Resolución 248-2022]]
+- **automovilismo** (1): [[2022-10-05 - Resolución 281-2022]]
+- **becas** (1): [[2022-08-03 - Resolución 215-2022]]
+- **bomberos-voluntarios** (1): [[2022-08-17 - Resolución 224-2022]]
+- _(+ 33 temas adicionales con menor frecuencia)_
+
 ## Resoluciones
 
 ### Como autor (12)
@@ -70,27 +91,6 @@ Temas sobre los que más intervino:
 ### Como secunda (2)
 - 2022-08-17 · [[2022-08-17 - Resolución 224-2022]] · bomberos-voluntarios, mencion-reconocimiento, rescate-vehicular, trauma, deporte-competencia
 - 2022-02-09 · [[2022-02-09 - Resolución 59-2022]] · deporte, voley-playa, reconocimiento, sudamericano-2022
-
-## Votos clave documentados
-
-- 2024-10-30 · Mesa Directiva — Pte JM (Acta 146-2024) · voto: Morel
-- 2025-01-22 · Conformación Comisiones 2025 (Acta 155-2025) · voto: lista contralor (5)
-- 2025-01-29 · Cubiertas / ambiental (Acta 156-2025) · voto: con contralor-3
-
-## Votos disidentes documentados en actas
-
-Casos donde figura nominalmente apartándose de la mayoría (**3 en contra · 4 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
-
-- 2024-04-10 · Acta 117/2024 · pliego-licitacion-combustibles-plurianual — **votó en contra** · aprobado_mayoria
-- 2023-10-04 · Acta 93/2023 · pliego_terminal_omnibus_con_vallado_dictamen_60A — **votó en contra** · aprobado_mayoria
-- 2022-09-28 · Acta 43/2022 · dictamen-53-bancos-costanera — **votó en contra** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Reestructuración deuda Gs. 15.480.000.000 (primera cuota diferida a enero 2025) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Dictamen 26 — Pliego Licitación Pública 04/2024 minibuses — **se abstuvo** · aprobado_mayoria
-- 2024-04-03 · Acta 116/2024 · ampliacion-combustibles-petroleos-sur — **se abstuvo** · aprobado_mayoria
-- 2022-09-28 · Acta 43/2022 · acta-sesion-42 — **se abstuvo** · aprobado
-
-## Rasgo político (observado en el archivo)
-Presidente del Club de Clubes. Voto estable con contralor; alineado con Morel en las 3 votaciones nominales clave.
 
 ## Minutas
 

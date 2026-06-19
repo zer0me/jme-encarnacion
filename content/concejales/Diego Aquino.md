@@ -18,20 +18,25 @@ fecha_actualizacion: 2026-06-19
 - Productividad legislativa: **0 minutas como autor · 3 minutas como secunda · 6 resoluciones como autor · 2 resoluciones como secunda**. Total propuestas con su firma: **11**.
 - Participación en debate: **665 intervenciones** registradas en actas.
 
-## Documentos por tema (autor + secunda, minutas + resoluciones)
-- **deporte** (4): [[2022-09-14 - Resolución 260-2022]], [[2022-01-26 - Resolución 44-2022]], [[2021-12-09 - Resolución 33-2021]] (+ 1 más)
-- **corralon-municipal** (3): [[2022-08-31 - Resolución 239-2022]], [[2022-02-02 - Resolución 53-2022]], [[2021-12-09 - Resolución 26-2021]]
-- **interes-municipal** (3): [[2022-09-14 - Resolución 260-2022]], [[2021-12-09 - Resolución 33-2021]], [[2021-12-01 - Resolución 22-2021]]
-- **multas** (3): [[2022-08-31 - Resolución 239-2022]], [[2022-02-02 - Resolución 53-2022]], [[2021-12-09 - Resolución 26-2021]]
-- **periodo-de-gracia** (3): [[2022-08-31 - Resolución 239-2022]], [[2022-02-02 - Resolución 53-2022]], [[2021-12-09 - Resolución 26-2021]]
-- **plan-encarnacion-mas** (3): [[2022-07-05 - Minuta 44]], [[2022-05-25 - Minuta 36]], [[2022-05-25 - Minuta 40]]
-- **transito** (3): [[2022-08-31 - Resolución 239-2022]], [[2022-02-02 - Resolución 53-2022]], [[2021-12-09 - Resolución 26-2021]]
-- **urbanismo** (3): [[2022-07-05 - Minuta 44]], [[2022-05-25 - Minuta 36]], [[2022-05-25 - Minuta 40]]
-- **infracciones** (2): [[2022-08-31 - Resolución 239-2022]], [[2022-02-02 - Resolución 53-2022]]
-- **socializacion-ciudadana** (2): [[2022-05-25 - Minuta 36]], [[2022-05-25 - Minuta 40]]
-- **basquetbol** (1): [[2022-01-26 - Resolución 44-2022]]
-- **bicicleta** (1): [[2021-12-01 - Resolución 22-2021]]
-- _(+ 26 temas adicionales con menor frecuencia)_
+## Rasgo político (observado en el archivo)
+Electo Pte JM el 30-oct-2024 con voto cruzado de Cuevas; preside la coalición «construir» que muta por eje temático.
+
+## Votos clave documentados
+
+- 2024-10-30 · Mesa Directiva — Pte JM (Acta 146-2024) · voto: Aquino (auto, 7 votos)
+- 2025-01-22 · Conformación Comisiones 2025 (Acta 155-2025) · voto: lista oficialista (7)
+- 2025-01-29 · Cubiertas / ambiental (Acta 156-2025) · voto: con contralor-3
+
+## Votos disidentes documentados en actas
+
+Casos donde figura nominalmente apartándose de la mayoría (**0 en contra · 6 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
+
+- 2024-06-26 · Acta 128/2024 · Minuta informe Royaltíes/Fonacide (Florentín) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta extractos bancarios (Cuevas/Florentín/Ortega/Lichi/Morel/Rebruk) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta transferencias jubilatorias (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta informe finanzas municipales (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
+- 2024-06-12 · Acta 126/2024 · Dictamen 25A vs 25B sobre Convenio Mesa Metropolitana de Transporte — **se abstuvo** · aprobado_mayoria
+- 2024-06-12 · Acta 126/2024 · Designación de representantes de la Junta en la Mesa Metropolitana — **se abstuvo** · aprobado_mayoria
 
 ## Participación en debate (intervenciones en actas)
 
@@ -52,6 +57,21 @@ Temas sobre los que más intervino:
 - **presupuesto-2023** (3)
 - _(+ 578 temas adicionales con menor frecuencia)_
 
+## Documentos por tema (autor + secunda, minutas + resoluciones)
+- **deporte** (4): [[2022-09-14 - Resolución 260-2022]], [[2022-01-26 - Resolución 44-2022]], [[2021-12-09 - Resolución 33-2021]] (+ 1 más)
+- **corralon-municipal** (3): [[2022-08-31 - Resolución 239-2022]], [[2022-02-02 - Resolución 53-2022]], [[2021-12-09 - Resolución 26-2021]]
+- **interes-municipal** (3): [[2022-09-14 - Resolución 260-2022]], [[2021-12-09 - Resolución 33-2021]], [[2021-12-01 - Resolución 22-2021]]
+- **multas** (3): [[2022-08-31 - Resolución 239-2022]], [[2022-02-02 - Resolución 53-2022]], [[2021-12-09 - Resolución 26-2021]]
+- **periodo-de-gracia** (3): [[2022-08-31 - Resolución 239-2022]], [[2022-02-02 - Resolución 53-2022]], [[2021-12-09 - Resolución 26-2021]]
+- **plan-encarnacion-mas** (3): [[2022-07-05 - Minuta 44]], [[2022-05-25 - Minuta 36]], [[2022-05-25 - Minuta 40]]
+- **transito** (3): [[2022-08-31 - Resolución 239-2022]], [[2022-02-02 - Resolución 53-2022]], [[2021-12-09 - Resolución 26-2021]]
+- **urbanismo** (3): [[2022-07-05 - Minuta 44]], [[2022-05-25 - Minuta 36]], [[2022-05-25 - Minuta 40]]
+- **infracciones** (2): [[2022-08-31 - Resolución 239-2022]], [[2022-02-02 - Resolución 53-2022]]
+- **socializacion-ciudadana** (2): [[2022-05-25 - Minuta 36]], [[2022-05-25 - Minuta 40]]
+- **basquetbol** (1): [[2022-01-26 - Resolución 44-2022]]
+- **bicicleta** (1): [[2021-12-01 - Resolución 22-2021]]
+- _(+ 26 temas adicionales con menor frecuencia)_
+
 ## Resoluciones
 
 ### Como autor (6)
@@ -65,26 +85,6 @@ Temas sobre los que más intervino:
 ### Como secunda (2)
 - 2022-04-27 · [[2022-04-27 - Resolución 111-2022]] · reconocimiento, educacion, matematicas, olimpiadas, estudiantes
 - 2022-01-26 · [[2022-01-26 - Resolución 44-2022]] · deporte, basquetbol, declaracion-interes-municipal, juventud, prode
-
-## Votos clave documentados
-
-- 2024-10-30 · Mesa Directiva — Pte JM (Acta 146-2024) · voto: Aquino (auto, 7 votos)
-- 2025-01-22 · Conformación Comisiones 2025 (Acta 155-2025) · voto: lista oficialista (7)
-- 2025-01-29 · Cubiertas / ambiental (Acta 156-2025) · voto: con contralor-3
-
-## Votos disidentes documentados en actas
-
-Casos donde figura nominalmente apartándose de la mayoría (**0 en contra · 6 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
-
-- 2024-06-26 · Acta 128/2024 · Minuta informe Royaltíes/Fonacide (Florentín) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta extractos bancarios (Cuevas/Florentín/Ortega/Lichi/Morel/Rebruk) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta transferencias jubilatorias (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta informe finanzas municipales (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
-- 2024-06-12 · Acta 126/2024 · Dictamen 25A vs 25B sobre Convenio Mesa Metropolitana de Transporte — **se abstuvo** · aprobado_mayoria
-- 2024-06-12 · Acta 126/2024 · Designación de representantes de la Junta en la Mesa Metropolitana — **se abstuvo** · aprobado_mayoria
-
-## Rasgo político (observado en el archivo)
-Electo Pte JM el 30-oct-2024 con voto cruzado de Cuevas; preside la coalición «construir» que muta por eje temático.
 
 ## Minutas
 

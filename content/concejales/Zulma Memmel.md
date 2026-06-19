@@ -18,47 +18,8 @@ fecha_actualizacion: 2026-06-19
 - Productividad legislativa: **0 minutas como autor · 33 minutas como secunda · 1 resolución como autor · 1 resolución como secunda**. Total propuestas con su firma: **35**.
 - Participación en debate: **361 intervenciones** registradas en actas.
 
-## Documentos por tema (autor + secunda, minutas + resoluciones)
-- **plan-encarnacion-mas** (5): [[2023-09-19 - Minuta 107]], [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]] (+ 2 más)
-- **cultura** (3): [[2023-02-07 - Minuta 72]], [[2022-05-25 - Minuta 35]], [[2021-11-30 - Minuta 7]]
-- **ordenamiento-territorial** (3): [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]], [[2021-11-17 - Minuta 3]]
-- **apertura-calles-loteamientos** (2): [[2025-07-15 - Minuta 139]], [[2025-02-25 - Minuta 131]]
-- **circuito-comercial** (2): [[2023-06-06 - Minuta 86]], [[2022-07-13 - Minuta 47]]
-- **eby** (2): [[2022-11-23 - Minuta 71]], [[2022-07-13 - Minuta 47]]
-- **espacio-publico** (2): [[2022-11-23 - Minuta 70]], [[2022-07-27 - Minuta 52]]
-- **feria-municipal** (2): [[2025-02-17 - Minuta 129]], [[2022-07-27 - Minuta 52]]
-- **genero** (2): [[2022-07-27 - Minuta 50]], [[2022-07-20 - Resolución 198-2022]]
-- **infraestructura** (2): [[2022-09-07 - Minuta 53]], [[2022-07-27 - Minuta 52]]
-- **innovacion** (2): [[2023-11-13 - Minuta 110]], [[2021-11-24 - Minuta 6]]
-- **juventud** (2): [[2023-11-13 - Minuta 110]], [[2021-11-24 - Minuta 6]]
-- _(+ 150 temas adicionales con menor frecuencia)_
-
-## Participación en debate (intervenciones en actas)
-
-Intervino **361 veces** en los debates plenarios registrados en actas (período 2021-2026).
-
-Temas sobre los que más intervino:
-- **estacionamiento-tarifado** (5)
-- **transparencia** (3)
-- **transporte-publico-site** (3)
-- **planta-asfaltica** (3)
-- **transferencia-intercuentas** (3)
-- **salud-publica** (2)
-- **infraestructura-vial** (2)
-- **seguridad-ciudadana** (2)
-- **proteccion-animal** (2)
-- **transporte-publico-emergencia** (2)
-- **controles-policiales-hurto-cables** (2)
-- **titulacion-circuito-comercial** (2)
-- _(+ 315 temas adicionales con menor frecuencia)_
-
-## Resoluciones
-
-### Como autor (1)
-- 2022-09-07 · [[2022-09-07 - Resolución 254-2022]] · interes-municipal, derecho-procesal-constitucional, congreso, universidad-catolica, evento-academico
-
-### Como secunda (1)
-- 2022-07-20 · [[2022-07-20 - Resolución 198-2022]] · declaracion-interes-municipal, mujeres, politica, genero, evento
+## Rasgo político (observado en el archivo)
+Concejal del PPC. En la elección de Mesa Directiva 2024 votó a Aquino como aliada situacional del bloque colorado disidente, no como alianza permanente. Vota habitualmente con el Intendente Yd y es la secundante más frecuente de las minutas de Ishibashi. Frase oct-2024: «No todos los buenos colorados están en la misma posición».
 
 ## Votos clave documentados
 
@@ -82,8 +43,47 @@ Casos donde figura nominalmente apartándose de la mayoría (**2 en contra · 9 
 - 2024-06-26 · Acta 128/2024 · Minuta informe finanzas municipales (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
 - 2024-04-10 · Acta 117/2024 · apoyo-ministra-baran — **se abstuvo** · aprobado_mayoria
 
-## Rasgo político (observado en el archivo)
-Concejal del PPC. En la elección de Mesa Directiva 2024 votó a Aquino como aliada situacional del bloque colorado disidente, no como alianza permanente. Vota habitualmente con el Intendente Yd y es la secundante más frecuente de las minutas de Ishibashi. Frase oct-2024: «No todos los buenos colorados están en la misma posición».
+## Participación en debate (intervenciones en actas)
+
+Intervino **361 veces** en los debates plenarios registrados en actas (período 2021-2026).
+
+Temas sobre los que más intervino:
+- **estacionamiento-tarifado** (5)
+- **transparencia** (3)
+- **transporte-publico-site** (3)
+- **planta-asfaltica** (3)
+- **transferencia-intercuentas** (3)
+- **salud-publica** (2)
+- **infraestructura-vial** (2)
+- **seguridad-ciudadana** (2)
+- **proteccion-animal** (2)
+- **transporte-publico-emergencia** (2)
+- **controles-policiales-hurto-cables** (2)
+- **titulacion-circuito-comercial** (2)
+- _(+ 315 temas adicionales con menor frecuencia)_
+
+## Documentos por tema (autor + secunda, minutas + resoluciones)
+- **plan-encarnacion-mas** (5): [[2023-09-19 - Minuta 107]], [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]] (+ 2 más)
+- **cultura** (3): [[2023-02-07 - Minuta 72]], [[2022-05-25 - Minuta 35]], [[2021-11-30 - Minuta 7]]
+- **ordenamiento-territorial** (3): [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]], [[2021-11-17 - Minuta 3]]
+- **apertura-calles-loteamientos** (2): [[2025-07-15 - Minuta 139]], [[2025-02-25 - Minuta 131]]
+- **circuito-comercial** (2): [[2023-06-06 - Minuta 86]], [[2022-07-13 - Minuta 47]]
+- **eby** (2): [[2022-11-23 - Minuta 71]], [[2022-07-13 - Minuta 47]]
+- **espacio-publico** (2): [[2022-11-23 - Minuta 70]], [[2022-07-27 - Minuta 52]]
+- **feria-municipal** (2): [[2025-02-17 - Minuta 129]], [[2022-07-27 - Minuta 52]]
+- **genero** (2): [[2022-07-27 - Minuta 50]], [[2022-07-20 - Resolución 198-2022]]
+- **infraestructura** (2): [[2022-09-07 - Minuta 53]], [[2022-07-27 - Minuta 52]]
+- **innovacion** (2): [[2023-11-13 - Minuta 110]], [[2021-11-24 - Minuta 6]]
+- **juventud** (2): [[2023-11-13 - Minuta 110]], [[2021-11-24 - Minuta 6]]
+- _(+ 150 temas adicionales con menor frecuencia)_
+
+## Resoluciones
+
+### Como autor (1)
+- 2022-09-07 · [[2022-09-07 - Resolución 254-2022]] · interes-municipal, derecho-procesal-constitucional, congreso, universidad-catolica, evento-academico
+
+### Como secunda (1)
+- 2022-07-20 · [[2022-07-20 - Resolución 198-2022]] · declaracion-interes-municipal, mujeres, politica, genero, evento
 
 ## Minutas
 

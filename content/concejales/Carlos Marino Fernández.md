@@ -18,48 +18,8 @@ fecha_actualizacion: 2026-06-19
 - Productividad legislativa: **0 minutas como autor · 14 minutas como secunda · 2 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **16**.
 - Participación en debate: **542 intervenciones** registradas en actas.
 
-## Documentos por tema (autor + secunda, minutas + resoluciones)
-- **plan-encarnacion-mas** (3): [[2023-09-19 - Minuta 107]], [[2022-07-05 - Minuta 45]], [[2021-11-17 - Minuta 2]]
-- **agua-potable** (2): [[2023-06-20 - Minuta 88]], [[2023-06-20 - Minuta 89]]
-- **eby** (2): [[2023-10-03 - Minuta 108]], [[2022-07-05 - Minuta 45]]
-- **expansion-ejido** (2): [[2023-06-20 - Minuta 88]], [[2023-06-20 - Minuta 89]]
-- **movilidad-urbana** (2): [[2022-09-27 - Minuta 55]], [[2022-06-01 - Resolución 147-2022]]
-- **planificacion-urbana** (2): [[2023-06-20 - Minuta 88]], [[2023-06-20 - Minuta 89]]
-- **transporte** (2): [[2022-08-09 - Minuta 51]], [[2022-06-01 - Resolución 147-2022]]
-- **uci** (2): [[2022-10-18 - Minuta 61]], [[2022-09-27 - Minuta 55]]
-- **urbanismo** (2): [[2022-09-07 - Minuta 54]], [[2022-07-05 - Minuta 45]]
-- **aguateras** (1): [[2023-06-20 - Minuta 89]]
-- **arbolado-urbano** (1): [[2023-06-06 - Minuta 87]]
-- **arquitectura** (1): [[2022-09-07 - Minuta 54]]
-- _(+ 64 temas adicionales con menor frecuencia)_
-
-## Participación en debate (intervenciones en actas)
-
-Intervino **542 veces** en los debates plenarios registrados en actas (período 2021-2026).
-
-Temas sobre los que más intervino:
-- **planta-asfaltica** (6)
-- **homenajes** (4)
-- **plan-encarnacion-2030** (4)
-- **cobro-electronico** (3)
-- **seguridad-ciudadana** (3)
-- **estacionamiento-tarifado** (3)
-- **reprogramacion-presupuestaria-2022** (2)
-- **juntas-de-saneamiento-erssan** (2)
-- **transporte-publico-site** (2)
-- **ocupacion-mboi-cae** (2)
-- **homenaje-jorge-hrisuk** (2)
-- **parque-juegos-gaspar-rodriguez** (2)
-- _(+ 488 temas adicionales con menor frecuencia)_
-
-## Resoluciones
-
-### Como autor (2)
-- 2022-08-24 · [[2022-08-24 - Resolución 230-2022]] · reconocimiento, juventud, cultura, certamen-internacional
-- 2022-06-01 · [[2022-06-01 - Resolución 147-2022]] · mencion-reconocimiento, transporte, movilidad-urbana, universidad, plan-site
-
-### Como secunda (0)
-Carlos Marino Fernández no figura como secunda de ninguna resolución entre 2021 y 2025.
+## Rasgo político (observado en el archivo)
+Voto estable con «construir». Cita Art 34 LOM y Reglamento Diputados para impugnar conformación de Comisiones 2025.
 
 ## Votos clave documentados
 
@@ -81,8 +41,48 @@ Casos donde figura nominalmente apartándose de la mayoría (**0 en contra · 9 
 - 2023-01-17 · Acta Resumen 01-03/2023 + Extraordinaria 01/2023 · fraccionamiento-la-finca-bienes-raices — **se abstuvo** · aprobado_mayoria
 - 2022-09-28 · Acta 43/2022 · minuta-reajuste-salarial-funcionarios — **se abstuvo** · aprobado
 
-## Rasgo político (observado en el archivo)
-Voto estable con «construir». Cita Art 34 LOM y Reglamento Diputados para impugnar conformación de Comisiones 2025.
+## Participación en debate (intervenciones en actas)
+
+Intervino **542 veces** en los debates plenarios registrados en actas (período 2021-2026).
+
+Temas sobre los que más intervino:
+- **planta-asfaltica** (6)
+- **homenajes** (4)
+- **plan-encarnacion-2030** (4)
+- **cobro-electronico** (3)
+- **seguridad-ciudadana** (3)
+- **estacionamiento-tarifado** (3)
+- **reprogramacion-presupuestaria-2022** (2)
+- **juntas-de-saneamiento-erssan** (2)
+- **transporte-publico-site** (2)
+- **ocupacion-mboi-cae** (2)
+- **homenaje-jorge-hrisuk** (2)
+- **parque-juegos-gaspar-rodriguez** (2)
+- _(+ 488 temas adicionales con menor frecuencia)_
+
+## Documentos por tema (autor + secunda, minutas + resoluciones)
+- **plan-encarnacion-mas** (3): [[2023-09-19 - Minuta 107]], [[2022-07-05 - Minuta 45]], [[2021-11-17 - Minuta 2]]
+- **agua-potable** (2): [[2023-06-20 - Minuta 88]], [[2023-06-20 - Minuta 89]]
+- **eby** (2): [[2023-10-03 - Minuta 108]], [[2022-07-05 - Minuta 45]]
+- **expansion-ejido** (2): [[2023-06-20 - Minuta 88]], [[2023-06-20 - Minuta 89]]
+- **movilidad-urbana** (2): [[2022-09-27 - Minuta 55]], [[2022-06-01 - Resolución 147-2022]]
+- **planificacion-urbana** (2): [[2023-06-20 - Minuta 88]], [[2023-06-20 - Minuta 89]]
+- **transporte** (2): [[2022-08-09 - Minuta 51]], [[2022-06-01 - Resolución 147-2022]]
+- **uci** (2): [[2022-10-18 - Minuta 61]], [[2022-09-27 - Minuta 55]]
+- **urbanismo** (2): [[2022-09-07 - Minuta 54]], [[2022-07-05 - Minuta 45]]
+- **aguateras** (1): [[2023-06-20 - Minuta 89]]
+- **arbolado-urbano** (1): [[2023-06-06 - Minuta 87]]
+- **arquitectura** (1): [[2022-09-07 - Minuta 54]]
+- _(+ 64 temas adicionales con menor frecuencia)_
+
+## Resoluciones
+
+### Como autor (2)
+- 2022-08-24 · [[2022-08-24 - Resolución 230-2022]] · reconocimiento, juventud, cultura, certamen-internacional
+- 2022-06-01 · [[2022-06-01 - Resolución 147-2022]] · mencion-reconocimiento, transporte, movilidad-urbana, universidad, plan-site
+
+### Como secunda (0)
+Carlos Marino Fernández no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 ## Minutas
 

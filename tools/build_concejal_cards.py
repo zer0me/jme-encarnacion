@@ -433,6 +433,14 @@ def build_card(slug: str, persona: dict, docs: dict, actas: dict | None = None) 
             "",
         ]
 
+    # ── Orden de secciones ──
+    # El worker pasa al LLM solo los primeros CONTEXT_DOC_MAX_CHARS (4000) de
+    # cada doc, y el indexer trunca a MAX_TEXT_CHARS (6500). Por eso las
+    # secciones COMPACTAS y de alto valor para preguntas (resumen, rasgo,
+    # votos clave, votos disidentes, participación) van ARRIBA — entran en los
+    # primeros ~3000c. Las listas VOLUMINOSAS (por-tema, resoluciones, minutas)
+    # van al final: su valor (los conteos) ya está en el resumen, y si el
+    # truncado las corta no se pierde información de respuesta.
     parts += [
         "## Resumen cuantitativo",
         f"- Asistencia: presente en **{presente} sesiones plenarias** "
@@ -446,17 +454,28 @@ def build_card(slug: str, persona: dict, docs: dict, actas: dict | None = None) 
         f"- Participación en debate: **{n_interv} {pluralize(n_interv, 'intervención', 'intervenciones')}** "
         f"registradas en actas." if n_interv else "",
         "",
-        "## Documentos por tema (autor + secunda, minutas + resoluciones)",
-        render_by_tema(docs["by_tema"]),
-        "",
     ]
+
+    rasgo = persona.get("rasgo", "").strip()
+    if rasgo:
+        parts += ["## Rasgo político (observado en el archivo)", rasgo, ""]
+
+    votos_block = render_votos(persona.get("votos_clave", []))
+    if votos_block:
+        parts += [votos_block, ""]
+
+    dissent_block = render_dissent(actas)
+    if dissent_block:
+        parts += [dissent_block, ""]
 
     interv_block = render_intervenciones(actas)
     if interv_block:
-        parts.append(interv_block)
-        parts.append("")
+        parts += [interv_block, ""]
 
     parts += [
+        "## Documentos por tema (autor + secunda, minutas + resoluciones)",
+        render_by_tema(docs["by_tema"]),
+        "",
         "## Resoluciones",
         "",
         f"### Como autor ({n_resol_autor})",
@@ -471,27 +490,6 @@ def build_card(slug: str, persona: dict, docs: dict, actas: dict | None = None) 
             f"{slug} no figura como secunda de ninguna resolución entre 2021 y 2025.",
         ),
         "",
-    ]
-
-    votos_block = render_votos(persona.get("votos_clave", []))
-    if votos_block:
-        parts.append(votos_block)
-        parts.append("")
-
-    dissent_block = render_dissent(actas)
-    if dissent_block:
-        parts.append(dissent_block)
-        parts.append("")
-
-    # Rasgo político goes before the bulky Minutas lists so it survives the
-    # RAG indexer's tail-truncation even on near-cap cards.
-    rasgo = persona.get("rasgo", "").strip()
-    if rasgo:
-        parts.append("## Rasgo político (observado en el archivo)")
-        parts.append(rasgo)
-        parts.append("")
-
-    parts += [
         "## Minutas",
         "",
         f"### Como autor principal ({n_minuta_autor})",
