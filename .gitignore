@@ -17,3 +17,7 @@ replit.nix
 .compare_drive.py
 .analyze_heavy.py
 .jpg2pdf_poc.py
+
+# Python bytecode
+__pycache__/
+*.pyc
