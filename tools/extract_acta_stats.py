@@ -93,6 +93,15 @@ def _canonize_name(raw, canon: dict[str, str], tokens: dict[str, str] | None = N
             return tokens[_norm(" ".join(parts[-2:]))]
         if parts and _norm(parts[-1]) in tokens:
             return tokens[_norm(parts[-1])]
+        # subset-token fallback: handles full legal names in roll-calls, e.g.
+        # "Nehemías Cuevas Trinidad" → "Nehemías Cuevas", "Diego Rafael Aquino
+        # Mercado" → "Diego Aquino". Match when every word of a canonical slug
+        # appears in the input (the 12 slugs are pairwise distinct on this test).
+        words = {_norm(w) for w in parts}
+        for slug in set(tokens.values()):
+            slug_words = {_norm(w) for w in slug.split()}
+            if slug_words and slug_words <= words:
+                return slug
     return None
 
 

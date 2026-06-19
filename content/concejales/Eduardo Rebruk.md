@@ -14,9 +14,9 @@ fecha_actualizacion: 2026-06-19
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Eduardo-Rebruk.jpg" alt="Foto de Eduardo Rebruk" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
-- Asistencia: presente en **160 sesiones plenarias** (93%); ausente en **12**. Rango: 2021-11-09 a 2025-04-30.
-- Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 6 resoluciones como autor · 1 resolución como secunda**. Total propuestas con su firma: **8**.
-- Participación en debate: **150 intervenciones** registradas en actas.
+- Asistencia: presente en **213 sesiones plenarias** (94%); ausente en **14**. Rango: 2021-11-09 a 2026-05-13.
+- Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 6 resoluciones como autor · 1 resolución como secunda**. Total de iniciativas firmadas: **8** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Participación en debate: **210 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
 Voto estable con contralor. Candidato a Vice JM en oct-2024 (4 votos vs Lichi 8).
@@ -29,30 +29,47 @@ Voto estable con contralor. Candidato a Vice JM en oct-2024 (4 votos vs Lichi 8)
 
 ## Votos disidentes documentados en actas
 
-Casos donde figura nominalmente apartándose de la mayoría (**1 en contra · 2 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
+Casos donde figura nominalmente apartándose de la mayoría (**22 en contra · 14 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
 
-- 2023-10-04 · Acta 93/2023 · pliego_terminal_omnibus_con_vallado_dictamen_60A — **votó en contra** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Reestructuración deuda Gs. 15.480.000.000 (primera cuota diferida a enero 2025) — **se abstuvo** · aprobado_mayoria
-- 2024-04-10 · Acta 117/2024 · pliego-licitacion-combustibles-plurianual — **se abstuvo** · aprobado_mayoria
+- 2026-05-06 · Acta 218/2026 · inclusion-dictamen-sem-legislacion — **votó en contra** · aprobado_mayoria
+- 2026-05-06 · Acta 218/2026 · dictamen-14a-aceptar-veto-inventario-patrimonial — **votó en contra** · aprobado_mayoria
+- 2026-04-15 · Acta 215/2026 · dictamen-10-2026-veto-loteamiento-candia-finca-1636 — **votó en contra** · aprobado_mayoria
+- 2026-04-15 · Acta 215/2026 · dictamen-13-2026-regularizacion-multas-sem — **votó en contra** · rechazado
+- 2026-02-25 · Acta 209/2026 · dictamen-01a-rendicion-cuentas-2025 — **votó en contra** · aprobado_mayoria
+- 2026-01-21 · Acta 204/2026 · refinanciacion-credito-banco-zeta — **votó en contra** · aprobado_mayoria
+- 2026-01-21 · Acta 204/2026 · conformacion-comisiones-2026 — **votó en contra** · aprobado_mayoria
+- 2025-12-17 · Acta 201/2025 · orden-del-dia-inclusion-nota-sobregiro — **votó en contra** · aprobado_mayoria
+- 2025-12-17 · Acta 201/2025 · nota-13066-sobregiro-bancario-2026 — **votó en contra** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · veto-resolucion-1409-2025-fondo-reparo — **votó en contra** · veto_aceptado
+- 2026-05-06 · Acta 218/2026 · dictamen-15-2026-regularizacion-multas-sem — **se abstuvo** · aprobado_mayoria
+- 2026-05-06 · Acta 218/2026 · minuta-ampliacion-ordenanza-314-coco-perito — **se abstuvo** · aprobado_mayoria
+- 2026-02-11 · Acta 207/2026 · dictamen-04-2026-comodato-tanque-arce — **se abstuvo** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · dictamen-51-2025-viviendas-sociales-fonavis — **se abstuvo** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · invitacion-intendente-reunion-situacion-salarial — **se abstuvo** · aprobado_mayoria
+- 2025-11-19 · Acta 197/2025 · dictamen-47-2025-ampliacion-dos-columnas-kennedy — **se abstuvo** · aprobado_mayoria
+- 2025-11-05 · Acta 195/2025 · incentivos-contribuyentes-prorroga — **se abstuvo** · aprobado_mayoria
+- 2025-09-17 · Acta 188/2025 · nota-12339-homologacion-operaciones-bancarias-royalties — **se abstuvo** · aprobado_mayoria
+- 2025-08-06 · Acta 182/2025 · auditoria-externa-banco-continental-carvajal — **se abstuvo** · aprobado_mayoria
+- 2025-07-30 · Acta 181/2025 · dictamen-28-2025-puesto-gonzalez-vega-parque-lineal — **se abstuvo** · aprobado_mayoria
 
 ## Participación en debate (intervenciones en actas)
 
-Intervino **150 veces** en los debates plenarios registrados en actas (período 2021-2026).
+Intervino **210 veces** en los debates plenarios registrados en actas (período 2021-2026).
 
 Temas sobre los que más intervino:
 - **infraestructura-deportiva** (2)
 - **reciclaje-residuos** (2)
 - **bienestar-animal** (2)
+- **caminos-rurales** (2)
 - **licitacion-residuos-solidos** (2)
 - **costanera-iluminacion-bancos** (2)
 - **caminos-rurales-ucrania-itangua** (2)
 - **handball-u19** (2)
-- **arborizacion-urbana** (1)
-- **juventud** (1)
-- **cultura** (1)
-- **deportes** (1)
-- **pagina-digital-comercializacion-productores** (1)
-- _(+ 131 temas adicionales con menor frecuencia)_
+- **auditoria-sem-mitic** (2)
+- **estacionamiento-medido** (2)
+- **reconocimientos-deportivos** (2)
+- **caminos-rurales-itangua** (2)
+- _(+ 186 temas adicionales con menor frecuencia)_
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
 - **deporte** (3): [[2022-08-17 - Resolución 223-2022]], [[2022-01-26 - Resolución 44-2022]], [[2021-11-24 - Resolución 12-2021]]

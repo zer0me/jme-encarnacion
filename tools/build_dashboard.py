@@ -356,10 +356,25 @@ def _initials(name: str) -> str:
     return (parts[0][0] + parts[1][0]).upper()
 
 
+def _concejal_legend() -> str:
+    """Leyenda que aclara qué mide cada métrica de las tarjetas-concejal."""
+    return (
+        '<small class="jme-concejal-legend"><strong>Cómo leer estas métricas:</strong> '
+        '<em>Asistencia</em> = sesiones plenarias en las que estuvo presente sobre el total. '
+        '<em>Intervenciones</em> = cantidad de veces que tomó la palabra en los debates (según las actas). '
+        '<em>Iniciativas firmadas</em> = minutas y resoluciones que presentó como autor o secundó — '
+        'abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, '
+        'sin distinguir su impacto normativo. '
+        '<em>Presidió la sesión</em> = veces que ocupó la silla de la mesa directiva durante la plenaria '
+        '(rol que rota cuando el presidente titular está ausente; <strong>no</strong> es presidir una comisión '
+        'ni ser el presidente electo de la Junta).</small>'
+    )
+
+
 def build_grilla_concejales() -> str:
     """Grilla compacta de 12 tarjetas mini para el DASHBOARD."""
     concejales = load_concejales()
-    out: list[str] = ['<div class="jme-concejales-grid">', ""]
+    out: list[str] = [_concejal_legend(), "", '<div class="jme-concejales-grid">', ""]
 
     for c in concejales:
         ratio_total = c["presente"] + c["ausente"]
@@ -374,10 +389,10 @@ def build_grilla_concejales() -> str:
         out.append(f'📊 Asistencia {asis} ({ratio})  ')
         out.append(f'🗣 Intervenciones: {c["intervenciones"]}  ')
         out.append(
-            f'✍ Propuestas: {c["propuestas_total"]} '
+            f'✍ Iniciativas firmadas: {c["propuestas_total"]} '
             f'<small>({c["autor"]} autor · {c["secunda"]} secunda)</small>  '
         )
-        out.append(f'🪑 Pte de mesa: {c["presidente_mesa"]}')
+        out.append(f'🪑 Presidió la sesión: {c["presidente_mesa"]} <small>veces</small>')
         if c["rasgo"]:
             out.append("")
             out.append(f'<small class="jme-concejal-rasgo">{c["rasgo"]}</small>')
@@ -392,7 +407,7 @@ def build_grilla_concejales() -> str:
 def build_tarjetas_concejales() -> str:
     """Tarjetas completas con header, stat tiles y votos clave en lista."""
     concejales = load_concejales()
-    out: list[str] = ['<div class="jme-concejales-grid full">', ""]
+    out: list[str] = [_concejal_legend(), "", '<div class="jme-concejales-grid full">', ""]
 
     for c in concejales:
         ratio_total = c["presente"] + c["ausente"]
@@ -451,14 +466,14 @@ def build_tarjetas_concejales() -> str:
         out.append('<div class="jme-stat">')
         out.append(f'<div class="jme-stat-value">{c["propuestas_total"]}</div>')
         out.append(
-            f'<div class="jme-stat-label">Propuestas<br>'
+            f'<div class="jme-stat-label">Iniciativas firmadas<br>'
             f'<small>{c["autor"]} autor · {c["secunda"]} secunda</small></div>'
         )
         out.append('</div>')
         out.append("")
         out.append('<div class="jme-stat">')
         out.append(f'<div class="jme-stat-value">{c["presidente_mesa"]}</div>')
-        out.append('<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>')
+        out.append('<div class="jme-stat-label">Presidió la sesión<br><small>plenarias (rol rotativo)</small></div>')
         out.append('</div>')
         out.append("")
         out.append('<div class="jme-stat">')

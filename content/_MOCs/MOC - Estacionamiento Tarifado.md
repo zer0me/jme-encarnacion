@@ -1,12 +1,14 @@
 ---
 titulo: "MOC — Estacionamiento Controlado y Tarifado"
 tipo: moc
-periodo: "2022 → 2025-actual"
-estado: "suspendido"
+periodo: "2022 → 2026-actual"
+estado: "vigente"
 ejes_coalicion: "concesiones/finanzas"
 ---
 
 # MOC — Estacionamiento Controlado y Tarifado
+
+> **ACTUALIZACIÓN (ago-2025):** tras la suspensión de 2 años descrita abajo, el **Sistema de Estacionamiento Medido (SEM) entró en funcionamiento en agosto de 2025**. Desde entonces la Junta trata de forma recurrente **exoneraciones / tarifas diferenciadas** (docentes, personal de salud, funcionarios) y la **regularización de multas** del SEM. El relato de abajo cubre el ciclo licitatorio 2022-2025 previo a la puesta en marcha.
 
 ## Resumen ejecutivo
 

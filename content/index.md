@@ -3,7 +3,7 @@ title: "Dashboard — Archivo público JM Encarnación"
 titulo: "Dashboard — Archivo público Junta Municipal de Encarnación"
 tipo: dashboard
 fecha_creacion: 2026-05-17
-fecha_actualizacion: 2026-05-17
+fecha_actualizacion: 2026-06-19
 draft: false
 tags:
   - dashboard
@@ -27,10 +27,10 @@ tags:
 </div>
 
 <div class="jme-info-strip">
-<span><strong>Cobertura:</strong> 2021-12 → 2025-04</span>
-<span><strong>Última sesión:</strong> [[2025-04-30 - Acta 168-2025|Acta 168-2025]]</span>
+<span><strong>Cobertura:</strong> 2021-12 → 2026-05</span>
+<span><strong>Última sesión:</strong> [[2026-05-13 - Acta 219-2026|Acta 219-2026]]</span>
 <span><strong>Última minuta:</strong> [[2025-11-17 - Minuta 146|Minuta 146]]</span>
-<span><strong>Actualizado:</strong> 2026-05-17</span>
+<span><strong>Actualizado:</strong> 2026-06-19</span>
 </div>
 
 <div class="jme-section">
@@ -47,7 +47,7 @@ tags:
 
 **Ordenanza de Edificabilidad**
 
-Lleva 3 años pendiente. En diciembre 2024 el Ejecutivo la devolvió «por haber realizado reunión con representantes de empresas desarrolladoras».
+**Aprobada (jul-2025).** Tras 3 años de bloqueo y una devolución del Ejecutivo en dic-2024 «por reunión con empresas desarrolladoras», la Junta la sancionó artículo por artículo el 9 de julio de 2025 ([[2025-07-09 - Acta 178-2025|Acta 178]]); varios artículos clave se definieron con voto de desempate del presidente.
 
 [Ver MOC →](_MOCs/MOC---Ordenanza-Edificabilidad-y-captura-regulatoria)
 
@@ -55,9 +55,9 @@ Lleva 3 años pendiente. En diciembre 2024 el Ejecutivo la devolvió «por haber
 
 <div class="jme-topic-card">
 
-**Estacionamiento tarifado**
+**Estacionamiento tarifado (SEM)**
 
-Se aprobó pliego en 2022, se adjudicó en 2023, se suspendió 2 años después.
+**En funcionamiento desde agosto 2025.** Tras aprobarse el pliego (2022) y adjudicarse (2023), el Sistema de Estacionamiento Medido arrancó operaciones en agosto de 2025. La Junta debate desde entonces exoneraciones (docentes, salud, funcionarios) y regularización de multas.
 
 [Ver MOC →](_MOCs/MOC---Estacionamiento-Tarifado)
 
@@ -149,6 +149,8 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 <!-- DASHBOARD:BEGIN grilla-concejales -->
 
+<small class="jme-concejal-legend"><strong>Cómo leer estas métricas:</strong> <em>Asistencia</em> = sesiones plenarias en las que estuvo presente sobre el total. <em>Intervenciones</em> = cantidad de veces que tomó la palabra en los debates (según las actas). <em>Iniciativas firmadas</em> = minutas y resoluciones que presentó como autor o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo. <em>Presidió la sesión</em> = veces que ocupó la silla de la mesa directiva durante la plenaria (rol que rota cuando el presidente titular está ausente; <strong>no</strong> es presidir una comisión ni ser el presidente electo de la Junta).</small>
+
 <div class="jme-concejales-grid">
 
 <div class="jme-concejal-card mini">
@@ -156,10 +158,10 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Diego Aquino]]**
 <small>Presidente JM · ANR</small>
 
-📊 Asistencia 96% (164/171)  
-🗣 Intervenciones: 665  
-✍ Propuestas: 11 <small>(6 autor · 5 secunda)</small>  
-🪑 Pte de mesa: 22
+📊 Asistencia 95% (213/225)  
+🗣 Intervenciones: 824  
+✍ Iniciativas firmadas: 11 <small>(6 autor · 5 secunda)</small>  
+🪑 Presidió la sesión: 22 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Electo Pte JM el 30-oct-2024 con voto cruzado de Cuevas; preside la coalición «construir» que muta por eje temático.</small>
 
@@ -170,10 +172,10 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Juan Augusto Lichi]]**
 <small>Vicepresidente JM · ANR</small>
 
-📊 Asistencia 83% (147/177)  
-🗣 Intervenciones: 308  
-✍ Propuestas: 11 <small>(10 autor · 1 secunda)</small>  
-🪑 Pte de mesa: 48
+📊 Asistencia 82% (188/230)  
+🗣 Intervenciones: 379  
+✍ Iniciativas firmadas: 11 <small>(10 autor · 1 secunda)</small>  
+🪑 Presidió la sesión: 48 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Vicepresidente electo; postuló a Aquino, pero el 22-ene-2025 vota con contralor en conformación de Comisiones — ruptura tácita Mesa Directiva.</small>
 
@@ -184,10 +186,10 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Nehemías Cuevas]]**
 <small>Concejal — Pte saliente · ANR</small>
 
-📊 Asistencia 90% (153/170)  
-🗣 Intervenciones: 153  
-✍ Propuestas: 1 <small>(0 autor · 1 secunda)</small>  
-🪑 Pte de mesa: 45
+📊 Asistencia 90% (203/225)  
+🗣 Intervenciones: 190  
+✍ Iniciativas firmadas: 1 <small>(0 autor · 1 secunda)</small>  
+🪑 Presidió la sesión: 45 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Pte JM saliente. Rompió bandera ANR en oct-2024 y votó a Aquino; luego ausente 3 de 4 plenarias del cierre fiscal 2024.</small>
 
@@ -198,10 +200,10 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Keiji Ishibashi]]**
 <small>Concejal · Movimiento Ciudadanía Activa</small>
 
-📊 Asistencia 90% (158/175)  
-🗣 Intervenciones: 513  
-✍ Propuestas: 76 <small>(76 autor · 0 secunda)</small>  
-🪑 Pte de mesa: 0
+📊 Asistencia 89% (204/230)  
+🗣 Intervenciones: 729  
+✍ Iniciativas firmadas: 76 <small>(76 autor · 0 secunda)</small>  
+🪑 Presidió la sesión: 0 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Acuñó el término «lobbycracia». Concejal más prolífico como autor de minutas y proyectos de ordenanza opositor a captura regulatoria.</small>
 
@@ -212,10 +214,10 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Carlos Marino Fernández]]**
 <small>Concejal · PLRA</small>
 
-📊 Asistencia 97% (171/177)  
-🗣 Intervenciones: 542  
-✍ Propuestas: 16 <small>(2 autor · 14 secunda)</small>  
-🪑 Pte de mesa: 4
+📊 Asistencia 97% (225/232)  
+🗣 Intervenciones: 773  
+✍ Iniciativas firmadas: 16 <small>(2 autor · 14 secunda)</small>  
+🪑 Presidió la sesión: 4 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Voto estable con «construir». Cita Art 34 LOM y Reglamento Diputados para impugnar conformación de Comisiones 2025.</small>
 
@@ -226,10 +228,10 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Zulma Memmel]]**
 <small>Concejal · Alianza Junta Integrada / PPC</small>
 
-📊 Asistencia 87% (154/177)  
-🗣 Intervenciones: 361  
-✍ Propuestas: 35 <small>(1 autor · 34 secunda)</small>  
-🪑 Pte de mesa: 0
+📊 Asistencia 85% (197/232)  
+🗣 Intervenciones: 460  
+✍ Iniciativas firmadas: 35 <small>(1 autor · 34 secunda)</small>  
+🪑 Presidió la sesión: 0 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Concejal del PPC. En la elección de Mesa Directiva 2024 votó a Aquino como aliada situacional del bloque colorado disidente, no como alianza permanente. Vota habitualmente con el Intendente Yd y es la secundante más frecuente de las minutas de Ishibashi. Frase oct-2024: «No todos los buenos colorados están en la misma posición».</small>
 
@@ -240,10 +242,10 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Natalia Enciso]]**
 <small>Concejal · PLRA</small>
 
-📊 Asistencia 95% (165/174)  
-🗣 Intervenciones: 317  
-✍ Propuestas: 11 <small>(8 autor · 3 secunda)</small>  
-🪑 Pte de mesa: 0
+📊 Asistencia 93% (214/229)  
+🗣 Intervenciones: 419  
+✍ Iniciativas firmadas: 11 <small>(8 autor · 3 secunda)</small>  
+🪑 Presidió la sesión: 0 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Voto estable con «construir». Defensora del Art 29+116 reglamento interno JM en disputa de Comisiones 2025.</small>
 
@@ -254,10 +256,10 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Gloria Arregui]]**
 <small>Concejal · PLRA</small>
 
-📊 Asistencia 97% (171/177)  
-🗣 Intervenciones: 275  
-✍ Propuestas: 22 <small>(12 autor · 10 secunda)</small>  
-🪑 Pte de mesa: 0
+📊 Asistencia 97% (226/232)  
+🗣 Intervenciones: 365  
+✍ Iniciativas firmadas: 22 <small>(12 autor · 10 secunda)</small>  
+🪑 Presidió la sesión: 0 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Pivote. Se abstuvo en elección de Pte, votó a Lichi en Vice, y luego apareció en oficialista-7 en Comisiones 2025.</small>
 
@@ -268,10 +270,10 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Andrés Morel]]**
 <small>Concejal · ANR</small>
 
-📊 Asistencia 93% (163/176)  
-🗣 Intervenciones: 855  
-✍ Propuestas: 9 <small>(6 autor · 3 secunda)</small>  
-🪑 Pte de mesa: 0
+📊 Asistencia 94% (217/231)  
+🗣 Intervenciones: 1122  
+✍ Iniciativas firmadas: 9 <small>(6 autor · 3 secunda)</small>  
+🪑 Presidió la sesión: 0 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Postulado a Pte JM por «acuerdo de palabra ANR» — perdió 4-7 ante Aquino. Lidera el bloque «contralor» («mirar los papeles»).</small>
 
@@ -282,10 +284,10 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Fredy Ortega]]**
 <small>Concejal · ANR</small>
 
-📊 Asistencia 96% (167/174)  
-🗣 Intervenciones: 299  
-✍ Propuestas: 10 <small>(7 autor · 3 secunda)</small>  
-🪑 Pte de mesa: 52
+📊 Asistencia 95% (216/228)  
+🗣 Intervenciones: 419  
+✍ Iniciativas firmadas: 10 <small>(7 autor · 3 secunda)</small>  
+🪑 Presidió la sesión: 52 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Concejal ANR. Postulante de Morel en oct-2024 invocando «acuerdo de palabra ANR». Voto estable con contralor.</small>
 
@@ -296,10 +298,10 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Eduardo Florentín]]**
 <small>Concejal · ANR</small>
 
-📊 Asistencia 90% (159/177)  
-🗣 Intervenciones: 516  
-✍ Propuestas: 15 <small>(12 autor · 3 secunda)</small>  
-🪑 Pte de mesa: 1
+📊 Asistencia 89% (207/232)  
+🗣 Intervenciones: 643  
+✍ Iniciativas firmadas: 15 <small>(12 autor · 3 secunda)</small>  
+🪑 Presidió la sesión: 1 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Presidente del Club de Clubes. Voto estable con contralor; alineado con Morel en las 3 votaciones nominales clave.</small>
 
@@ -310,10 +312,10 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 **[[Eduardo Rebruk]]**
 <small>Concejal · ANR</small>
 
-📊 Asistencia 93% (160/172)  
-🗣 Intervenciones: 150  
-✍ Propuestas: 8 <small>(6 autor · 2 secunda)</small>  
-🪑 Pte de mesa: 8
+📊 Asistencia 94% (213/227)  
+🗣 Intervenciones: 210  
+✍ Iniciativas firmadas: 8 <small>(6 autor · 2 secunda)</small>  
+🪑 Presidió la sesión: 8 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Voto estable con contralor. Candidato a Vice JM en oct-2024 (4 votos vs Lichi 8).</small>
 
@@ -336,7 +338,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 - **Por empresa** → carpeta `empresas/` (54 fichas — proveedoras, concesionarias, desarrolladoras).
 - **Por institución** → carpeta `instituciones/` (96 fichas).
 - **Por normativa** → carpeta `normativa/` (118 ordenanzas y proyectos referenciados).
-- **Por sesión JM** → carpeta `actas/` (176 actas curadas, 2021-2025).
+- **Por sesión JM** → carpeta `actas/` (232 actas curadas, 2021-2026).
 - **Por comisión** → carpeta `minutas/` (72 minutas de comisiones).
 - **Por informe de gestión** → carpeta `informe-gestion/` (4 informes, ~220 páginas).
 
@@ -415,13 +417,13 @@ Cada documento en `actas/`, `minutas/`, `resoluciones/` lleva en su frontmatter 
 
 | Carpeta | Items |
 |---|---:|
-| `actas/` | 177 |
+| `actas/` | 232 |
 | `minutas/` | 72 |
 | `resoluciones/` | 276 |
 | `informe-gestion/` | 5 |
 | `informe-2024/` | 4 |
 | `presupuesto/` | 2 |
-| **Total documentos curados** | **536** |
+| **Total documentos curados** | **591** |
 | `personas/` | 88 |
 | `instituciones/` | 96 |
 | `empresas/` | 54 |
@@ -449,8 +451,8 @@ Cada documento en `actas/`, `minutas/`, `resoluciones/` lleva en su frontmatter 
 | [[MOC - RSU - Residuos Solidos Urbanos]] | activo | 2022 → 2025-actual |
 | [[MOC - Turismo Deportivo - Rally Mundial + IRONMAN + Carnavales]] | activo | 2024 → 2025-actual |
 | [[MOC - Vendedores Ambulantes Circuito Comercial]] | activo | 2025-actual |
-| [[MOC - Ordenanza Edificabilidad y captura regulatoria]] | watch | 2022 → 2025-actual |
-| [[MOC - Estacionamiento Tarifado]] | suspendido | 2022 → 2025-actual |
+| [[MOC - Estacionamiento Tarifado]] | vigente | 2022 → 2026-actual |
+| [[MOC - Ordenanza Edificabilidad y captura regulatoria]] | sancionada | 2022 → 2025 |
 
 <!-- DASHBOARD:END mocs-estado -->
 
@@ -460,16 +462,16 @@ Cada documento en `actas/`, `minutas/`, `resoluciones/` lleva en su frontmatter 
 
 | Fecha | Acta |
 |---|---|
-| 2025-04-30 | [[2025-04-30 - Acta 168-2025]] |
-| 2025-04-23 | [[2025-04-23 - Acta 167-2025]] |
-| 2025-04-04 | [[2025-04-04 - Acta 165-2025]] |
-| 2025-03-26 | [[2025-03-26 - Acta 164-2025]] |
-| 2025-03-19 | [[2025-03-19 - Acta 163-2025]] |
-| 2025-03-12 | [[2025-03-12 - Acta 162-2025]] |
-| 2025-03-05 | [[2025-03-05 - Acta 161-2025 (Rendición Cuentas 2024)]] |
-| 2025-02-19 | [[2025-02-19 - Acta 159-2025]] |
-| 2025-02-12 | [[2025-02-12 - Acta 158-2025]] |
-| 2025-02-05 | [[2025-02-05 - Acta 157-2025]] |
+| 2026-05-13 | [[2026-05-13 - Acta 219-2026]] |
+| 2026-05-06 | [[2026-05-06 - Acta 218-2026]] |
+| 2026-04-29 | [[2026-04-29 - Acta 217-2026]] |
+| 2026-04-22 | [[2026-04-22 - Acta 216-2026]] |
+| 2026-04-15 | [[2026-04-15 - Acta 215-2026]] |
+| 2026-04-08 | [[2026-04-08 - Acta 214-2026]] |
+| 2026-03-31 | [[2026-03-31 - Acta 213-2026]] |
+| 2026-03-18 | [[2026-03-18 - Acta 212-2026]] |
+| 2026-03-11 | [[2026-03-11 - Acta 211-2026]] |
+| 2026-03-04 | [[2026-03-04 - Acta 210-2026]] |
 
 <!-- DASHBOARD:END ultimas-actas -->
 

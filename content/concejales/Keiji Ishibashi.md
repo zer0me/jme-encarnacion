@@ -14,9 +14,9 @@ fecha_actualizacion: 2026-06-19
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Keiji-Ishibashi.jpg" alt="Foto de Keiji Ishibashi" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
-- Asistencia: presente en **158 sesiones plenarias** (90%); ausente en **17**. Rango: 2021-11-09 a 2025-04-30.
-- Productividad legislativa: **70 minutas como autor · 0 minutas como secunda · 6 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **76**.
-- Participación en debate: **513 intervenciones** registradas en actas.
+- Asistencia: presente en **204 sesiones plenarias** (89%); ausente en **26**. Rango: 2021-11-09 a 2026-05-06.
+- Productividad legislativa: **70 minutas como autor · 0 minutas como secunda · 6 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **76** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Participación en debate: **729 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
 Acuñó el término «lobbycracia». Concejal más prolífico como autor de minutas y proyectos de ordenanza opositor a captura regulatoria.
@@ -29,37 +29,47 @@ Acuñó el término «lobbycracia». Concejal más prolífico como autor de minu
 
 ## Votos disidentes documentados en actas
 
-Casos donde figura nominalmente apartándose de la mayoría (**1 en contra · 9 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
+Casos donde figura nominalmente apartándose de la mayoría (**28 en contra · 26 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
 
-- 2024-06-12 · Acta 126/2024 · Designación de representantes de la Junta en la Mesa Metropolitana — **votó en contra** · aprobado_mayoria
-- 2024-09-18 · Acta 140/2024 · dictamen-10-edificio-residencial-san-roque — **se abstuvo** · aprobado_mayoria
-- 2024-09-11 · Acta 139/2024 · dictamen-09-edificio-departamentos-santa-maria — **se abstuvo** · aprobado_mayoria
-- 2024-07-03 · Acta 129/2024 · Minuta calles + Fondos Royaltíes (Cuevas/Florentín/Lichi/Ortega/Morel/Rebruk) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta informe Royaltíes/Fonacide (Florentín) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta extractos bancarios (Cuevas/Florentín/Ortega/Lichi/Morel/Rebruk) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta transferencias jubilatorias (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta informe finanzas municipales (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
-- 2024-04-17 · Acta 118/2024 · edificio-paseo-del-sol — **se abstuvo** · aprobado_mayoria
-- 2024-04-10 · Acta 117/2024 · apoyo-ministra-baran — **se abstuvo** · aprobado_mayoria
+- 2026-01-21 · Acta 204/2026 · minuta-multas-transito-turistas — **votó en contra** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · veto-resolucion-1409-2025-fondo-reparo — **votó en contra** · veto_aceptado
+- 2025-12-03 · Acta 199/2025 · invitacion-intendente-reunion-situacion-salarial — **votó en contra** · aprobado_mayoria
+- 2025-10-29 · Acta 194/2025 · eleccion-presidente-mesa-directiva — **votó en contra** · aprobado_mayoria
+- 2025-10-29 · Acta 194/2025 · eleccion-vicepresidente-mesa-directiva — **votó en contra** · aprobado_mayoria
+- 2025-08-20 · Acta 184/2025 · dictamen-07-edificio-riviera-del-parana — **votó en contra** · aprobado_mayoria
+- 2025-08-13 · Acta 183/2025 · dictamen-06-techado-cancha-juan-xxiii — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-4-fos — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-5-alturas — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-6-volumen-eliminacion — **votó en contra** · aprobado_mayoria
+- 2026-04-15 · Acta 215/2026 · dictamen-10-2026-veto-loteamiento-candia-finca-1636 — **se abstuvo** · aprobado_mayoria
+- 2026-02-04 · Acta 206/2026 · minuta-nulidad-contrato-sem — **se abstuvo** · girado_a_estudio
+- 2026-01-21 · Acta 204/2026 · refinanciacion-credito-banco-zeta — **se abstuvo** · aprobado_mayoria
+- 2026-01-21 · Acta 204/2026 · minuta-informe-premios-agentes-transito-sem — **se abstuvo** · aprobado_mayoria
+- 2026-01-21 · Acta 204/2026 · minuta-mesa-trabajo-funcionarios-desvinculados — **se abstuvo** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · nota-intendente-reunion-sindicatos — **se abstuvo** · aprobado_mayoria
+- 2025-11-19 · Acta 197/2025 · minuta-informe-recoleccion-residuos — **se abstuvo** · aprobado_mayoria
+- 2025-10-08 · Acta 191/2025 · minuta-recoleccion-basura-instituciones-municipales — **se abstuvo** · aprobado_mayoria
+- 2025-10-02 · Acta 190/2025 · minuta-bacheo-informacion-ejecutivo — **se abstuvo** · aprobado_mayoria
+- 2025-07-02 · Acta 177/2025 · dictamen-22-2025-transporte-plataformas-electronicas — **se abstuvo** · aprobado_mayoria
 
 ## Participación en debate (intervenciones en actas)
 
-Intervino **513 veces** en los debates plenarios registrados en actas (período 2021-2026).
+Intervino **729 veces** en los debates plenarios registrados en actas (período 2021-2026).
 
 Temas sobre los que más intervino:
+- **fraccionamientos** (24)
+- **transporte-publico** (7)
+- **estacionamiento-medido** (7)
+- **transporte-publico-site** (5)
 - **plan-encarnacion-mas** (5)
-- **transporte-publico-site** (4)
+- **terminal-omnibus** (4)
 - **estacionamiento-tarifado** (4)
 - **planta-asfaltica** (4)
 - **orden-del-dia** (3)
 - **arborizacion-urbana** (3)
 - **recursos-hidricos** (3)
 - **espacios-publicos** (3)
-- **estaciones-bombeo-cloacal-costanera** (3)
-- **juntas-de-saneamiento-erssan** (3)
-- **terminal-omnibus** (3)
-- **estacionamiento-tarifado-frentistas** (3)
-- _(+ 431 temas adicionales con menor frecuencia)_
+- _(+ 595 temas adicionales con menor frecuencia)_
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
 - **plan-encarnacion-mas** (13): [[2023-09-19 - Minuta 107]], [[2023-08-16 - Minuta - Proyecto Ordenanza Espacio Encarnación Más]], [[2022-11-01 - Minuta 69]] (+ 10 más)

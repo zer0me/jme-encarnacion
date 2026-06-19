@@ -14,9 +14,9 @@ fecha_actualizacion: 2026-06-19
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Zulma-Memmel.jpg" alt="Foto de Zulma Memmel" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
-- Asistencia: presente en **154 sesiones plenarias** (87%); ausente en **23**. Rango: 2021-11-09 a 2025-04-30.
-- Productividad legislativa: **0 minutas como autor · 33 minutas como secunda · 1 resolución como autor · 1 resolución como secunda**. Total propuestas con su firma: **35**.
-- Participación en debate: **361 intervenciones** registradas en actas.
+- Asistencia: presente en **197 sesiones plenarias** (85%); ausente en **35**. Rango: 2021-11-09 a 2026-05-13.
+- Productividad legislativa: **0 minutas como autor · 33 minutas como secunda · 1 resolución como autor · 1 resolución como secunda**. Total de iniciativas firmadas: **35** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Participación en debate: **460 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
 Concejal del PPC. En la elección de Mesa Directiva 2024 votó a Aquino como aliada situacional del bloque colorado disidente, no como alianza permanente. Vota habitualmente con el Intendente Yd y es la secundante más frecuente de las minutas de Ishibashi. Frase oct-2024: «No todos los buenos colorados están en la misma posición».
@@ -29,38 +29,47 @@ Concejal del PPC. En la elección de Mesa Directiva 2024 votó a Aquino como ali
 
 ## Votos disidentes documentados en actas
 
-Casos donde figura nominalmente apartándose de la mayoría (**2 en contra · 9 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
+Casos donde figura nominalmente apartándose de la mayoría (**32 en contra · 22 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
 
-- 2024-06-26 · Acta 128/2024 · Minuta extractos bancarios (Cuevas/Florentín/Ortega/Lichi/Morel/Rebruk) — **votó en contra** · aprobado_mayoria
-- 2024-06-12 · Acta 126/2024 · Designación de representantes de la Junta en la Mesa Metropolitana — **votó en contra** · aprobado_mayoria
-- 2024-09-18 · Acta 140/2024 · dictamen-10-edificio-residencial-san-roque — **se abstuvo** · aprobado_mayoria
-- 2024-09-11 · Acta 139/2024 · dictamen-09-edificio-departamentos-santa-maria — **se abstuvo** · aprobado_mayoria
-- 2024-09-11 · Acta 139/2024 · minuta-informe-licitacion-433999-MECIP — **se abstuvo** · aprobado_mayoria
-- 2024-09-04 · Acta 138/2024 · contratacion-auditoria-externa — **se abstuvo** · aprobado_mayoria
-- 2024-07-03 · Acta 129/2024 · Minuta calles + Fondos Royaltíes (Cuevas/Florentín/Lichi/Ortega/Morel/Rebruk) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta informe Royaltíes/Fonacide (Florentín) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta transferencias jubilatorias (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta informe finanzas municipales (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
-- 2024-04-10 · Acta 117/2024 · apoyo-ministra-baran — **se abstuvo** · aprobado_mayoria
+- 2025-12-22 · Acta 203/2025 · conformacion-comision-permanente-receso-7-concejales — **votó en contra** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · invitacion-intendente-reunion-situacion-salarial — **votó en contra** · aprobado_mayoria
+- 2025-10-29 · Acta 194/2025 · eleccion-presidente-mesa-directiva — **votó en contra** · aprobado_mayoria
+- 2025-10-29 · Acta 194/2025 · eleccion-vicepresidente-mesa-directiva — **votó en contra** · aprobado_mayoria
+- 2025-10-02 · Acta 190/2025 · minuta-bacheo-informacion-ejecutivo — **votó en contra** · aprobado_mayoria
+- 2025-08-20 · Acta 184/2025 · dictamen-07-edificio-riviera-del-parana — **votó en contra** · aprobado_mayoria
+- 2025-08-06 · Acta 182/2025 · dictamen-05-2025-plan-regulador-edificio-torre-benedicta — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-4-fos — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-5-alturas — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-6-volumen-eliminacion — **votó en contra** · aprobado_mayoria
+- 2026-05-06 · Acta 218/2026 · minuta-ampliacion-ordenanza-314-coco-perito — **se abstuvo** · aprobado_mayoria
+- 2026-02-04 · Acta 206/2026 · minuta-nulidad-contrato-sem — **se abstuvo** · girado_a_estudio
+- 2026-01-21 · Acta 204/2026 · minuta-informe-premios-agentes-transito-sem — **se abstuvo** · aprobado_mayoria
+- 2026-01-21 · Acta 204/2026 · minuta-multas-transito-turistas — **se abstuvo** · aprobado_mayoria
+- 2026-01-21 · Acta 204/2026 · minuta-mesa-trabajo-funcionarios-desvinculados — **se abstuvo** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · nota-intendente-reunion-sindicatos — **se abstuvo** · aprobado_mayoria
+- 2025-12-01 · Acta Extraordinaria 05/2025 · dictamen-49-2025-rechazo-ampliacion-contrato-56-2024-rivas — **se abstuvo** · aprobado_mayoria
+- 2025-08-06 · Acta 182/2025 · minuta-reiteracion-informe-4-obras — **se abstuvo** · aprobado_mayoria
+- 2025-07-02 · Acta 177/2025 · dictamen-22-2025-transporte-plataformas-electronicas — **se abstuvo** · aprobado_mayoria
+- 2025-06-25 · Acta 176/2025 · remision-informe-aporte-cultura-deporte — **se abstuvo** · rechazado
 
 ## Participación en debate (intervenciones en actas)
 
-Intervino **361 veces** en los debates plenarios registrados en actas (período 2021-2026).
+Intervino **460 veces** en los debates plenarios registrados en actas (período 2021-2026).
 
 Temas sobre los que más intervino:
 - **estacionamiento-tarifado** (5)
 - **transparencia** (3)
 - **transporte-publico-site** (3)
+- **seguridad-ciudadana** (3)
 - **planta-asfaltica** (3)
 - **transferencia-intercuentas** (3)
+- **estacionamiento-medido** (3)
 - **salud-publica** (2)
 - **infraestructura-vial** (2)
-- **seguridad-ciudadana** (2)
+- **violencia-mujer** (2)
 - **proteccion-animal** (2)
 - **transporte-publico-emergencia** (2)
-- **controles-policiales-hurto-cables** (2)
-- **titulacion-circuito-comercial** (2)
-- _(+ 315 temas adicionales con menor frecuencia)_
+- _(+ 405 temas adicionales con menor frecuencia)_
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
 - **plan-encarnacion-mas** (5): [[2023-09-19 - Minuta 107]], [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]] (+ 2 más)

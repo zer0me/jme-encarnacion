@@ -450,7 +450,9 @@ def build_card(slug: str, persona: dict, docs: dict, actas: dict | None = None) 
         f"{n_minuta_secunda} {pluralize(n_minuta_secunda, 'minuta', 'minutas')} como secunda · "
         f"{n_resol_autor} {pluralize(n_resol_autor, 'resolución', 'resoluciones')} como autor · "
         f"{n_resol_secunda} {pluralize(n_resol_secunda, 'resolución', 'resoluciones')} como secunda**. "
-        f"Total propuestas con su firma: **{total}**.",
+        f"Total de iniciativas firmadas: **{total}** "
+        f"(minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza "
+        f"hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).",
         f"- Participación en debate: **{n_interv} {pluralize(n_interv, 'intervención', 'intervenciones')}** "
         f"registradas en actas." if n_interv else "",
         "",

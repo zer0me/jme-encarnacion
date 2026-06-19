@@ -24,6 +24,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 <!-- DASHBOARD:BEGIN tarjetas-concejales -->
 
+<small class="jme-concejal-legend"><strong>Cómo leer estas métricas:</strong> <em>Asistencia</em> = sesiones plenarias en las que estuvo presente sobre el total. <em>Intervenciones</em> = cantidad de veces que tomó la palabra en los debates (según las actas). <em>Iniciativas firmadas</em> = minutas y resoluciones que presentó como autor o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo. <em>Presidió la sesión</em> = veces que ocupó la silla de la mesa directiva durante la plenaria (rol que rota cuando el presidente titular está ausente; <strong>no</strong> es presidir una comisión ni ser el presidente electo de la Junta).</small>
+
 <div class="jme-concejales-grid full">
 
 <div class="jme-concejal-card full">
@@ -43,23 +45,23 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat-row six">
 
 <div class="jme-stat">
-<div class="jme-stat-value">96%</div>
-<div class="jme-stat-label">Asistencia<br><small>164/171</small></div>
+<div class="jme-stat-value">95%</div>
+<div class="jme-stat-label">Asistencia<br><small>213/225</small></div>
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">665</div>
+<div class="jme-stat-value">824</div>
 <div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">11</div>
-<div class="jme-stat-label">Propuestas<br><small>6 autor · 5 secunda</small></div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>6 autor · 5 secunda</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">22</div>
-<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+<div class="jme-stat-label">Presidió la sesión<br><small>plenarias (rol rotativo)</small></div>
 </div>
 
 <div class="jme-stat">
@@ -68,7 +70,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">6</div>
+<div class="jme-stat-value">17</div>
 <div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
@@ -105,23 +107,23 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat-row six">
 
 <div class="jme-stat">
-<div class="jme-stat-value">83%</div>
-<div class="jme-stat-label">Asistencia<br><small>147/177</small></div>
+<div class="jme-stat-value">82%</div>
+<div class="jme-stat-label">Asistencia<br><small>188/230</small></div>
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">308</div>
+<div class="jme-stat-value">379</div>
 <div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">11</div>
-<div class="jme-stat-label">Propuestas<br><small>10 autor · 1 secunda</small></div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>10 autor · 1 secunda</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">48</div>
-<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+<div class="jme-stat-label">Presidió la sesión<br><small>plenarias (rol rotativo)</small></div>
 </div>
 
 <div class="jme-stat">
@@ -130,7 +132,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">3</div>
+<div class="jme-stat-value">28</div>
 <div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
@@ -168,22 +170,22 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 <div class="jme-stat">
 <div class="jme-stat-value">90%</div>
-<div class="jme-stat-label">Asistencia<br><small>153/170</small></div>
+<div class="jme-stat-label">Asistencia<br><small>203/225</small></div>
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">153</div>
+<div class="jme-stat-value">190</div>
 <div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">1</div>
-<div class="jme-stat-label">Propuestas<br><small>0 autor · 1 secunda</small></div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>0 autor · 1 secunda</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">45</div>
-<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+<div class="jme-stat-label">Presidió la sesión<br><small>plenarias (rol rotativo)</small></div>
 </div>
 
 <div class="jme-stat">
@@ -192,7 +194,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">2</div>
+<div class="jme-stat-value">31</div>
 <div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
@@ -230,23 +232,23 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat-row six">
 
 <div class="jme-stat">
-<div class="jme-stat-value">90%</div>
-<div class="jme-stat-label">Asistencia<br><small>158/175</small></div>
+<div class="jme-stat-value">89%</div>
+<div class="jme-stat-label">Asistencia<br><small>204/230</small></div>
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">513</div>
+<div class="jme-stat-value">729</div>
 <div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">76</div>
-<div class="jme-stat-label">Propuestas<br><small>76 autor · 0 secunda</small></div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>76 autor · 0 secunda</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">0</div>
-<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+<div class="jme-stat-label">Presidió la sesión<br><small>plenarias (rol rotativo)</small></div>
 </div>
 
 <div class="jme-stat">
@@ -255,7 +257,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">10</div>
+<div class="jme-stat-value">54</div>
 <div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
@@ -293,22 +295,22 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 <div class="jme-stat">
 <div class="jme-stat-value">97%</div>
-<div class="jme-stat-label">Asistencia<br><small>171/177</small></div>
+<div class="jme-stat-label">Asistencia<br><small>225/232</small></div>
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">542</div>
+<div class="jme-stat-value">773</div>
 <div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">16</div>
-<div class="jme-stat-label">Propuestas<br><small>2 autor · 14 secunda</small></div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>2 autor · 14 secunda</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">4</div>
-<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+<div class="jme-stat-label">Presidió la sesión<br><small>plenarias (rol rotativo)</small></div>
 </div>
 
 <div class="jme-stat">
@@ -317,7 +319,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">9</div>
+<div class="jme-stat-value">50</div>
 <div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
@@ -354,23 +356,23 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat-row six">
 
 <div class="jme-stat">
-<div class="jme-stat-value">87%</div>
-<div class="jme-stat-label">Asistencia<br><small>154/177</small></div>
+<div class="jme-stat-value">85%</div>
+<div class="jme-stat-label">Asistencia<br><small>197/232</small></div>
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">361</div>
+<div class="jme-stat-value">460</div>
 <div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">35</div>
-<div class="jme-stat-label">Propuestas<br><small>1 autor · 34 secunda</small></div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>1 autor · 34 secunda</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">0</div>
-<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+<div class="jme-stat-label">Presidió la sesión<br><small>plenarias (rol rotativo)</small></div>
 </div>
 
 <div class="jme-stat">
@@ -379,7 +381,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">11</div>
+<div class="jme-stat-value">54</div>
 <div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
@@ -416,23 +418,23 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat-row six">
 
 <div class="jme-stat">
-<div class="jme-stat-value">95%</div>
-<div class="jme-stat-label">Asistencia<br><small>165/174</small></div>
+<div class="jme-stat-value">93%</div>
+<div class="jme-stat-label">Asistencia<br><small>214/229</small></div>
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">317</div>
+<div class="jme-stat-value">419</div>
 <div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">11</div>
-<div class="jme-stat-label">Propuestas<br><small>8 autor · 3 secunda</small></div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>8 autor · 3 secunda</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">0</div>
-<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+<div class="jme-stat-label">Presidió la sesión<br><small>plenarias (rol rotativo)</small></div>
 </div>
 
 <div class="jme-stat">
@@ -441,7 +443,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">7</div>
+<div class="jme-stat-value">48</div>
 <div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
@@ -479,22 +481,22 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 <div class="jme-stat">
 <div class="jme-stat-value">97%</div>
-<div class="jme-stat-label">Asistencia<br><small>171/177</small></div>
+<div class="jme-stat-label">Asistencia<br><small>226/232</small></div>
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">275</div>
+<div class="jme-stat-value">365</div>
 <div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">22</div>
-<div class="jme-stat-label">Propuestas<br><small>12 autor · 10 secunda</small></div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>12 autor · 10 secunda</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">0</div>
-<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+<div class="jme-stat-label">Presidió la sesión<br><small>plenarias (rol rotativo)</small></div>
 </div>
 
 <div class="jme-stat">
@@ -503,7 +505,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">8</div>
+<div class="jme-stat-value">55</div>
 <div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
@@ -541,23 +543,23 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat-row six">
 
 <div class="jme-stat">
-<div class="jme-stat-value">93%</div>
-<div class="jme-stat-label">Asistencia<br><small>163/176</small></div>
+<div class="jme-stat-value">94%</div>
+<div class="jme-stat-label">Asistencia<br><small>217/231</small></div>
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">855</div>
+<div class="jme-stat-value">1122</div>
 <div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">9</div>
-<div class="jme-stat-label">Propuestas<br><small>6 autor · 3 secunda</small></div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>6 autor · 3 secunda</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">0</div>
-<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+<div class="jme-stat-label">Presidió la sesión<br><small>plenarias (rol rotativo)</small></div>
 </div>
 
 <div class="jme-stat">
@@ -566,7 +568,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">4</div>
+<div class="jme-stat-value">36</div>
 <div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
@@ -603,23 +605,23 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat-row six">
 
 <div class="jme-stat">
-<div class="jme-stat-value">96%</div>
-<div class="jme-stat-label">Asistencia<br><small>167/174</small></div>
+<div class="jme-stat-value">95%</div>
+<div class="jme-stat-label">Asistencia<br><small>216/228</small></div>
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">299</div>
+<div class="jme-stat-value">419</div>
 <div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">10</div>
-<div class="jme-stat-label">Propuestas<br><small>7 autor · 3 secunda</small></div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>7 autor · 3 secunda</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">52</div>
-<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+<div class="jme-stat-label">Presidió la sesión<br><small>plenarias (rol rotativo)</small></div>
 </div>
 
 <div class="jme-stat">
@@ -628,7 +630,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">3</div>
+<div class="jme-stat-value">31</div>
 <div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
@@ -665,23 +667,23 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat-row six">
 
 <div class="jme-stat">
-<div class="jme-stat-value">90%</div>
-<div class="jme-stat-label">Asistencia<br><small>159/177</small></div>
+<div class="jme-stat-value">89%</div>
+<div class="jme-stat-label">Asistencia<br><small>207/232</small></div>
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">516</div>
+<div class="jme-stat-value">643</div>
 <div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">15</div>
-<div class="jme-stat-label">Propuestas<br><small>12 autor · 3 secunda</small></div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>12 autor · 3 secunda</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">1</div>
-<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+<div class="jme-stat-label">Presidió la sesión<br><small>plenarias (rol rotativo)</small></div>
 </div>
 
 <div class="jme-stat">
@@ -690,7 +692,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">7</div>
+<div class="jme-stat-value">44</div>
 <div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 
@@ -727,23 +729,23 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 <div class="jme-stat-row six">
 
 <div class="jme-stat">
-<div class="jme-stat-value">93%</div>
-<div class="jme-stat-label">Asistencia<br><small>160/172</small></div>
+<div class="jme-stat-value">94%</div>
+<div class="jme-stat-label">Asistencia<br><small>213/227</small></div>
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">150</div>
+<div class="jme-stat-value">210</div>
 <div class="jme-stat-label">Intervenciones<br><small>en actas</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">8</div>
-<div class="jme-stat-label">Propuestas<br><small>6 autor · 2 secunda</small></div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>6 autor · 2 secunda</small></div>
 </div>
 
 <div class="jme-stat">
 <div class="jme-stat-value">8</div>
-<div class="jme-stat-label">Pte de mesa<br><small>plenarias</small></div>
+<div class="jme-stat-label">Presidió la sesión<br><small>plenarias (rol rotativo)</small></div>
 </div>
 
 <div class="jme-stat">
@@ -752,7 +754,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">3</div>
+<div class="jme-stat-value">36</div>
 <div class="jme-stat-label">Disidencias<br><small>en contra · abst.</small></div>
 </div>
 

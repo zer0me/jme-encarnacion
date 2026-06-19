@@ -1,12 +1,14 @@
 ---
 titulo: "MOC — Ordenanza Edificabilidad y captura regulatoria"
 tipo: moc
-periodo: "2022 → 2025-actual"
-estado: "watch"
+periodo: "2022 → 2025"
+estado: "sancionada"
 ejes_coalicion: "planificación urbana"
 ---
 
 # MOC — Ordenanza Edificabilidad y captura regulatoria
+
+> **ACTUALIZACIÓN (jul-2025):** la Ordenanza fue **sancionada el 9 de julio de 2025** ([[2025-07-09 - Acta 178-2025|Acta 178]]), aprobada **artículo por artículo** tras ~3 años de bloqueo. Varios artículos clave (4°-9°) se resolvieron con **empate 6-6 desempatado por el voto doble del presidente**, y otros por 6-5. El relato de captura regulatoria de abajo cubre el período 2022-2024 previo a la sanción y se mantiene como contexto histórico.
 
 ## Resumen ejecutivo
 

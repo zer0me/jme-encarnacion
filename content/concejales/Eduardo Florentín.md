@@ -14,9 +14,9 @@ fecha_actualizacion: 2026-06-19
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Eduardo-Florentín.jpg" alt="Foto de Eduardo Florentín" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
-- Asistencia: presente en **159 sesiones plenarias** (90%); ausente en **18**. Rango: 2021-11-09 a 2025-04-30.
-- Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 12 resoluciones como autor · 2 resoluciones como secunda**. Total propuestas con su firma: **15**.
-- Participación en debate: **516 intervenciones** registradas en actas.
+- Asistencia: presente en **207 sesiones plenarias** (89%); ausente en **25**. Rango: 2021-11-09 a 2026-05-13.
+- Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 12 resoluciones como autor · 2 resoluciones como secunda**. Total de iniciativas firmadas: **15** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Participación en debate: **643 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
 Presidente del Club de Clubes. Voto estable con contralor; alineado con Morel en las 3 votaciones nominales clave.
@@ -29,19 +29,32 @@ Presidente del Club de Clubes. Voto estable con contralor; alineado con Morel en
 
 ## Votos disidentes documentados en actas
 
-Casos donde figura nominalmente apartándose de la mayoría (**3 en contra · 4 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
+Casos donde figura nominalmente apartándose de la mayoría (**26 en contra · 18 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
 
-- 2024-04-10 · Acta 117/2024 · pliego-licitacion-combustibles-plurianual — **votó en contra** · aprobado_mayoria
-- 2023-10-04 · Acta 93/2023 · pliego_terminal_omnibus_con_vallado_dictamen_60A — **votó en contra** · aprobado_mayoria
-- 2022-09-28 · Acta 43/2022 · dictamen-53-bancos-costanera — **votó en contra** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Reestructuración deuda Gs. 15.480.000.000 (primera cuota diferida a enero 2025) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Dictamen 26 — Pliego Licitación Pública 04/2024 minibuses — **se abstuvo** · aprobado_mayoria
-- 2024-04-03 · Acta 116/2024 · ampliacion-combustibles-petroleos-sur — **se abstuvo** · aprobado_mayoria
-- 2022-09-28 · Acta 43/2022 · acta-sesion-42 — **se abstuvo** · aprobado
+- 2026-05-06 · Acta 218/2026 · inclusion-dictamen-sem-legislacion — **votó en contra** · aprobado_mayoria
+- 2026-05-06 · Acta 218/2026 · dictamen-14a-aceptar-veto-inventario-patrimonial — **votó en contra** · aprobado_mayoria
+- 2026-04-15 · Acta 215/2026 · dictamen-10-2026-veto-loteamiento-candia-finca-1636 — **votó en contra** · aprobado_mayoria
+- 2026-04-15 · Acta 215/2026 · dictamen-13-2026-regularizacion-multas-sem — **votó en contra** · rechazado
+- 2026-02-25 · Acta 209/2026 · dictamen-01a-rendicion-cuentas-2025 — **votó en contra** · aprobado_mayoria
+- 2026-01-21 · Acta 204/2026 · refinanciacion-credito-banco-zeta — **votó en contra** · aprobado_mayoria
+- 2026-01-21 · Acta 204/2026 · conformacion-comisiones-2026 — **votó en contra** · aprobado_mayoria
+- 2025-12-17 · Acta 201/2025 · orden-del-dia-inclusion-nota-sobregiro — **votó en contra** · aprobado_mayoria
+- 2025-12-17 · Acta 201/2025 · nota-13066-sobregiro-bancario-2026 — **votó en contra** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · veto-resolucion-1409-2025-fondo-reparo — **votó en contra** · veto_aceptado
+- 2026-05-06 · Acta 218/2026 · dictamen-15-2026-regularizacion-multas-sem — **se abstuvo** · aprobado_mayoria
+- 2026-05-06 · Acta 218/2026 · minuta-ampliacion-ordenanza-314-coco-perito — **se abstuvo** · aprobado_mayoria
+- 2026-02-18 · Acta 208/2026 · dictamen-04-2026-rectificacion-padron-fonavis — **se abstuvo** · aprobado_mayoria
+- 2026-02-11 · Acta 207/2026 · dictamen-04-2026-comodato-tanque-arce — **se abstuvo** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · dictamen-51-2025-viviendas-sociales-fonavis — **se abstuvo** · aprobado_mayoria
+- 2025-11-19 · Acta 197/2025 · dictamen-47-2025-ampliacion-dos-columnas-kennedy — **se abstuvo** · aprobado_mayoria
+- 2025-11-19 · Acta 197/2025 · dictamen-49-2025-ampliacion-kasuga-lotes-4-5-8 — **se abstuvo** · aprobado_mayoria
+- 2025-11-05 · Acta 195/2025 · incentivos-contribuyentes-prorroga — **se abstuvo** · aprobado_mayoria
+- 2025-11-05 · Acta 195/2025 · minuta-informe-puerta-del-sur — **se abstuvo** · aprobado_mayoria
+- 2025-09-17 · Acta 188/2025 · nota-12339-homologacion-operaciones-bancarias-royalties — **se abstuvo** · aprobado_mayoria
 
 ## Participación en debate (intervenciones en actas)
 
-Intervino **516 veces** en los debates plenarios registrados en actas (período 2021-2026).
+Intervino **643 veces** en los debates plenarios registrados en actas (período 2021-2026).
 
 Temas sobre los que más intervino:
 - **incentivos-tributarios** (4)
@@ -49,14 +62,14 @@ Temas sobre los que más intervino:
 - **ampliacion-presupuestaria-royalties** (4)
 - **estacionamiento-tarifado** (4)
 - **planta-asfaltica** (4)
+- **menciones-reconocimiento** (4)
+- **orden-del-dia** (3)
 - **infraestructura-vial** (3)
 - **ampliacion-presupuestaria** (3)
 - **almuerzo-escolar-fonacide** (3)
+- **reprogramacion-presupuestaria** (3)
 - **corsos-encarnacenos** (3)
-- **terminal-omnibus** (3)
-- **presupuesto-2024** (3)
-- **bus-turistico-panoramico** (3)
-- _(+ 448 temas adicionales con menor frecuencia)_
+- _(+ 552 temas adicionales con menor frecuencia)_
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
 - **reconocimiento** (8): [[2022-08-03 - Resolución 215-2022]], [[2022-07-20 - Resolución 196-2022]], [[2022-05-25 - Resolución 142-2022]] (+ 5 más)

@@ -14,9 +14,9 @@ fecha_actualizacion: 2026-06-19
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Nehemías-Cuevas.jpg" alt="Foto de Nehemías Cuevas" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
-- Asistencia: presente en **153 sesiones plenarias** (90%); ausente en **17**. Rango: 2021-11-09 a 2025-04-30.
-- Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 0 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **1**.
-- Participación en debate: **153 intervenciones** registradas en actas.
+- Asistencia: presente en **203 sesiones plenarias** (90%); ausente en **22**. Rango: 2021-11-09 a 2026-05-13.
+- Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 0 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **1** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Participación en debate: **190 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
 Pte JM saliente. Rompió bandera ANR en oct-2024 y votó a Aquino; luego ausente 3 de 4 plenarias del cierre fiscal 2024.
@@ -29,18 +29,37 @@ Pte JM saliente. Rompió bandera ANR en oct-2024 y votó a Aquino; luego ausente
 
 ## Votos disidentes documentados en actas
 
-Casos donde figura nominalmente apartándose de la mayoría (**1 en contra · 1 abstención**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
+Casos donde figura nominalmente apartándose de la mayoría (**19 en contra · 12 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
 
-- 2023-10-04 · Acta 93/2023 · pliego_terminal_omnibus_con_vallado_dictamen_60A — **votó en contra** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Reestructuración deuda Gs. 15.480.000.000 (primera cuota diferida a enero 2025) — **se abstuvo** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · invitacion-intendente-reunion-situacion-salarial — **votó en contra** · aprobado_mayoria
+- 2025-10-15 · Acta 192/2025 · dictamen-07-2025-ordenanza-tributaria-2026 — **votó en contra** · aprobado_mayoria
+- 2025-08-20 · Acta 184/2025 · declaracion-interes-carnaval-invierno — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-4-fos — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-5-alturas — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-6-volumen-eliminacion — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-7-fot-eliminacion — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-8-altura-por-fot — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-9-area-ecologicamente-activa — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-arts-24-29 — **votó en contra** · aprobado_mayoria
+- 2026-05-06 · Acta 218/2026 · minuta-ampliacion-ordenanza-314-coco-perito — **se abstuvo** · aprobado_mayoria
+- 2026-04-15 · Acta 215/2026 · dictamen-13-2026-regularizacion-multas-sem — **se abstuvo** · rechazado
+- 2026-02-18 · Acta 208/2026 · minuta-estampilla-carnaval-encarnaceno — **se abstuvo** · aprobado
+- 2026-01-21 · Acta 204/2026 · minuta-informe-premios-agentes-transito-sem — **se abstuvo** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · nota-intendente-reunion-sindicatos — **se abstuvo** · aprobado_mayoria
+- 2025-10-22 · Acta 193/2025 · dictamen-43-2025-parklets-derogacion — **se abstuvo** · aprobado_mayoria
+- 2025-10-15 · Acta 192/2025 · nota-12590-roggio-remision-comision-hacienda — **se abstuvo** · aprobado_mayoria
+- 2025-06-25 · Acta 176/2025 · remision-informe-aporte-cultura-deporte — **se abstuvo** · rechazado
+- 2025-06-25 · Acta 176/2025 · recurso-reconsideracion-remision-informe — **se abstuvo** · rechazado
+- 2025-06-25 · Acta 176/2025 · minuta-rescision-contrato-sem-tratamiento-sobre-tablas — **se abstuvo** · rechazado
 
 ## Participación en debate (intervenciones en actas)
 
-Intervino **153 veces** en los debates plenarios registrados en actas (período 2021-2026).
+Intervino **190 veces** en los debates plenarios registrados en actas (período 2021-2026).
 
 Temas sobre los que más intervino:
 - **eleccion-mesa-directiva-2024-2025** (4)
 - **espacios-publicos** (3)
+- **comisiones-vecinales** (3)
 - **arborizacion-urbana** (2)
 - **audiencia-publica-pliego-bases** (2)
 - **licitacion-residuos-solidos** (2)
@@ -50,8 +69,7 @@ Temas sobre los que más intervino:
 - **eleccion-vicepresidente-junta-municipal** (1)
 - **barrio-san-pedro** (1)
 - **inversion-departamental** (1)
-- **centro-terapeutico-vida-sana** (1)
-- _(+ 130 temas adicionales con menor frecuencia)_
+- _(+ 165 temas adicionales con menor frecuencia)_
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
 - **participacion-vecinal** (1): [[2022-05-25 - Minuta 39]]

@@ -14,9 +14,9 @@ fecha_actualizacion: 2026-06-19
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Gloria-Arregui.jpg" alt="Foto de Gloria Arregui" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
-- Asistencia: presente en **171 sesiones plenarias** (97%); ausente en **6**. Rango: 2021-11-09 a 2025-04-30.
-- Productividad legislativa: **0 minutas como autor · 10 minutas como secunda · 12 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **22**.
-- Participación en debate: **275 intervenciones** registradas en actas.
+- Asistencia: presente en **226 sesiones plenarias** (97%); ausente en **6**. Rango: 2021-11-09 a 2026-05-13.
+- Productividad legislativa: **0 minutas como autor · 10 minutas como secunda · 12 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **22** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Participación en debate: **365 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
 Pivote. Se abstuvo en elección de Pte, votó a Lichi en Vice, y luego apareció en oficialista-7 en Comisiones 2025.
@@ -29,35 +29,47 @@ Pivote. Se abstuvo en elección de Pte, votó a Lichi en Vice, y luego apareció
 
 ## Votos disidentes documentados en actas
 
-Casos donde figura nominalmente apartándose de la mayoría (**0 en contra · 8 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
+Casos donde figura nominalmente apartándose de la mayoría (**22 en contra · 33 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
 
-- 2024-09-11 · Acta 139/2024 · minuta-informe-licitacion-433999-MECIP — **se abstuvo** · aprobado_mayoria
-- 2024-07-03 · Acta 129/2024 · Minuta calles + Fondos Royaltíes (Cuevas/Florentín/Lichi/Ortega/Morel/Rebruk) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta informe Royaltíes/Fonacide (Florentín) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta extractos bancarios (Cuevas/Florentín/Ortega/Lichi/Morel/Rebruk) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta transferencias jubilatorias (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta informe finanzas municipales (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
-- 2024-04-17 · Acta 118/2024 · edificio-paseo-del-sol — **se abstuvo** · aprobado_mayoria
-- 2022-09-28 · Acta 43/2022 · minuta-reajuste-salarial-funcionarios — **se abstuvo** · aprobado
+- 2026-04-15 · Acta 215/2026 · dictamen-10-2026-veto-loteamiento-candia-finca-1636 — **votó en contra** · aprobado_mayoria
+- 2026-04-15 · Acta 215/2026 · dictamen-13-2026-regularizacion-multas-sem — **votó en contra** · rechazado
+- 2025-12-22 · Acta 203/2025 · conformacion-comision-permanente-receso-7-concejales — **votó en contra** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · invitacion-intendente-reunion-situacion-salarial — **votó en contra** · aprobado_mayoria
+- 2025-10-29 · Acta 194/2025 · eleccion-presidente-mesa-directiva — **votó en contra** · aprobado_mayoria
+- 2025-10-29 · Acta 194/2025 · eleccion-vicepresidente-mesa-directiva — **votó en contra** · aprobado_mayoria
+- 2025-10-22 · Acta 193/2025 · minuta-museo-casa-victoria-documentacion — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-4-fos — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-5-alturas — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-6-volumen-eliminacion — **votó en contra** · aprobado_mayoria
+- 2026-02-04 · Acta 206/2026 · minuta-nulidad-contrato-sem — **se abstuvo** · girado_a_estudio
+- 2026-01-21 · Acta 204/2026 · minuta-informe-premios-agentes-transito-sem — **se abstuvo** · aprobado_mayoria
+- 2026-01-21 · Acta 204/2026 · minuta-multas-transito-turistas — **se abstuvo** · aprobado_mayoria
+- 2026-01-21 · Acta 204/2026 · minuta-mesa-trabajo-funcionarios-desvinculados — **se abstuvo** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · veto-resolucion-1409-2025-fondo-reparo — **se abstuvo** · veto_aceptado
+- 2025-12-01 · Acta Extraordinaria 05/2025 · dictamen-50b-2025-aprobacion-ampliacion-contrato-55-2024-fs-ingenieria — **se abstuvo** · rechazado
+- 2025-11-19 · Acta 197/2025 · minuta-informe-recoleccion-residuos — **se abstuvo** · aprobado_mayoria
+- 2025-10-15 · Acta 192/2025 · nota-12590-roggio-remision-comision-hacienda — **se abstuvo** · aprobado_mayoria
+- 2025-10-15 · Acta 192/2025 · dictamen-07-2025-ordenanza-tributaria-2026 — **se abstuvo** · aprobado_mayoria
+- 2025-10-15 · Acta 192/2025 · minuta-auditoria-sem-mitic — **se abstuvo** · aprobado_mayoria
 
 ## Participación en debate (intervenciones en actas)
 
-Intervino **275 veces** en los debates plenarios registrados en actas (período 2021-2026).
+Intervino **365 veces** en los debates plenarios registrados en actas (período 2021-2026).
 
 Temas sobre los que más intervino:
+- **menciones-reconocimiento** (13)
+- **fraccionamientos** (7)
 - **reconocimientos** (4)
 - **hospital-pediatrico** (4)
 - **infraestructura-barrial** (4)
+- **planta-asfaltica** (4)
 - **consejo-local-salud** (3)
 - **reconocimientos-deportivos** (3)
-- **planta-asfaltica** (3)
 - **espacios-publicos** (2)
 - **salud-publica** (2)
 - **homenajes** (2)
 - **homenaje-jorge-hrisuk** (2)
-- **presupuesto-2023** (2)
-- **eleccion-vicepresidente** (2)
-- _(+ 237 temas adicionales con menor frecuencia)_
+- _(+ 303 temas adicionales con menor frecuencia)_
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
 - **reconocimiento** (9): [[2022-11-01 - Minuta 68]], [[2022-09-07 - Resolución 251-2022]], [[2022-07-13 - Resolución 186-2022]] (+ 6 más)

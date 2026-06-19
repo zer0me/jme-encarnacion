@@ -14,9 +14,9 @@ fecha_actualizacion: 2026-06-19
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Juan-Augusto-Lichi.jpg" alt="Foto de Juan Augusto Lichi" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
-- Asistencia: presente en **147 sesiones plenarias** (83%); ausente en **30**. Rango: 2021-11-09 a 2025-04-30.
-- Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 10 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **11**.
-- Participación en debate: **308 intervenciones** registradas en actas.
+- Asistencia: presente en **188 sesiones plenarias** (82%); ausente en **42**. Rango: 2021-11-09 a 2026-05-13.
+- Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 10 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **11** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Participación en debate: **379 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
 Vicepresidente electo; postuló a Aquino, pero el 22-ene-2025 vota con contralor en conformación de Comisiones — ruptura tácita Mesa Directiva.
@@ -29,20 +29,37 @@ Vicepresidente electo; postuló a Aquino, pero el 22-ene-2025 vota con contralor
 
 ## Votos disidentes documentados en actas
 
-Casos donde figura nominalmente apartándose de la mayoría (**1 en contra · 2 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
+Casos donde figura nominalmente apartándose de la mayoría (**13 en contra · 15 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
 
-- 2024-06-12 · Acta 126/2024 · Designación de representantes de la Junta en la Mesa Metropolitana — **votó en contra** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Reestructuración deuda Gs. 15.480.000.000 (primera cuota diferida a enero 2025) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta transferencias jubilatorias (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
+- 2026-05-06 · Acta 218/2026 · inclusion-dictamen-sem-legislacion — **votó en contra** · aprobado_mayoria
+- 2026-01-21 · Acta 204/2026 · conformacion-comisiones-2026 — **votó en contra** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · veto-resolucion-1409-2025-fondo-reparo — **votó en contra** · veto_aceptado
+- 2025-12-03 · Acta 199/2025 · veto-resolucion-1410-2025-fondo-reparo — **votó en contra** · veto_aceptado
+- 2025-10-29 · Acta 194/2025 · dictamen-123-2025-factibilidad-deposito-tinglado-maxicolor — **votó en contra** · aprobado_mayoria
+- 2025-09-03 · Acta 186/2025 · dictamen-95-2025-nominacion-calles-hospital — **votó en contra** · aprobado_mayoria
+- 2025-07-17 · Acta 179/2025 · acta-178-2025-con-modificacion — **votó en contra** · aprobado_mayoria
+- 2025-07-02 · Acta 177/2025 · minuta-auditoria-gestion-municipal-contraloria — **votó en contra** · rechazado
+- 2025-06-11 · Acta 174/2025 · dictamen-01-2025-parque-salud-rally — **votó en contra** · rechazado
+- 2025-06-11 · Acta 174/2025 · minuta-denuncia-contraloria-centro-comunitario-ex-diben — **votó en contra** · rechazado
+- 2026-05-06 · Acta 218/2026 · dictamen-14a-aceptar-veto-inventario-patrimonial — **se abstuvo** · aprobado_mayoria
+- 2026-05-06 · Acta 218/2026 · dictamen-15-2026-regularizacion-multas-sem — **se abstuvo** · aprobado_mayoria
+- 2026-05-06 · Acta 218/2026 · dictamen-16-2026-rectificacion-loteamiento-eby — **se abstuvo** · aprobado
+- 2026-05-06 · Acta 218/2026 · minuta-ampliacion-ordenanza-314-coco-perito — **se abstuvo** · aprobado_mayoria
+- 2026-04-15 · Acta 215/2026 · dictamen-13-2026-regularizacion-multas-sem — **se abstuvo** · rechazado
+- 2026-02-11 · Acta 207/2026 · dictamen-04-2026-comodato-tanque-arce — **se abstuvo** · aprobado_mayoria
+- 2026-01-21 · Acta 204/2026 · refinanciacion-credito-banco-zeta — **se abstuvo** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · dictamen-51-2025-viviendas-sociales-fonavis — **se abstuvo** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · dictamen-52-2025-cambio-titularidad-solar-municipal — **se abstuvo** · aprobado
+- 2025-10-08 · Acta 191/2025 · dictamen-42-2025-rechazo-veto-ordenanza-164 — **se abstuvo** · aprobado_mayoria
 
 ## Participación en debate (intervenciones en actas)
 
-Intervino **308 veces** en los debates plenarios registrados en actas (período 2021-2026).
+Intervino **379 veces** en los debates plenarios registrados en actas (período 2021-2026).
 
 Temas sobre los que más intervino:
+- **transporte-publico** (6)
 - **salud-publica** (3)
 - **plan-encarnacion-2030** (3)
-- **transporte-publico** (3)
 - **infraestructura-deportiva** (2)
 - **espacios-publicos** (2)
 - **informes-oficiales** (2)
@@ -52,7 +69,7 @@ Temas sobre los que más intervino:
 - **transporte-publico-emergencia** (2)
 - **hospital-pediatrico** (2)
 - **tren-pasajeros-fepasa** (2)
-- _(+ 266 temas adicionales con menor frecuencia)_
+- _(+ 332 temas adicionales con menor frecuencia)_
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
 - **deporte** (6): [[2022-10-05 - Resolución 275-2022]], [[2022-05-04 - Resolución 121-2022]], [[2022-02-09 - Resolución 59-2022]] (+ 3 más)

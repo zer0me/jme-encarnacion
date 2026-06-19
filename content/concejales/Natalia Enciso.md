@@ -14,9 +14,9 @@ fecha_actualizacion: 2026-06-19
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Natalia-Enciso.jpg" alt="Foto de Natalia Enciso" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
-- Asistencia: presente en **165 sesiones plenarias** (95%); ausente en **9**. Rango: 2021-11-09 a 2025-04-23.
-- Productividad legislativa: **0 minutas como autor · 3 minutas como secunda · 8 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **11**.
-- Participación en debate: **317 intervenciones** registradas en actas.
+- Asistencia: presente en **214 sesiones plenarias** (93%); ausente en **15**. Rango: 2021-11-09 a 2026-05-13.
+- Productividad legislativa: **0 minutas como autor · 3 minutas como secunda · 8 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **11** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Participación en debate: **419 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
 Voto estable con «construir». Defensora del Art 29+116 reglamento interno JM en disputa de Comisiones 2025.
@@ -29,34 +29,47 @@ Voto estable con «construir». Defensora del Art 29+116 reglamento interno JM e
 
 ## Votos disidentes documentados en actas
 
-Casos donde figura nominalmente apartándose de la mayoría (**0 en contra · 7 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
+Casos donde figura nominalmente apartándose de la mayoría (**24 en contra · 24 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
 
-- 2024-09-11 · Acta 139/2024 · minuta-informe-licitacion-433999-MECIP — **se abstuvo** · aprobado_mayoria
-- 2024-07-03 · Acta 129/2024 · Minuta calles + Fondos Royaltíes (Cuevas/Florentín/Lichi/Ortega/Morel/Rebruk) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta informe Royaltíes/Fonacide (Florentín) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta extractos bancarios (Cuevas/Florentín/Ortega/Lichi/Morel/Rebruk) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta transferencias jubilatorias (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
-- 2024-06-26 · Acta 128/2024 · Minuta informe finanzas municipales (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
-- 2024-04-10 · Acta 117/2024 · apoyo-ministra-baran — **se abstuvo** · aprobado_mayoria
+- 2025-12-22 · Acta 203/2025 · conformacion-comision-permanente-receso-7-concejales — **votó en contra** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · invitacion-intendente-reunion-situacion-salarial — **votó en contra** · aprobado_mayoria
+- 2025-10-29 · Acta 194/2025 · eleccion-presidente-mesa-directiva — **votó en contra** · aprobado_mayoria
+- 2025-10-29 · Acta 194/2025 · eleccion-vicepresidente-mesa-directiva — **votó en contra** · aprobado_mayoria
+- 2025-10-15 · Acta 192/2025 · minuta-auditoria-sem-mitic — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-4-fos — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-5-alturas — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-6-volumen-eliminacion — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-7-fot-eliminacion — **votó en contra** · aprobado_mayoria
+- 2025-07-09 · Acta 178/2025 · ordenanza-edificabilidad-art-8-altura-por-fot — **votó en contra** · aprobado_mayoria
+- 2026-02-04 · Acta 206/2026 · minuta-nulidad-contrato-sem — **se abstuvo** · girado_a_estudio
+- 2026-01-21 · Acta 204/2026 · minuta-informe-premios-agentes-transito-sem — **se abstuvo** · aprobado_mayoria
+- 2026-01-21 · Acta 204/2026 · minuta-multas-transito-turistas — **se abstuvo** · aprobado_mayoria
+- 2026-01-21 · Acta 204/2026 · minuta-mesa-trabajo-funcionarios-desvinculados — **se abstuvo** · aprobado_mayoria
+- 2025-12-03 · Acta 199/2025 · nota-intendente-reunion-sindicatos — **se abstuvo** · aprobado_mayoria
+- 2025-12-01 · Acta Extraordinaria 05/2025 · dictamen-49-2025-rechazo-ampliacion-contrato-56-2024-rivas — **se abstuvo** · aprobado_mayoria
+- 2025-11-19 · Acta 197/2025 · minuta-informe-recoleccion-residuos — **se abstuvo** · aprobado_mayoria
+- 2025-10-15 · Acta 192/2025 · dictamen-07-2025-ordenanza-tributaria-2026 — **se abstuvo** · aprobado_mayoria
+- 2025-10-02 · Acta 190/2025 · minuta-bacheo-informacion-ejecutivo — **se abstuvo** · aprobado_mayoria
+- 2025-08-06 · Acta 182/2025 · minuta-reiteracion-informe-4-obras — **se abstuvo** · aprobado_mayoria
 
 ## Participación en debate (intervenciones en actas)
 
-Intervino **317 veces** en los debates plenarios registrados en actas (período 2021-2026).
+Intervino **419 veces** en los debates plenarios registrados en actas (período 2021-2026).
 
 Temas sobre los que más intervino:
+- **planta-asfaltica** (5)
+- **menciones-reconocimiento** (5)
 - **infraestructura-vial** (4)
-- **planta-asfaltica** (4)
 - **dia-mujer-paraguaya** (3)
+- **transporte-publico** (3)
 - **folklore-intercolegial** (3)
 - **plan-encarnacion-2030** (3)
+- **estacionamiento-medido** (3)
 - **salud-publica** (2)
 - **medio-ambiente** (2)
 - **transparencia** (2)
 - **controles-policiales-hurto-cables** (2)
-- **olimpiada-kanguro** (2)
-- **octubre-rosa** (2)
-- **orden-del-dia** (2)
-- _(+ 279 temas adicionales con menor frecuencia)_
+- _(+ 364 temas adicionales con menor frecuencia)_
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
 - **reconocimiento** (4): [[2022-10-05 - Resolución 274-2022]], [[2022-08-24 - Resolución 229-2022]], [[2022-07-20 - Resolución 197-2022]] (+ 1 más)
