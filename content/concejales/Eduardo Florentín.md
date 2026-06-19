@@ -15,7 +15,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **207 sesiones plenarias** (89%); ausente en **25**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 12 resoluciones como autor · 2 resoluciones como secunda**. Total de iniciativas firmadas: **15** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **0 minutas como autor · 2 minutas como secunda · 12 resoluciones como autor · 2 resoluciones como secunda**. Total de iniciativas firmadas: **16** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **643 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -84,7 +84,7 @@ Temas sobre los que más intervino:
 - **automovilismo** (1): [[2022-10-05 - Resolución 281-2022]]
 - **becas** (1): [[2022-08-03 - Resolución 215-2022]]
 - **bomberos-voluntarios** (1): [[2022-08-17 - Resolución 224-2022]]
-- _(+ 33 temas adicionales con menor frecuencia)_
+- _(+ 38 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
@@ -110,5 +110,6 @@ Temas sobre los que más intervino:
 ### Como autor principal (0)
 Eduardo Florentín no figura como autor principal de ninguna minuta entre 2021 y 2025.
 
-### Como secunda / co-firmante (1)
+### Como secunda / co-firmante (2)
 - 2022-05-25 · [[2022-05-25 - Minuta 38]] · transparencia, comunicacion-publica, pautas-publicitarias, control-politico, participacion-ciudadana
+- 2021-12-22 · [[2021-12-22 - Minuta 14]] · loteamientos, ordenamiento-territorial, saneamiento, recursos-hidricos, ordenanza-municipal

@@ -15,7 +15,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **204 sesiones plenarias** (89%); ausente en **26**. Rango: 2021-11-09 a 2026-05-06.
-- Productividad legislativa: **70 minutas como autor · 0 minutas como secunda · 6 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **76** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **96 minutas como autor · 0 minutas como secunda · 6 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **102** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **729 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -73,18 +73,18 @@ Temas sobre los que más intervino:
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
 - **plan-encarnacion-mas** (13): [[2023-09-19 - Minuta 107]], [[2023-08-16 - Minuta - Proyecto Ordenanza Espacio Encarnación Más]], [[2022-11-01 - Minuta 69]] (+ 10 más)
+- **ordenamiento-territorial** (12): [[2023-10-03 - Minuta 109]], [[2023-10-03 - Minuta 112]], [[2022-11-01 - Minuta 69]] (+ 9 más)
+- **transporte-publico** (11): [[2025-08-25 - Minuta 143]], [[2023-10-03 - Minuta 109]], [[2022-10-18 - Minuta 62]] (+ 8 más)
+- **cultura** (8): [[2023-02-07 - Minuta 72]], [[2022-09-28 - Resolución 270-2022]], [[2022-05-25 - Minuta 35]] (+ 5 más)
+- **medio-ambiente** (8): [[2022-07-13 - Minuta 48]], [[2022-06-15 - Minuta 41]], [[2022-01-11 - Minuta 16]] (+ 5 más)
+- **ordenanza-municipal** (8): [[2023-10-03 - Minuta 112]], [[2022-09-07 - Minuta 54]], [[2022-06-21 - Minuta 42]] (+ 5 más)
+- **urbanismo** (8): [[2022-09-07 - Minuta 54]], [[2022-07-05 - Minuta 44]], [[2022-07-05 - Minuta 45]] (+ 5 más)
+- **site** (7): [[2022-10-18 - Minuta 62]], [[2022-06-21 - Minuta 42]], [[2022-06-21 - Minuta 43]] (+ 4 más)
+- **transparencia** (7): [[2023-11-13 - Minuta 113]], [[2022-05-25 - Minuta 36]], [[2022-05-25 - Minuta 38]] (+ 4 más)
 - **educacion** (6): [[2023-06-06 - Minuta 87]], [[2022-09-28 - Resolución 269-2022]], [[2022-09-28 - Resolución 270-2022]] (+ 3 más)
-- **medio-ambiente** (6): [[2022-07-13 - Minuta 48]], [[2022-06-15 - Minuta 41]], [[2021-11-17 - Minuta 2]] (+ 3 más)
-- **ordenamiento-territorial** (6): [[2023-10-03 - Minuta 109]], [[2023-10-03 - Minuta 112]], [[2022-11-01 - Minuta 69]] (+ 3 más)
+- **participacion-ciudadana** (6): [[2025-08-25 - Minuta 143]], [[2022-10-18 - Minuta 62]], [[2022-05-25 - Minuta 38]] (+ 3 más)
 - **socializacion-ciudadana** (6): [[2023-06-20 - Minuta 91]], [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]] (+ 3 más)
-- **urbanismo** (6): [[2022-09-07 - Minuta 54]], [[2022-07-05 - Minuta 44]], [[2022-07-05 - Minuta 45]] (+ 3 más)
-- **cultura** (5): [[2023-02-07 - Minuta 72]], [[2022-09-28 - Resolución 270-2022]], [[2022-05-25 - Minuta 35]] (+ 2 más)
-- **eby** (5): [[2023-10-03 - Minuta 108]], [[2022-11-23 - Minuta 71]], [[2022-07-13 - Minuta 47]] (+ 2 más)
-- **reconocimiento** (5): [[2023-11-13 - Minuta 110]], [[2022-11-01 - Minuta 68]], [[2022-09-07 - Resolución 256-2022]] (+ 2 más)
-- **transporte-publico** (5): [[2023-10-03 - Minuta 109]], [[2022-10-18 - Minuta 62]], [[2022-06-21 - Minuta 42]] (+ 2 más)
-- **espacio-publico** (4): [[2022-11-23 - Minuta 70]], [[2022-11-01 - Minuta 66]], [[2022-07-27 - Minuta 52]] (+ 1 más)
-- **infraestructura** (4): [[2023-06-20 - Minuta 88]], [[2022-09-07 - Minuta 53]], [[2022-07-27 - Minuta 52]] (+ 1 más)
-- _(+ 275 temas adicionales con menor frecuencia)_
+- _(+ 339 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
@@ -101,8 +101,9 @@ Keiji Ishibashi no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 ## Minutas
 
-### Como autor principal (70)
+### Como autor principal (96)
 - 2025-11-17 · [[2025-11-17 - Minuta 146]] · codigo-edificacion-encarnacion, revision-especializada, tecnologias-construccion, criterios-bioclimaticos, fiscalizacion-control-obra
+- 2025-08-25 · [[2025-08-25 - Minuta 143]] · transporte-publico, ley-nacional, audiencia-publica, transporte-metropolitano, participacion-ciudadana
 - 2025-08-25 · [[2025-08-25 - Minuta 145]] · ley-transporte-publico-metropolitano, modificaciones-ley-1590-2000, congreso-nacional, audiencia-publica-transporte, rectoria-transporte-terrestre
 - 2025-07-19 · [[2025-07-19 - Minuta 140]] · turismo-casas-rodantes, aguas-negras-disposicion, wrc-rally-mundial, estaciones-bombeo-essap, coordinacion-eby-essap
 - 2025-07-19 · [[2025-07-19 - Minuta 141]] · turismo-encarnacion, mantenimiento-caminos-turisticos, senaletica-vial, ruta-senatur
@@ -111,8 +112,7 @@ Keiji Ishibashi no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2025-07-15 · [[2025-07-15 - Minuta 138]] · ordenanza-56-construccion-loteamiento, parametros-habitabilidad, fonavis-reglamento, vivienda-social, tipologias-estudiantes, residencias-multifamiliares, direccion-desarrollo-urbano-territorial, iai-ingenieros-asociados-itapua
 - 2025-07-15 · [[2025-07-15 - Minuta 139]] · control-obras-fraccionamientos, apertura-calles-loteamientos, proteccion-arbolado-urbano, remocion-arboles-ciudad
 - 2025-06-23 · [[2025-06-23 - Minuta 136]] · sistema-integrado-transporte-encarnacion, licitacion-publica-transporte, billetaje-electronico, flota-buses-aire-acondicionado, transbordos-validacion-temporal, app-movil-usuarios-prediccion, central-monitoreo-gps
-- 2025-04-14 · [[2025-04-14 - Minuta 135]] · estacionamiento-medido-sem, campana-comunicacional, direccion-comunicacion-municipalidad
-- _(+ 60 más anteriores; lista completa en la ficha de persona)_
+- _(+ 86 más anteriores; lista completa en la ficha de persona)_
 
 ### Como secunda / co-firmante (0)
 Keiji Ishibashi no figura como co-firmante de ninguna minuta entre 2021 y 2025.

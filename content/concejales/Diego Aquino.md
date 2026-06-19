@@ -15,7 +15,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **213 sesiones plenarias** (95%); ausente en **12**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **0 minutas como autor · 3 minutas como secunda · 6 resoluciones como autor · 2 resoluciones como secunda**. Total de iniciativas firmadas: **11** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **0 minutas como autor · 4 minutas como secunda · 6 resoluciones como autor · 2 resoluciones como secunda**. Total de iniciativas firmadas: **12** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **824 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -78,9 +78,9 @@ Temas sobre los que más intervino:
 - **urbanismo** (3): [[2022-07-05 - Minuta 44]], [[2022-05-25 - Minuta 36]], [[2022-05-25 - Minuta 40]]
 - **infracciones** (2): [[2022-08-31 - Resolución 239-2022]], [[2022-02-02 - Resolución 53-2022]]
 - **socializacion-ciudadana** (2): [[2022-05-25 - Minuta 36]], [[2022-05-25 - Minuta 40]]
-- **basquetbol** (1): [[2022-01-26 - Resolución 44-2022]]
-- **bicicleta** (1): [[2021-12-01 - Resolución 22-2021]]
-- _(+ 26 temas adicionales con menor frecuencia)_
+- **agua-potable** (1): [[2022-01-26 - Minuta 18]]
+- **asistencia-tecnica** (1): [[2022-01-26 - Minuta 18]]
+- _(+ 32 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
@@ -101,7 +101,8 @@ Temas sobre los que más intervino:
 ### Como autor principal (0)
 Diego Aquino no figura como autor principal de ninguna minuta entre 2021 y 2025.
 
-### Como secunda / co-firmante (3)
+### Como secunda / co-firmante (4)
 - 2022-07-05 · [[2022-07-05 - Minuta 44]] · via-ferrea, eby, infraestructura, urbanismo, chaipe, santa-maria, plan-encarnacion-mas
 - 2022-05-25 · [[2022-05-25 - Minuta 36]] · plan-encarnacion-mas, socializacion-ciudadana, transparencia, urbanismo, control-politico
 - 2022-05-25 · [[2022-05-25 - Minuta 40]] · plan-encarnacion-mas, socializacion-ciudadana, urbanismo, participacion, metodologia, uci
+- 2022-01-26 · [[2022-01-26 - Minuta 18]] · agua-potable, juntas-de-saneamiento, erssan, asistencia-tecnica, tarifas, saneamiento

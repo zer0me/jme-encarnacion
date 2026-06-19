@@ -15,7 +15,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **217 sesiones plenarias** (94%); ausente en **14**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **0 minutas como autor · 3 minutas como secunda · 6 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **9** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **0 minutas como autor · 4 minutas como secunda · 6 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **10** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **1122 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -78,13 +78,13 @@ Temas sobre los que más intervino:
 - **interes-municipal** (2): [[2022-05-18 - Resolución 134-2022]], [[2021-11-17 - Minuta 4]]
 - **juventud** (2): [[2022-10-05 - Resolución 277-2022]], [[2021-11-17 - Resolución 05-2021]]
 - **medio-ambiente** (2): [[2022-06-15 - Minuta 41]], [[2021-11-17 - Minuta 4]]
+- **recursos-hidricos** (2): [[2022-01-26 - Minuta 17]], [[2021-11-17 - Minuta 4]]
 - **agua** (1): [[2021-11-17 - Minuta 4]]
+- **ambiente** (1): [[2022-01-26 - Minuta 17]]
+- **areas-protegidas** (1): [[2022-01-26 - Minuta 17]]
 - **areas-silvestres-protegidas** (1): [[2022-06-15 - Minuta 41]]
-- **comunidad-armenia** (1): [[2022-01-31 - Resolución 47-2022]]
-- **costanera** (1): [[2022-05-25 - Minuta 34]]
-- **deporte** (1): [[2022-10-05 - Resolución 277-2022]]
-- **diseno-urbano** (1): [[2022-05-25 - Minuta 34]]
-- _(+ 24 temas adicionales con menor frecuencia)_
+- **arroyo-poti-y** (1): [[2022-01-26 - Minuta 17]]
+- _(+ 29 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
@@ -104,7 +104,8 @@ Andrés Morel no figura como secunda de ninguna resolución entre 2021 y 2025.
 ### Como autor principal (0)
 Andrés Morel no figura como autor principal de ninguna minuta entre 2021 y 2025.
 
-### Como secunda / co-firmante (3)
+### Como secunda / co-firmante (4)
 - 2022-06-15 · [[2022-06-15 - Minuta 41]] · medio-ambiente, areas-silvestres-protegidas, guyra-paraguay, distrito-ecologico, planes-de-manejo, plan-encarnacion-mas
 - 2022-05-25 · [[2022-05-25 - Minuta 34]] · transito, infraestructura-vial, diseno-urbano, costanera, seguridad-vial
+- 2022-01-26 · [[2022-01-26 - Minuta 17]] · ambiente, recursos-hidricos, plan-desarrollo-sustentable, areas-protegidas, cambyreta, arroyo-poti-y
 - 2021-11-17 · [[2021-11-17 - Minuta 4]] · recursos-hidricos, agua, investigacion-cientifica, medio-ambiente, interes-municipal, turismo

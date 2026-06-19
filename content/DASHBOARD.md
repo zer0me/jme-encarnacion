@@ -160,7 +160,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 95% (213/225)  
 🗣 Intervenciones: 824  
-✍ Iniciativas firmadas: 11 <small>(6 autor · 5 secunda)</small>  
+✍ Iniciativas firmadas: 12 <small>(6 autor · 6 secunda)</small>  
 🪑 Presidió la sesión: 22 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Electo Pte JM el 30-oct-2024 con voto cruzado de Cuevas; preside la coalición «construir» que muta por eje temático.</small>
@@ -202,7 +202,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 89% (204/230)  
 🗣 Intervenciones: 729  
-✍ Iniciativas firmadas: 76 <small>(76 autor · 0 secunda)</small>  
+✍ Iniciativas firmadas: 102 <small>(102 autor · 0 secunda)</small>  
 🪑 Presidió la sesión: 0 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Acuñó el término «lobbycracia». Concejal más prolífico como autor de minutas y proyectos de ordenanza opositor a captura regulatoria.</small>
@@ -230,7 +230,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 85% (197/232)  
 🗣 Intervenciones: 460  
-✍ Iniciativas firmadas: 35 <small>(1 autor · 34 secunda)</small>  
+✍ Iniciativas firmadas: 55 <small>(1 autor · 54 secunda)</small>  
 🪑 Presidió la sesión: 0 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Concejal del PPC. En la elección de Mesa Directiva 2024 votó a Aquino como aliada situacional del bloque colorado disidente, no como alianza permanente. Vota habitualmente con el Intendente Yd y es la secundante más frecuente de las minutas de Ishibashi. Frase oct-2024: «No todos los buenos colorados están en la misma posición».</small>
@@ -272,7 +272,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 94% (217/231)  
 🗣 Intervenciones: 1122  
-✍ Iniciativas firmadas: 9 <small>(6 autor · 3 secunda)</small>  
+✍ Iniciativas firmadas: 10 <small>(6 autor · 4 secunda)</small>  
 🪑 Presidió la sesión: 0 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Postulado a Pte JM por «acuerdo de palabra ANR» — perdió 4-7 ante Aquino. Lidera el bloque «contralor» («mirar los papeles»).</small>
@@ -286,7 +286,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 95% (216/228)  
 🗣 Intervenciones: 419  
-✍ Iniciativas firmadas: 10 <small>(7 autor · 3 secunda)</small>  
+✍ Iniciativas firmadas: 11 <small>(7 autor · 4 secunda)</small>  
 🪑 Presidió la sesión: 52 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Concejal ANR. Postulante de Morel en oct-2024 invocando «acuerdo de palabra ANR». Voto estable con contralor.</small>
@@ -300,7 +300,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 89% (207/232)  
 🗣 Intervenciones: 643  
-✍ Iniciativas firmadas: 15 <small>(12 autor · 3 secunda)</small>  
+✍ Iniciativas firmadas: 16 <small>(12 autor · 4 secunda)</small>  
 🪑 Presidió la sesión: 1 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Presidente del Club de Clubes. Voto estable con contralor; alineado con Morel en las 3 votaciones nominales clave.</small>
@@ -314,7 +314,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 94% (213/227)  
 🗣 Intervenciones: 210  
-✍ Iniciativas firmadas: 8 <small>(6 autor · 2 secunda)</small>  
+✍ Iniciativas firmadas: 9 <small>(6 autor · 3 secunda)</small>  
 🪑 Presidió la sesión: 8 <small>veces</small>
 
 <small class="jme-concejal-rasgo">Voto estable con contralor. Candidato a Vice JM en oct-2024 (4 votos vs Lichi 8).</small>
@@ -418,12 +418,12 @@ Cada documento en `actas/`, `minutas/`, `resoluciones/` lleva en su frontmatter 
 | Carpeta | Items |
 |---|---:|
 | `actas/` | 232 |
-| `minutas/` | 72 |
+| `minutas/` | 99 |
 | `resoluciones/` | 276 |
 | `informe-gestion/` | 5 |
 | `informe-2024/` | 4 |
 | `presupuesto/` | 2 |
-| **Total documentos curados** | **591** |
+| **Total documentos curados** | **618** |
 | `personas/` | 88 |
 | `instituciones/` | 96 |
 | `empresas/` | 54 |

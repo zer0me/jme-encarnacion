@@ -15,7 +15,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **213 sesiones plenarias** (94%); ausente en **14**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 6 resoluciones como autor · 1 resolución como secunda**. Total de iniciativas firmadas: **8** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **0 minutas como autor · 2 minutas como secunda · 6 resoluciones como autor · 1 resolución como secunda**. Total de iniciativas firmadas: **9** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **210 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -78,13 +78,13 @@ Temas sobre los que más intervino:
 - **basquetbol** (2): [[2022-09-07 - Resolución 252-2022]], [[2022-01-26 - Resolución 44-2022]]
 - **declaracion-interes-municipal** (2): [[2022-08-17 - Resolución 226-2022]], [[2022-01-26 - Resolución 44-2022]]
 - **mencion-especial** (2): [[2022-09-07 - Resolución 252-2022]], [[2022-09-07 - Resolución 253-2022]]
+- **barrio-san-roque** (1): [[2021-12-15 - Minuta 10]]
 - **belleza** (1): [[2022-09-07 - Resolución 253-2022]]
 - **clima** (1): [[2022-08-17 - Resolución 226-2022]]
 - **club-pettirossi** (1): [[2022-09-07 - Resolución 252-2022]]
 - **cultura** (1): [[2022-09-07 - Resolución 253-2022]]
 - **deportes** (1): [[2022-09-07 - Resolución 252-2022]]
-- **dictamen-100-2021** (1): [[2021-11-17 - Minuta 1 - Plan Encarnación Más UCI]]
-- _(+ 18 temas adicionales con menor frecuencia)_
+- _(+ 23 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
@@ -104,5 +104,6 @@ Temas sobre los que más intervino:
 ### Como autor principal (0)
 Eduardo Rebruk no figura como autor principal de ninguna minuta entre 2021 y 2025.
 
-### Como secunda / co-firmante (1)
+### Como secunda / co-firmante (2)
+- 2021-12-15 · [[2021-12-15 - Minuta 10]] · desague-pluvial, barrio-san-roque, obras-publicas, reclamos-vecinales, infraestructura
 - 2021-11-17 · [[2021-11-17 - Minuta 1 - Plan Encarnación Más UCI]] · plan-encarnacion-mas, universidad-catolica-itapua, ordenamiento-territorial, socializacion-ciudadana, dictamen-100-2021

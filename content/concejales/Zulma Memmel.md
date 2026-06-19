@@ -15,7 +15,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **197 sesiones plenarias** (85%); ausente en **35**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **0 minutas como autor · 33 minutas como secunda · 1 resolución como autor · 1 resolución como secunda**. Total de iniciativas firmadas: **35** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **0 minutas como autor · 53 minutas como secunda · 1 resolución como autor · 1 resolución como secunda**. Total de iniciativas firmadas: **55** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **460 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -72,19 +72,19 @@ Temas sobre los que más intervino:
 - _(+ 405 temas adicionales con menor frecuencia)_
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
+- **ordenamiento-territorial** (8): [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]], [[2022-05-04 - Minuta 31]] (+ 5 más)
+- **cultura** (6): [[2023-02-07 - Minuta 72]], [[2022-05-25 - Minuta 35]], [[2022-04-06 - Minuta 29]] (+ 3 más)
+- **transporte-publico** (6): [[2025-08-25 - Minuta 143]], [[2022-10-18 - Minuta 62]], [[2022-05-04 - Minuta 32]] (+ 3 más)
+- **participacion-ciudadana** (5): [[2025-08-25 - Minuta 143]], [[2022-10-18 - Minuta 62]], [[2022-04-05 - Minuta 28]] (+ 2 más)
 - **plan-encarnacion-mas** (5): [[2023-09-19 - Minuta 107]], [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]] (+ 2 más)
-- **cultura** (3): [[2023-02-07 - Minuta 72]], [[2022-05-25 - Minuta 35]], [[2021-11-30 - Minuta 7]]
-- **ordenamiento-territorial** (3): [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]], [[2021-11-17 - Minuta 3]]
-- **apertura-calles-loteamientos** (2): [[2025-07-15 - Minuta 139]], [[2025-02-25 - Minuta 131]]
-- **circuito-comercial** (2): [[2023-06-06 - Minuta 86]], [[2022-07-13 - Minuta 47]]
-- **eby** (2): [[2022-11-23 - Minuta 71]], [[2022-07-13 - Minuta 47]]
-- **espacio-publico** (2): [[2022-11-23 - Minuta 70]], [[2022-07-27 - Minuta 52]]
-- **feria-municipal** (2): [[2025-02-17 - Minuta 129]], [[2022-07-27 - Minuta 52]]
-- **genero** (2): [[2022-07-27 - Minuta 50]], [[2022-07-20 - Resolución 198-2022]]
-- **infraestructura** (2): [[2022-09-07 - Minuta 53]], [[2022-07-27 - Minuta 52]]
-- **innovacion** (2): [[2023-11-13 - Minuta 110]], [[2021-11-24 - Minuta 6]]
-- **juventud** (2): [[2023-11-13 - Minuta 110]], [[2021-11-24 - Minuta 6]]
-- _(+ 150 temas adicionales con menor frecuencia)_
+- **ordenanza-municipal** (4): [[2022-03-23 - Minuta 25]], [[2022-03-23 - Minuta 26]], [[2021-12-09 - Minuta 8]] (+ 1 más)
+- **transparencia** (4): [[2022-04-05 - Minuta 28]], [[2022-02-16 - Minuta 21]], [[2022-02-09 - Minuta 22]] (+ 1 más)
+- **edificabilidad** (3): [[2022-11-01 - Minuta 69]], [[2022-03-30 - Minuta 27]], [[2022-03-23 - Minuta 25]]
+- **medio-ambiente** (3): [[2022-01-11 - Minuta 16]], [[2021-12-15 - Minuta 12]], [[2021-11-17 - Minuta 5]]
+- **movilidad** (3): [[2022-02-16 - Minuta 23]], [[2022-01-11 - Minuta 15]], [[2021-12-09 - Minuta 9]]
+- **site** (3): [[2022-10-18 - Minuta 62]], [[2022-05-04 - Minuta 32]], [[2022-05-04 - Minuta 33]]
+- **urbanismo** (3): [[2022-03-23 - Minuta 25]], [[2022-02-16 - Minuta 24]], [[2021-11-17 - Minuta 3]]
+- _(+ 210 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
@@ -99,8 +99,9 @@ Temas sobre los que más intervino:
 ### Como autor principal (0)
 Zulma Memmel no figura como autor principal de ninguna minuta entre 2021 y 2025.
 
-### Como secunda / co-firmante (33)
+### Como secunda / co-firmante (53)
 - 2025-11-17 · [[2025-11-17 - Minuta 146]] · codigo-edificacion-encarnacion, revision-especializada, tecnologias-construccion, criterios-bioclimaticos, fiscalizacion-control-obra
+- 2025-08-25 · [[2025-08-25 - Minuta 143]] · transporte-publico, ley-nacional, audiencia-publica, transporte-metropolitano, participacion-ciudadana
 - 2025-08-25 · [[2025-08-25 - Minuta 145]] · ley-transporte-publico-metropolitano, modificaciones-ley-1590-2000, congreso-nacional, audiencia-publica-transporte, rectoria-transporte-terrestre
 - 2025-07-19 · [[2025-07-19 - Minuta 140]] · turismo-casas-rodantes, aguas-negras-disposicion, wrc-rally-mundial, estaciones-bombeo-essap, coordinacion-eby-essap
 - 2025-07-15 · [[2025-07-15 - Minuta 138]] · ordenanza-56-construccion-loteamiento, parametros-habitabilidad, fonavis-reglamento, vivienda-social, tipologias-estudiantes, residencias-multifamiliares, direccion-desarrollo-urbano-territorial, iai-ingenieros-asociados-itapua
@@ -109,5 +110,4 @@ Zulma Memmel no figura como autor principal de ninguna minuta entre 2021 y 2025.
 - 2025-04-04 · [[2025-04-04 - Minuta 134]] · ordenanza-edificabilidad, codigo-edificacion, tesis-uci-uni-actualizacion-ordenanza-56, tratamiento-prioritario
 - 2025-03-26 · [[2025-03-26 - Minuta 133]] · ordenanzas-pendientes-tratamiento, procedimientos-proyectos-arquitectonicos, proteccion-humedales, espacio-encarnacion-mas, limite-urbano, inventario-bienes-patrimoniales, reglamento-interno-junta
 - 2025-02-26 · [[2025-02-26 - Minuta 132]] · calidad-agua-arroyo-poti-y, cianobacterias-sub-embalse, deportes-nauticos, laboratorio-uni
-- 2025-02-25 · [[2025-02-25 - Minuta 130]] · mercado-municipal, mantenimiento-extractores-eolicos, re-presentacion
-- _(+ 23 más anteriores; lista completa en la ficha de persona)_
+- _(+ 43 más anteriores; lista completa en la ficha de persona)_

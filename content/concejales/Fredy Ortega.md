@@ -15,7 +15,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **216 sesiones plenarias** (95%); ausente en **12**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **0 minutas como autor · 3 minutas como secunda · 7 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **10** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **0 minutas como autor · 4 minutas como secunda · 7 resoluciones como autor · 0 resoluciones como secunda**. Total de iniciativas firmadas: **11** (minutas + resoluciones que presentó o secundó — abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **419 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -76,15 +76,15 @@ Temas sobre los que más intervino:
 - **reconocimiento** (5): [[2022-10-05 - Resolución 276-2022]], [[2022-10-05 - Resolución 279-2022]], [[2022-08-31 - Resolución 236-2022]] (+ 2 más)
 - **juventud** (4): [[2022-10-05 - Resolución 276-2022]], [[2022-10-05 - Resolución 279-2022]], [[2022-08-17 - Resolución 225-2022]] (+ 1 más)
 - **mencion-especial** (4): [[2022-10-05 - Resolución 276-2022]], [[2022-10-05 - Resolución 279-2022]], [[2022-08-31 - Resolución 236-2022]] (+ 1 más)
-- **site** (3): [[2022-06-21 - Minuta 42]], [[2022-06-21 - Minuta 43]], [[2022-05-25 - Minuta 37]]
-- **transporte-publico** (3): [[2022-06-21 - Minuta 42]], [[2022-06-21 - Minuta 43]], [[2022-05-25 - Minuta 37]]
+- **site** (4): [[2022-06-21 - Minuta 42]], [[2022-06-21 - Minuta 43]], [[2022-05-25 - Minuta 37]] (+ 1 más)
+- **transporte-publico** (4): [[2022-06-21 - Minuta 42]], [[2022-06-21 - Minuta 43]], [[2022-05-25 - Minuta 37]] (+ 1 más)
 - **aia** (2): [[2022-06-21 - Minuta 43]], [[2022-05-25 - Minuta 37]]
 - **concurso-publico** (2): [[2022-06-21 - Minuta 43]], [[2022-05-25 - Minuta 37]]
+- **movilidad-urbana** (2): [[2022-06-21 - Minuta 42]], [[2022-05-04 - Minuta 30]]
+- **arquitectura** (1): [[2022-05-04 - Minuta 30]]
 - **arte** (1): [[2022-08-03 - Resolución 216-2022]]
 - **basquetbol** (1): [[2022-10-05 - Resolución 279-2022]]
-- **cooperacion-interinstitucional** (1): [[2022-08-10 - Resolución 220-2022]]
-- **cultura** (1): [[2022-08-03 - Resolución 216-2022]]
-- _(+ 17 temas adicionales con menor frecuencia)_
+- _(+ 19 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
@@ -105,7 +105,8 @@ Fredy Ortega no figura como secunda de ninguna resolución entre 2021 y 2025.
 ### Como autor principal (0)
 Fredy Ortega no figura como autor principal de ninguna minuta entre 2021 y 2025.
 
-### Como secunda / co-firmante (3)
+### Como secunda / co-firmante (4)
 - 2022-06-21 · [[2022-06-21 - Minuta 42]] · transporte-publico, site, ordenanza-municipal, itinerarios, movilidad-urbana, uci
 - 2022-06-21 · [[2022-06-21 - Minuta 43]] · transporte-publico, site, concurso-publico, paradas-buses, aia
 - 2022-05-25 · [[2022-05-25 - Minuta 37]] · transporte-publico, site, concurso-publico, diseno-urbano, aia, sustentabilidad
+- 2022-05-04 · [[2022-05-04 - Minuta 30]] · transporte-publico, site, concurso-de-anteproyecto, movilidad-urbana, arquitectura
