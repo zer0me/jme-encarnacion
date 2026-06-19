@@ -116,7 +116,7 @@ def main() -> int:
             try:
                 vecs = embed_batch(texts, account_id, token)
                 break
-            except (RuntimeError, urllib.error.URLError) as e:
+            except (RuntimeError, urllib.error.URLError, TimeoutError, OSError) as e:
                 if attempt == 2:
                     print(f"Falló batch {i}-{i+len(batch)} 3 veces: {e}", file=sys.stderr)
                     OUT.write_text(
