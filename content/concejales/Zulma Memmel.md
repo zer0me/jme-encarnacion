@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **197 sesiones plenarias** (85%); ausente en **35**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **27 minutas presentadas en sesión** (autor/co-autor) · 28 secundadas · 1 resolución (autor) · 1 (secunda). Total de iniciativas firmadas: **57** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **18 minutas presentadas en sesión** (autor/co-autor) · 28 secundadas · 1 resolución (autor) · 1 (secunda). Total de iniciativas firmadas: **48** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **460 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -98,8 +98,7 @@ Temas sobre los que más intervino:
 
 ## Minutas presentadas en sesión (según actas)
 
-### Como autor / co-autor (27)
-- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — autorizar una remisión al Ejecutivo para que, por las áreas competentes, se exija a la empresa de transporte público que aún usufructúa los espacios públicos el cumplimiento de los
+### Como autor / co-autor (18)
 - 2025-12-22 · [[2025-12-22 - Acta 203-2025]] — solicitar al Intendente analizar la factibilidad de implementar juegos de mesa de entretenimiento (ajedrez, dama y otros) en espacios techados de dominio municipal, como opción tur
 - 2025-12-17 · [[2025-12-17 - Acta 201-2025]] — elevar un proyecto de Ordenanza «por la cual se reglamenta la recolección y disposición final de cubiertas en desuso en el distrito de Encarnación»
 - 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — solicitar al Intendente que, por intermedio de las Direcciones Municipales, intime a la empresa [[MUV]] al retiro de la parada de la plataforma digital de transporte ubicada en la
@@ -109,7 +108,8 @@ Temas sobre los que más intervino:
 - 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — solicitar al Intendente la señalización de sentido único de la calle Bomberos Voluntarios de Encarnación (B° Pacu Cuá), con carteles de «Contramano»
 - 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — elevar a la Plenaria un Proyecto de Ordenanza que reglamente las condiciones de arrendamiento para locales gastronómicos y similares en la Manzana 65 «Parque Lineal», en respuesta
 - 2025-07-23 · [[2025-07-23 - Acta 180-2025]] — Mención Especial al reconocido Prof. Superior [[Javier Goligorsky]], Director del Coro de la Universidad Católica (CORUCI), por su trayectoria musical
-- _(+ 17 más; lista completa en las actas de cada sesión)_
+- 2025-07-17 · [[2025-07-17 - Acta 179-2025]] — una Mención Especial al destacado ciudadano Dr
+- _(+ 8 más; lista completa en las actas de cada sesión)_
 
 ### Como secundante (28)
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Ejecutivo la reposición del parque infantil frente a la playa San José, en proximidades del Mirador

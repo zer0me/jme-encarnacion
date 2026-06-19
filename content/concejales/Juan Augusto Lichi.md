@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **188 sesiones plenarias** (82%); ausente en **42**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **60 minutas presentadas en sesión** (autor/co-autor) · 46 secundadas · 10 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **116** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **37 minutas presentadas en sesión** (autor/co-autor) · 46 secundadas · 10 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **93** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **379 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -107,18 +107,18 @@ Juan Augusto Lichi no figura como secunda de ninguna resolución entre 2021 y 20
 
 ## Minutas presentadas en sesión (según actas)
 
-### Como autor / co-autor (60)
+### Como autor / co-autor (37)
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — remitir nota al Intendente para analizar la factibilidad de construir una rotonda en la intersección de Avda
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — remitir nota al Intendente para analizar la factibilidad de colocar un semáforo en la intersección de Independencia Nacional y Avda
 - 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — la entrega de una Mención Especial de Reconocimiento al deportista [[Héctor David Zorrilla Stenico]], Campeón del Torneo de la Federación Internacional de Pádel en Joinville (Brasi
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — solicitar Menciones Especiales de Reconocimiento a alumnos de los Colegios Privados [[Colegio Privado Girasoles|Girasoles]] y [[Colegio Privado Divina Esperanza|Divina Esperanza]]
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — elevar nota al Ejecutivo para analizar la modificación o ampliación de las canchas de básquetbol del sector San José y costanera Padre Bolik
-- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — Minuta verbal — [[Juan Augusto Lichi]] expresó sobre la plaza del B° Villa del Maestro: «Realmente, no sé si alguno conoce, se fue por ahí
 - 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — una Mención Especial al [[Centro de Despachantes de Aduana del Paraguay]] (CDAP) Filial Itapúa por sus 100 años de vida institucional, reconocido como de Interés Nacional por la [[
 - 2025-12-10 · [[2025-12-10 - Acta 200-2025]] — solicitar una Mención Especial de Reconocimiento al destacado atleta encarnaceno [[Santiago Talavera Ortiz]] por obtener medalla de plata en los XX Juegos Bolivarianos 2025 (handba
 - 2025-12-03 · [[2025-12-03 - Acta 199-2025]] — solicitar la entrega de Menciones Especiales de Reconocimiento a los jóvenes [[Tania Elizabeth Cardozo Gómez]], [[Ryan Tsai Hsiao]] y [[Federico Manuel Lopatiuk Ríos]], que partici
 - 2025-11-19 · [[2025-11-19 - Acta 197-2025]] — solicitar al Intendente la verificación, estudio y propuesta de factibilidad de realizar el paseo central de la Avda
-- _(+ 50 más; lista completa en las actas de cada sesión)_
+- 2025-10-08 · [[2025-10-08 - Acta 191-2025]] — elevar para estudio y consideración un proyecto de Ordenanza que regule el uso del Centro Cívico Municipal «Betty y Mario Pérez», espacio público construido por la [[EBY|Entidad Bi
+- _(+ 27 más; lista completa en las actas de cada sesión)_
 
 ### Como secundante (46)
 - 2025-12-22 · [[2025-12-22 - Acta 203-2025]] — el reconocimiento de los campeones nacionales de la categoría U13 de básquet, de la gama masculina, donde Encarnación se consagró campeón en la ciudad de Obligado

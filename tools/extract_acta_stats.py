@@ -202,6 +202,23 @@ def _minuta_desc(item: str) -> str:
     return s[:cut].rstrip(" .,;:")
 
 
+def _dedup_minutas(entries: list[tuple]) -> list[tuple]:
+    """Drop duplicate minutas (same petición re-presentada en otra sesión).
+
+    Dedup por descripción completa; conserva la primera ocurrencia (la lista llega
+    ordenada newest-first, así que se queda la más reciente).
+    """
+    seen: set[str] = set()
+    out: list[tuple] = []
+    for fecha, acta_stem, desc in entries:
+        key = re.sub(r"\s+", " ", desc).strip().lower()
+        if key and key in seen:
+            continue
+        seen.add(key)
+        out.append((fecha, acta_stem, desc))
+    return out
+
+
 def parse_acta_minutas(
     body: str,
     fecha: str,
@@ -224,8 +241,14 @@ def parse_acta_minutas(
         for item in _MINUTA_ITEM.split(section):
             if not re.match(r"^\*\*\d+\)", item.strip()):
                 continue
+            # El "head" (donde están los proponentes) termina en el PRIMERO de:
+            # el verbo proponente, o el guión "—/–" que separa "Minuta [[A]]/[[B]] — Título".
+            # Cortar también en el guión evita capturar a debatientes posteriores
+            # ("**[[C]] opinó**") como falsos co-autores en ítems sin verbo proponente.
             vm = _PROPOSE_VERB.search(item)
-            head = item[: vm.start()] if vm else item[:110]
+            dm = re.search(r"[—–]", item)
+            cuts = [m.start() for m in (vm, dm) if m]
+            head = item[: min(cuts)] if cuts else item[:110]
             sm = _SECUNDADO.search(item)
             secunda_slugs = set(_wikilink_slugs(sm.group(1), canon, tokens)) if sm else set()
             autor_slugs = [s for s in _wikilink_slugs(head, canon, tokens) if s not in secunda_slugs]
@@ -348,6 +371,9 @@ def scan_actas(canon: dict[str, str], slugs: list[str]) -> dict[str, dict]:
         agg["abstenciones"].sort(key=lambda x: x[0], reverse=True)
         agg["minuta_autor"].sort(key=lambda x: x[0], reverse=True)
         agg["minuta_secunda"].sort(key=lambda x: x[0], reverse=True)
+        # Dedup minutas re-presentadas entre sesiones (misma petición contada >1 vez).
+        agg["minuta_autor"] = _dedup_minutas(agg["minuta_autor"])
+        agg["minuta_secunda"] = _dedup_minutas(agg["minuta_secunda"])
         agg["n_minuta_autor"] = len(agg["minuta_autor"])
         agg["n_minuta_secunda"] = len(agg["minuta_secunda"])
 

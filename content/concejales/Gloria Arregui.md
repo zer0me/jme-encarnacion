@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **226 sesiones plenarias** (97%); ausente en **6**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **50 minutas presentadas en sesión** (autor/co-autor) · 48 secundadas · 12 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **110** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **30 minutas presentadas en sesión** (autor/co-autor) · 48 secundadas · 12 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **90** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **365 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -108,7 +108,7 @@ Gloria Arregui no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 ## Minutas presentadas en sesión (según actas)
 
-### Como autor / co-autor (50)
+### Como autor / co-autor (30)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente que se notifique al propietario del ómnibus estacionado en inmediaciones del [[Colegio San Roque González]] de Santa Cruz, que obstaculiza la visibilidad de
 - 2026-04-29 · [[2026-04-29 - Acta 217-2026]] — autorizar la entrega de una Mención Especial de Reconocimiento a los alumnos de la carrera de Ingeniería Informática de la [[Universidad Católica|UCA «Nuestra Señora de la Asunción
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — autorizar la entrega de una Mención Especial de Reconocimiento al joven deportista [[Juan José Villalba Fernández]], quien con 12 años obtuvo la única medalla para Paraguay en la C
@@ -119,7 +119,7 @@ Gloria Arregui no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2025-12-10 · [[2025-12-10 - Acta 200-2025]] — solicitar al Ejecutivo controles y fiscalizaciones continuas e intensificadas sobre los vendedores ambulantes del Circuito Comercial (zona conocida como Alaska, inmediaciones de la
 - 2025-12-10 · [[2025-12-10 - Acta 200-2025]] — solicitar la declaración como área protegida de interés ambiental y social de la naciente hídrica y cauce natural de agua del Barrio Sagrada Familia, conforme a la [[Ley 3239/2007|
 - 2025-12-10 · [[2025-12-10 - Acta 200-2025]] — solicitar al Intendente analizar posibles soluciones para evitar la tala del árbol ubicado en la calle 25 de Mayo casi Carlos Antonio López (margen derecho), en sentido de circulac
-- _(+ 40 más; lista completa en las actas de cada sesión)_
+- _(+ 20 más; lista completa en las actas de cada sesión)_
 
 ### Como secundante (48)
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — remitir nota al Intendente para analizar la factibilidad de construir una rotonda en la intersección de Avda

@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **225 sesiones plenarias** (97%); ausente en **7**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **70 minutas presentadas en sesión** (autor/co-autor) · 25 secundadas · 2 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **97** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **57 minutas presentadas en sesión** (autor/co-autor) · 25 secundadas · 2 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **84** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **773 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -99,7 +99,7 @@ Carlos Marino Fernández no figura como secunda de ninguna resolución entre 202
 
 ## Minutas presentadas en sesión (según actas)
 
-### Como autor / co-autor (70)
+### Como autor / co-autor (57)
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — la declaración de Interés Municipal del libro «El emprendimiento hidroeléctrico Yacyretá y sus incidencias sobre los derechos humanos: Visión Ambiental» ([[Pablo Villalba]])
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — crear un Fondo Especial destinado a apoyar a instituciones educativas en casos de desastres naturales o incendios
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — relevamiento, intervención y posterior reparación del Parque Infantil sobre Avda
@@ -110,7 +110,7 @@ Carlos Marino Fernández no figura como secunda de ninguna resolución entre 202
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — elevar un Proyecto de Ordenanza «que prohíbe el uso de dispositivos roncadores o similares en motocicletas dentro del ejido urbano del Municipio de Encarnación», para proteger la s
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — elevar un Proyecto de Ordenanza «De Protección y Bienestar Animal y Tenencia Responsable del Municipio de Encarnación, en concordancia con la Ley Nacional N° 7513/25», para integra
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — un relevamiento y posterior mantenimiento del entorno y del Monumento a las Paseras o Revendedoras de Frontera, que reconoce a las mujeres trabajadoras sostén de familias encarnace
-- _(+ 60 más; lista completa en las actas de cada sesión)_
+- _(+ 47 más; lista completa en las actas de cada sesión)_
 
 ### Como secundante (25)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente que se notifique al propietario del ómnibus estacionado en inmediaciones del [[Colegio San Roque González]] de Santa Cruz, que obstaculiza la visibilidad de

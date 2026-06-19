@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **207 sesiones plenarias** (89%); ausente en **25**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **76 minutas presentadas en sesión** (autor/co-autor) · 28 secundadas · 12 resoluciones (autor) · 2 (secunda). Total de iniciativas firmadas: **118** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **53 minutas presentadas en sesión** (autor/co-autor) · 28 secundadas · 12 resoluciones (autor) · 2 (secunda). Total de iniciativas firmadas: **95** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **643 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -109,7 +109,7 @@ Temas sobre los que más intervino:
 
 ## Minutas presentadas en sesión (según actas)
 
-### Como autor / co-autor (76)
+### Como autor / co-autor (53)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente analizar la factibilidad del pavimento tipo empedrado o asfalto en el estacionamiento de tierra de la Feria Municipal La Placita, sobre la calle Don Gil Río
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente intervenir y regularizar la presencia de vendedores informales en las inmediaciones de los locales comerciales de la Feria Municipal La Placita (calle Don G
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — autorizar la Declaración de Interés Municipal del II Congreso Internacional Contabilidad – ITAPÚA 2026, el I Congreso Nacional de Educadores del Área Contable y el I Congreso Nacio
@@ -120,7 +120,7 @@ Temas sobre los que más intervino:
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — solicitar al Intendente, vía Dirección Municipal correspondiente, un informe con el listado detallado de cheques emitidos por Tesorería y no entregados al 31 de diciembre de 2025
 - 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — solicitar al Intendente un análisis jurídico sobre la posibilidad de resolver la interrupción del Servicio de Estacionamiento Medido (SEM), considerando que el contrato con la empr
 - 2025-11-19 · [[2025-11-19 - Acta 197-2025]] — solicitar al Intendente un informe detallado sobre el servicio de recolección de residuos: montos percibidos por la tercerización, cobros por tributos atrasados y del año en curso
-- _(+ 66 más; lista completa en las actas de cada sesión)_
+- _(+ 43 más; lista completa en las actas de cada sesión)_
 
 ### Como secundante (28)
 - 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente la actualización de la transferencia de las sumas recaudadas en concepto de la Tasa de Prevención contra incendios a favor del [[Cuerpo de Bomberos Voluntar

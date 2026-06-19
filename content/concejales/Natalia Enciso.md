@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **214 sesiones plenarias** (93%); ausente en **15**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **32 minutas presentadas en sesión** (autor/co-autor) · 25 secundadas · 8 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **65** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **17 minutas presentadas en sesión** (autor/co-autor) · 25 secundadas · 8 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **50** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **419 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -105,18 +105,18 @@ Natalia Enciso no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 ## Minutas presentadas en sesión (según actas)
 
-### Como autor / co-autor (32)
-- 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — enviar nota al Intendente solicitando a la jefatura de Comisiones Vecinales que haga efectivo el cumplimiento de los artículos de la Ordenanza sobre rendición de cuentas
+### Como autor / co-autor (17)
 - 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — solicitar al Intendente el mantenimiento y puesta en condiciones de la capa asfáltica de la Avda
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Ejecutivo para el reacondicionamiento de las instalaciones de la plaza y cancha del B° Santo Domingo Centro, punto de encuentro comunitario que requiere intervencion
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Ejecutivo para el reacondicionamiento de la antigua salita de salud (puesto de salud) del B° Santo Domingo, a fin de que pueda ser utilizada nuevamente por profesion
 - 2026-02-11 · [[2026-02-11 - Acta 207-2026]] — solicitar al Intendente trabajos de mantenimiento y limpieza de la USF del barrio Fátima, y el relleno y nivelación del área verde municipal contigua para destinarla a estacionamie
 - 2026-02-11 · [[2026-02-11 - Acta 207-2026]] — solicitar al Intendente evaluar la asignación de un profesor del área de Informática para el Colegio N° 1541 Nueva Esperanza, que dispone de 14 computadoras
-- 2025-10-15 · [[2025-10-15 - Acta 192-2025]] — entregar un reconocimiento al equipo femenino U15 de básquetbol, vice campeón nacional
-- 2025-09-24 · [[2025-09-24 - Acta 189-2025]] — solicitar al Intendente la reiluminación de una cancha en la Costanera (donde estaba la Policía Municipal de Tránsito, antes del Club de Pesca), muy utilizada para vóley en tempora
-- 2025-09-03 · [[2025-09-03 - Acta 186-2025]] — la remisión de una nota al Intendente elevando un proyecto para la construcción de una cancha multifuncional para deportes (patín, futsal, handball, otros), con medidas oficiales y
 - 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — elevar a la Plenaria un Proyecto de Ordenanza que reglamente las condiciones de arrendamiento para locales gastronómicos y similares en la Manzana 65 «Parque Lineal», en respuesta
-- _(+ 22 más; lista completa en las actas de cada sesión)_
+- 2025-07-17 · [[2025-07-17 - Acta 179-2025]] — la entrega de Menciones Especiales de Reconocimiento a los jugadores, cuerpo técnico y directivos de la selección masculina Sub 23 de vóley de Encarnación, coronada campeona invict
+- 2025-06-25 · [[2025-06-25 - Acta 176-2025]] — una propuesta para el Sistema Integrado de Transporte Público de Encarnación, solicitando la remisión al ejecutivo para analizar la urgente necesidad de llamar a licitación pública
+- 2025-05-28 · [[2025-05-28 - Acta 172-2025]] — la Declaración de Interés Municipal de la «EXPO COOPERATIVAS 2025, 5TA
+- 2025-04-09 · [[2025-04-09 - Acta 166-2025]] — y 8) Las minutas de [[Natalia Enciso]] (ampliación de la Ordenanza 56/1978) y de [[Keiji Ishibashi]] (actualización del Código de Edificabilidad) fueron giradas a los Dictámenes de
+- _(+ 7 más; lista completa en las actas de cada sesión)_
 
 ### Como secundante (25)
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — elevar nota al Ejecutivo para analizar la modificación o ampliación de las canchas de básquetbol del sector San José y costanera Padre Bolik

@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **204 sesiones plenarias** (89%); ausente en **26**. Rango: 2021-11-09 a 2026-05-06.
-- Productividad legislativa: **69 minutas presentadas en sesión** (autor/co-autor) · 10 secundadas · 6 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **85** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **51 minutas presentadas en sesión** (autor/co-autor) · 10 secundadas · 6 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **67** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **729 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -103,7 +103,7 @@ Keiji Ishibashi no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 ## Minutas presentadas en sesión (según actas)
 
-### Como autor / co-autor (69)
+### Como autor / co-autor (51)
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Ejecutivo la reposición del parque infantil frente a la playa San José, en proximidades del Mirador
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Ejecutivo la prohibición de circulación de motos eléctricas en la vereda de la costanera República del Paraguay
 - 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente la realización de un conteo del volumen de pasajeros en el transporte público de Encarnación, conforme al protocolo e instrumental anexados
@@ -114,7 +114,7 @@ Keiji Ishibashi no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2026-02-25 · [[2026-02-25 - Acta 209-2026]] — solicitar al Ejecutivo y a [[FEPASA]] la remisión de una alternativa de accesos al barrio Chaipé y el usufructo de la franja de dominio de la vía férrea como espacio público para e
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — solicitar al Ejecutivo, vía Direcciones de Infraestructura Pública y de Gestión Ambiental, una inspección de las instalaciones de desagüe cloacal y pluvial de las propiedades que l
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — solicitar al Ejecutivo, a la [[EBY]] y a la [[ESSAP]] organizar una mesa de trabajo que garantice acciones efectivas para el mantenimiento de la infraestructura de desagüe cloacal
-- _(+ 59 más; lista completa en las actas de cada sesión)_
+- _(+ 41 más; lista completa en las actas de cada sesión)_
 
 ### Como secundante (10)
 - 2025-12-22 · [[2025-12-22 - Acta 203-2025]] — solicitar al Intendente analizar la factibilidad de implementar juegos de mesa de entretenimiento (ajedrez, dama y otros) en espacios techados de dominio municipal, como opción tur
