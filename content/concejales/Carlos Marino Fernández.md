@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Carlos Marino Fernández"
 bancada: PLRA
 period: 2021-2026
-fecha_actualizacion: 2026-06-17
+fecha_actualizacion: 2026-06-19
 ---
 
 # Carlos Marino Fernández — Tarjeta de desempeño
@@ -14,8 +14,9 @@ fecha_actualizacion: 2026-06-17
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Carlos-Marino-Fernández.jpg" alt="Foto de Carlos Marino Fernández" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
-- Asistencia: presente en **170 sesiones plenarias** (97%); ausente en **6**. Rango: 2021-11-09 a 2025-04-30.
+- Asistencia: presente en **171 sesiones plenarias** (97%); ausente en **6**. Rango: 2021-11-09 a 2025-04-30.
 - Productividad legislativa: **0 minutas como autor · 14 minutas como secunda · 2 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **16**.
+- Participación en debate: **542 intervenciones** registradas en actas.
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
 - **plan-encarnacion-mas** (3): [[2023-09-19 - Minuta 107]], [[2022-07-05 - Minuta 45]], [[2021-11-17 - Minuta 2]]
@@ -30,10 +31,26 @@ fecha_actualizacion: 2026-06-17
 - **aguateras** (1): [[2023-06-20 - Minuta 89]]
 - **arbolado-urbano** (1): [[2023-06-06 - Minuta 87]]
 - **arquitectura** (1): [[2022-09-07 - Minuta 54]]
-- **avenida-circunvalacion** (1): [[2022-07-05 - Minuta 45]]
-- **biodiversidad** (1): [[2023-10-03 - Minuta 108]]
-- **cableado-aereo** (1): [[2022-07-13 - Minuta 46]]
-- _(+ 61 temas adicionales con menor frecuencia)_
+- _(+ 64 temas adicionales con menor frecuencia)_
+
+## Participación en debate (intervenciones en actas)
+
+Intervino **542 veces** en los debates plenarios registrados en actas (período 2021-2026).
+
+Temas sobre los que más intervino:
+- **planta-asfaltica** (6)
+- **homenajes** (4)
+- **plan-encarnacion-2030** (4)
+- **cobro-electronico** (3)
+- **seguridad-ciudadana** (3)
+- **estacionamiento-tarifado** (3)
+- **reprogramacion-presupuestaria-2022** (2)
+- **juntas-de-saneamiento-erssan** (2)
+- **transporte-publico-site** (2)
+- **ocupacion-mboi-cae** (2)
+- **homenaje-jorge-hrisuk** (2)
+- **parque-juegos-gaspar-rodriguez** (2)
+- _(+ 488 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
@@ -49,6 +66,23 @@ Carlos Marino Fernández no figura como secunda de ninguna resolución entre 202
 - 2024-10-30 · Mesa Directiva — Pte JM (Acta 146-2024) · voto: Aquino
 - 2025-01-22 · Conformación Comisiones 2025 (Acta 155-2025) · voto: lista oficialista (7)
 - 2025-01-29 · Cubiertas / ambiental (Acta 156-2025) · voto: con construir-3
+
+## Votos disidentes documentados en actas
+
+Casos donde figura nominalmente apartándose de la mayoría (**0 en contra · 9 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
+
+- 2024-09-11 · Acta 139/2024 · minuta-informe-licitacion-433999-MECIP — **se abstuvo** · aprobado_mayoria
+- 2024-07-03 · Acta 129/2024 · Minuta calles + Fondos Royaltíes (Cuevas/Florentín/Lichi/Ortega/Morel/Rebruk) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta informe Royaltíes/Fonacide (Florentín) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta extractos bancarios (Cuevas/Florentín/Ortega/Lichi/Morel/Rebruk) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta transferencias jubilatorias (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta informe finanzas municipales (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
+- 2024-04-10 · Acta 117/2024 · apoyo-ministra-baran — **se abstuvo** · aprobado_mayoria
+- 2023-01-17 · Acta Resumen 01-03/2023 + Extraordinaria 01/2023 · fraccionamiento-la-finca-bienes-raices — **se abstuvo** · aprobado_mayoria
+- 2022-09-28 · Acta 43/2022 · minuta-reajuste-salarial-funcionarios — **se abstuvo** · aprobado
+
+## Rasgo político (observado en el archivo)
+Voto estable con «construir». Cita Art 34 LOM y Reglamento Diputados para impugnar conformación de Comisiones 2025.
 
 ## Minutas
 
@@ -66,10 +100,4 @@ Carlos Marino Fernández no figura como autor principal de ninguna minuta entre 
 - 2022-10-11 · [[2022-10-11 - Minuta 56]] · discapacidad, comudis, inclusion, presupuesto-municipal, politicas-publicas, ley-6808
 - 2022-09-27 · [[2022-09-27 - Minuta 55]] · estacionamiento-tarifado, movilidad-urbana, uci, transito, concesion-publica, pliego-bases
 - 2022-09-07 · [[2022-09-07 - Minuta 54]] · proyectos-municipales, arquitectura, urbanismo, construccion-sostenible, ordenanza-municipal, calidad-de-proyectos
-- 2022-08-09 · [[2022-08-09 - Minuta 51]] · mototaxis, transporte, formalizacion, industria-nacional, convenios, transporte-de-personas
-- 2022-07-13 · [[2022-07-13 - Minuta 46]] · cableado-aereo, canon-municipal, espacio-publico, polucion-visual, ingresos-municipales
-- 2022-07-05 · [[2022-07-05 - Minuta 45]] · avenida-circunvalacion, eby, infraestructura-vial, urbanismo, plan-encarnacion-mas, socializacion
-- 2021-11-17 · [[2021-11-17 - Minuta 2]] · educacion-ambiental, convenios-interinstitucionales, universidades, medio-ambiente, plan-encarnacion-mas
-
-## Rasgo político (observado en el archivo)
-Voto estable con «construir». Cita Art 34 LOM y Reglamento Diputados para impugnar conformación de Comisiones 2025.
+- _(+ 4 más anteriores; lista completa en la ficha de persona)_

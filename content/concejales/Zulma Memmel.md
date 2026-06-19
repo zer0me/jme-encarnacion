@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Zulma Memmel"
 bancada: Alianza Junta Integrada / PPC
 period: 2021-2026
-fecha_actualizacion: 2026-06-17
+fecha_actualizacion: 2026-06-19
 ---
 
 # Zulma Memmel — Tarjeta de desempeño
@@ -14,11 +14,12 @@ fecha_actualizacion: 2026-06-17
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Zulma-Memmel.jpg" alt="Foto de Zulma Memmel" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
-- Asistencia: presente en **153 sesiones plenarias** (87%); ausente en **23**. Rango: 2021-11-09 a 2025-04-30.
+- Asistencia: presente en **154 sesiones plenarias** (87%); ausente en **23**. Rango: 2021-11-09 a 2025-04-30.
 - Productividad legislativa: **0 minutas como autor · 33 minutas como secunda · 1 resolución como autor · 1 resolución como secunda**. Total propuestas con su firma: **35**.
+- Participación en debate: **361 intervenciones** registradas en actas.
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
-- **plan-encarnacion-mas** (5): [[2023-09-19 - Minuta 107]], [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]], [[2022-05-25 - Minuta 35]] (+ 1 más)
+- **plan-encarnacion-mas** (5): [[2023-09-19 - Minuta 107]], [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]] (+ 2 más)
 - **cultura** (3): [[2023-02-07 - Minuta 72]], [[2022-05-25 - Minuta 35]], [[2021-11-30 - Minuta 7]]
 - **ordenamiento-territorial** (3): [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]], [[2021-11-17 - Minuta 3]]
 - **apertura-calles-loteamientos** (2): [[2025-07-15 - Minuta 139]], [[2025-02-25 - Minuta 131]]
@@ -30,10 +31,26 @@ fecha_actualizacion: 2026-06-17
 - **infraestructura** (2): [[2022-09-07 - Minuta 53]], [[2022-07-27 - Minuta 52]]
 - **innovacion** (2): [[2023-11-13 - Minuta 110]], [[2021-11-24 - Minuta 6]]
 - **juventud** (2): [[2023-11-13 - Minuta 110]], [[2021-11-24 - Minuta 6]]
-- **mantenimiento** (2): [[2022-09-07 - Minuta 53]], [[2022-07-27 - Minuta 52]]
-- **mantenimiento-extractores-eolicos** (2): [[2025-02-25 - Minuta 130]], [[2025-02-17 - Minuta 129]]
-- **mercado-municipal** (2): [[2025-02-25 - Minuta 130]], [[2025-02-17 - Minuta 129]]
-- _(+ 147 temas adicionales con menor frecuencia)_
+- _(+ 150 temas adicionales con menor frecuencia)_
+
+## Participación en debate (intervenciones en actas)
+
+Intervino **361 veces** en los debates plenarios registrados en actas (período 2021-2026).
+
+Temas sobre los que más intervino:
+- **estacionamiento-tarifado** (5)
+- **transparencia** (3)
+- **transporte-publico-site** (3)
+- **planta-asfaltica** (3)
+- **transferencia-intercuentas** (3)
+- **salud-publica** (2)
+- **infraestructura-vial** (2)
+- **seguridad-ciudadana** (2)
+- **proteccion-animal** (2)
+- **transporte-publico-emergencia** (2)
+- **controles-policiales-hurto-cables** (2)
+- **titulacion-circuito-comercial** (2)
+- _(+ 315 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
@@ -48,6 +65,25 @@ fecha_actualizacion: 2026-06-17
 - 2024-10-30 · Mesa Directiva — Pte JM (Acta 146-2024) · voto: Aquino
 - 2025-01-22 · Conformación Comisiones 2025 (Acta 155-2025) · voto: lista oficialista (7)
 - 2025-01-29 · Cubiertas / ambiental (Acta 156-2025) · voto: s/d
+
+## Votos disidentes documentados en actas
+
+Casos donde figura nominalmente apartándose de la mayoría (**2 en contra · 9 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
+
+- 2024-06-26 · Acta 128/2024 · Minuta extractos bancarios (Cuevas/Florentín/Ortega/Lichi/Morel/Rebruk) — **votó en contra** · aprobado_mayoria
+- 2024-06-12 · Acta 126/2024 · Designación de representantes de la Junta en la Mesa Metropolitana — **votó en contra** · aprobado_mayoria
+- 2024-09-18 · Acta 140/2024 · dictamen-10-edificio-residencial-san-roque — **se abstuvo** · aprobado_mayoria
+- 2024-09-11 · Acta 139/2024 · dictamen-09-edificio-departamentos-santa-maria — **se abstuvo** · aprobado_mayoria
+- 2024-09-11 · Acta 139/2024 · minuta-informe-licitacion-433999-MECIP — **se abstuvo** · aprobado_mayoria
+- 2024-09-04 · Acta 138/2024 · contratacion-auditoria-externa — **se abstuvo** · aprobado_mayoria
+- 2024-07-03 · Acta 129/2024 · Minuta calles + Fondos Royaltíes (Cuevas/Florentín/Lichi/Ortega/Morel/Rebruk) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta informe Royaltíes/Fonacide (Florentín) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta transferencias jubilatorias (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta informe finanzas municipales (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
+- 2024-04-10 · Acta 117/2024 · apoyo-ministra-baran — **se abstuvo** · aprobado_mayoria
+
+## Rasgo político (observado en el archivo)
+Concejal del PPC. En la elección de Mesa Directiva 2024 votó a Aquino como aliada situacional del bloque colorado disidente, no como alianza permanente. Vota habitualmente con el Intendente Yd y es la secundante más frecuente de las minutas de Ishibashi. Frase oct-2024: «No todos los buenos colorados están en la misma posición».
 
 ## Minutas
 
@@ -65,12 +101,4 @@ Zulma Memmel no figura como autor principal de ninguna minuta entre 2021 y 2025.
 - 2025-03-26 · [[2025-03-26 - Minuta 133]] · ordenanzas-pendientes-tratamiento, procedimientos-proyectos-arquitectonicos, proteccion-humedales, espacio-encarnacion-mas, limite-urbano, inventario-bienes-patrimoniales, reglamento-interno-junta
 - 2025-02-26 · [[2025-02-26 - Minuta 132]] · calidad-agua-arroyo-poti-y, cianobacterias-sub-embalse, deportes-nauticos, laboratorio-uni
 - 2025-02-25 · [[2025-02-25 - Minuta 130]] · mercado-municipal, mantenimiento-extractores-eolicos, re-presentacion
-- 2025-02-25 · [[2025-02-25 - Minuta 131]] · diseno-vial-paisajistico, conservacion-arbolado-urbano, villa-del-maestro, apertura-calles-loteamientos, paradigma-procedimental
-- 2025-02-17 · [[2025-02-17 - Minuta 129]] · mercado-municipal, mantenimiento-extractores-eolicos, instalacion-electrica-mercado, feria-municipal
-- 2025-02-11 · [[2025-02-11 - Minuta 128]] · transporte-publico-encarnacion, benchmark-posadas-transporte, invitacion-experto
-- 2023-11-13 · [[2023-11-13 - Minuta 110]] · reconocimiento, startups, innovacion, juventud, smart-soil
-- 2023-09-19 · [[2023-09-19 - Minuta 107]] · centro-de-convenciones, concurso-nacional-anteproyecto, plan-encarnacion-mas, ley-4727
-- _(+ 18 más anteriores; lista completa en la ficha de persona)_
-
-## Rasgo político (observado en el archivo)
-Concejal del PPC. En la elección de Mesa Directiva 2024 votó a Aquino como aliada situacional del bloque colorado disidente, no como alianza permanente. Vota habitualmente con el Intendente Yd y es la secundante más frecuente de las minutas de Ishibashi. Frase oct-2024: «No todos los buenos colorados están en la misma posición».
+- _(+ 23 más anteriores; lista completa en la ficha de persona)_

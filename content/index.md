@@ -406,12 +406,10 @@ Cada documento en `actas/`, `minutas/`, `resoluciones/` lleva en su frontmatter 
 | `actas/` | 177 |
 | `minutas/` | 72 |
 | `resoluciones/` | 276 |
-| `dictamenes/` | 127 |
-| `orden-del-dia/` | 69 |
 | `informe-gestion/` | 5 |
 | `informe-2024/` | 4 |
 | `presupuesto/` | 2 |
-| **Total documentos curados** | **732** |
+| **Total documentos curados** | **536** |
 | `personas/` | 88 |
 | `instituciones/` | 96 |
 | `empresas/` | 54 |
@@ -474,6 +472,8 @@ Cada documento en `actas/`, `minutas/`, `resoluciones/` lleva en su frontmatter 
 - [ ] Auditoría retroactiva «Vía de la Excepción» (Dict 14/2024 CPR).
 - [ ] **Publicación pública**: Quartz + GitHub Pages (Tarea 3 en curso).
 - [ ] **Automatización**: `scripts/build_dashboard.py` para regenerar tablas entre marcadores `<!-- DASHBOARD:BEGIN ... -->` (Tarea 4 pendiente).
+- [ ] **Estadísticas por concejal desde actas (prioritaria)**: analizar las 177 actas para extraer por concejal asistencia, votaciones e intervenciones, y volcarlas a las tarjetas-concejal (hoy `build_concejal_cards.py` solo agrega minutas + resoluciones).
+- [ ] **Auto-regen `metricas-vault`**: que `build_dashboard.py` recompute el bloque "Total documentos curados" contando `.md` por carpeta (quedó congelado y se corrigió a mano el 2026-06-17: 536 → 732).
 
 ### Carpetas excluidas de publicación pública
 

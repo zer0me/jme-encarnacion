@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Keiji Ishibashi"
 bancada: Movimiento Ciudadanía Activa
 period: 2021-2026
-fecha_actualizacion: 2026-06-17
+fecha_actualizacion: 2026-06-19
 ---
 
 # Keiji Ishibashi — Tarjeta de desempeño
@@ -14,26 +14,43 @@ fecha_actualizacion: 2026-06-17
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Keiji-Ishibashi.jpg" alt="Foto de Keiji Ishibashi" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
-- Asistencia: presente en **157 sesiones plenarias** (90%); ausente en **17**. Rango: 2021-11-09 a 2025-04-30.
+- Asistencia: presente en **158 sesiones plenarias** (90%); ausente en **17**. Rango: 2021-11-09 a 2025-04-30.
 - Productividad legislativa: **70 minutas como autor · 0 minutas como secunda · 6 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **76**.
+- Participación en debate: **513 intervenciones** registradas en actas.
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
-- **plan-encarnacion-mas** (13): [[2023-09-19 - Minuta 107]], [[2023-08-16 - Minuta - Proyecto Ordenanza Espacio Encarnación Más]], [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]] (+ 9 más)
-- **educacion** (6): [[2023-06-06 - Minuta 87]], [[2022-09-28 - Resolución 269-2022]], [[2022-09-28 - Resolución 270-2022]], [[2022-09-07 - Resolución 256-2022]] (+ 2 más)
-- **medio-ambiente** (6): [[2022-07-13 - Minuta 48]], [[2022-06-15 - Minuta 41]], [[2021-11-17 - Minuta 2]], [[2021-11-17 - Minuta 4]] (+ 2 más)
-- **ordenamiento-territorial** (6): [[2023-10-03 - Minuta 109]], [[2023-10-03 - Minuta 112]], [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]] (+ 2 más)
-- **socializacion-ciudadana** (6): [[2023-06-20 - Minuta 91]], [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]], [[2022-05-25 - Minuta 36]] (+ 2 más)
-- **urbanismo** (6): [[2022-09-07 - Minuta 54]], [[2022-07-05 - Minuta 44]], [[2022-07-05 - Minuta 45]], [[2022-05-25 - Minuta 36]] (+ 2 más)
-- **cultura** (5): [[2023-02-07 - Minuta 72]], [[2022-09-28 - Resolución 270-2022]], [[2022-05-25 - Minuta 35]], [[2022-04-12 - Resolución 104-2022]] (+ 1 más)
-- **eby** (5): [[2023-10-03 - Minuta 108]], [[2022-11-23 - Minuta 71]], [[2022-07-13 - Minuta 47]], [[2022-07-05 - Minuta 44]] (+ 1 más)
-- **reconocimiento** (5): [[2023-11-13 - Minuta 110]], [[2022-11-01 - Minuta 68]], [[2022-09-07 - Resolución 256-2022]], [[2021-11-24 - Minuta 6]] (+ 1 más)
-- **transporte-publico** (5): [[2023-10-03 - Minuta 109]], [[2022-10-18 - Minuta 62]], [[2022-06-21 - Minuta 42]], [[2022-06-21 - Minuta 43]] (+ 1 más)
-- **espacio-publico** (4): [[2022-11-23 - Minuta 70]], [[2022-11-01 - Minuta 66]], [[2022-07-27 - Minuta 52]], [[2022-07-13 - Minuta 46]]
-- **infraestructura** (4): [[2023-06-20 - Minuta 88]], [[2022-09-07 - Minuta 53]], [[2022-07-27 - Minuta 52]], [[2022-07-05 - Minuta 44]]
-- **juventud** (4): [[2023-11-13 - Minuta 110]], [[2022-11-01 - Minuta 68]], [[2021-11-24 - Minuta 6]], [[2021-11-24 - Resolución 13-2021]]
-- **ordenanza-municipal** (4): [[2023-10-03 - Minuta 112]], [[2022-09-07 - Minuta 54]], [[2022-06-21 - Minuta 42]], [[2021-11-30 - Minuta 7]]
-- **site** (4): [[2022-10-18 - Minuta 62]], [[2022-06-21 - Minuta 42]], [[2022-06-21 - Minuta 43]], [[2022-05-25 - Minuta 37]]
-- _(+ 272 temas adicionales con menor frecuencia)_
+- **plan-encarnacion-mas** (13): [[2023-09-19 - Minuta 107]], [[2023-08-16 - Minuta - Proyecto Ordenanza Espacio Encarnación Más]], [[2022-11-01 - Minuta 69]] (+ 10 más)
+- **educacion** (6): [[2023-06-06 - Minuta 87]], [[2022-09-28 - Resolución 269-2022]], [[2022-09-28 - Resolución 270-2022]] (+ 3 más)
+- **medio-ambiente** (6): [[2022-07-13 - Minuta 48]], [[2022-06-15 - Minuta 41]], [[2021-11-17 - Minuta 2]] (+ 3 más)
+- **ordenamiento-territorial** (6): [[2023-10-03 - Minuta 109]], [[2023-10-03 - Minuta 112]], [[2022-11-01 - Minuta 69]] (+ 3 más)
+- **socializacion-ciudadana** (6): [[2023-06-20 - Minuta 91]], [[2022-11-01 - Minuta 69]], [[2022-10-18 - Minuta 63]] (+ 3 más)
+- **urbanismo** (6): [[2022-09-07 - Minuta 54]], [[2022-07-05 - Minuta 44]], [[2022-07-05 - Minuta 45]] (+ 3 más)
+- **cultura** (5): [[2023-02-07 - Minuta 72]], [[2022-09-28 - Resolución 270-2022]], [[2022-05-25 - Minuta 35]] (+ 2 más)
+- **eby** (5): [[2023-10-03 - Minuta 108]], [[2022-11-23 - Minuta 71]], [[2022-07-13 - Minuta 47]] (+ 2 más)
+- **reconocimiento** (5): [[2023-11-13 - Minuta 110]], [[2022-11-01 - Minuta 68]], [[2022-09-07 - Resolución 256-2022]] (+ 2 más)
+- **transporte-publico** (5): [[2023-10-03 - Minuta 109]], [[2022-10-18 - Minuta 62]], [[2022-06-21 - Minuta 42]] (+ 2 más)
+- **espacio-publico** (4): [[2022-11-23 - Minuta 70]], [[2022-11-01 - Minuta 66]], [[2022-07-27 - Minuta 52]] (+ 1 más)
+- **infraestructura** (4): [[2023-06-20 - Minuta 88]], [[2022-09-07 - Minuta 53]], [[2022-07-27 - Minuta 52]] (+ 1 más)
+- _(+ 275 temas adicionales con menor frecuencia)_
+
+## Participación en debate (intervenciones en actas)
+
+Intervino **513 veces** en los debates plenarios registrados en actas (período 2021-2026).
+
+Temas sobre los que más intervino:
+- **plan-encarnacion-mas** (5)
+- **transporte-publico-site** (4)
+- **estacionamiento-tarifado** (4)
+- **planta-asfaltica** (4)
+- **orden-del-dia** (3)
+- **arborizacion-urbana** (3)
+- **recursos-hidricos** (3)
+- **espacios-publicos** (3)
+- **estaciones-bombeo-cloacal-costanera** (3)
+- **juntas-de-saneamiento-erssan** (3)
+- **terminal-omnibus** (3)
+- **estacionamiento-tarifado-frentistas** (3)
+- _(+ 431 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
@@ -54,6 +71,24 @@ Keiji Ishibashi no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2025-01-22 · Conformación Comisiones 2025 (Acta 155-2025) · voto: lista oficialista (7)
 - 2025-01-29 · Cubiertas / ambiental (Acta 156-2025) · voto: ausente
 
+## Votos disidentes documentados en actas
+
+Casos donde figura nominalmente apartándose de la mayoría (**1 en contra · 9 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
+
+- 2024-06-12 · Acta 126/2024 · Designación de representantes de la Junta en la Mesa Metropolitana — **votó en contra** · aprobado_mayoria
+- 2024-09-18 · Acta 140/2024 · dictamen-10-edificio-residencial-san-roque — **se abstuvo** · aprobado_mayoria
+- 2024-09-11 · Acta 139/2024 · dictamen-09-edificio-departamentos-santa-maria — **se abstuvo** · aprobado_mayoria
+- 2024-07-03 · Acta 129/2024 · Minuta calles + Fondos Royaltíes (Cuevas/Florentín/Lichi/Ortega/Morel/Rebruk) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta informe Royaltíes/Fonacide (Florentín) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta extractos bancarios (Cuevas/Florentín/Ortega/Lichi/Morel/Rebruk) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta transferencias jubilatorias (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta informe finanzas municipales (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
+- 2024-04-17 · Acta 118/2024 · edificio-paseo-del-sol — **se abstuvo** · aprobado_mayoria
+- 2024-04-10 · Acta 117/2024 · apoyo-ministra-baran — **se abstuvo** · aprobado_mayoria
+
+## Rasgo político (observado en el archivo)
+Acuñó el término «lobbycracia». Concejal más prolífico como autor de minutas y proyectos de ordenanza opositor a captura regulatoria.
+
 ## Minutas
 
 ### Como autor principal (70)
@@ -67,15 +102,7 @@ Keiji Ishibashi no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2025-07-15 · [[2025-07-15 - Minuta 139]] · control-obras-fraccionamientos, apertura-calles-loteamientos, proteccion-arbolado-urbano, remocion-arboles-ciudad
 - 2025-06-23 · [[2025-06-23 - Minuta 136]] · sistema-integrado-transporte-encarnacion, licitacion-publica-transporte, billetaje-electronico, flota-buses-aire-acondicionado, transbordos-validacion-temporal, app-movil-usuarios-prediccion, central-monitoreo-gps
 - 2025-04-14 · [[2025-04-14 - Minuta 135]] · estacionamiento-medido-sem, campana-comunicacional, direccion-comunicacion-municipalidad
-- 2025-04-04 · [[2025-04-04 - Minuta 134]] · ordenanza-edificabilidad, codigo-edificacion, tesis-uci-uni-actualizacion-ordenanza-56, tratamiento-prioritario
-- 2025-03-26 · [[2025-03-26 - Minuta 133]] · ordenanzas-pendientes-tratamiento, procedimientos-proyectos-arquitectonicos, proteccion-humedales, espacio-encarnacion-mas, limite-urbano, inventario-bienes-patrimoniales, reglamento-interno-junta
-- 2025-02-26 · [[2025-02-26 - Minuta 132]] · calidad-agua-arroyo-poti-y, cianobacterias-sub-embalse, deportes-nauticos, laboratorio-uni
-- 2025-02-25 · [[2025-02-25 - Minuta 130]] · mercado-municipal, mantenimiento-extractores-eolicos, re-presentacion
-- 2025-02-25 · [[2025-02-25 - Minuta 131]] · diseno-vial-paisajistico, conservacion-arbolado-urbano, villa-del-maestro, apertura-calles-loteamientos, paradigma-procedimental
-- _(+ 55 más anteriores; lista completa en la ficha de persona)_
+- _(+ 60 más anteriores; lista completa en la ficha de persona)_
 
 ### Como secunda / co-firmante (0)
 Keiji Ishibashi no figura como co-firmante de ninguna minuta entre 2021 y 2025.
-
-## Rasgo político (observado en el archivo)
-Acuñó el término «lobbycracia». Concejal más prolífico como autor de minutas y proyectos de ordenanza opositor a captura regulatoria.

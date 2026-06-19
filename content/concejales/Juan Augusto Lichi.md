@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Juan Augusto Lichi"
 bancada: ANR
 period: 2021-2026
-fecha_actualizacion: 2026-06-17
+fecha_actualizacion: 2026-06-19
 ---
 
 # Juan Augusto Lichi — Tarjeta de desempeño
@@ -14,14 +14,15 @@ fecha_actualizacion: 2026-06-17
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Juan-Augusto-Lichi.jpg" alt="Foto de Juan Augusto Lichi" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
-- Asistencia: presente en **146 sesiones plenarias** (83%); ausente en **30**. Rango: 2021-11-09 a 2025-04-30.
+- Asistencia: presente en **147 sesiones plenarias** (83%); ausente en **30**. Rango: 2021-11-09 a 2025-04-30.
 - Productividad legislativa: **0 minutas como autor · 1 minuta como secunda · 10 resoluciones como autor · 0 resoluciones como secunda**. Total propuestas con su firma: **11**.
+- Participación en debate: **308 intervenciones** registradas en actas.
 
 ## Documentos por tema (autor + secunda, minutas + resoluciones)
-- **deporte** (6): [[2022-10-05 - Resolución 275-2022]], [[2022-05-04 - Resolución 121-2022]], [[2022-02-09 - Resolución 59-2022]], [[2021-12-09 - Resolución 30-2021]] (+ 2 más)
-- **interes-municipal** (5): [[2022-06-29 - Resolución 174-2022]], [[2021-12-09 - Resolución 30-2021]], [[2021-12-09 - Resolución 32-2021]], [[2021-11-17 - Resolución 07-2021]] (+ 1 más)
-- **juventud** (5): [[2022-10-05 - Resolución 275-2022]], [[2022-02-09 - Resolución 57-2022]], [[2021-12-09 - Resolución 30-2021]], [[2021-12-09 - Resolución 32-2021]] (+ 1 más)
-- **reconocimiento** (4): [[2022-10-05 - Resolución 275-2022]], [[2022-05-04 - Resolución 121-2022]], [[2022-02-09 - Resolución 59-2022]], [[2021-11-17 - Resolución 07-2021]]
+- **deporte** (6): [[2022-10-05 - Resolución 275-2022]], [[2022-05-04 - Resolución 121-2022]], [[2022-02-09 - Resolución 59-2022]] (+ 3 más)
+- **interes-municipal** (5): [[2022-06-29 - Resolución 174-2022]], [[2021-12-09 - Resolución 30-2021]], [[2021-12-09 - Resolución 32-2021]] (+ 2 más)
+- **juventud** (5): [[2022-10-05 - Resolución 275-2022]], [[2022-02-09 - Resolución 57-2022]], [[2021-12-09 - Resolución 30-2021]] (+ 2 más)
+- **reconocimiento** (4): [[2022-10-05 - Resolución 275-2022]], [[2022-05-04 - Resolución 121-2022]], [[2022-02-09 - Resolución 59-2022]] (+ 1 más)
 - **turismo** (3): [[2021-12-09 - Resolución 30-2021]], [[2021-12-09 - Resolución 32-2021]], [[2021-11-10 - Resolución 04-2021]]
 - **basquetbol** (2): [[2022-10-05 - Resolución 275-2022]], [[2021-11-17 - Resolución 07-2021]]
 - **mencion-especial** (2): [[2022-10-05 - Resolución 275-2022]], [[2022-05-04 - Resolución 121-2022]]
@@ -30,10 +31,26 @@ fecha_actualizacion: 2026-06-17
 - **barrio-la-paz** (1): [[2022-07-13 - Minuta 48]]
 - **bomberos-voluntarios** (1): [[2022-08-17 - Resolución 224-2022]]
 - **ciclismo** (1): [[2022-05-04 - Resolución 121-2022]]
-- **contaminacion-agua** (1): [[2022-07-13 - Minuta 48]]
-- **convenio** (1): [[2022-02-09 - Resolución 57-2022]]
-- **cooperacion-interinstitucional** (1): [[2022-02-09 - Resolución 57-2022]]
-- _(+ 19 temas adicionales con menor frecuencia)_
+- _(+ 22 temas adicionales con menor frecuencia)_
+
+## Participación en debate (intervenciones en actas)
+
+Intervino **308 veces** en los debates plenarios registrados en actas (período 2021-2026).
+
+Temas sobre los que más intervino:
+- **salud-publica** (3)
+- **plan-encarnacion-2030** (3)
+- **transporte-publico** (3)
+- **infraestructura-deportiva** (2)
+- **espacios-publicos** (2)
+- **informes-oficiales** (2)
+- **playas-encarnacion** (2)
+- **seguridad-vial** (2)
+- **seguridad-ciudadana** (2)
+- **transporte-publico-emergencia** (2)
+- **hospital-pediatrico** (2)
+- **tren-pasajeros-fepasa** (2)
+- _(+ 266 temas adicionales con menor frecuencia)_
 
 ## Resoluciones
 
@@ -58,6 +75,17 @@ Juan Augusto Lichi no figura como secunda de ninguna resolución entre 2021 y 20
 - 2025-01-22 · Conformación Comisiones 2025 (Acta 155-2025) · voto: lista contralor (5) — ruptura
 - 2025-01-29 · Cubiertas / ambiental (Acta 156-2025) · voto: ausente
 
+## Votos disidentes documentados en actas
+
+Casos donde figura nominalmente apartándose de la mayoría (**1 en contra · 2 abstenciones**). La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:
+
+- 2024-06-12 · Acta 126/2024 · Designación de representantes de la Junta en la Mesa Metropolitana — **votó en contra** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Reestructuración deuda Gs. 15.480.000.000 (primera cuota diferida a enero 2025) — **se abstuvo** · aprobado_mayoria
+- 2024-06-26 · Acta 128/2024 · Minuta transferencias jubilatorias (Cuevas/Florentín) — **se abstuvo** · aprobado_mayoria
+
+## Rasgo político (observado en el archivo)
+Vicepresidente electo; postuló a Aquino, pero el 22-ene-2025 vota con contralor en conformación de Comisiones — ruptura tácita Mesa Directiva.
+
 ## Minutas
 
 ### Como autor principal (0)
@@ -65,6 +93,3 @@ Juan Augusto Lichi no figura como autor principal de ninguna minuta entre 2021 y
 
 ### Como secunda / co-firmante (1)
 - 2022-07-13 · [[2022-07-13 - Minuta 48]] · medio-ambiente, estacion-bombeo, contaminacion-agua, barrio-la-paz, fiscalizacion, red-cloacal
-
-## Rasgo político (observado en el archivo)
-Vicepresidente electo; postuló a Aquino, pero el 22-ene-2025 vota con contralor en conformación de Comisiones — ruptura tácita Mesa Directiva.

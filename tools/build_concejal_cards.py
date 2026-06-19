@@ -27,6 +27,8 @@ from urllib.parse import quote
 
 import yaml
 
+from extract_acta_stats import scan_actas
+
 VAULT = Path("G:/Mi unidad/JME")
 OUT_DIR = VAULT / "concejales"
 PHOTO_DIR = OUT_DIR / "fotos"
@@ -229,9 +231,14 @@ def read_persona(slug: str) -> dict:
     }
 
 
-DOC_LIST_LIMIT = 15
-BY_TEMA_TOP = 15
-BY_TEMA_DOCS_PER = 4
+# Caps tuned so each card stays under build_docs_json.MAX_TEXT_CHARS (6500),
+# otherwise the RAG indexer truncates the tail (Minutas, Rasgo). The full
+# author/secunda lists live in the ficha de persona anyway; the card's value
+# is the aggregated counts (top of card) + temas + documented dissent.
+DOC_LIST_LIMIT = 10
+BY_TEMA_TOP = 12
+BY_TEMA_DOCS_PER = 3
+DISSENT_LIST_LIMIT = 10
 
 
 def render_doc_list(entries: list[tuple[str, str, list[str]]], empty_msg: str) -> str:
@@ -288,8 +295,58 @@ def render_by_tema(by_tema: dict[str, list]) -> str:
     return "\n".join(lines)
 
 
+INTERV_TOP = 12
+
+
 def pluralize(n: int, singular: str, plural: str) -> str:
     return singular if n == 1 else plural
+
+
+def render_intervenciones(actas: dict) -> str | None:
+    """Render participation: total count + top temas. None if no data."""
+    n = actas.get("n_intervenciones", 0)
+    if not n:
+        return None
+    temas = actas.get("temas_intervenidos")
+    lines = [
+        "## Participación en debate (intervenciones en actas)",
+        "",
+        f"Intervino **{n} {pluralize(n, 'vez', 'veces')}** en los debates plenarios "
+        f"registrados en actas (período 2021-2026).",
+    ]
+    if temas:
+        top = temas.most_common(INTERV_TOP)
+        rest = len(temas) - len(top)
+        lines += ["", "Temas sobre los que más intervino:"]
+        for tema, c in top:
+            lines.append(f"- **{tema}** ({c})")
+        if rest > 0:
+            lines.append(f"- _(+ {rest} temas adicionales con menor frecuencia)_")
+    return "\n".join(lines)
+
+
+def render_dissent(actas: dict) -> str | None:
+    """Render documented dissent (votes against / abstentions naming the concejal)."""
+    enc = actas.get("votos_en_contra") or []
+    absten = actas.get("abstenciones") or []
+    if not enc and not absten:
+        return None
+    lines = [
+        "## Votos disidentes documentados en actas",
+        "",
+        f"Casos donde figura nominalmente apartándose de la mayoría "
+        f"(**{len(enc)} en contra · {len(absten)} {pluralize(len(absten), 'abstención', 'abstenciones')}**). "
+        f"La mayoría de las votaciones se aprueban por unanimidad o conteo agregado sin "
+        f"registro nominal, por lo que esta lista recoge solo la disidencia explícitamente documentada:",
+        "",
+    ]
+    for fecha, acta, tema, resultado in enc[:DISSENT_LIST_LIMIT]:
+        res = f" · {resultado}" if resultado else ""
+        lines.append(f"- {fecha} · Acta {acta} · {tema} — **votó en contra**{res}")
+    for fecha, acta, tema, resultado in absten[:DISSENT_LIST_LIMIT]:
+        res = f" · {resultado}" if resultado else ""
+        lines.append(f"- {fecha} · Acta {acta} · {tema} — **se abstuvo**{res}")
+    return "\n".join(lines)
 
 
 def render_votos(votos: list) -> str:
@@ -308,7 +365,8 @@ def render_votos(votos: list) -> str:
     return "\n".join(lines)
 
 
-def build_card(slug: str, persona: dict, docs: dict) -> str:
+def build_card(slug: str, persona: dict, docs: dict, actas: dict | None = None) -> str:
+    actas = actas or {}
     titulo_pre = persona.get("titulo_pre", "")
     nombre_full = f"{titulo_pre} {slug}".strip() if titulo_pre else slug
     cargo = persona.get("cargo", "Concejal")
@@ -317,12 +375,22 @@ def build_card(slug: str, persona: dict, docs: dict) -> str:
     bancada_line = "" if bancada in ("s/d", "—", "", None) else f" · {bancada}"
     subtitulo = f"**{nombre_full} · {cargo}{bancada_line} · Período 2021-2026**"
 
-    presente = persona.get("presente", 0)
-    ausente = persona.get("ausente", 0)
-    pct = persona.get("asistencia_pct")
-    rango_min, rango_max = persona.get("rango_fechas", (None, None))
+    # Asistencia: autoritativa desde las actas; fallback a la ficha-persona.
+    fechas_presente = actas.get("fechas_presente") or []
+    if actas.get("sesiones_conocidas"):
+        presente = actas.get("presente", 0)
+        ausente = actas.get("ausente", 0)
+        pct = actas.get("asistencia_pct")
+        rango_min = fechas_presente[0] if fechas_presente else None
+        rango_max = fechas_presente[-1] if fechas_presente else None
+    else:
+        presente = persona.get("presente", 0)
+        ausente = persona.get("ausente", 0)
+        pct = persona.get("asistencia_pct")
+        rango_min, rango_max = persona.get("rango_fechas", (None, None))
     asistencia_pct_str = f"{pct}%" if pct is not None else "s/d"
     rango_str = f"{rango_min} a {rango_max}" if rango_min and rango_max else "s/d"
+    n_interv = actas.get("n_intervenciones", 0)
 
     n_minuta_autor = len(docs["minuta_autor"])
     n_minuta_secunda = len(docs["minuta_secunda"])
@@ -375,10 +443,20 @@ def build_card(slug: str, persona: dict, docs: dict) -> str:
         f"{n_resol_autor} {pluralize(n_resol_autor, 'resolución', 'resoluciones')} como autor · "
         f"{n_resol_secunda} {pluralize(n_resol_secunda, 'resolución', 'resoluciones')} como secunda**. "
         f"Total propuestas con su firma: **{total}**.",
+        f"- Participación en debate: **{n_interv} {pluralize(n_interv, 'intervención', 'intervenciones')}** "
+        f"registradas en actas." if n_interv else "",
         "",
         "## Documentos por tema (autor + secunda, minutas + resoluciones)",
         render_by_tema(docs["by_tema"]),
         "",
+    ]
+
+    interv_block = render_intervenciones(actas)
+    if interv_block:
+        parts.append(interv_block)
+        parts.append("")
+
+    parts += [
         "## Resoluciones",
         "",
         f"### Como autor ({n_resol_autor})",
@@ -400,6 +478,19 @@ def build_card(slug: str, persona: dict, docs: dict) -> str:
         parts.append(votos_block)
         parts.append("")
 
+    dissent_block = render_dissent(actas)
+    if dissent_block:
+        parts.append(dissent_block)
+        parts.append("")
+
+    # Rasgo político goes before the bulky Minutas lists so it survives the
+    # RAG indexer's tail-truncation even on near-cap cards.
+    rasgo = persona.get("rasgo", "").strip()
+    if rasgo:
+        parts.append("## Rasgo político (observado en el archivo)")
+        parts.append(rasgo)
+        parts.append("")
+
     parts += [
         "## Minutas",
         "",
@@ -417,12 +508,6 @@ def build_card(slug: str, persona: dict, docs: dict) -> str:
         "",
     ]
 
-    rasgo = persona.get("rasgo", "").strip()
-    if rasgo:
-        parts.append("## Rasgo político (observado en el archivo)")
-        parts.append(rasgo)
-        parts.append("")
-
     return "\n".join(parts)
 
 
@@ -434,6 +519,8 @@ def main() -> int:
 
     canon = build_name_index()
     docs_per_slug = scan_documents(canon)
+    actas_per_slug = scan_actas(canon, CONCEJAL_ORDER)
+    actas_per_slug.pop("_meta", None)
 
     written = 0
     for slug in CONCEJAL_ORDER:
@@ -441,7 +528,7 @@ def main() -> int:
         if not persona:
             print(f"  WARN: ficha persona '{slug}' no encontrada — skip", file=sys.stderr)
             continue
-        card_md = build_card(slug, persona, docs_per_slug[slug])
+        card_md = build_card(slug, persona, docs_per_slug[slug], actas_per_slug.get(slug, {}))
         out_path = OUT_DIR / f"{slug}.md"
         out_path.write_text(card_md, encoding="utf-8")
         size_kb = out_path.stat().st_size / 1024
