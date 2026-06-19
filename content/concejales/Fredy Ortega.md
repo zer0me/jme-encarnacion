@@ -11,6 +11,8 @@ fecha_actualizacion: 2026-06-19
 
 **Abog. Fredy Ortega · Concejal · ANR · Período 2021-2026**
 
+<p class="jme-crosslink">📋 <a href="../personas/Fredy-Ortega">Ver ficha / perfil completo de Fredy Ortega →</a></p>
+
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Fredy-Ortega.jpg" alt="Foto de Fredy Ortega" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo

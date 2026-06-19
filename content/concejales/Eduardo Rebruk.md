@@ -11,6 +11,8 @@ fecha_actualizacion: 2026-06-19
 
 **Ing. Eduardo Rebruk · Concejal · ANR · Período 2021-2026**
 
+<p class="jme-crosslink">📋 <a href="../personas/Eduardo-Rebruk">Ver ficha / perfil completo de Eduardo Rebruk →</a></p>
+
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Eduardo-Rebruk.jpg" alt="Foto de Eduardo Rebruk" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo

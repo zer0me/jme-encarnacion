@@ -6,7 +6,6 @@ periodo: 2021-2026
 canonico: true
 aliases:
   - "Keiji Guillermo Ishibashi Torres"
-  - "Keiji Guillermo Ishibashi Torres (virtual)"
 titulo: "Arq."
 apodos:
   - "Keiji"
@@ -34,9 +33,10 @@ votos_clave:
 
 Concejal de la Junta Municipal de Encarnación, período 2021-2026.
 
+<p class="jme-crosslink">📊 <a href="../concejales/Keiji-Ishibashi">Ver tarjeta de desempeño (asistencia, votaciones, intervenciones) →</a></p>
+
 **Variantes detectadas en el archivo:**
 - Keiji Guillermo Ishibashi Torres
-- Keiji Guillermo Ishibashi Torres (virtual)
 
 ## Apariciones en el archivo (230 totales)
 

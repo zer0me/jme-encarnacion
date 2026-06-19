@@ -86,7 +86,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 </div>
 
-<div class="jme-concejal-footer"><a href="../personas/Diego-Aquino">→ Ver ficha completa de Diego Aquino</a></div>
+<div class="jme-concejal-footer"><a href="Diego-Aquino">📊 Tarjeta detallada</a> · <a href="../personas/Diego-Aquino">📋 Ficha / perfil</a></div>
 
 </div>
 
@@ -148,7 +148,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 </div>
 
-<div class="jme-concejal-footer"><a href="../personas/Juan-Augusto-Lichi">→ Ver ficha completa de Juan Augusto Lichi</a></div>
+<div class="jme-concejal-footer"><a href="Juan-Augusto-Lichi">📊 Tarjeta detallada</a> · <a href="../personas/Juan-Augusto-Lichi">📋 Ficha / perfil</a></div>
 
 </div>
 
@@ -210,7 +210,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 </div>
 
-<div class="jme-concejal-footer"><a href="../personas/Nehemías-Cuevas">→ Ver ficha completa de Nehemías Cuevas</a></div>
+<div class="jme-concejal-footer"><a href="Nehemías-Cuevas">📊 Tarjeta detallada</a> · <a href="../personas/Nehemías-Cuevas">📋 Ficha / perfil</a></div>
 
 </div>
 
@@ -273,7 +273,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 </div>
 
-<div class="jme-concejal-footer"><a href="../personas/Keiji-Ishibashi">→ Ver ficha completa de Keiji Ishibashi</a></div>
+<div class="jme-concejal-footer"><a href="Keiji-Ishibashi">📊 Tarjeta detallada</a> · <a href="../personas/Keiji-Ishibashi">📋 Ficha / perfil</a></div>
 
 </div>
 
@@ -335,7 +335,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 </div>
 
-<div class="jme-concejal-footer"><a href="../personas/Carlos-Marino-Fernández">→ Ver ficha completa de Carlos Marino Fernández</a></div>
+<div class="jme-concejal-footer"><a href="Carlos-Marino-Fernández">📊 Tarjeta detallada</a> · <a href="../personas/Carlos-Marino-Fernández">📋 Ficha / perfil</a></div>
 
 </div>
 
@@ -397,7 +397,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 </div>
 
-<div class="jme-concejal-footer"><a href="../personas/Zulma-Memmel">→ Ver ficha completa de Zulma Memmel</a></div>
+<div class="jme-concejal-footer"><a href="Zulma-Memmel">📊 Tarjeta detallada</a> · <a href="../personas/Zulma-Memmel">📋 Ficha / perfil</a></div>
 
 </div>
 
@@ -459,7 +459,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 </div>
 
-<div class="jme-concejal-footer"><a href="../personas/Natalia-Enciso">→ Ver ficha completa de Natalia Enciso</a></div>
+<div class="jme-concejal-footer"><a href="Natalia-Enciso">📊 Tarjeta detallada</a> · <a href="../personas/Natalia-Enciso">📋 Ficha / perfil</a></div>
 
 </div>
 
@@ -521,7 +521,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 </div>
 
-<div class="jme-concejal-footer"><a href="../personas/Gloria-Arregui">→ Ver ficha completa de Gloria Arregui</a></div>
+<div class="jme-concejal-footer"><a href="Gloria-Arregui">📊 Tarjeta detallada</a> · <a href="../personas/Gloria-Arregui">📋 Ficha / perfil</a></div>
 
 </div>
 
@@ -584,7 +584,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 </div>
 
-<div class="jme-concejal-footer"><a href="../personas/Andrés-Morel">→ Ver ficha completa de Andrés Morel</a></div>
+<div class="jme-concejal-footer"><a href="Andrés-Morel">📊 Tarjeta detallada</a> · <a href="../personas/Andrés-Morel">📋 Ficha / perfil</a></div>
 
 </div>
 
@@ -646,7 +646,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 </div>
 
-<div class="jme-concejal-footer"><a href="../personas/Fredy-Ortega">→ Ver ficha completa de Fredy Ortega</a></div>
+<div class="jme-concejal-footer"><a href="Fredy-Ortega">📊 Tarjeta detallada</a> · <a href="../personas/Fredy-Ortega">📋 Ficha / perfil</a></div>
 
 </div>
 
@@ -708,7 +708,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 </div>
 
-<div class="jme-concejal-footer"><a href="../personas/Eduardo-Florentín">→ Ver ficha completa de Eduardo Florentín</a></div>
+<div class="jme-concejal-footer"><a href="Eduardo-Florentín">📊 Tarjeta detallada</a> · <a href="../personas/Eduardo-Florentín">📋 Ficha / perfil</a></div>
 
 </div>
 
@@ -770,7 +770,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 </div>
 
-<div class="jme-concejal-footer"><a href="../personas/Eduardo-Rebruk">→ Ver ficha completa de Eduardo Rebruk</a></div>
+<div class="jme-concejal-footer"><a href="Eduardo-Rebruk">📊 Tarjeta detallada</a> · <a href="../personas/Eduardo-Rebruk">📋 Ficha / perfil</a></div>
 
 </div>
 

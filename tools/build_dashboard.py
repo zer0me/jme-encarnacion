@@ -513,9 +513,12 @@ def build_tarjetas_concejales() -> str:
         # porque Quartz no procesa markdown dentro de un <div> en una sola línea.
         # Quartz convierte espacios a guiones en URLs de wiki.
         slug_url = c["slug"].replace(" ", "-")
+        # Las dos páginas del concejal tienen info distinta y complementaria:
+        # la tarjeta detallada (/concejales/<slug>) y la ficha/perfil (/personas/<slug>).
         out.append(
             f'<div class="jme-concejal-footer">'
-            f'<a href="../personas/{slug_url}">→ Ver ficha completa de {c["slug"]}</a>'
+            f'<a href="{slug_url}">📊 Tarjeta detallada</a> · '
+            f'<a href="../personas/{slug_url}">📋 Ficha / perfil</a>'
             f'</div>'
         )
         out.append("")

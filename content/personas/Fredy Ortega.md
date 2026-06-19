@@ -32,6 +32,8 @@ votos_clave:
 
 Concejal de la Junta Municipal de Encarnación, período 2021-2026.
 
+<p class="jme-crosslink">📊 <a href="../concejales/Fredy-Ortega">Ver tarjeta de desempeño (asistencia, votaciones, intervenciones) →</a></p>
+
 **Variantes detectadas en el archivo:**
 - Fredy Fermín Ortega Ullón
 

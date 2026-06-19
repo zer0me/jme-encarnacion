@@ -33,6 +33,8 @@ votos_clave:
 
 Concejal de la Junta Municipal de Encarnación, período 2021-2026.
 
+<p class="jme-crosslink">📊 <a href="../concejales/Eduardo-Florentín">Ver tarjeta de desempeño (asistencia, votaciones, intervenciones) →</a></p>
+
 **Variantes detectadas en el archivo:**
 - Eduardo Florentín Bolf
 - Eduardo Víctor Florentín Bolf

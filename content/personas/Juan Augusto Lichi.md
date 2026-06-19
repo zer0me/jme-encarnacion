@@ -6,7 +6,6 @@ periodo: 2021-2026
 canonico: true
 aliases:
   - "Juan Augusto Lichi Benítez"
-  - "Juan Augusto Lichi Benítez (virtual)"
   - "Juan Lichi"
 titulo: "Dr."
 apodos: []
@@ -34,10 +33,11 @@ votos_clave:
 
 Concejal de la Junta Municipal de Encarnación, período 2021-2026.
 
+<p class="jme-crosslink">📊 <a href="../concejales/Juan-Augusto-Lichi">Ver tarjeta de desempeño (asistencia, votaciones, intervenciones) →</a></p>
+
 **Variantes detectadas en el archivo:**
-- Andrés Morel (saliente) / Juan Augusto Lichi (electo)
 - Juan Augusto Lichi Benítez
-- Juan Augusto Lichi Benítez (virtual)
+- Juan Lichi
 - Juan Lichi
 
 ## Apariciones en el archivo (227 totales)

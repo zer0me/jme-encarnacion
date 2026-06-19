@@ -5,7 +5,6 @@ rol: concejal
 periodo: 2021-2026
 canonico: true
 aliases:
-  - "Diego Aquino (Presidente Junta Municipal)"
   - "Diego Rafael Aquino Mercado"
 titulo: "Abog."
 apodos: []
@@ -33,9 +32,9 @@ votos_clave:
 
 Concejal de la Junta Municipal de Encarnación, período 2021-2026.
 
+<p class="jme-crosslink">📊 <a href="../concejales/Diego-Aquino">Ver tarjeta de desempeño (asistencia, votaciones, intervenciones) →</a></p>
+
 **Variantes detectadas en el archivo:**
-- Diego Alberto Pineda (sucesor Olga Zulma Pineda Aquino)
-- Diego Aquino (Presidente Junta Municipal)
 - Diego Rafael Aquino Mercado
 
 ## Apariciones en el archivo (202 totales)

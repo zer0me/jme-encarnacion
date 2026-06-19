@@ -11,6 +11,8 @@ fecha_actualizacion: 2026-06-19
 
 **Lic. Natalia Enciso · Concejal · PLRA · Período 2021-2026**
 
+<p class="jme-crosslink">📋 <a href="../personas/Natalia-Enciso">Ver ficha / perfil completo de Natalia Enciso →</a></p>
+
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Natalia-Enciso.jpg" alt="Foto de Natalia Enciso" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo

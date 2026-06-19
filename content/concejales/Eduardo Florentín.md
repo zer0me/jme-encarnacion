@@ -11,6 +11,8 @@ fecha_actualizacion: 2026-06-19
 
 **Lic. Eduardo Florentín · Concejal · ANR · Período 2021-2026**
 
+<p class="jme-crosslink">📋 <a href="../personas/Eduardo-Florentín">Ver ficha / perfil completo de Eduardo Florentín →</a></p>
+
 <img src="https://zer0me.github.io/jme-encarnacion/concejales/fotos/Eduardo-Florentín.jpg" alt="Foto de Eduardo Florentín" class="concejal-foto" loading="lazy" />
 
 ## Resumen cuantitativo
