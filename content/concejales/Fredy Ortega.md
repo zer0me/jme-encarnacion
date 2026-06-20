@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Fredy Ortega"
 bancada: ANR
 period: 2021-2026
-fecha_actualizacion: 2026-06-19
+fecha_actualizacion: 2026-06-20
 ---
 
 # Fredy Ortega — Tarjeta de desempeño
@@ -18,6 +18,7 @@ fecha_actualizacion: 2026-06-19
 ## Resumen cuantitativo
 - Asistencia: presente en **216 sesiones plenarias** (95%); ausente en **12**. Rango: 2021-11-09 a 2026-05-13.
 - Productividad legislativa: **106 minutas presentadas en sesión** (autor/co-autor) · 61 secundadas · 7 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **174** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- De esas iniciativas, **5 proyectos de ordenanza** como autor/co-autor (iniciativas con impacto normativo).
 - Participación en debate: **419 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)

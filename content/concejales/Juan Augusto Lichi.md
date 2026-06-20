@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Juan Augusto Lichi"
 bancada: ANR
 period: 2021-2026
-fecha_actualizacion: 2026-06-19
+fecha_actualizacion: 2026-06-20
 ---
 
 # Juan Augusto Lichi — Tarjeta de desempeño
@@ -18,6 +18,7 @@ fecha_actualizacion: 2026-06-19
 ## Resumen cuantitativo
 - Asistencia: presente en **188 sesiones plenarias** (82%); ausente en **42**. Rango: 2021-11-09 a 2026-05-13.
 - Productividad legislativa: **156 minutas presentadas en sesión** (autor/co-autor) · 93 secundadas · 10 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **259** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- De esas iniciativas, **3 proyectos de ordenanza** como autor/co-autor (iniciativas con impacto normativo).
 - Participación en debate: **379 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)

@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Eduardo Rebruk"
 bancada: ANR
 period: 2021-2026
-fecha_actualizacion: 2026-06-19
+fecha_actualizacion: 2026-06-20
 ---
 
 # Eduardo Rebruk — Tarjeta de desempeño
@@ -18,6 +18,7 @@ fecha_actualizacion: 2026-06-19
 ## Resumen cuantitativo
 - Asistencia: presente en **213 sesiones plenarias** (94%); ausente en **14**. Rango: 2021-11-09 a 2026-05-13.
 - Productividad legislativa: **160 minutas presentadas en sesión** (autor/co-autor) · 227 secundadas · 6 resoluciones (autor) · 1 (secunda). Total de iniciativas firmadas: **394** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- De esas iniciativas, **3 proyectos de ordenanza** como autor/co-autor (iniciativas con impacto normativo).
 - Participación en debate: **210 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)

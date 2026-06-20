@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Eduardo Florentín"
 bancada: ANR
 period: 2021-2026
-fecha_actualizacion: 2026-06-19
+fecha_actualizacion: 2026-06-20
 ---
 
 # Eduardo Florentín — Tarjeta de desempeño
@@ -18,6 +18,7 @@ fecha_actualizacion: 2026-06-19
 ## Resumen cuantitativo
 - Asistencia: presente en **207 sesiones plenarias** (89%); ausente en **25**. Rango: 2021-11-09 a 2026-05-13.
 - Productividad legislativa: **203 minutas presentadas en sesión** (autor/co-autor) · 91 secundadas · 12 resoluciones (autor) · 2 (secunda). Total de iniciativas firmadas: **308** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- De esas iniciativas, **9 proyectos de ordenanza** como autor/co-autor (iniciativas con impacto normativo).
 - Participación en debate: **643 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)

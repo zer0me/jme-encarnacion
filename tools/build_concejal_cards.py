@@ -413,6 +413,7 @@ def build_card(slug: str, persona: dict, docs: dict, actas: dict | None = None) 
     minutas_secunda = actas.get("minuta_secunda", [])
     n_minuta_autor = len(minutas_autor)
     n_minuta_secunda = len(minutas_secunda)
+    n_ordenanza_autor = actas.get("n_ordenanza_autor", 0)
     # Resoluciones: el folder resoluciones/ sí está completo (276 curadas).
     n_resol_autor = len(docs["resol_autor"])
     n_resol_secunda = len(docs["resol_secunda"])
@@ -478,6 +479,8 @@ def build_card(slug: str, persona: dict, docs: dict, actas: dict | None = None) 
         f"Total de iniciativas firmadas: **{total}** "
         f"(minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza "
         f"hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).",
+        f"- De esas iniciativas, **{n_ordenanza_autor} {pluralize(n_ordenanza_autor, 'proyecto de ordenanza', 'proyectos de ordenanza')}** "
+        f"como autor/co-autor (iniciativas con impacto normativo)." if n_ordenanza_autor else "",
         f"- Participación en debate: **{n_interv} {pluralize(n_interv, 'intervención', 'intervenciones')}** "
         f"registradas en actas." if n_interv else "",
         "",

@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Nehemías Cuevas"
 bancada: ANR
 period: 2021-2026
-fecha_actualizacion: 2026-06-19
+fecha_actualizacion: 2026-06-20
 ---
 
 # Nehemías Cuevas — Tarjeta de desempeño
@@ -18,6 +18,7 @@ fecha_actualizacion: 2026-06-19
 ## Resumen cuantitativo
 - Asistencia: presente en **203 sesiones plenarias** (90%); ausente en **22**. Rango: 2021-11-09 a 2026-05-13.
 - Productividad legislativa: **64 minutas presentadas en sesión** (autor/co-autor) · 90 secundadas · 0 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **154** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- De esas iniciativas, **1 proyecto de ordenanza** como autor/co-autor (iniciativas con impacto normativo).
 - Participación en debate: **190 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)

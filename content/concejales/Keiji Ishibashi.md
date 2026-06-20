@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Keiji Ishibashi"
 bancada: Movimiento Ciudadanía Activa
 period: 2021-2026
-fecha_actualizacion: 2026-06-19
+fecha_actualizacion: 2026-06-20
 ---
 
 # Keiji Ishibashi — Tarjeta de desempeño
@@ -18,6 +18,7 @@ fecha_actualizacion: 2026-06-19
 ## Resumen cuantitativo
 - Asistencia: presente en **204 sesiones plenarias** (89%); ausente en **26**. Rango: 2021-11-09 a 2026-05-06.
 - Productividad legislativa: **172 minutas presentadas en sesión** (autor/co-autor) · 43 secundadas · 6 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **221** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- De esas iniciativas, **12 proyectos de ordenanza** como autor/co-autor (iniciativas con impacto normativo).
 - Participación en debate: **729 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)

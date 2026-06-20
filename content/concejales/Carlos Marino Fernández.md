@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Carlos Marino Fernández"
 bancada: PLRA
 period: 2021-2026
-fecha_actualizacion: 2026-06-19
+fecha_actualizacion: 2026-06-20
 ---
 
 # Carlos Marino Fernández — Tarjeta de desempeño
@@ -18,6 +18,7 @@ fecha_actualizacion: 2026-06-19
 ## Resumen cuantitativo
 - Asistencia: presente en **225 sesiones plenarias** (97%); ausente en **7**. Rango: 2021-11-09 a 2026-05-13.
 - Productividad legislativa: **223 minutas presentadas en sesión** (autor/co-autor) · 69 secundadas · 2 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **294** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- De esas iniciativas, **19 proyectos de ordenanza** como autor/co-autor (iniciativas con impacto normativo).
 - Participación en debate: **773 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)

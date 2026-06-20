@@ -188,6 +188,9 @@ _ATTRIB_VERB = re.compile(r"\b(propus\w*|present[oó]\w*|presentaron|plante[oó]
 # (incluye solicitó/planteó; seguro porque solo se evalúa dentro del span en negrita,
 # no en títulos ni petición).
 _BOLD_PROPOSE = re.compile(r"(propus|present[oó]|presentaron|plante[oó]|mocion|solicit)", re.IGNORECASE)
+# Una minuta es "proyecto de ordenanza" (iniciativa con impacto normativo) si su texto
+# contiene esta frase. Distingue las ordenanzas de menciones, pedidos de informe, etc.
+_ORDENANZA = re.compile(r"proyecto de (?:ordenanza|modificaci[oó]n\b)", re.IGNORECASE)
 _SECUNDADO = re.compile(r"secundad[oa]s?\s+por\s+([^).]*)", re.IGNORECASE)
 _WIKILINK = re.compile(r"\[\[([^\]|]+)")
 
@@ -331,12 +334,17 @@ def parse_acta_minutas(
             secunda_slugs = list(dict.fromkeys(secunda_slash + secunda_clause))
             autor_slugs = [s for s in autor_seg if s not in secunda_slugs]
             desc = _minuta_desc(item)
+            is_ord = bool(_ORDENANZA.search(item))
             for s in autor_slugs:
                 if s in out:
                     out[s]["minuta_autor"].append((fecha, acta_stem, desc))
+                    if is_ord:
+                        out[s]["ordenanza_autor"].append((fecha, acta_stem, desc))
             for s in secunda_slugs:
                 if s in out:
                     out[s]["minuta_secunda"].append((fecha, acta_stem, desc))
+                    if is_ord:
+                        out[s]["ordenanza_secunda"].append((fecha, acta_stem, desc))
 
         # Fallback sin marcadores: secciones que listan minutas como párrafos
         # "**[[X]] propuso:** petición" sin numeración ni "### Minuta". Solo si la
@@ -356,12 +364,17 @@ def parse_acta_minutas(
                     if sm else []
                 )
                 desc = _minuta_desc(span)
+                is_ord = bool(_ORDENANZA.search(span + section[mb.end() : mb.end() + 200]))
                 for s in autor_slugs:
                     if s in out:
                         out[s]["minuta_autor"].append((fecha, acta_stem, desc))
+                        if is_ord:
+                            out[s]["ordenanza_autor"].append((fecha, acta_stem, desc))
                 for s in secunda_slugs:
                     if s in out:
                         out[s]["minuta_secunda"].append((fecha, acta_stem, desc))
+                        if is_ord:
+                            out[s]["ordenanza_secunda"].append((fecha, acta_stem, desc))
 
 
 def scan_actas(canon: dict[str, str], slugs: list[str]) -> dict[str, dict]:
@@ -393,6 +406,8 @@ def scan_actas(canon: dict[str, str], slugs: list[str]) -> dict[str, dict]:
             "ausente_con_aviso": 0,
             "minuta_autor": [],
             "minuta_secunda": [],
+            "ordenanza_autor": [],
+            "ordenanza_secunda": [],
         }
         for slug in slugs
     }
@@ -479,6 +494,10 @@ def scan_actas(canon: dict[str, str], slugs: list[str]) -> dict[str, dict]:
         agg["minuta_secunda"] = _dedup_minutas(agg["minuta_secunda"])
         agg["n_minuta_autor"] = len(agg["minuta_autor"])
         agg["n_minuta_secunda"] = len(agg["minuta_secunda"])
+        agg["ordenanza_autor"] = _dedup_minutas(agg["ordenanza_autor"])
+        agg["ordenanza_secunda"] = _dedup_minutas(agg["ordenanza_secunda"])
+        agg["n_ordenanza_autor"] = len(agg["ordenanza_autor"])
+        agg["n_ordenanza_secunda"] = len(agg["ordenanza_secunda"])
 
     out["_meta"] = {
         "n_actas": n_actas,

@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Diego Aquino"
 bancada: ANR
 period: 2021-2026
-fecha_actualizacion: 2026-06-19
+fecha_actualizacion: 2026-06-20
 ---
 
 # Diego Aquino — Tarjeta de desempeño
@@ -18,6 +18,7 @@ fecha_actualizacion: 2026-06-19
 ## Resumen cuantitativo
 - Asistencia: presente en **213 sesiones plenarias** (95%); ausente en **12**. Rango: 2021-11-09 a 2026-05-13.
 - Productividad legislativa: **243 minutas presentadas en sesión** (autor/co-autor) · 60 secundadas · 6 resoluciones (autor) · 2 (secunda). Total de iniciativas firmadas: **311** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- De esas iniciativas, **11 proyectos de ordenanza** como autor/co-autor (iniciativas con impacto normativo).
 - Participación en debate: **824 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)

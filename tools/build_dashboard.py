@@ -280,6 +280,7 @@ def read_concejal(
         )
 
     n_intervenciones = acta.get("n_intervenciones", 0)
+    ordenanzas = acta.get("n_ordenanza_autor", 0)
     disidencias = len(acta.get("votos_en_contra") or []) + len(acta.get("abstenciones") or [])
 
     # Iniciativas = minutas (desde actas, comprehensivo) + resoluciones (desde archivos).
@@ -303,6 +304,7 @@ def read_concejal(
         "ausente": ausente,
         "asistencia_pct": asistencia_pct,
         "intervenciones": n_intervenciones,
+        "ordenanzas": ordenanzas,
         "disidencias": disidencias,
         "autor": ini_autor,
         "secunda": ini_secunda,
@@ -370,6 +372,8 @@ def _concejal_legend() -> str:
         '<em>Iniciativas firmadas</em> = minutas presentadas en sesión (contadas desde las actas) '
         'más resoluciones, como autor/co-autor o secundante — abarca desde proyectos de ordenanza '
         'hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo. '
+        '<em>Proyectos de ordenanza</em> = subconjunto de iniciativas con impacto normativo '
+        '(las minutas cuyo texto presenta un proyecto de ordenanza), como autor/co-autor. '
         '<em>Presidió la sesión</em> = veces que ocupó la silla de la mesa directiva durante la plenaria '
         '(rol que rota cuando el presidente titular está ausente; <strong>no</strong> es presidir una comisión '
         'ni ser el presidente electo de la Junta).</small>'
@@ -397,6 +401,7 @@ def build_grilla_concejales() -> str:
             f'✍ Iniciativas firmadas: {c["propuestas_total"]} '
             f'<small>({c["autor"]} autor · {c["secunda"]} secunda)</small>  '
         )
+        out.append(f'📜 Proyectos de ordenanza: {c["ordenanzas"]}  ')
         out.append(f'🪑 Presidió la sesión: {c["presidente_mesa"]} <small>veces</small>')
         if c["rasgo"]:
             out.append("")

@@ -4,7 +4,7 @@ tipo: tarjeta-concejal
 concejal: "Zulma Memmel"
 bancada: Alianza Junta Integrada / PPC
 period: 2021-2026
-fecha_actualizacion: 2026-06-19
+fecha_actualizacion: 2026-06-20
 ---
 
 # Zulma Memmel — Tarjeta de desempeño
@@ -18,6 +18,7 @@ fecha_actualizacion: 2026-06-19
 ## Resumen cuantitativo
 - Asistencia: presente en **197 sesiones plenarias** (85%); ausente en **35**. Rango: 2021-11-09 a 2026-05-13.
 - Productividad legislativa: **70 minutas presentadas en sesión** (autor/co-autor) · 100 secundadas · 1 resolución (autor) · 1 (secunda). Total de iniciativas firmadas: **172** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- De esas iniciativas, **6 proyectos de ordenanza** como autor/co-autor (iniciativas con impacto normativo).
 - Participación en debate: **460 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
