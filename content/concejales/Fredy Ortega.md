@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **216 sesiones plenarias** (95%); ausente en **12**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **27 minutas presentadas en sesión** (autor/co-autor) · 10 secundadas · 7 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **44** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **40 minutas presentadas en sesión** (autor/co-autor) · 10 secundadas · 7 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **57** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **419 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -104,7 +104,8 @@ Fredy Ortega no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 ## Minutas presentadas en sesión (según actas)
 
-### Como autor / co-autor (27)
+### Como autor / co-autor (40)
+- 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — notificar a las empresas de transporte público del Distrito que deben reconocer el carnet universitario y el carnet de la tercera edad
 - 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — la entrega de una Mención Especial de Reconocimiento a la niña [[Ximena García Vargas]], Campeona Nacional de Ajedrez Infanto Juvenil categoría Sub 6 femenino (torneo del 6 al 8 de
 - 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — elevar a las Comisiones de Educación y de Cultura una Mención Especial de Reconocimiento al deportista encarnaceno [[Diego Flores]], campeón del Nacional de mayores de Fútbol de Sa
 - 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — solicitar al Intendente un análisis jurídico sobre la posibilidad de resolver la interrupción del Servicio de Estacionamiento Medido (SEM), considerando que el contrato con la empr
@@ -114,8 +115,7 @@ Fredy Ortega no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2025-09-10 · [[2025-09-10 - Acta 187-2025]] — una mención especial de reconocimiento a [[Julio Müller]], miembro de la organización del WRC Ueno Rally del Paraguay (agosto 2025), por su aporte fundamental a la logística, segur
 - 2025-09-10 · [[2025-09-10 - Acta 187-2025]] — menciones especiales a [[Benjamín Torres]], [[David Aquino]], [[Santiago Bogado]] y [[Lucas Ayala]], de la Selección Paraguaya de Fútbol de Salón C13, vicecampeones del Mundial de
 - 2025-09-10 · [[2025-09-10 - Acta 187-2025]] — menciones a los jugadores, cuerpo técnico y directivos del [[Encarnación F.C.]], campeones de la Copa Oro Sub 15
-- 2025-09-03 · [[2025-09-03 - Acta 186-2025]] — autorizar la entrega de una mención especial de Reconocimiento al joven deportista encarnaceno [[Thiago Nahuel Bruchmann Mendieta]], miembro de la Selección Paraguaya de pádel de m
-- _(+ 17 más; lista completa en las actas de cada sesión)_
+- _(+ 30 más; lista completa en las actas de cada sesión)_
 
 ### Como secundante (10)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — declarar de Interés Educativo Municipal el funcionamiento de la Granja modelo «Abuelo Adolfo» (barrio Itaguá'i), que concretó con la [[UNAE]] un convenio de cooperación interinstit

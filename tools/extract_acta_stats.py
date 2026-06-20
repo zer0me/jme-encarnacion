@@ -241,14 +241,18 @@ def parse_acta_minutas(
         for item in _MINUTA_ITEM.split(section):
             if not re.match(r"^\*\*\d+\)", item.strip()):
                 continue
-            # El "head" (donde están los proponentes) termina en el PRIMERO de:
-            # el verbo proponente, o el guión "—/–" que separa "Minuta [[A]]/[[B]] — Título".
-            # Cortar también en el guión evita capturar a debatientes posteriores
-            # ("**[[C]] opinó**") como falsos co-autores en ítems sin verbo proponente.
+            # El "head" es donde están los proponentes. Por defecto va hasta el verbo
+            # proponente. Caso "Minuta [[A]] / [[B]] — Título: **[[C]] opinó**" (proponentes
+            # ANTES del guión, sin verbo propio): cortar en el guión para no capturar al
+            # debatiente C. Pero NO cortar en el guión si no hay nombres antes de él
+            # (p.ej. "Minuta verbal — [[X]] propuso", donde el proponente va DESPUÉS).
             vm = _PROPOSE_VERB.search(item)
             dm = re.search(r"[—–]", item)
-            cuts = [m.start() for m in (vm, dm) if m]
-            head = item[: min(cuts)] if cuts else item[:110]
+            head = item[: vm.start()] if vm else item[:110]
+            if dm and (vm is None or dm.start() < vm.start()):
+                head_dash = item[: dm.start()]
+                if _wikilink_slugs(head_dash, canon, tokens):
+                    head = head_dash
             sm = _SECUNDADO.search(item)
             secunda_slugs = set(_wikilink_slugs(sm.group(1), canon, tokens)) if sm else set()
             autor_slugs = [s for s in _wikilink_slugs(head, canon, tokens) if s not in secunda_slugs]

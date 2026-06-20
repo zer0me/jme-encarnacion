@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **213 sesiones plenarias** (95%); ausente en **12**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **68 minutas presentadas en sesión** (autor/co-autor) · 21 secundadas · 6 resoluciones (autor) · 2 (secunda). Total de iniciativas firmadas: **97** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **99 minutas presentadas en sesión** (autor/co-autor) · 21 secundadas · 6 resoluciones (autor) · 2 (secunda). Total de iniciativas firmadas: **128** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **824 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -100,18 +100,18 @@ Temas sobre los que más intervino:
 
 ## Minutas presentadas en sesión (según actas)
 
-### Como autor / co-autor (68)
+### Como autor / co-autor (99)
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — la entrega de Menciones Especiales de Reconocimiento a los niños de la categoría Sub 8 de la Selección Encarnacena, ganadores del Campeonato Interdistrital organizado por la Gobern
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — autorizar la entrega de una Mención Especial de Reconocimiento a la estudiante [[Tania Elizabeth Cardozo Gómez]] (Colegio Divina Esperanza) por su participación en la XXV Feria Int
+- 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — reiterar la nota al Ejecutivo solicitando informes sobre la situación financiera actual, incluyendo el pago por antigüedad a los funcionarios (cuyo plazo de utilización feneció en
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — la entrega de una mención especial de reconocimiento póstumo a [[Paulino Jara Vera]], oriundo de Artigas y culminado en el [[Centro Regional de Educación Gral
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Intendente para construir aulas de Educación Media en la Escuela Reverendo Lucas Bruder (B° San Antonio Ypecurú), proponiendo financiamiento por la vía de excepción
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Director de la Séptima Región Sanitaria para gestionar ante el Ministerio de Salud la transferencia del título de propiedad del Puesto de Salud del B° Mboi Cae
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Ejecutivo para considerar el pago de la antigüedad correspondiente al año 2025 de los funcionarios municipales, beneficio pendiente de cumplimiento
+- 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — Minuta verbal — [[Diego Aquino]] expresó una situación que se replica en todos los barrios: la falta de recursos en las dependencias del gobierno
 - 2026-02-25 · [[2026-02-25 - Acta 209-2026]] — solicitar al Intendente la marcación de las sendas peatonales en inmediaciones de las instituciones educativas de la zona céntrica, para garantizar mayor seguridad vial a los niños
-- 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — entregar menciones especiales de reconocimiento a estudiantes y docentes investigadores del Centro Regional de Educación «Gral
-- 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — un proyecto de Ordenanza que modifique la ordenanza que reglamenta el funcionamiento de la Policía Municipal Ambiental, para fortalecer su institucionalidad e integrarla a la Direc
-- 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — solicitar al Ejecutivo analizar la posibilidad de pedir a la empresa concesionaria [[ECO ROGA]] la ampliación de sus servicios al Barrio Los Pinos, acompañando la solicitud de la C
-- _(+ 58 más; lista completa en las actas de cada sesión)_
+- 2026-02-25 · [[2026-02-25 - Acta 209-2026]] — enviar nota al [[MOPC|Ministerio de Obras Públicas]] para una solución definitiva en el acceso al barrio Kennedy
+- _(+ 89 más; lista completa en las actas de cada sesión)_
 
 ### Como secundante (21)
 - 2025-10-22 · [[2025-10-22 - Acta 193-2025]] — la remisión de una nota al Intendente para analizar la pavimentación empedrada de varias calles de tierra del B° San Pedro fracción San José, del B° Chaipé sector Santa Isabel y de
