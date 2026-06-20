@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **188 sesiones plenarias** (82%); ausente en **42**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **108 minutas presentadas en sesión** (autor/co-autor) · 58 secundadas · 10 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **176** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **156 minutas presentadas en sesión** (autor/co-autor) · 93 secundadas · 10 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **259** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **379 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -109,20 +109,20 @@ Juan Augusto Lichi no figura como secunda de ninguna resolución entre 2021 y 20
 
 > _Extraído de la sección «Minutas» de las 232 actas (2021-2026), incluyendo minutas escritas y verbales. «Autor/co-autor» = quien la presenta; «secundante» = co-firmante (convención «Autor / Secunda» del acta). No distingue el impacto normativo de cada minuta (puede ir desde un proyecto de ordenanza hasta una mención)._
 
-### Como autor / co-autor (108)
+### Como autor / co-autor (156)
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — remitir nota al Intendente para analizar la factibilidad de construir una rotonda en la intersección de Avda
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — remitir nota al Intendente para analizar la factibilidad de colocar un semáforo en la intersección de Independencia Nacional y Avda
 - 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — la entrega de una Mención Especial de Reconocimiento al deportista [[Héctor David Zorrilla Stenico]], Campeón del Torneo de la Federación Internacional de Pádel en Joinville (Brasi
+- 2026-03-31 · [[2026-03-31 - Acta 213-2026]] — 9. [[Juan Augusto Lichi]] (secunda [[Zulma Memmel]]) — Resolución Municipal para ampliar el plazo de vencimiento del tributo de la Licencia de Conducir, fijando como nueva fecha lí
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — solicitar Menciones Especiales de Reconocimiento a alumnos de los Colegios Privados [[Colegio Privado Girasoles|Girasoles]] y [[Colegio Privado Divina Esperanza|Divina Esperanza]]
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — elevar nota al Ejecutivo para analizar la modificación o ampliación de las canchas de básquetbol del sector San José y costanera Padre Bolik
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — Minuta verbal — [[Juan Augusto Lichi]] expresó sobre la plaza del B° Villa del Maestro: «Realmente, no sé si alguno conoce, se fue por ahí
 - 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — una Mención Especial al [[Centro de Despachantes de Aduana del Paraguay]] (CDAP) Filial Itapúa por sus 100 años de vida institucional, reconocido como de Interés Nacional por la [[
 - 2025-12-10 · [[2025-12-10 - Acta 200-2025]] — solicitar una Mención Especial de Reconocimiento al destacado atleta encarnaceno [[Santiago Talavera Ortiz]] por obtener medalla de plata en los XX Juegos Bolivarianos 2025 (handba
 - 2025-12-03 · [[2025-12-03 - Acta 199-2025]] — solicitar la entrega de Menciones Especiales de Reconocimiento a los jóvenes [[Tania Elizabeth Cardozo Gómez]], [[Ryan Tsai Hsiao]] y [[Federico Manuel Lopatiuk Ríos]], que partici
-- 2025-11-19 · [[2025-11-19 - Acta 197-2025]] — solicitar al Intendente la verificación, estudio y propuesta de factibilidad de realizar el paseo central de la Avda
-- _(+ 98 más; lista completa en las actas de cada sesión)_
+- _(+ 146 más; lista completa en las actas de cada sesión)_
 
-### Como secundante (58)
+### Como secundante (93)
 - 2025-12-22 · [[2025-12-22 - Acta 203-2025]] — el reconocimiento de los campeones nacionales de la categoría U13 de básquet, de la gama masculina, donde Encarnación se consagró campeón en la ciudad de Obligado
 - 2025-12-17 · [[2025-12-17 - Acta 201-2025]] — un proyecto de Ordenanza «por la cual se regula el Presupuesto Participativo Municipal de la ciudad de Encarnación», para promover la participación ciudadana en la gestión pública
 - 2025-12-10 · [[2025-12-10 - Acta 200-2025]] — solicitar al Intendente conceder los permisos y la colaboración de la Institución Municipal autorizando el uso de personal municipal para la mano de obra de los trabajos de reparac
@@ -131,6 +131,6 @@ Juan Augusto Lichi no figura como secunda de ninguna resolución entre 2021 y 20
 - 2025-10-22 · [[2025-10-22 - Acta 193-2025]] — elevar nota al Intendente para que, por medio de la Dirección de Planificación, se determine un lugar en el Parque La Ciudad (dimensión 4 x 4 m) a favor de la [[Ex becarios de Itap
 - 2025-10-15 · [[2025-10-15 - Acta 192-2025]] — solicitar al Intendente convocar una reunión interinstitucional entre las comisiones vecinales de las Etapas 1 y 2 del B° San Isidro, la [[Federación Encarnacena de Futsal]], la [[
 - 2025-10-08 · [[2025-10-08 - Acta 191-2025]] — solicitar al Intendente convocar una reunión conjunta entre las Direcciones Municipales, la Junta y la Asociación de Vendedores Ambulantes del Circuito Comercial, para tratar inqui
+- 2025-10-02 · [[2025-10-02 - Acta 190-2025]] — la entrega de Menciones Especiales de Reconocimiento a las integrantes de la [[Academia de Danza Yeruti]] por su participación en el Concurso Internacional de Danza (Montevideo, se
 - 2025-09-24 · [[2025-09-24 - Acta 189-2025]] — la entrega de mención especial de reconocimiento a los miembros de la [[Banda Santa Rosa]] por sus 60 años de trayectoria musical (fundada en 1965)
-- 2025-09-24 · [[2025-09-24 - Acta 189-2025]] — la entrega de mención especial de reconocimiento a los propietarios del [[Hotel De la Costa]] por su 20° aniversario (1 de octubre)
-- _(+ 48 más; lista completa en las actas de cada sesión)_
+- _(+ 83 más; lista completa en las actas de cada sesión)_

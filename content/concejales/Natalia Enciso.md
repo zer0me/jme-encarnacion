@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **214 sesiones plenarias** (93%); ausente en **15**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **67 minutas presentadas en sesión** (autor/co-autor) · 47 secundadas · 8 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **122** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **98 minutas presentadas en sesión** (autor/co-autor) · 81 secundadas · 8 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **187** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **419 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -107,20 +107,20 @@ Natalia Enciso no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 > _Extraído de la sección «Minutas» de las 232 actas (2021-2026), incluyendo minutas escritas y verbales. «Autor/co-autor» = quien la presenta; «secundante» = co-firmante (convención «Autor / Secunda» del acta). No distingue el impacto normativo de cada minuta (puede ir desde un proyecto de ordenanza hasta una mención)._
 
-### Como autor / co-autor (67)
+### Como autor / co-autor (98)
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — enviar nota al Intendente solicitando a la jefatura de Comisiones Vecinales que haga efectivo el cumplimiento de los artículos de la Ordenanza sobre rendición de cuentas
 - 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — solicitar al Intendente el mantenimiento y puesta en condiciones de la capa asfáltica de la Avda
+- 2026-03-31 · [[2026-03-31 - Acta 213-2026]] — 5. [[Natalia Enciso]] (secunda [[Zulma Memmel]]) — proyecto de Ordenanza «Por la cual se establece el sistema de decisión participativa por sectores de Encarnación e implementación
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Ejecutivo para el reacondicionamiento de las instalaciones de la plaza y cancha del B° Santo Domingo Centro, punto de encuentro comunitario que requiere intervencion
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Ejecutivo para el reacondicionamiento de la antigua salita de salud (puesto de salud) del B° Santo Domingo, a fin de que pueda ser utilizada nuevamente por profesion
 - 2026-02-11 · [[2026-02-11 - Acta 207-2026]] — solicitar al Intendente trabajos de mantenimiento y limpieza de la USF del barrio Fátima, y el relleno y nivelación del área verde municipal contigua para destinarla a estacionamie
 - 2026-02-11 · [[2026-02-11 - Acta 207-2026]] — solicitar al Intendente evaluar la asignación de un profesor del área de Informática para el Colegio N° 1541 Nueva Esperanza, que dispone de 14 computadoras
 - 2025-10-15 · [[2025-10-15 - Acta 192-2025]] — entregar un reconocimiento al equipo femenino U15 de básquetbol, vice campeón nacional
+- 2025-10-02 · [[2025-10-02 - Acta 190-2025]] — enviar nota al Intendente solicitando trabajar formalmente en un convenio de cooperación con la [[Secretaría Nacional de Deportes]] para capacitaciones a profesores de educación fí
 - 2025-09-24 · [[2025-09-24 - Acta 189-2025]] — solicitar al Intendente la reiluminación de una cancha en la Costanera (donde estaba la Policía Municipal de Tránsito, antes del Club de Pesca), muy utilizada para vóley en tempora
-- 2025-09-03 · [[2025-09-03 - Acta 186-2025]] — la remisión de una nota al Intendente elevando un proyecto para la construcción de una cancha multifuncional para deportes (patín, futsal, handball, otros), con medidas oficiales y
-- 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — elevar a la Plenaria un Proyecto de Ordenanza que reglamente las condiciones de arrendamiento para locales gastronómicos y similares en la Manzana 65 «Parque Lineal», en respuesta
-- _(+ 57 más; lista completa en las actas de cada sesión)_
+- _(+ 88 más; lista completa en las actas de cada sesión)_
 
-### Como secundante (47)
+### Como secundante (81)
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — elevar nota al Ejecutivo para analizar la modificación o ampliación de las canchas de básquetbol del sector San José y costanera Padre Bolik
 - 2025-12-17 · [[2025-12-17 - Acta 201-2025]] — elevar un proyecto de Ordenanza «por la cual se reglamenta la recolección y disposición final de cubiertas en desuso en el distrito de Encarnación»
 - 2025-12-17 · [[2025-12-17 - Acta 201-2025]] — remitir nota al Intendente Municipal para la intervención, limpieza y ordenamiento del espacio verde detrás de los locales gastronómicos lineales del Parque Lineal sobre la calle A
@@ -131,4 +131,4 @@ Natalia Enciso no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — entregar una Mención Especial de Reconocimiento a la atleta [[Nadia Niven]] por sus logros en la disciplina del Fitness y Fisiculturismo y por representar al Paraguay en el Torneo
 - 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — solicitar al Intendente la señalización de sentido único de la calle Ángel Ramón Samudio (desde Ruta Nacional N° 1 hasta calle Gral
 - 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — solicitar al Intendente la señalización de sentido único de la calle Bomberos Voluntarios de Encarnación (B° Pacu Cuá), con carteles de «Contramano»
-- _(+ 37 más; lista completa en las actas de cada sesión)_
+- _(+ 71 más; lista completa en las actas de cada sesión)_

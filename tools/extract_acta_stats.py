@@ -165,12 +165,29 @@ def names_in_vote_field(value, dissent_tokens: dict[str, str]) -> set[str]:
 
 
 _MINUTA_HEADING = re.compile(r"^##[^\n]*[Mm]inutas[^\n]*$", re.MULTILINE)
-# Un ítem de minuta empieza con "**N)" (formato 2024-2026) o "### Minuta N — …"
-# (formato granular de las actas 2022-2023). Ambos se cuentan.
-_MINUTA_ITEM = re.compile(r"(?=^(?:\*\*\d+\)|###\s+[Mm]inuta))", re.MULTILINE)
-_MINUTA_D_HEADING = re.compile(r"^###\s+[Mm]inuta\b", re.IGNORECASE)
+# Un ítem de minuta empieza de 3 formas según la época de curación del acta:
+#   "**N)"            (2024-2026)
+#   "### Minuta N — " (formato granular 2022-2023, H3)
+#   "**Minuta N**"    (formato granular 2022-2023, negrita)
+# Los tres se cuentan. Los dos últimos son "heading-style" (autores en el encabezado).
+_MINUTA_ITEM = re.compile(
+    r"(?=^(?:\*\*\d+\)|\*\*[Mm]inuta|###\s+\d+\)|###\s+[Mm]inuta|\d+[.)]\s))",
+    re.MULTILINE,
+)
+# "heading-style" = autores en el encabezado ("### Minuta N (A / B)", "**Minuta N** (A/B)").
+_MINUTA_D_HEADING = re.compile(r"^(?:###\s+|\*\*)[Mm]inuta\b", re.IGNORECASE)
+# "attribution-style" = autor en la 1ª atribución "**[[X]] propuso**" del cuerpo
+# ("**N)", "### N) Título", "N. ", "N) ").
+_MINUTA_A_START = re.compile(r"^(?:\*\*\d+\)|###\s+\d+\)|\d+[.)]\s)")
 _BOLD_SPAN = re.compile(r"\*\*([^*]+)\*\*")
 _PROPOSE_VERB = re.compile(r"\b(propus\w*|present[oó]\w*|presentaron|mocion\w*)\b", re.IGNORECASE)
+# Verbos de proposición para el fallback por atribución (incluye "planteó"); excluye
+# verbos de debate (opinó/expresó/aportó/aclaró/respondió/solicitó).
+_ATTRIB_VERB = re.compile(r"\b(propus\w*|present[oó]\w*|presentaron|plante[oó]|mocion\w*)", re.IGNORECASE)
+# Verbos de proposición buscados DENTRO de una atribución en negrita "**[[X]] verbo**"
+# (incluye solicitó/planteó; seguro porque solo se evalúa dentro del span en negrita,
+# no en títulos ni petición).
+_BOLD_PROPOSE = re.compile(r"(propus|present[oó]|presentaron|plante[oó]|mocion|solicit)", re.IGNORECASE)
 _SECUNDADO = re.compile(r"secundad[oa]s?\s+por\s+([^).]*)", re.IGNORECASE)
 _WIKILINK = re.compile(r"\[\[([^\]|]+)")
 
@@ -191,8 +208,9 @@ def _minuta_desc(item: str) -> str:
     Strips the leading "Proposer(s) propuso (secundado por X)" so the snippet is
     the substance (the card already says whose minuta it is by its section).
     """
-    s = re.sub(r"^###\s+[Mm]inuta\s+\d*\s*[—–-]?\s*", "", item.strip())  # formato D
-    s = re.sub(r"^\*\*\d+\)\s*", "", s)  # formato N)
+    s = re.sub(r"^###\s+[Mm]inuta\s+\d*\s*[—–-]?\s*", "", item.strip())  # "### Minuta N —"
+    s = re.sub(r"^\*\*[Mm]inuta\s+\d*\*\*\s*", "", s)  # "**Minuta N**"
+    s = re.sub(r"^\*\*\d+\)\s*", "", s)  # "**N)"
     s = s.replace("**", "")
     s = re.sub(r"\s+", " ", s).strip()
     m = _PROPOSE_VERB.search(s)
@@ -258,39 +276,60 @@ def parse_acta_minutas(
         start = hm.end()
         nxt = re.search(r"^## ", body[start:], re.MULTILINE)
         section = body[start : start + nxt.start()] if nxt else body[start:]
+        matched = 0
         for item in _MINUTA_ITEM.split(section):
             st = item.strip()
             is_d = bool(_MINUTA_D_HEADING.match(st))
-            if not is_d and not re.match(r"^\*\*\d+\)", st):
+            if not is_d and not _MINUTA_A_START.match(st):
                 continue
+            matched += 1
             # 1. Segmento donde figuran los proponentes.
             if is_d:
-                # Formato D ("### Minuta N — Título (autor / secunda)\n**[[X]] propuso**"):
-                # nombres en el encabezado, o en la 1ª atribución en negrita si el
-                # encabezado no tiene wikilinks.
-                heading = item.split("\n", 1)[0]
+                # Heading-style ("### Minuta N — Título (autor / secunda)" o
+                # "**Minuta N** (autor / secunda): petición"): nombres en el encabezado
+                # (cortado en ":" para no tomar nombres de la petición), o en la 1ª
+                # atribución en negrita CON wikilink si el encabezado no los tiene
+                # (p.ej. encabezado con nombres en texto plano + cuerpo "**[[X]] propuso**").
+                heading = item.split("\n", 1)[0].split(":", 1)[0]
                 seg = heading
                 if not _WIKILINK.search(heading):
-                    mb = _BOLD_SPAN.search(item)
-                    seg = mb.group(1) if mb else heading
+                    seg = heading
+                    for mb in _BOLD_SPAN.finditer(item):
+                        if _WIKILINK.search(mb.group(1)):
+                            seg = mb.group(1)
+                            break
             else:
-                # Formato "**N)": el segmento va hasta el verbo proponente; excepción del
-                # guión "Minuta [[A]] / [[B]] — Título: **[[C]] opinó**" (cortar en el guión
-                # solo si hay nombres antes, para no capturar al debatiente C).
-                vm = _PROPOSE_VERB.search(item)
-                dm = re.search(r"[—–]", item)
-                seg = item[: vm.start()] if vm else item[:110]
-                if dm and (vm is None or dm.start() < vm.start()):
-                    hd = item[: dm.start()]
-                    if _WIKILINK.search(hd):
-                        seg = hd
+                # Attribution-style ("**N)", "### N) Título", "N. ", "N) "): el proponente
+                # es la 1ª negrita "**[[X]] <verbo>**" (propuso/presentó/planteó/solicitó/
+                # mocionó). Usar la negrita (no los 110 chars) evita capturar concejales
+                # mencionados en la petición.
+                seg = ""
+                for mb in _BOLD_SPAN.finditer(item):
+                    span = mb.group(1)
+                    if _WIKILINK.search(span) and _BOLD_PROPOSE.search(span):
+                        seg = span
+                        break
+                if not seg:
+                    # Fallback formato B "Minuta [[A]] / [[B]] — Título: **[[C]] opinó**"
+                    # (proponentes antes del guión, sin verbo proponente propio).
+                    vm = _PROPOSE_VERB.search(item)
+                    dm = re.search(r"[—–]", item)
+                    seg = item[: vm.start()] if vm else item[:110]
+                    if dm and (vm is None or dm.start() < vm.start()):
+                        hd = item[: dm.start()]
+                        if _WIKILINK.search(hd):
+                            seg = hd
             # 2. "[[A]] / [[B]]" = autor (antes del 1er "/") / secunda (después).
             #    Sin "/" → todos co-autores ("[[A]], [[B]] y [[C]] propusieron").
-            autor_slugs, secunda_slash = _split_by_slash(seg, canon, tokens)
+            autor_seg, secunda_slash = _split_by_slash(seg, canon, tokens)
             # 3. secunda explícito "(secundado por …)".
             sm = _SECUNDADO.search(item)
             secunda_clause = _wikilink_slugs(sm.group(1), canon, tokens) if sm else []
-            secunda_slugs = [s for s in dict.fromkeys(secunda_slash + secunda_clause) if s not in autor_slugs]
+            # El autor NUNCA es alguien marcado como secunda. Esto corrige los ítems con
+            # verbos no listados ("planteó", "solicitó") donde el segmento llegaba a
+            # incluir la cláusula "(secundada por X)" y contaba a X como falso co-autor.
+            secunda_slugs = list(dict.fromkeys(secunda_slash + secunda_clause))
+            autor_slugs = [s for s in autor_seg if s not in secunda_slugs]
             desc = _minuta_desc(item)
             for s in autor_slugs:
                 if s in out:
@@ -298,6 +337,31 @@ def parse_acta_minutas(
             for s in secunda_slugs:
                 if s in out:
                     out[s]["minuta_secunda"].append((fecha, acta_stem, desc))
+
+        # Fallback sin marcadores: secciones que listan minutas como párrafos
+        # "**[[X]] propuso:** petición" sin numeración ni "### Minuta". Solo si la
+        # sección no tuvo NINGÚN ítem con marcador (para no duplicar ni meter debate).
+        if matched == 0:
+            for mb in _BOLD_SPAN.finditer(section):
+                span = mb.group(1)
+                if not _ATTRIB_VERB.search(span):
+                    continue
+                autor_slugs = _wikilink_slugs(span, canon, tokens)
+                if not autor_slugs:
+                    continue
+                tail = span + section[mb.end() : mb.end() + 120]
+                sm = _SECUNDADO.search(tail)
+                secunda_slugs = (
+                    [s for s in _wikilink_slugs(sm.group(1), canon, tokens) if s not in autor_slugs]
+                    if sm else []
+                )
+                desc = _minuta_desc(span)
+                for s in autor_slugs:
+                    if s in out:
+                        out[s]["minuta_autor"].append((fecha, acta_stem, desc))
+                for s in secunda_slugs:
+                    if s in out:
+                        out[s]["minuta_secunda"].append((fecha, acta_stem, desc))
 
 
 def scan_actas(canon: dict[str, str], slugs: list[str]) -> dict[str, dict]:

@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **204 sesiones plenarias** (89%); ausente en **26**. Rango: 2021-11-09 a 2026-05-06.
-- Productividad legislativa: **106 minutas presentadas en sesión** (autor/co-autor) · 25 secundadas · 6 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **137** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **172 minutas presentadas en sesión** (autor/co-autor) · 43 secundadas · 6 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **221** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **729 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -105,7 +105,7 @@ Keiji Ishibashi no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 > _Extraído de la sección «Minutas» de las 232 actas (2021-2026), incluyendo minutas escritas y verbales. «Autor/co-autor» = quien la presenta; «secundante» = co-firmante (convención «Autor / Secunda» del acta). No distingue el impacto normativo de cada minuta (puede ir desde un proyecto de ordenanza hasta una mención)._
 
-### Como autor / co-autor (106)
+### Como autor / co-autor (172)
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Ejecutivo la reposición del parque infantil frente a la playa San José, en proximidades del Mirador
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Ejecutivo la prohibición de circulación de motos eléctricas en la vereda de la costanera República del Paraguay
 - 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente la realización de un conteo del volumen de pasajeros en el transporte público de Encarnación, conforme al protocolo e instrumental anexados
@@ -116,9 +116,9 @@ Keiji Ishibashi no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2026-02-25 · [[2026-02-25 - Acta 209-2026]] — solicitar al Ejecutivo y a [[FEPASA]] la remisión de una alternativa de accesos al barrio Chaipé y el usufructo de la franja de dominio de la vía férrea como espacio público para e
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — solicitar al Ejecutivo, vía Direcciones de Infraestructura Pública y de Gestión Ambiental, una inspección de las instalaciones de desagüe cloacal y pluvial de las propiedades que l
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — solicitar al Ejecutivo, a la [[EBY]] y a la [[ESSAP]] organizar una mesa de trabajo que garantice acciones efectivas para el mantenimiento de la infraestructura de desagüe cloacal
-- _(+ 96 más; lista completa en las actas de cada sesión)_
+- _(+ 162 más; lista completa en las actas de cada sesión)_
 
-### Como secundante (25)
+### Como secundante (43)
 - 2025-12-22 · [[2025-12-22 - Acta 203-2025]] — solicitar al Intendente analizar la factibilidad de implementar juegos de mesa de entretenimiento (ajedrez, dama y otros) en espacios techados de dominio municipal, como opción tur
 - 2025-12-10 · [[2025-12-10 - Acta 200-2025]] — solicitar la declaración como área protegida de interés ambiental y social de la naciente hídrica y cauce natural de agua del Barrio Sagrada Familia, conforme a la [[Ley 3239/2007|
 - 2025-09-03 · [[2025-09-03 - Acta 186-2025]] — la remisión de una nota al Intendente elevando un proyecto para la construcción de una cancha multifuncional para deportes (patín, futsal, handball, otros), con medidas oficiales y
@@ -129,4 +129,4 @@ Keiji Ishibashi no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2025-07-09 · [[2025-07-09 - Acta 178-2025]] — remitir nota al Intendente para que gestione ante el Consorcio del SEM la eliminación inmediata de la marcación de estacionamiento medido sobre la Ruta Internacional San Roque Gonz
 - 2025-07-09 · [[2025-07-09 - Acta 178-2025]] — remitir nota a la Policía Nacional de Itapúa para poner en funcionamiento las cámaras del sistema 911 e instalar más cámaras en zonas estratégicas (rotonda de Curupayty) ante el Ca
 - 2025-05-07 · [[2025-05-07 - Acta 169-2025]] — la marcación y habilitación de 2 lugares de estacionamiento reservado de carácter temporal frente al local de la Junta, para ascenso y descenso de personas de la tercera edad o con
-- _(+ 15 más; lista completa en las actas de cada sesión)_
+- _(+ 33 más; lista completa en las actas de cada sesión)_

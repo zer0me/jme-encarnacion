@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **225 sesiones plenarias** (97%); ausente en **7**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **138 minutas presentadas en sesión** (autor/co-autor) · 37 secundadas · 2 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **177** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **223 minutas presentadas en sesión** (autor/co-autor) · 69 secundadas · 2 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **294** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **773 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -101,7 +101,7 @@ Carlos Marino Fernández no figura como secunda de ninguna resolución entre 202
 
 > _Extraído de la sección «Minutas» de las 232 actas (2021-2026), incluyendo minutas escritas y verbales. «Autor/co-autor» = quien la presenta; «secundante» = co-firmante (convención «Autor / Secunda» del acta). No distingue el impacto normativo de cada minuta (puede ir desde un proyecto de ordenanza hasta una mención)._
 
-### Como autor / co-autor (138)
+### Como autor / co-autor (223)
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — la declaración de Interés Municipal del libro «El emprendimiento hidroeléctrico Yacyretá y sus incidencias sobre los derechos humanos: Visión Ambiental» ([[Pablo Villalba]])
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — crear un Fondo Especial destinado a apoyar a instituciones educativas en casos de desastres naturales o incendios
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — relevamiento, intervención y posterior reparación del Parque Infantil sobre Avda
@@ -112,17 +112,17 @@ Carlos Marino Fernández no figura como secunda de ninguna resolución entre 202
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — elevar un Proyecto de Ordenanza «que prohíbe el uso de dispositivos roncadores o similares en motocicletas dentro del ejido urbano del Municipio de Encarnación», para proteger la s
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — elevar un Proyecto de Ordenanza «De Protección y Bienestar Animal y Tenencia Responsable del Municipio de Encarnación, en concordancia con la Ley Nacional N° 7513/25», para integra
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — un relevamiento y posterior mantenimiento del entorno y del Monumento a las Paseras o Revendedoras de Frontera, que reconoce a las mujeres trabajadoras sostén de familias encarnace
-- _(+ 128 más; lista completa en las actas de cada sesión)_
+- _(+ 213 más; lista completa en las actas de cada sesión)_
 
-### Como secundante (37)
+### Como secundante (69)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente que se notifique al propietario del ómnibus estacionado en inmediaciones del [[Colegio San Roque González]] de Santa Cruz, que obstaculiza la visibilidad de
 - 2026-04-29 · [[2026-04-29 - Acta 217-2026]] — autorizar la entrega de una Mención Especial de Reconocimiento a los alumnos de la carrera de Ingeniería Informática de la [[Universidad Católica|UCA «Nuestra Señora de la Asunción
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — autorizar la entrega de una Mención Especial de Reconocimiento al joven deportista [[Juan José Villalba Fernández]], quien con 12 años obtuvo la única medalla para Paraguay en la C
 - 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — elevar a las Comisiones de Educación y de Cultura una Mención Especial de Reconocimiento a Mariano San Martín Candia, Santino Gómez, David Zorrilla, Zoe Gómez, Thiago Bruchman y Fr
+- 2026-03-04 · [[2026-03-04 - Acta 210-2026]] — solicitar la entrega de menciones especiales a los estudiantes de la carrera de Derecho de la [[Universidad Católica]] – CAMPUS Itapúa, que obtuvieron el Vice Campeonato y el premi
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — solicitar al Ejecutivo, a la [[EBY]] y a la [[ESSAP]] organizar una mesa de trabajo que garantice acciones efectivas para el mantenimiento de la infraestructura de desagüe cloacal
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — solicitar al Intendente la posibilidad de disponer, al menos una vez por semana, de un profesional odontólogo del Hospital Pediátrico para prestar servicios en la Unidad de Salud d
 - 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — volver a presentar un cronograma para el estudio de ordenanzas pendientes de tratamiento en la Comisión de Legislación, a fin de regular temas del POUT
 - 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — solicitar a la [[EBY]] un informe sobre la implementación del Plan de Gestión Ambiental para los sub-embalses del arroyo Potí'y y sobre la cantidad y funcionamiento de las estacion
 - 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — reiterar la solicitud al Ejecutivo sobre la posibilidad de implementar la [[Ordenanza 410/98]] que regula el canon por utilización del espacio público municipal (cableado aéreo), p
-- 2025-12-17 · [[2025-12-17 - Acta 201-2025]] — la instalación de reductores de velocidad en la calle Los Obreros y la adecuada señalización de tránsito, atendiendo al reiterado pedido de vecinos y al flujo de visitantes de fin
-- _(+ 27 más; lista completa en las actas de cada sesión)_
+- _(+ 59 más; lista completa en las actas de cada sesión)_

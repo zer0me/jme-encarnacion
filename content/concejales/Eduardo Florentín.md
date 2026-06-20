@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **207 sesiones plenarias** (89%); ausente en **25**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **133 minutas presentadas en sesión** (autor/co-autor) · 51 secundadas · 12 resoluciones (autor) · 2 (secunda). Total de iniciativas firmadas: **198** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **203 minutas presentadas en sesión** (autor/co-autor) · 91 secundadas · 12 resoluciones (autor) · 2 (secunda). Total de iniciativas firmadas: **308** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **643 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -111,7 +111,7 @@ Temas sobre los que más intervino:
 
 > _Extraído de la sección «Minutas» de las 232 actas (2021-2026), incluyendo minutas escritas y verbales. «Autor/co-autor» = quien la presenta; «secundante» = co-firmante (convención «Autor / Secunda» del acta). No distingue el impacto normativo de cada minuta (puede ir desde un proyecto de ordenanza hasta una mención)._
 
-### Como autor / co-autor (133)
+### Como autor / co-autor (203)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente analizar la factibilidad del pavimento tipo empedrado o asfalto en el estacionamiento de tierra de la Feria Municipal La Placita, sobre la calle Don Gil Río
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente intervenir y regularizar la presencia de vendedores informales en las inmediaciones de los locales comerciales de la Feria Municipal La Placita (calle Don G
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — autorizar la Declaración de Interés Municipal del II Congreso Internacional Contabilidad – ITAPÚA 2026, el I Congreso Nacional de Educadores del Área Contable y el I Congreso Nacio
@@ -121,18 +121,18 @@ Temas sobre los que más intervino:
 - 2026-04-29 · [[2026-04-29 - Acta 217-2026]] — una minuta verbal para adecuar el acceso al [[Club de Remo y Canotaje]]: «es muy costoso enviar una nota al ejecutivo para que pueda realizarlo a la brevedad posible por el hecho d
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — solicitar al Intendente, vía Dirección Municipal correspondiente, un informe con el listado detallado de cheques emitidos por Tesorería y no entregados al 31 de diciembre de 2025
 - 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — solicitar al Intendente un análisis jurídico sobre la posibilidad de resolver la interrupción del Servicio de Estacionamiento Medido (SEM), considerando que el contrato con la empr
-- 2025-11-19 · [[2025-11-19 - Acta 197-2025]] — solicitar al Intendente un informe detallado sobre el servicio de recolección de residuos: montos percibidos por la tercerización, cobros por tributos atrasados y del año en curso
-- _(+ 123 más; lista completa en las actas de cada sesión)_
+- 2026-01-28 · [[2026-01-28 - Acta 205-2026]] — 6. [[Fredy Ortega]], [[Andrés Morel]], [[Eduardo Florentín]] y [[Eduardo Rebruk]]: nota al Intendente solicitando la interrupción del Servicio de Estacionamiento Medido, por consid
+- _(+ 193 más; lista completa en las actas de cada sesión)_
 
-### Como secundante (51)
+### Como secundante (91)
 - 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente la actualización de la transferencia de las sumas recaudadas en concepto de la Tasa de Prevención contra incendios a favor del [[Cuerpo de Bomberos Voluntar
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — solicitar al Intendente la realización de trabajos de mantenimiento de caminos vecinales en el sector Santa Rita y San Luis del Paraná, vías fundamentales para la movilidad rural y
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — un proyecto de Ordenanza «POR LA CUAL SE ACTUALIZA EL RÉGIMEN DE PROTECCIÓN, RESCATE Y CONSERVACIÓN DEL PATRIMONIO CULTURAL DE LA CIUDAD DE ENCARNACIÓN», estableciendo protocolos d
+- 2026-03-04 · [[2026-03-04 - Acta 210-2026]] — elevar notas a la Gerencia Regional de la [[ANDE]], a la Gerencia Regional de la [[COPACO]] y a representantes de empresas proveedoras de internet, telefonía y videocable, para coo
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — reiterar el pedido realizado por Nota N° 09/2026 (29 de enero de 2026) de remisión de comprobantes de ingresos del Sistema de Estacionamiento Medido, Sistema de Recolección de Basu
 - 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — solicitar a la presidencia de la [[EBY]] conformar una mesa técnica de trabajo interinstitucional (con [[MADES]], academia y municipios) para evaluar el sub-embalse Potí'y, ante la
 - 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — solicitar a la presidencia de la [[ESSAP]] el préstamo y asignación temporal de un camión atmosférico por aproximadamente una semana, para desobstrucción y limpieza del sistema clo
-- 2025-11-26 · [[2025-11-26 - Acta 198-2025]] — solicitar al Intendente la notificación y limpieza del patio baldío ubicado sobre la calle Nicolás Schmid (B° San Pedro), en estado de abandono con acumulación de malezas y residuo
-- 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — solicitar al Intendente el mantenimiento y recambio de las luminarias de la Costanera en todo su trayecto
-- 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — solicitar al Intendente analizar la posibilidad de disponer un estudio técnico, económico y jurídico para establecer un sistema de alianza público-privada para la construcción, adm
-- 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — solicitar al Intendente que se realice un estudio y evaluación técnica, jurídica y ambiental respecto a la utilización de terrenos de la [[EBY]] para destinar a la implantación de
-- _(+ 41 más; lista completa en las actas de cada sesión)_
+- 2026-01-28 · [[2026-01-28 - Acta 205-2026]] — 4. [[Andrés Morel]] (secundada por [[Eduardo Florentín]]): nota al Intendente para conformar una mesa técnica interinstitucional ([[Municipalidad de Encarnación|Municipalidad]], Ju
+- 2026-01-28 · [[2026-01-28 - Acta 205-2026]] — 5. [[Andrés Morel]] (secundada por [[Eduardo Florentín]]): nota a la [[ESSAP]] solicitando el préstamo temporal de un camión atmosférico (1 semana) para tareas de desobstrucción y
+- 2026-01-21 · [[2026-01-21 - Acta 204-2026]] — remitir nota al Intendente solicitando informe sobre la existencia de sistemas de premios, incentivos o bonificaciones a agentes de tránsito, inspectores o personal vinculado al co
+- _(+ 81 más; lista completa en las actas de cada sesión)_
