@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **216 sesiones plenarias** (95%); ausente en **12**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **40 minutas presentadas en sesión** (autor/co-autor) · 10 secundadas · 7 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **57** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **66 minutas presentadas en sesión** (autor/co-autor) · 26 secundadas · 7 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **99** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **419 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -104,9 +104,9 @@ Fredy Ortega no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 ## Minutas presentadas en sesión (según actas)
 
-> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+> _Extraído de la sección «Minutas» de las 232 actas (2021-2026), incluyendo minutas escritas y verbales. «Autor/co-autor» = quien la presenta; «secundante» = co-firmante (convención «Autor / Secunda» del acta). No distingue el impacto normativo de cada minuta (puede ir desde un proyecto de ordenanza hasta una mención)._
 
-### Como autor / co-autor (40)
+### Como autor / co-autor (66)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — notificar a las empresas de transporte público del Distrito que deben reconocer el carnet universitario y el carnet de la tercera edad
 - 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — la entrega de una Mención Especial de Reconocimiento a la niña [[Ximena García Vargas]], Campeona Nacional de Ajedrez Infanto Juvenil categoría Sub 6 femenino (torneo del 6 al 8 de
 - 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — elevar a las Comisiones de Educación y de Cultura una Mención Especial de Reconocimiento al deportista encarnaceno [[Diego Flores]], campeón del Nacional de mayores de Fútbol de Sa
@@ -117,16 +117,17 @@ Fredy Ortega no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2025-09-10 · [[2025-09-10 - Acta 187-2025]] — una mención especial de reconocimiento a [[Julio Müller]], miembro de la organización del WRC Ueno Rally del Paraguay (agosto 2025), por su aporte fundamental a la logística, segur
 - 2025-09-10 · [[2025-09-10 - Acta 187-2025]] — menciones especiales a [[Benjamín Torres]], [[David Aquino]], [[Santiago Bogado]] y [[Lucas Ayala]], de la Selección Paraguaya de Fútbol de Salón C13, vicecampeones del Mundial de
 - 2025-09-10 · [[2025-09-10 - Acta 187-2025]] — menciones a los jugadores, cuerpo técnico y directivos del [[Encarnación F.C.]], campeones de la Copa Oro Sub 15
-- _(+ 30 más; lista completa en las actas de cada sesión)_
+- _(+ 56 más; lista completa en las actas de cada sesión)_
 
-### Como secundante (10)
+### Como secundante (26)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — declarar de Interés Educativo Municipal el funcionamiento de la Granja modelo «Abuelo Adolfo» (barrio Itaguá'i), que concretó con la [[UNAE]] un convenio de cooperación interinstit
 - 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente un informe detallado sobre la cantidad de funcionarios de la Policía Municipal de Tránsito (PMT) contratados desde la implementación del SEM y cuántos ofici
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — analizar la factibilidad de colocar mallas o tejido de seguridad en los parques infantiles de las costaneras [[Padre Bolik]] y [[República del Paraguay]]
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — la entrega de Menciones Especiales de Reconocimiento a los integrantes de la academia [[Kung Fu Dragones Dorados de Encarnación]], que obtuvieron medallas en el 8vo
 - 2025-07-02 · [[2025-07-02 - Acta 177-2025]] — elevar para estudio de la Comisión de Planificación una propuesta de nominación de calle en nombre de [[Emilio Closs|Don Emilio Closs]], conforme al currículum adjunto
 - 2025-06-25 · [[2025-06-25 - Acta 176-2025]] — nota al [[MOPC]] para gestionar un reductor de velocidad (lomada o semáforo) sobre la Ruta PY N° 1, en la entrada de los Barrios Itá Paso y 8 de Diciembre, por accidentes fatales r
-- 2023-05-17 · [[2023-05-17 - Acta 73-2023]] — Parque Mboi Ca'e — Minuta de [[Diego Aquino]] secundada por [[Fredy Ortega]] para reacondicionar el parque infantil de la Playa Mboi Ca'e (juegos en mal estado) antes del verano
-- 2022-11-23 · [[2022-11-23 - Acta 51-2022]] — Minuta de [[Diego Aquino]], secundada por [[Fredy Ortega]]: acompañar la 18° Colecta Nacional de Alimentos (sábado 03-12-2022) del [[Banco Alimentos]]; autorizar conferencia de pre
-- 2022-11-23 · [[2022-11-23 - Acta 51-2022]] — Minuta de [[Eduardo Rebruk]], secundada por [[Fredy Ortega]]: declaración de interés municipal de la 43° Edición de la Media Maratón del Asfalto (26-11-2022), única media maratón n
-- 2022-04-20 · [[2022-04-20 - Acta 20-2022]] — Minuta de [[Nehemías Cuevas]] secundada por [[Fredy Ortega]]: iluminación del parque infantil cercano al monumento Yo Amo Encarnación y Ludoteca
+- 2024-09-25 · [[2024-09-25 - Acta 141-2024]] — lograr (mediante fotografías ya tomadas) un trabajo de inventario con QR o Google Earth para ubicar los carteles
+- 2024-09-25 · [[2024-09-25 - Acta 141-2024]] — Menciones a medallistas de la 21° Olimpiada Nacional de Matemáticas OMAPA Presentada por [[Nehemías Cuevas]] y secundada por [[Fredy Ortega]]
+- 2024-09-25 · [[2024-09-25 - Acta 141-2024]] — Mención a [[Melani Airam Batura Chamorro]] (Belleza Kids, Mis Mini Top Model Sur Itapúa) Presentada por [[Nehemías Cuevas]] y secundada por [[Fredy Ortega]]
+- 2024-07-31 · [[2024-07-31 - Acta 133-2024]] — Mención al equipo de Handball del Club Deportivo Encarnación [[Natalia Enciso]] secundada por [[Fredy Ortega]] solicita entrega de menciones especiales a atletas encarnacenos, cuer
+- _(+ 16 más; lista completa en las actas de cada sesión)_

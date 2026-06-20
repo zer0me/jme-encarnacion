@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **226 sesiones plenarias** (97%); ausente en **6**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **50 minutas presentadas en sesión** (autor/co-autor) · 48 secundadas · 12 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **110** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **78 minutas presentadas en sesión** (autor/co-autor) · 87 secundadas · 12 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **177** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **365 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -108,9 +108,9 @@ Gloria Arregui no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 ## Minutas presentadas en sesión (según actas)
 
-> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+> _Extraído de la sección «Minutas» de las 232 actas (2021-2026), incluyendo minutas escritas y verbales. «Autor/co-autor» = quien la presenta; «secundante» = co-firmante (convención «Autor / Secunda» del acta). No distingue el impacto normativo de cada minuta (puede ir desde un proyecto de ordenanza hasta una mención)._
 
-### Como autor / co-autor (50)
+### Como autor / co-autor (78)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente que se notifique al propietario del ómnibus estacionado en inmediaciones del [[Colegio San Roque González]] de Santa Cruz, que obstaculiza la visibilidad de
 - 2026-04-29 · [[2026-04-29 - Acta 217-2026]] — autorizar la entrega de una Mención Especial de Reconocimiento a los alumnos de la carrera de Ingeniería Informática de la [[Universidad Católica|UCA «Nuestra Señora de la Asunción
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — autorizar la entrega de una Mención Especial de Reconocimiento al joven deportista [[Juan José Villalba Fernández]], quien con 12 años obtuvo la única medalla para Paraguay en la C
@@ -121,9 +121,9 @@ Gloria Arregui no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2025-12-10 · [[2025-12-10 - Acta 200-2025]] — solicitar al Ejecutivo controles y fiscalizaciones continuas e intensificadas sobre los vendedores ambulantes del Circuito Comercial (zona conocida como Alaska, inmediaciones de la
 - 2025-12-10 · [[2025-12-10 - Acta 200-2025]] — solicitar la declaración como área protegida de interés ambiental y social de la naciente hídrica y cauce natural de agua del Barrio Sagrada Familia, conforme a la [[Ley 3239/2007|
 - 2025-12-10 · [[2025-12-10 - Acta 200-2025]] — solicitar al Intendente analizar posibles soluciones para evitar la tala del árbol ubicado en la calle 25 de Mayo casi Carlos Antonio López (margen derecho), en sentido de circulac
-- _(+ 40 más; lista completa en las actas de cada sesión)_
+- _(+ 68 más; lista completa en las actas de cada sesión)_
 
-### Como secundante (48)
+### Como secundante (87)
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — remitir nota al Intendente para analizar la factibilidad de construir una rotonda en la intersección de Avda
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — remitir nota al Intendente para analizar la factibilidad de colocar un semáforo en la intersección de Independencia Nacional y Avda
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — solicitar Menciones Especiales de Reconocimiento a alumnos de los Colegios Privados [[Colegio Privado Girasoles|Girasoles]] y [[Colegio Privado Divina Esperanza|Divina Esperanza]]
@@ -134,4 +134,4 @@ Gloria Arregui no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar al Ejecutivo una propuesta de homenaje a las Paseras de la frontera Encarnación-Posadas mediante la realización de un festival anual
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — gestionar ante la [[ESSAP]] la verificación técnica y reparación del vertido permanente de agua aparentemente tratada detectado en el barrio Pacú Cuá, que constituye un desperdicio
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — la remisión de una nota directa a la [[ESSAP]] para la verificación técnica y reparación a la brevedad del mismo vertido del barrio Pacú Cuá, con material audiovisual que lo docume
-- _(+ 38 más; lista completa en las actas de cada sesión)_
+- _(+ 77 más; lista completa en las actas de cada sesión)_

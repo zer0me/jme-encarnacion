@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **207 sesiones plenarias** (89%); ausente en **25**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **76 minutas presentadas en sesión** (autor/co-autor) · 28 secundadas · 12 resoluciones (autor) · 2 (secunda). Total de iniciativas firmadas: **118** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **133 minutas presentadas en sesión** (autor/co-autor) · 51 secundadas · 12 resoluciones (autor) · 2 (secunda). Total de iniciativas firmadas: **198** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **643 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -109,9 +109,9 @@ Temas sobre los que más intervino:
 
 ## Minutas presentadas en sesión (según actas)
 
-> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+> _Extraído de la sección «Minutas» de las 232 actas (2021-2026), incluyendo minutas escritas y verbales. «Autor/co-autor» = quien la presenta; «secundante» = co-firmante (convención «Autor / Secunda» del acta). No distingue el impacto normativo de cada minuta (puede ir desde un proyecto de ordenanza hasta una mención)._
 
-### Como autor / co-autor (76)
+### Como autor / co-autor (133)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente analizar la factibilidad del pavimento tipo empedrado o asfalto en el estacionamiento de tierra de la Feria Municipal La Placita, sobre la calle Don Gil Río
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente intervenir y regularizar la presencia de vendedores informales en las inmediaciones de los locales comerciales de la Feria Municipal La Placita (calle Don G
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — autorizar la Declaración de Interés Municipal del II Congreso Internacional Contabilidad – ITAPÚA 2026, el I Congreso Nacional de Educadores del Área Contable y el I Congreso Nacio
@@ -122,9 +122,9 @@ Temas sobre los que más intervino:
 - 2026-02-18 · [[2026-02-18 - Acta 208-2026]] — solicitar al Intendente, vía Dirección Municipal correspondiente, un informe con el listado detallado de cheques emitidos por Tesorería y no entregados al 31 de diciembre de 2025
 - 2026-02-04 · [[2026-02-04 - Acta 206-2026]] — solicitar al Intendente un análisis jurídico sobre la posibilidad de resolver la interrupción del Servicio de Estacionamiento Medido (SEM), considerando que el contrato con la empr
 - 2025-11-19 · [[2025-11-19 - Acta 197-2025]] — solicitar al Intendente un informe detallado sobre el servicio de recolección de residuos: montos percibidos por la tercerización, cobros por tributos atrasados y del año en curso
-- _(+ 66 más; lista completa en las actas de cada sesión)_
+- _(+ 123 más; lista completa en las actas de cada sesión)_
 
-### Como secundante (28)
+### Como secundante (51)
 - 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente la actualización de la transferencia de las sumas recaudadas en concepto de la Tasa de Prevención contra incendios a favor del [[Cuerpo de Bomberos Voluntar
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — solicitar al Intendente la realización de trabajos de mantenimiento de caminos vecinales en el sector Santa Rita y San Luis del Paraná, vías fundamentales para la movilidad rural y
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — un proyecto de Ordenanza «POR LA CUAL SE ACTUALIZA EL RÉGIMEN DE PROTECCIÓN, RESCATE Y CONSERVACIÓN DEL PATRIMONIO CULTURAL DE LA CIUDAD DE ENCARNACIÓN», estableciendo protocolos d
@@ -135,4 +135,4 @@ Temas sobre los que más intervino:
 - 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — solicitar al Intendente el mantenimiento y recambio de las luminarias de la Costanera en todo su trayecto
 - 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — solicitar al Intendente analizar la posibilidad de disponer un estudio técnico, económico y jurídico para establecer un sistema de alianza público-privada para la construcción, adm
 - 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — solicitar al Intendente que se realice un estudio y evaluación técnica, jurídica y ambiental respecto a la utilización de terrenos de la [[EBY]] para destinar a la implantación de
-- _(+ 18 más; lista completa en las actas de cada sesión)_
+- _(+ 41 más; lista completa en las actas de cada sesión)_

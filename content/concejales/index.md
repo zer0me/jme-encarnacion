@@ -55,8 +55,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">128</div>
-<div class="jme-stat-label">Iniciativas firmadas<br><small>105 autor · 23 secunda</small></div>
+<div class="jme-stat-value">190</div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>153 autor · 37 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -117,8 +117,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">116</div>
-<div class="jme-stat-label">Iniciativas firmadas<br><small>70 autor · 46 secunda</small></div>
+<div class="jme-stat-value">176</div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>118 autor · 58 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -179,8 +179,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">71</div>
-<div class="jme-stat-label">Iniciativas firmadas<br><small>36 autor · 35 secunda</small></div>
+<div class="jme-stat-value">112</div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>61 autor · 51 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -242,8 +242,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">83</div>
-<div class="jme-stat-label">Iniciativas firmadas<br><small>73 autor · 10 secunda</small></div>
+<div class="jme-stat-value">137</div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>112 autor · 25 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -304,8 +304,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">96</div>
-<div class="jme-stat-label">Iniciativas firmadas<br><small>71 autor · 25 secunda</small></div>
+<div class="jme-stat-value">177</div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>140 autor · 37 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -366,8 +366,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">57</div>
-<div class="jme-stat-label">Iniciativas firmadas<br><small>28 autor · 29 secunda</small></div>
+<div class="jme-stat-value">108</div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>51 autor · 57 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -428,8 +428,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">65</div>
-<div class="jme-stat-label">Iniciativas firmadas<br><small>40 autor · 25 secunda</small></div>
+<div class="jme-stat-value">122</div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>75 autor · 47 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -490,8 +490,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">110</div>
-<div class="jme-stat-label">Iniciativas firmadas<br><small>62 autor · 48 secunda</small></div>
+<div class="jme-stat-value">177</div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>90 autor · 87 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -553,8 +553,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">215</div>
-<div class="jme-stat-label">Iniciativas firmadas<br><small>166 autor · 49 secunda</small></div>
+<div class="jme-stat-value">340</div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>238 autor · 102 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -615,8 +615,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">57</div>
-<div class="jme-stat-label">Iniciativas firmadas<br><small>47 autor · 10 secunda</small></div>
+<div class="jme-stat-value">99</div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>73 autor · 26 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -677,8 +677,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">118</div>
-<div class="jme-stat-label">Iniciativas firmadas<br><small>88 autor · 30 secunda</small></div>
+<div class="jme-stat-value">198</div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>145 autor · 53 secunda</small></div>
 </div>
 
 <div class="jme-stat">
@@ -739,8 +739,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">207</div>
-<div class="jme-stat-label">Iniciativas firmadas<br><small>99 autor · 108 secunda</small></div>
+<div class="jme-stat-value">284</div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>129 autor · 155 secunda</small></div>
 </div>
 
 <div class="jme-stat">

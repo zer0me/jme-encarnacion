@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **197 sesiones plenarias** (85%); ausente en **35**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **27 minutas presentadas en sesión** (autor/co-autor) · 28 secundadas · 1 resolución (autor) · 1 (secunda). Total de iniciativas firmadas: **57** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **50 minutas presentadas en sesión** (autor/co-autor) · 56 secundadas · 1 resolución (autor) · 1 (secunda). Total de iniciativas firmadas: **108** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **460 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -98,9 +98,9 @@ Temas sobre los que más intervino:
 
 ## Minutas presentadas en sesión (según actas)
 
-> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+> _Extraído de la sección «Minutas» de las 232 actas (2021-2026), incluyendo minutas escritas y verbales. «Autor/co-autor» = quien la presenta; «secundante» = co-firmante (convención «Autor / Secunda» del acta). No distingue el impacto normativo de cada minuta (puede ir desde un proyecto de ordenanza hasta una mención)._
 
-### Como autor / co-autor (27)
+### Como autor / co-autor (50)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — autorizar una remisión al Ejecutivo para que, por las áreas competentes, se exija a la empresa de transporte público que aún usufructúa los espacios públicos el cumplimiento de los
 - 2025-12-22 · [[2025-12-22 - Acta 203-2025]] — solicitar al Intendente analizar la factibilidad de implementar juegos de mesa de entretenimiento (ajedrez, dama y otros) en espacios techados de dominio municipal, como opción tur
 - 2025-12-17 · [[2025-12-17 - Acta 201-2025]] — elevar un proyecto de Ordenanza «por la cual se reglamenta la recolección y disposición final de cubiertas en desuso en el distrito de Encarnación»
@@ -111,9 +111,9 @@ Temas sobre los que más intervino:
 - 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — solicitar al Intendente la señalización de sentido único de la calle Bomberos Voluntarios de Encarnación (B° Pacu Cuá), con carteles de «Contramano»
 - 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — elevar a la Plenaria un Proyecto de Ordenanza que reglamente las condiciones de arrendamiento para locales gastronómicos y similares en la Manzana 65 «Parque Lineal», en respuesta
 - 2025-07-23 · [[2025-07-23 - Acta 180-2025]] — Mención Especial al reconocido Prof. Superior [[Javier Goligorsky]], Director del Coro de la Universidad Católica (CORUCI), por su trayectoria musical
-- _(+ 17 más; lista completa en las actas de cada sesión)_
+- _(+ 40 más; lista completa en las actas de cada sesión)_
 
-### Como secundante (28)
+### Como secundante (56)
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Ejecutivo la reposición del parque infantil frente a la playa San José, en proximidades del Mirador
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Ejecutivo la prohibición de circulación de motos eléctricas en la vereda de la costanera República del Paraguay
 - 2026-04-15 · [[2026-04-15 - Acta 215-2026]] — solicitar al Intendente la realización de un conteo del volumen de pasajeros en el transporte público de Encarnación, conforme al protocolo e instrumental anexados
@@ -124,4 +124,4 @@ Temas sobre los que más intervino:
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Ejecutivo para el reacondicionamiento de las instalaciones de la plaza y cancha del B° Santo Domingo Centro, punto de encuentro comunitario que requiere intervencion
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Ejecutivo para el reacondicionamiento de la antigua salita de salud (puesto de salud) del B° Santo Domingo, a fin de que pueda ser utilizada nuevamente por profesion
 - 2026-02-25 · [[2026-02-25 - Acta 209-2026]] — solicitar al Ejecutivo y a [[FEPASA]] la remisión de una alternativa de accesos al barrio Chaipé y el usufructo de la franja de dominio de la vía férrea como espacio público para e
-- _(+ 18 más; lista completa en las actas de cada sesión)_
+- _(+ 46 más; lista completa en las actas de cada sesión)_

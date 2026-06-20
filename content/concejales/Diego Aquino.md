@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **213 sesiones plenarias** (95%); ausente en **12**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **99 minutas presentadas en sesión** (autor/co-autor) · 21 secundadas · 6 resoluciones (autor) · 2 (secunda). Total de iniciativas firmadas: **128** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **147 minutas presentadas en sesión** (autor/co-autor) · 35 secundadas · 6 resoluciones (autor) · 2 (secunda). Total de iniciativas firmadas: **190** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **824 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -100,9 +100,9 @@ Temas sobre los que más intervino:
 
 ## Minutas presentadas en sesión (según actas)
 
-> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+> _Extraído de la sección «Minutas» de las 232 actas (2021-2026), incluyendo minutas escritas y verbales. «Autor/co-autor» = quien la presenta; «secundante» = co-firmante (convención «Autor / Secunda» del acta). No distingue el impacto normativo de cada minuta (puede ir desde un proyecto de ordenanza hasta una mención)._
 
-### Como autor / co-autor (99)
+### Como autor / co-autor (147)
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — la entrega de Menciones Especiales de Reconocimiento a los niños de la categoría Sub 8 de la Selección Encarnacena, ganadores del Campeonato Interdistrital organizado por la Gobern
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — autorizar la entrega de una Mención Especial de Reconocimiento a la estudiante [[Tania Elizabeth Cardozo Gómez]] (Colegio Divina Esperanza) por su participación en la XXV Feria Int
 - 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — reiterar la nota al Ejecutivo solicitando informes sobre la situación financiera actual, incluyendo el pago por antigüedad a los funcionarios (cuyo plazo de utilización feneció en
@@ -113,9 +113,9 @@ Temas sobre los que más intervino:
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — Minuta verbal — [[Diego Aquino]] expresó una situación que se replica en todos los barrios: la falta de recursos en las dependencias del gobierno
 - 2026-02-25 · [[2026-02-25 - Acta 209-2026]] — solicitar al Intendente la marcación de las sendas peatonales en inmediaciones de las instituciones educativas de la zona céntrica, para garantizar mayor seguridad vial a los niños
 - 2026-02-25 · [[2026-02-25 - Acta 209-2026]] — enviar nota al [[MOPC|Ministerio de Obras Públicas]] para una solución definitiva en el acceso al barrio Kennedy
-- _(+ 89 más; lista completa en las actas de cada sesión)_
+- _(+ 137 más; lista completa en las actas de cada sesión)_
 
-### Como secundante (21)
+### Como secundante (35)
 - 2025-10-22 · [[2025-10-22 - Acta 193-2025]] — la remisión de una nota al Intendente para analizar la pavimentación empedrada de varias calles de tierra del B° San Pedro fracción San José, del B° Chaipé sector Santa Isabel y de
 - 2025-10-22 · [[2025-10-22 - Acta 193-2025]] — la remisión de una nota al Intendente para analizar la reparación del camino de acceso al B° Cuatro Potrero desde la Avda
 - 2025-09-24 · [[2025-09-24 - Acta 189-2025]] — elevar nota al Intendente para analizar una solución para los vecinos del barrio Sarita, ubicados sobre el camino principal que conduce al [[Hospital General de Itapúa]], cuyo acce
@@ -126,4 +126,4 @@ Temas sobre los que más intervino:
 - 2025-07-30 · [[2025-07-30 - Acta 181-2025]] — elevar nota al Intendente para la elaboración de un proyecto de utilización del mismo inmueble municipal (estacionamiento de casas rodantes y buses turísticos y universitarios), pr
 - 2025-07-30 · [[2025-07-30 - Acta 181-2025]] — elevar nota al Intendente para un informe detallado sobre los espacios verdes del comodato suscripto entre la Municipalidad de Encarnación y la [[EBY]], en el perímetro comprendido
 - 2025-07-23 · [[2025-07-23 - Acta 180-2025]] — solicitar al Intendente, por la Dirección de Infraestructura, las maquinarias municipales para la colocación de pavimento tipo ripio en el B° Chaipé-Sector Santa Isabel, donde los
-- _(+ 11 más; lista completa en las actas de cada sesión)_
+- _(+ 25 más; lista completa en las actas de cada sesión)_

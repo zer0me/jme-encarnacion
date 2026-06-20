@@ -165,7 +165,11 @@ def names_in_vote_field(value, dissent_tokens: dict[str, str]) -> set[str]:
 
 
 _MINUTA_HEADING = re.compile(r"^##[^\n]*[Mm]inutas[^\n]*$", re.MULTILINE)
-_MINUTA_ITEM = re.compile(r"(?=^\*\*\d+\))", re.MULTILINE)
+# Un ítem de minuta empieza con "**N)" (formato 2024-2026) o "### Minuta N — …"
+# (formato granular de las actas 2022-2023). Ambos se cuentan.
+_MINUTA_ITEM = re.compile(r"(?=^(?:\*\*\d+\)|###\s+[Mm]inuta))", re.MULTILINE)
+_MINUTA_D_HEADING = re.compile(r"^###\s+[Mm]inuta\b", re.IGNORECASE)
+_BOLD_SPAN = re.compile(r"\*\*([^*]+)\*\*")
 _PROPOSE_VERB = re.compile(r"\b(propus\w*|present[oó]\w*|presentaron|mocion\w*)\b", re.IGNORECASE)
 _SECUNDADO = re.compile(r"secundad[oa]s?\s+por\s+([^).]*)", re.IGNORECASE)
 _WIKILINK = re.compile(r"\[\[([^\]|]+)")
@@ -187,7 +191,8 @@ def _minuta_desc(item: str) -> str:
     Strips the leading "Proposer(s) propuso (secundado por X)" so the snippet is
     the substance (the card already says whose minuta it is by its section).
     """
-    s = re.sub(r"^\*\*\d+\)\s*", "", item.strip())
+    s = re.sub(r"^###\s+[Mm]inuta\s+\d*\s*[—–-]?\s*", "", item.strip())  # formato D
+    s = re.sub(r"^\*\*\d+\)\s*", "", s)  # formato N)
     s = s.replace("**", "")
     s = re.sub(r"\s+", " ", s).strip()
     m = _PROPOSE_VERB.search(s)
@@ -219,6 +224,21 @@ def _dedup_minutas(entries: list[tuple]) -> list[tuple]:
     return out
 
 
+def _split_by_slash(segment: str, canon: dict[str, str], tokens: dict[str, str]) -> tuple[list[str], list[str]]:
+    """Separar proponentes: convención "[[Autor]] / [[Secunda]]" del archivo JME.
+
+    Los nombres antes del primer "/" son autores (co-autores si van con ","/"y");
+    los que siguen al "/" son secundantes. Sin "/", todos son autores.
+    """
+    parts = segment.split("/")
+    autor = _wikilink_slugs(parts[0], canon, tokens)
+    secunda: list[str] = []
+    for p in parts[1:]:
+        secunda += _wikilink_slugs(p, canon, tokens)
+    secunda = [s for s in dict.fromkeys(secunda) if s not in autor]
+    return autor, secunda
+
+
 def parse_acta_minutas(
     body: str,
     fecha: str,
@@ -239,23 +259,38 @@ def parse_acta_minutas(
         nxt = re.search(r"^## ", body[start:], re.MULTILINE)
         section = body[start : start + nxt.start()] if nxt else body[start:]
         for item in _MINUTA_ITEM.split(section):
-            if not re.match(r"^\*\*\d+\)", item.strip()):
+            st = item.strip()
+            is_d = bool(_MINUTA_D_HEADING.match(st))
+            if not is_d and not re.match(r"^\*\*\d+\)", st):
                 continue
-            # El "head" es donde están los proponentes. Por defecto va hasta el verbo
-            # proponente. Caso "Minuta [[A]] / [[B]] — Título: **[[C]] opinó**" (proponentes
-            # ANTES del guión, sin verbo propio): cortar en el guión para no capturar al
-            # debatiente C. Pero NO cortar en el guión si no hay nombres antes de él
-            # (p.ej. "Minuta verbal — [[X]] propuso", donde el proponente va DESPUÉS).
-            vm = _PROPOSE_VERB.search(item)
-            dm = re.search(r"[—–]", item)
-            head = item[: vm.start()] if vm else item[:110]
-            if dm and (vm is None or dm.start() < vm.start()):
-                head_dash = item[: dm.start()]
-                if _wikilink_slugs(head_dash, canon, tokens):
-                    head = head_dash
+            # 1. Segmento donde figuran los proponentes.
+            if is_d:
+                # Formato D ("### Minuta N — Título (autor / secunda)\n**[[X]] propuso**"):
+                # nombres en el encabezado, o en la 1ª atribución en negrita si el
+                # encabezado no tiene wikilinks.
+                heading = item.split("\n", 1)[0]
+                seg = heading
+                if not _WIKILINK.search(heading):
+                    mb = _BOLD_SPAN.search(item)
+                    seg = mb.group(1) if mb else heading
+            else:
+                # Formato "**N)": el segmento va hasta el verbo proponente; excepción del
+                # guión "Minuta [[A]] / [[B]] — Título: **[[C]] opinó**" (cortar en el guión
+                # solo si hay nombres antes, para no capturar al debatiente C).
+                vm = _PROPOSE_VERB.search(item)
+                dm = re.search(r"[—–]", item)
+                seg = item[: vm.start()] if vm else item[:110]
+                if dm and (vm is None or dm.start() < vm.start()):
+                    hd = item[: dm.start()]
+                    if _WIKILINK.search(hd):
+                        seg = hd
+            # 2. "[[A]] / [[B]]" = autor (antes del 1er "/") / secunda (después).
+            #    Sin "/" → todos co-autores ("[[A]], [[B]] y [[C]] propusieron").
+            autor_slugs, secunda_slash = _split_by_slash(seg, canon, tokens)
+            # 3. secunda explícito "(secundado por …)".
             sm = _SECUNDADO.search(item)
-            secunda_slugs = set(_wikilink_slugs(sm.group(1), canon, tokens)) if sm else set()
-            autor_slugs = [s for s in _wikilink_slugs(head, canon, tokens) if s not in secunda_slugs]
+            secunda_clause = _wikilink_slugs(sm.group(1), canon, tokens) if sm else []
+            secunda_slugs = [s for s in dict.fromkeys(secunda_slash + secunda_clause) if s not in autor_slugs]
             desc = _minuta_desc(item)
             for s in autor_slugs:
                 if s in out:

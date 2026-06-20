@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **214 sesiones plenarias** (93%); ausente en **15**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **32 minutas presentadas en sesión** (autor/co-autor) · 25 secundadas · 8 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **65** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **67 minutas presentadas en sesión** (autor/co-autor) · 47 secundadas · 8 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **122** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **419 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -105,9 +105,9 @@ Natalia Enciso no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 ## Minutas presentadas en sesión (según actas)
 
-> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+> _Extraído de la sección «Minutas» de las 232 actas (2021-2026), incluyendo minutas escritas y verbales. «Autor/co-autor» = quien la presenta; «secundante» = co-firmante (convención «Autor / Secunda» del acta). No distingue el impacto normativo de cada minuta (puede ir desde un proyecto de ordenanza hasta una mención)._
 
-### Como autor / co-autor (32)
+### Como autor / co-autor (67)
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — enviar nota al Intendente solicitando a la jefatura de Comisiones Vecinales que haga efectivo el cumplimiento de los artículos de la Ordenanza sobre rendición de cuentas
 - 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — solicitar al Intendente el mantenimiento y puesta en condiciones de la capa asfáltica de la Avda
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — elevar nota al Ejecutivo para el reacondicionamiento de las instalaciones de la plaza y cancha del B° Santo Domingo Centro, punto de encuentro comunitario que requiere intervencion
@@ -118,9 +118,9 @@ Natalia Enciso no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2025-09-24 · [[2025-09-24 - Acta 189-2025]] — solicitar al Intendente la reiluminación de una cancha en la Costanera (donde estaba la Policía Municipal de Tránsito, antes del Club de Pesca), muy utilizada para vóley en tempora
 - 2025-09-03 · [[2025-09-03 - Acta 186-2025]] — la remisión de una nota al Intendente elevando un proyecto para la construcción de una cancha multifuncional para deportes (patín, futsal, handball, otros), con medidas oficiales y
 - 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — elevar a la Plenaria un Proyecto de Ordenanza que reglamente las condiciones de arrendamiento para locales gastronómicos y similares en la Manzana 65 «Parque Lineal», en respuesta
-- _(+ 22 más; lista completa en las actas de cada sesión)_
+- _(+ 57 más; lista completa en las actas de cada sesión)_
 
-### Como secundante (25)
+### Como secundante (47)
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — elevar nota al Ejecutivo para analizar la modificación o ampliación de las canchas de básquetbol del sector San José y costanera Padre Bolik
 - 2025-12-17 · [[2025-12-17 - Acta 201-2025]] — elevar un proyecto de Ordenanza «por la cual se reglamenta la recolección y disposición final de cubiertas en desuso en el distrito de Encarnación»
 - 2025-12-17 · [[2025-12-17 - Acta 201-2025]] — remitir nota al Intendente Municipal para la intervención, limpieza y ordenamiento del espacio verde detrás de los locales gastronómicos lineales del Parque Lineal sobre la calle A
@@ -131,4 +131,4 @@ Natalia Enciso no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2025-11-05 · [[2025-11-05 - Acta 195-2025]] — entregar una Mención Especial de Reconocimiento a la atleta [[Nadia Niven]] por sus logros en la disciplina del Fitness y Fisiculturismo y por representar al Paraguay en el Torneo
 - 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — solicitar al Intendente la señalización de sentido único de la calle Ángel Ramón Samudio (desde Ruta Nacional N° 1 hasta calle Gral
 - 2025-08-20 · [[2025-08-20 - Acta 184-2025]] — solicitar al Intendente la señalización de sentido único de la calle Bomberos Voluntarios de Encarnación (B° Pacu Cuá), con carteles de «Contramano»
-- _(+ 15 más; lista completa en las actas de cada sesión)_
+- _(+ 37 más; lista completa en las actas de cada sesión)_

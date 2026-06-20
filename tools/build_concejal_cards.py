@@ -519,9 +519,10 @@ def build_card(slug: str, persona: dict, docs: dict, actas: dict | None = None) 
         "",
         "## Minutas presentadas en sesión (según actas)",
         "",
-        "> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** "
-        "las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que "
-        "este total puede sub-representar a los concejales más activos del período inicial._",
+        "> _Extraído de la sección «Minutas» de las 232 actas (2021-2026), incluyendo "
+        "minutas escritas y verbales. «Autor/co-autor» = quien la presenta; «secundante» = "
+        "co-firmante (convención «Autor / Secunda» del acta). No distingue el impacto "
+        "normativo de cada minuta (puede ir desde un proyecto de ordenanza hasta una mención)._",
         "",
         f"### Como autor / co-autor ({n_minuta_autor})",
         render_minutas_actas(

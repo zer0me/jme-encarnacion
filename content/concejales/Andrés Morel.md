@@ -17,7 +17,7 @@ fecha_actualizacion: 2026-06-19
 
 ## Resumen cuantitativo
 - Asistencia: presente en **217 sesiones plenarias** (94%); ausente en **14**. Rango: 2021-11-09 a 2026-05-13.
-- Productividad legislativa: **160 minutas presentadas en sesión** (autor/co-autor) · 49 secundadas · 6 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **215** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
+- Productividad legislativa: **232 minutas presentadas en sesión** (autor/co-autor) · 102 secundadas · 6 resoluciones (autor) · 0 (secunda). Total de iniciativas firmadas: **340** (minutas contadas desde las actas + resoluciones curadas; abarca desde proyectos de ordenanza hasta pedidos de informe o declaraciones, sin distinguir su impacto normativo).
 - Participación en debate: **1122 intervenciones** registradas en actas.
 
 ## Rasgo político (observado en el archivo)
@@ -103,9 +103,9 @@ Andrés Morel no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 ## Minutas presentadas en sesión (según actas)
 
-> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+> _Extraído de la sección «Minutas» de las 232 actas (2021-2026), incluyendo minutas escritas y verbales. «Autor/co-autor» = quien la presenta; «secundante» = co-firmante (convención «Autor / Secunda» del acta). No distingue el impacto normativo de cada minuta (puede ir desde un proyecto de ordenanza hasta una mención)._
 
-### Como autor / co-autor (160)
+### Como autor / co-autor (232)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente las gestiones para la colocación de una réplica del Monolito de la Unión y Hermandad en Encarnación, en homenaje a la hermandad Posadas-Encarnación
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente, por medio de la Dirección de Catastro Municipal, conformar una mesa de trabajo interinstitucional con la Dirección de Catastro de la [[Municipalidad de Cam
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — elevar a la Comisión de Legislación un proyecto de ordenanza «por la cual se regula, prohíbe y establece el control y erradicación progresiva del tulipán africano (Spathodea campan
@@ -116,9 +116,9 @@ Andrés Morel no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Director de la [[EBY]] que disponga la pronta conclusión del proceso de transferencia del inmueble de la Escuela Básica N° 3770 «San Miguel» (barrio San Pedro Etapa IV
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar al Director de la [[EBY]] la reparación, reposición y puesta en funcionamiento de las estaciones de bombeo del sistema cloacal de Encarnación, así como la reparación inme
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — elevar a la Comisión de Legislación el Proyecto de Ordenanza «Gestión Integral de Aceites y Grasas para la Protección del Sistema Cloacal de Encarnación», para evitar obstrucciones
-- _(+ 150 más; lista completa en las actas de cada sesión)_
+- _(+ 222 más; lista completa en las actas de cada sesión)_
 
-### Como secundante (49)
+### Como secundante (102)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente analizar la factibilidad del pavimento tipo empedrado o asfalto en el estacionamiento de tierra de la Feria Municipal La Placita, sobre la calle Don Gil Río
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente intervenir y regularizar la presencia de vendedores informales en las inmediaciones de los locales comerciales de la Feria Municipal La Placita (calle Don G
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — autorizar la Declaración de Interés Municipal del II Congreso Internacional Contabilidad – ITAPÚA 2026, el I Congreso Nacional de Educadores del Área Contable y el I Congreso Nacio
@@ -129,4 +129,4 @@ Andrés Morel no figura como secunda de ninguna resolución entre 2021 y 2025.
 - 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — la Declaración de Interés Municipal del «1° Curso Internacional de Incendio en Edificios de Altura» (5, 6 y 7 de junio, Cuerpo de Bomberos Voluntarios CVBE)
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — la reparación de la intersección de la Avda
 - 2026-03-11 · [[2026-03-11 - Acta 211-2026]] — solicitar al Intendente un informe detallado y justificación de la adquisición de banderas por un total de Gs
-- _(+ 39 más; lista completa en las actas de cada sesión)_
+- _(+ 92 más; lista completa en las actas de cada sesión)_
