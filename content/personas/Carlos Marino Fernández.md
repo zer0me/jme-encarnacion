@@ -6,6 +6,7 @@ periodo: 2021-2026
 canonico: true
 aliases:
   - "Carlos Marino"
+  - "Marino Fernández"
 titulo: "Abog."
 apodos: []
 apariciones: 193

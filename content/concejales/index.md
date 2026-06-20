@@ -720,6 +720,7 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 
 ### [[Eduardo Rebruk]]
 <div class="jme-concejal-meta">Ing. Concejal · ANR</div>
+<div class="jme-concejal-apodos">Apodos: edu, edu rebruk, rebruk</div>
 
 </div>
 </div>
@@ -739,8 +740,8 @@ Para el detalle de coaliciones por eje temático y la mutación de la mayoría, 
 </div>
 
 <div class="jme-stat">
-<div class="jme-stat-value">394</div>
-<div class="jme-stat-label">Iniciativas firmadas<br><small>166 autor · 228 secunda</small></div>
+<div class="jme-stat-value">395</div>
+<div class="jme-stat-label">Iniciativas firmadas<br><small>166 autor · 229 secunda</small></div>
 </div>
 
 <div class="jme-stat">

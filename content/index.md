@@ -325,7 +325,7 @@ Cluster SITE + 101 km de red ciclista propuesta. Encuesta OD UCI 2022 (1.385 per
 
 📊 Asistencia 94% (213/227)  
 🗣 Intervenciones: 210  
-✍ Iniciativas firmadas: 394 <small>(166 autor · 228 secunda)</small>  
+✍ Iniciativas firmadas: 395 <small>(166 autor · 229 secunda)</small>  
 📜 Proyectos de ordenanza: 3  
 🪑 Presidió la sesión: 8 <small>veces</small>
 
@@ -436,13 +436,13 @@ Cada documento en `actas/`, `minutas/`, `resoluciones/` lleva en su frontmatter 
 | `informe-2024/` | 4 |
 | `presupuesto/` | 2 |
 | **Total documentos curados** | **618** |
-| `personas/` | 88 |
+| `personas/` | 89 |
 | `instituciones/` | 96 |
 | `empresas/` | 54 |
 | `normativa/` | 118 |
 | `temas/` | 75 |
 | `lugares/` | — |
-| **Total stubs de entidades** | **431+** |
+| **Total stubs de entidades** | **432+** |
 | `_MOCs/` | 12 MOCs + README |
 
 <!-- DASHBOARD:END metricas-vault -->

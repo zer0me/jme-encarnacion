@@ -8,7 +8,10 @@ aliases:
   - "Eduardo David Rebruk Stolaruk"
   - "Eduardo Rebruk Stolaruk"
 titulo: "Ing."
-apodos: []
+apodos:
+  - "edu"
+  - "edu rebruk"
+  - "rebruk"
 apariciones: 184
 cargo: "Concejal"
 bancada: "ANR"

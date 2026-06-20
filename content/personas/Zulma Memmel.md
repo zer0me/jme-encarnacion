@@ -5,6 +5,7 @@ rol: concejal
 periodo: 2021-2026
 canonico: true
 aliases:
+  - "Miriam Zulma Memmel Valdez"
   - "Miriam Zulma Memmel"
   - "Zulma Memmel Valdez"
 titulo: "Abog."
