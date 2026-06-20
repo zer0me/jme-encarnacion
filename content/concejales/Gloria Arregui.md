@@ -108,6 +108,8 @@ Gloria Arregui no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 ## Minutas presentadas en sesión (según actas)
 
+> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+
 ### Como autor / co-autor (50)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente que se notifique al propietario del ómnibus estacionado en inmediaciones del [[Colegio San Roque González]] de Santa Cruz, que obstaculiza la visibilidad de
 - 2026-04-29 · [[2026-04-29 - Acta 217-2026]] — autorizar la entrega de una Mención Especial de Reconocimiento a los alumnos de la carrera de Ingeniería Informática de la [[Universidad Católica|UCA «Nuestra Señora de la Asunción

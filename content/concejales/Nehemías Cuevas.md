@@ -90,6 +90,8 @@ Nehemías Cuevas no figura como secunda de ninguna resolución entre 2021 y 2025
 
 ## Minutas presentadas en sesión (según actas)
 
+> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+
 ### Como autor / co-autor (36)
 - 2025-12-03 · [[2025-12-03 - Acta 199-2025]] — solicitar al Intendente que se analice la factibilidad de un proyecto conjunto con el Consorcio Eco Roga para la pavimentación asfáltica del camino al Relleno Sanitario Municipal (
 - 2025-11-19 · [[2025-11-19 - Acta 197-2025]] — autorizar la entrega de una Mención Especial de Reconocimiento a la [[Fundación Jesús Responde al Mundo de Hoy]] por su labor social en Encarnación (donación de sillas de ruedas y

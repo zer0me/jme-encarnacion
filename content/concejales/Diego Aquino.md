@@ -100,6 +100,8 @@ Temas sobre los que más intervino:
 
 ## Minutas presentadas en sesión (según actas)
 
+> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+
 ### Como autor / co-autor (99)
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — la entrega de Menciones Especiales de Reconocimiento a los niños de la categoría Sub 8 de la Selección Encarnacena, ganadores del Campeonato Interdistrital organizado por la Gobern
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — autorizar la entrega de una Mención Especial de Reconocimiento a la estudiante [[Tania Elizabeth Cardozo Gómez]] (Colegio Divina Esperanza) por su participación en la XXV Feria Int

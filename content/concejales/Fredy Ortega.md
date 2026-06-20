@@ -104,6 +104,8 @@ Fredy Ortega no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 ## Minutas presentadas en sesión (según actas)
 
+> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+
 ### Como autor / co-autor (40)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — notificar a las empresas de transporte público del Distrito que deben reconocer el carnet universitario y el carnet de la tercera edad
 - 2026-04-08 · [[2026-04-08 - Acta 214-2026]] — la entrega de una Mención Especial de Reconocimiento a la niña [[Ximena García Vargas]], Campeona Nacional de Ajedrez Infanto Juvenil categoría Sub 6 femenino (torneo del 6 al 8 de

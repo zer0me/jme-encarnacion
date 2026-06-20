@@ -98,6 +98,8 @@ Temas sobre los que más intervino:
 
 ## Minutas presentadas en sesión (según actas)
 
+> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+
 ### Como autor / co-autor (27)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — autorizar una remisión al Ejecutivo para que, por las áreas competentes, se exija a la empresa de transporte público que aún usufructúa los espacios públicos el cumplimiento de los
 - 2025-12-22 · [[2025-12-22 - Acta 203-2025]] — solicitar al Intendente analizar la factibilidad de implementar juegos de mesa de entretenimiento (ajedrez, dama y otros) en espacios techados de dominio municipal, como opción tur

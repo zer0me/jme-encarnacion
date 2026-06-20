@@ -99,6 +99,8 @@ Carlos Marino Fernández no figura como secunda de ninguna resolución entre 202
 
 ## Minutas presentadas en sesión (según actas)
 
+> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+
 ### Como autor / co-autor (69)
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — la declaración de Interés Municipal del libro «El emprendimiento hidroeléctrico Yacyretá y sus incidencias sobre los derechos humanos: Visión Ambiental» ([[Pablo Villalba]])
 - 2026-03-18 · [[2026-03-18 - Acta 212-2026]] — crear un Fondo Especial destinado a apoyar a instituciones educativas en casos de desastres naturales o incendios

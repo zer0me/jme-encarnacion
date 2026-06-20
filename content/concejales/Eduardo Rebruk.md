@@ -103,6 +103,8 @@ Temas sobre los que más intervino:
 
 ## Minutas presentadas en sesión (según actas)
 
+> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+
 ### Como autor / co-autor (93)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — declarar de Interés Educativo Municipal el funcionamiento de la Granja modelo «Abuelo Adolfo» (barrio Itaguá'i), que concretó con la [[UNAE]] un convenio de cooperación interinstit
 - 2026-05-06 · [[2026-05-06 - Acta 218-2026]] — solicitar la remisión de una nota al Viceministerio de Transporte para cursar invitación a una reunión de trabajo sobre la reforma del transporte público y su aplicación en el área

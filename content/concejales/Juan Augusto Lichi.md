@@ -107,6 +107,8 @@ Juan Augusto Lichi no figura como secunda de ninguna resolución entre 2021 y 20
 
 ## Minutas presentadas en sesión (según actas)
 
+> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+
 ### Como autor / co-autor (60)
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — remitir nota al Intendente para analizar la factibilidad de construir una rotonda en la intersección de Avda
 - 2026-04-22 · [[2026-04-22 - Acta 216-2026]] — remitir nota al Intendente para analizar la factibilidad de colocar un semáforo en la intersección de Independencia Nacional y Avda

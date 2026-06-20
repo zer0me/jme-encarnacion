@@ -109,6 +109,8 @@ Temas sobre los que más intervino:
 
 ## Minutas presentadas en sesión (según actas)
 
+> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+
 ### Como autor / co-autor (76)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente analizar la factibilidad del pavimento tipo empedrado o asfalto en el estacionamiento de tierra de la Feria Municipal La Placita, sobre la calle Don Gil Río
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente intervenir y regularizar la presencia de vendedores informales en las inmediaciones de los locales comerciales de la Feria Municipal La Placita (calle Don G

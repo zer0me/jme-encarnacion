@@ -103,6 +103,8 @@ Andrés Morel no figura como secunda de ninguna resolución entre 2021 y 2025.
 
 ## Minutas presentadas en sesión (según actas)
 
+> _Conteo de la sección «Minutas» de cada acta. En las sesiones de **2021-2023** las actas enumeraban las minutas de forma menos granular que en 2024-2026, por lo que este total puede sub-representar a los concejales más activos del período inicial._
+
 ### Como autor / co-autor (160)
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente las gestiones para la colocación de una réplica del Monolito de la Unión y Hermandad en Encarnación, en homenaje a la hermandad Posadas-Encarnación
 - 2026-05-13 · [[2026-05-13 - Acta 219-2026]] — solicitar al Intendente, por medio de la Dirección de Catastro Municipal, conformar una mesa de trabajo interinstitucional con la Dirección de Catastro de la [[Municipalidad de Cam
