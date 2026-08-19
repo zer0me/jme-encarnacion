@@ -27,10 +27,15 @@ tags:
 </div>
 
 <div class="jme-info-strip">
-<span><strong>Cobertura:</strong> 2021-12 → 2026-05</span>
-<span><strong>Última sesión:</strong> [[2026-05-13 - Acta 219-2026|Acta 219-2026]]</span>
+<!-- DASHBOARD:BEGIN info-strip -->
+
+<span><strong>Cobertura de actas:</strong> 2021-11 → 2026-05</span>
+<span><strong>Última sesión cargada:</strong> [[2026-05-13 - Acta 219-2026|Acta 219-2026]]</span>
 <span><strong>Última minuta:</strong> [[2025-11-17 - Minuta 146|Minuta 146]]</span>
-<span><strong>Actualizado:</strong> 2026-06-19</span>
+<span class="jme-info-atraso"><strong>⚠️ 14 semanas sin cargar</strong> — <a href="#qué-cubre-y-qué-no-cubre-este-archivo">ver cobertura</a></span>
+<span><strong>Actualizado:</strong> 2026-08-19</span>
+
+<!-- DASHBOARD:END info-strip -->
 </div>
 
 <div class="jme-section">

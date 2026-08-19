@@ -463,4 +463,18 @@
     color: var(--secondary);
     margin-right: 0.3rem;
   }
+
+  // Aviso de atraso de carga. Va en tono de alerta a propósito: si el archivo
+  // está desactualizado, el lector tiene que enterarse antes de citarlo.
+  .jme-info-atraso strong {
+    color: #b3402e;
+  }
+}
+
+// Notas al pie de la tabla de cobertura documental.
+.jme-cobertura-nota {
+  font-size: 0.82rem;
+  color: var(--darkgray);
+  margin: 0.5rem 0 0;
+  line-height: 1.5;
 }

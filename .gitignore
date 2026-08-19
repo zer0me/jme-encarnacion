@@ -21,3 +21,6 @@ replit.nix
 # Python bytecode
 __pycache__/
 *.pyc
+
+# Estado local de gbrain (no versionar)
+.cerebro/

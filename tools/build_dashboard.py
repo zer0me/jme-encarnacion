@@ -262,6 +262,51 @@ def build_cobertura() -> str:
     return "\n".join(lines)
 
 
+def build_info_strip() -> str:
+    """Franja de encabezado. Se genera sola para que no vuelva a quedar
+    afirmando una cobertura que el archivo ya no tiene."""
+    hoy = date.today()
+    actas, _ = _series_dates("actas")
+    minutas, _ = _series_dates("minutas")
+
+    def _ultimo(folder: str) -> str | None:
+        p = VAULT / folder
+        if not p.is_dir():
+            return None
+        cands = sorted(
+            (f for f in p.glob("*.md") if _FECHA_EN_NOMBRE.match(f.stem)),
+            key=lambda f: f.stem,
+        )
+        return cands[-1].stem if cands else None
+
+    desde = actas[0].strftime("%Y-%m") if actas else "—"
+    hasta = actas[-1].strftime("%Y-%m") if actas else "—"
+    atraso = (hoy - actas[-1]).days if actas else 0
+
+    partes = [f"<span><strong>Cobertura de actas:</strong> {desde} → {hasta}</span>"]
+
+    ult_acta = _ultimo("actas")
+    if ult_acta:
+        etiqueta = ult_acta.split(" - ", 1)[-1]
+        partes.append(
+            f"<span><strong>Última sesión cargada:</strong> [[{ult_acta}|{etiqueta}]]</span>"
+        )
+    ult_minuta = _ultimo("minutas")
+    if ult_minuta:
+        etiqueta = ult_minuta.split(" - ", 1)[-1]
+        partes.append(
+            f"<span><strong>Última minuta:</strong> [[{ult_minuta}|{etiqueta}]]</span>"
+        )
+    if atraso > 45:
+        partes.append(
+            f'<span class="jme-info-atraso"><strong>⚠️ {atraso // 7} semanas '
+            "sin cargar</strong> — <a href=\"#qué-cubre-y-qué-no-cubre-este-archivo\">"
+            "ver cobertura</a></span>"
+        )
+    partes.append(f"<span><strong>Actualizado:</strong> {hoy.isoformat()}</span>")
+    return "\n".join(partes)
+
+
 def _build_name_index() -> dict[str, str]:
     """Mapping `nombre lowercased → slug canónico` que incluye el slug,
     los aliases y los apodos de cada concejal. Permite detectar autorías
@@ -666,6 +711,7 @@ def main() -> int:
         (
             DASHBOARD,
             [
+                ("info-strip", build_info_strip),
                 ("cobertura", build_cobertura),
                 ("metricas-vault", build_metricas_vault),
                 ("mocs-estado", build_mocs_estado),
