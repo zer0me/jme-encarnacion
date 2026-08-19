@@ -20,6 +20,7 @@ from __future__ import annotations
 import re
 import sys
 import unicodedata
+from datetime import date
 from pathlib import Path
 
 import yaml
@@ -175,6 +176,89 @@ def build_ultimas_actas(n: int = 10) -> str:
         m = re.match(r"^(\d{4}-\d{2}-\d{2}) - ", acta.stem)
         fecha = m.group(1) if m else "?"
         lines.append(f"| {fecha} | [[{acta.stem}]] |")
+    return "\n".join(lines)
+
+
+# Series documentales cuya cobertura temporal se declara públicamente.
+COBERTURA_SERIES = [
+    ("actas", "Actas de sesión"),
+    ("dictamenes", "Dictámenes de comisión"),
+    ("minutas", "Minutas"),
+    ("orden-del-dia", "Órdenes del día"),
+    ("resoluciones", "Resoluciones"),
+]
+
+_FECHA_EN_NOMBRE = re.compile(r"^(\d{4})-(\d{2})-(\d{2})\b")
+
+
+def _series_dates(folder: str) -> tuple[list[date], int]:
+    """Fechas ordenadas de una serie + cuántos archivos no la llevan en el nombre."""
+    p = VAULT / folder
+    if not p.is_dir():
+        return [], 0
+    fechas: list[date] = []
+    sin_fecha = 0
+    for f in p.glob("*.md"):
+        m = _FECHA_EN_NOMBRE.match(f.stem)
+        if not m:
+            sin_fecha += 1
+            continue
+        try:
+            fechas.append(date(int(m.group(1)), int(m.group(2)), int(m.group(3))))
+        except ValueError:
+            sin_fecha += 1
+    fechas.sort()
+    return fechas, sin_fecha
+
+
+def build_cobertura() -> str:
+    """Tabla pública de estado de cobertura por serie documental.
+
+    Declarar los huecos es parte de la credibilidad del archivo: un lector que ve
+    276 resoluciones asume cobertura pareja si nadie le dice que la serie se corta
+    en 2022. `hasta` es el documento más reciente CARGADO, no la última sesión que
+    hubo — la diferencia entre ambas cosas es justamente lo que mide el atraso.
+    """
+    hoy = date.today()
+    lines = [
+        "| Serie | Docs | Desde | Hasta | Estado |",
+        "|---|---:|---|---|---|",
+    ]
+    notas: list[str] = []
+    for folder, label in COBERTURA_SERIES:
+        fechas, sin_fecha = _series_dates(folder)
+        total = count_md(folder)
+        if not fechas:
+            lines.append(f"| {label} | {total} | — | — | sin fecha legible |")
+            continue
+        desde, hasta = fechas[0], fechas[-1]
+        atraso = (hoy - hasta).days
+        if atraso <= 45:
+            estado = "✅ al día"
+        elif atraso <= 180:
+            estado = f"⚠️ {atraso // 7} semanas sin cargar"
+        elif atraso < 540:
+            estado = f"🔴 {atraso // 30} meses sin cargar"
+        else:
+            estado = f"🔴 {atraso / 365:.1f} años sin cargar".replace(".", ",")
+        lines.append(
+            f"| {label} | {total} | {desde.isoformat()} | {hasta.isoformat()} | {estado} |"
+        )
+        if sin_fecha:
+            notas.append(f"{sin_fecha} en `{folder}/`")
+
+    lines.append("")
+    lines.append(
+        f'<p class="jme-cobertura-nota">Generada automáticamente el {hoy.isoformat()} '
+        "desde el estado real del archivo. <strong>«Hasta» es la fecha del documento "
+        "más reciente cargado, no la de la última sesión que hubo.</strong> Si una "
+        "serie figura atrasada, el hueco existe: no asumas cobertura completa.</p>"
+    )
+    if notas:
+        lines.append(
+            '<p class="jme-cobertura-nota">Quedan fuera del rango, por no llevar '
+            "fecha en el nombre del archivo: " + " · ".join(notas) + ".</p>"
+        )
     return "\n".join(lines)
 
 
@@ -582,6 +666,7 @@ def main() -> int:
         (
             DASHBOARD,
             [
+                ("cobertura", build_cobertura),
                 ("metricas-vault", build_metricas_vault),
                 ("mocs-estado", build_mocs_estado),
                 ("ultimas-actas", build_ultimas_actas),

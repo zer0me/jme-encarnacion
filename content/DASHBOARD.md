@@ -411,6 +411,27 @@ Cada uno con cita textual y al menos un caso con fecha y nota oficial. Detalle e
 - Auditoría retroactiva de la «Vía de la Excepción» (Dict 14/2024 CPR).
 - Estado actual de aprobación del POUT y su contenido completo.
 
+### Qué cubre y qué no cubre este archivo
+
+Este archivo se construye a partir de documentos que entrega la Junta Municipal, y **no todas las series están igual de completas**. La tabla se regenera sola en cada publicación, así que muestra el estado real y no una promesa:
+
+<!-- DASHBOARD:BEGIN cobertura -->
+
+| Serie | Docs | Desde | Hasta | Estado |
+|---|---:|---|---|---|
+| Actas de sesión | 232 | 2021-11-09 | 2026-05-13 | ⚠️ 14 semanas sin cargar |
+| Dictámenes de comisión | 127 | 2025-02-04 | 2025-11-04 | 🔴 9 meses sin cargar |
+| Minutas | 99 | 2021-11-17 | 2025-11-17 | 🔴 9 meses sin cargar |
+| Órdenes del día | 69 | 2021-11-24 | 2026-01-21 | 🔴 7 meses sin cargar |
+| Resoluciones | 276 | 2021-11-09 | 2022-10-12 | 🔴 3,9 años sin cargar |
+
+<p class="jme-cobertura-nota">Generada automáticamente el 2026-08-19 desde el estado real del archivo. <strong>«Hasta» es la fecha del documento más reciente cargado, no la de la última sesión que hubo.</strong> Si una serie figura atrasada, el hueco existe: no asumas cobertura completa.</p>
+<p class="jme-cobertura-nota">Quedan fuera del rango, por no llevar fecha en el nombre del archivo: 1 en `minutas/`.</p>
+
+<!-- DASHBOARD:END cobertura -->
+
+Dos huecos conviene tenerlos presentes al usar el archivo. **Las resoluciones se cortan en octubre de 2022**: las posteriores existen y fueron votadas —las actas registran cómo—, pero todavía no están cargadas como documento propio. Y **los dictámenes de 2026 están citados en las actas pero aún no fichados**, así que hay enlaces que apuntan a páginas que faltan. Ninguna de las dos cosas es un error de los documentos que sí están: es cobertura pendiente, y se declara acá para que nadie lea una ausencia como si fuera una inexistencia.
+
 ### Cómo citar este archivo
 
 Cada documento en `actas/`, `minutas/`, `resoluciones/` lleva en su frontmatter el número oficial, la fecha real de sesión y la fuente. **Verificar siempre contra el PDF original** (carpeta `raw/`, no publicada) o solicitarlo directamente a la Junta Municipal de Encarnación.
@@ -443,7 +464,7 @@ Cada documento en `actas/`, `minutas/`, `resoluciones/` lleva en su frontmatter 
 | `temas/` | 75 |
 | `lugares/` | — |
 | **Total stubs de entidades** | **432+** |
-| `_MOCs/` | 12 MOCs + README |
+| `_MOCs/` | 13 MOCs + README |
 
 <!-- DASHBOARD:END metricas-vault -->
 
@@ -463,6 +484,7 @@ Cada documento en `actas/`, `minutas/`, `resoluciones/` lleva en su frontmatter 
 | [[MOC - RSU - Residuos Solidos Urbanos]] | activo | 2022 → 2025-actual |
 | [[MOC - Turismo Deportivo - Rally Mundial + IRONMAN + Carnavales]] | activo | 2024 → 2025-actual |
 | [[MOC - Vendedores Ambulantes Circuito Comercial]] | activo | 2025-actual |
+| [[MOC - Agenda legislativa conjunta 2026]] | borrador | 2026-08 → (en curso) |
 | [[MOC - Estacionamiento Tarifado]] | vigente | 2022 → 2026-actual |
 | [[MOC - Ordenanza Edificabilidad y captura regulatoria]] | sancionada | 2022 → 2025 |
 
